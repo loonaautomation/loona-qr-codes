@@ -23,7 +23,7 @@ var BUILDERS = {
   twitter: function(d){ var u=trim(d.username).replace(/^@/,''); return u.indexOf('http')===0?u:'https://x.com/'+u; },
   linkedin: function(d){ return ensureUrl(d.url); },
   telegram: function(d){ var u=trim(d.username).replace(/^@/,''); return u.indexOf('http')===0?u:'https://t.me/'+u; },
-  snapchat: function(d){ var u=trim(d.username); return u.indexOf('http')===0?u:'https://www.snapchat.com/add/'+u; },
+  snapchat: function(d){ var u=trim(d.username).replace(/^@/,''); return u.indexOf('http')===0?u:'https://www.snapchat.com/add/'+u; },
   location: function(d){ if(trim(d.query)) return 'https://www.google.com/maps/search/?api=1&query='+enc(d.query); if(trim(d.lat)&&trim(d.lng)) return 'geo:'+trim(d.lat)+','+trim(d.lng)+'?q='+trim(d.lat)+','+trim(d.lng); return ''; },
   review: function(d){ return ensureUrl(d.url); },
   menu: function(d){ return ensureUrl(d.url); },
