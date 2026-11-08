@@ -75,7 +75,7 @@
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Is this QR code and barcode scanner free?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Loona's scanner is completely free with no signup, no watermark and no limit on how many codes you scan, for personal or commercial use."}}, {"@type": "Question", "name": "Is my camera video or my photo private on this scanner page?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Everything is decoded on your own device, inside your browser. Camera frames are never sent anywhere and uploaded images are never sent to a server — the file is read locally, decoded locally, and your scan history is kept only in this page's memory and disappears when you close the tab."}}, {"@type": "Question", "name": "Why does camera scanning not work in my browser?", "acceptedAnswer": {"@type": "Answer", "text": "Live camera scanning uses the BarcodeDetector technology built into Chrome, Edge and most Android browsers. Safari and Firefox do not include it yet, so on those browsers the camera button is replaced by a message asking you to use image upload instead — uploading a photo or screenshot works in every modern browser."}}, {"@type": "Question", "name": "Can this scanner read a barcode from a photo?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Upload mode decodes QR codes from images with the jsQR library and barcodes from images with the ZXing library — including EAN-13, UPC-A, Code 128 and Code 39 — as well as QR codes ZXing finds that jsQR missed. Very small, blurred, damaged or low-contrast codes in a photo may still fail; a sharper, closer photo usually fixes it."}}, {"@type": "Question", "name": "What types of codes can this scanner read?", "acceptedAnswer": {"@type": "Answer", "text": "Camera scanning (where supported) reads QR codes plus the barcode formats your browser's BarcodeDetector offers, commonly EAN-13, EAN-8, UPC-A, UPC-E, Code 128, Code 39, Code 93, Codabar and ITF. Image upload reads QR codes and EAN-13, UPC-A, Code 128 and Code 39 barcodes, and shows you the decoded type, the raw content and smart actions such as opening a link or saving a contact."}}]}</script>
 <body><header class="site"><div class="wrap nav"><a class="logo" href="../index.html"><img class="logo-img" src="../assets/logo.jpg" alt="Loona Automation logo" width="44" height="44">Loona <span>QR Codes</span></a>
 <nav><a href="../index.html">Home</a><a href="../index.html#all-tools">All Tools</a><a href="../about.html">About</a><a href="../contact.html">Contact</a></nav></div></header>
-<main class="wrap"><div class="hero"><h1>Free QR Code &amp; Barcode Scanner</h1><p>Point your camera at a QR code or barcode, or drop in a photo or screenshot — the code is decoded right here on your device. No signup, no app to install, and nothing you scan is ever uploaded.</p></div>
+<main class="wrap"><div class="hero"><h1>Free QR Code &amp; Barcode Scanner</h1><p>Point your camera at a QR code or barcode, or drop in a photo or screenshot — the code is decoded right here on your device. No signup, no app to install, and nothing you scan is ever uploaded. You can also batch-decode many code images at once and export the results as a CSV file.</p></div>
 <div class="card"><div class="mode-grid"><div>
 <h2 style="margin-top:0">Scan with your camera</h2>
 <p class="small">Live camera scanning uses the fast BarcodeDetector built into Chrome, Edge and most Android browsers, and reads QR codes plus common barcodes (EAN-13, UPC-A, Code 128, Code 39 and more, depending on your browser).</p>
@@ -111,6 +111,24 @@
 <p class="small">History lives only in this page's memory — close the tab and it is gone. Nothing is saved or sent anywhere.</p>
 </div>
 
+<div class="card" id="batchCard"><h2 style="margin-top:0">Batch decode — many code images at once</h2>
+<p class="small">Have a whole set of code photos to check — a printed sheet, a folder of product shots, a class set of screenshots? Choose or drop several images at once: each one is decoded with the same jsQR and ZXing decoders as above, the results are collected in a table, and you can export the table as a CSV file. Files that contain no readable code are listed honestly as “Not decoded”.</p>
+<div class="drop" id="batchDrop" tabindex="0" role="button" aria-label="Upload multiple images containing QR codes or barcodes">
+<p style="margin:0"><strong>Drop multiple images here</strong> or click to choose files</p>
+<p class="small" style="margin:6px 0 0">PNG, JPG, WebP and other browser-readable images — decoded one by one, on this device</p>
+</div>
+<input type="file" id="batchInput" accept="image/*" multiple style="display:none">
+<p id="batchStatus" class="small" role="status"></p>
+<div id="batchWrap" style="display:none;overflow-x:auto">
+<table style="width:100%;border-collapse:collapse;font-size:.92rem">
+<thead><tr><th style="text-align:left;border-bottom:2px solid #e6e1f5;padding:6px">Filename</th><th style="text-align:left;border-bottom:2px solid #e6e1f5;padding:6px">Format</th><th style="text-align:left;border-bottom:2px solid #e6e1f5;padding:6px">Type</th><th style="text-align:left;border-bottom:2px solid #e6e1f5;padding:6px">Decoded text</th></tr></thead>
+<tbody id="batchBody"></tbody>
+</table>
+</div>
+<p><button class="btn" id="batchCsvBtn" type="button" style="display:none">Export results as CSV</button> <button class="btn secondary" id="batchClearBtn" type="button" style="display:none">Clear batch</button></p>
+<p class="note">100% private: batch decoding also happens entirely inside your browser. No image in the batch is uploaded, and the CSV is created on your device when you click export.</p>
+</div>
+
 <section class="content">
 <h2>How to scan a QR code or barcode in 3 steps</h2>
 <ol><li><strong>Choose camera or image.</strong> On Chrome, Edge or Android, tap “Start camera scan”, allow camera access and hold the code inside the frame. On any browser — including Safari and Firefox — you can instead upload a photo, drag in an image, or paste a screenshot.</li>
@@ -118,12 +136,12 @@
 <h2>About this QR code and barcode scanner</h2>
 <p>Most QR sites only <em>make</em> codes. This page does the opposite job: it reads them. That is what you need when a printed code has no readable label, when a colleague sends you a screenshot of a code instead of the link inside it, when you want to check what one of your own printed codes actually contains before a big print run, or when a product barcode number has to be read off a photo.</p>
 <p>It works in two ways. Camera mode uses the BarcodeDetector interface built into modern Chromium browsers — the same fast, hardware-friendly detection your phone's system uses — and reports QR codes and the common one-dimensional barcodes. Image mode is fully self-contained: the open-source jsQR library decodes QR codes from the pixels of your image, and the open-source ZXing library decodes barcodes (and any QR code jsQR missed) from the same pixels. Both run entirely in your browser, which is why this scanner keeps working with sensitive codes — WiFi passwords, payment codes, private links — that you would never want to upload to a stranger's server.</p>
-<h2>Best uses of this scanner</h2><ul><li>Checking your own printed QR codes before printing in quantity</li><li>Opening the link hidden inside a QR code in a screenshot or photo someone sent you</li><li>Recovering a WiFi network name and password from a WiFi QR code image</li><li>Saving a vCard contact from a business-card QR code as a .vcf file</li><li>Reading EAN-13, UPC-A, Code 128 and Code 39 barcode numbers from product and label photos</li><li>Verifying that a barcode you generated scans back to exactly the number you intended</li></ul>
+<h2>Best uses of this scanner</h2><ul><li>Checking your own printed QR codes before printing in quantity</li><li>Opening the link hidden inside a QR code in a screenshot or photo someone sent you</li><li>Recovering a WiFi network name and password from a WiFi QR code image</li><li>Saving a vCard contact from a business-card QR code as a .vcf file</li><li>Reading EAN-13, UPC-A, Code 128 and Code 39 barcode numbers from product and label photos</li><li>Verifying that a barcode you generated scans back to exactly the number you intended</li><li>Batch-checking a whole printed sheet or folder of code photos, with a CSV export of every result</li><li>Seeing the coordinates behind a geo: location code, or the address behind a Bitcoin or Ethereum payment code, before acting on them</li></ul>
 <p>Honest limits, so you are not surprised: camera scanning depends on a browser feature that Safari and Firefox have not shipped yet, so on those browsers only image mode is available — the page detects this and tells you plainly instead of failing silently. And no decoder can read a code that is too small, blurred, torn or printed with too little contrast in the photo; retaking the photo closer, straight-on and in good light fixes most failed scans.</p>
 <h2>Frequently Asked Questions</h2><h3>Is this QR code and barcode scanner free?</h3><p>Yes. Loona's scanner is completely free with no signup, no watermark and no limit on how many codes you scan, for personal or commercial use.</p><h3>Is my camera video or my photo private on this scanner page?</h3><p>Yes. Everything is decoded on your own device, inside your browser. Camera frames are never sent anywhere and uploaded images are never sent to a server — the file is read locally, decoded locally, and your scan history is kept only in this page's memory and disappears when you close the tab.</p><h3>Why does camera scanning not work in my browser?</h3><p>Live camera scanning uses the BarcodeDetector technology built into Chrome, Edge and most Android browsers. Safari and Firefox do not include it yet, so on those browsers the camera button is replaced by a message asking you to use image upload instead — uploading a photo or screenshot works in every modern browser.</p><h3>Can this scanner read a barcode from a photo?</h3><p>Yes. Upload mode decodes QR codes from images with the jsQR library and barcodes from images with the ZXing library — including EAN-13, UPC-A, Code 128 and Code 39 — as well as QR codes ZXing finds that jsQR missed. Very small, blurred, damaged or low-contrast codes in a photo may still fail; a sharper, closer photo usually fixes it.</p><h3>What types of codes can this scanner read?</h3><p>Camera scanning (where supported) reads QR codes plus the barcode formats your browser's BarcodeDetector offers, commonly EAN-13, EAN-8, UPC-A, UPC-E, Code 128, Code 39, Code 93, Codabar and ITF. Image upload reads QR codes and EAN-13, UPC-A, Code 128 and Code 39 barcodes, and shows you the decoded type, the raw content and smart actions such as opening a link or saving a contact.</p>
 <h2>Related QR Code Generators</h2><div class="grid"><div class="tool-card"><a href="../barcode-generator/">Barcode Generator</a><p>Create product barcodes — Code 128, EAN-13, UPC and more. Then scan them back here to verify.</p></div><div class="tool-card"><a href="../url-qr-code-generator/">URL / Website QR Code Generator</a><p>Turn any website link into a QR code.</p></div><div class="tool-card"><a href="../text-qr-code-generator/">Plain Text QR Code Generator</a><p>Put any text, code or message inside a QR code.</p></div><div class="tool-card"><a href="../wifi-qr-code-generator/">WiFi QR Code Generator</a><p>Guests connect to WiFi with one scan, no password typing.</p></div><div class="tool-card"><a href="../vcard-qr-code-generator/">vCard Contact QR Code Generator</a><p>Scan to save your full contact card to a phone.</p></div></div>
 <h2>How it works</h2>
-<p>A QR code or barcode is just a pattern that encodes text as light and dark modules. Decoding is the reverse of generating: find the pattern in the image, measure the modules, correct errors using the code's built-in redundancy, and turn the bits back into characters. jsQR does this for QR codes by locating the three finder squares and sampling the grid; ZXing does it for barcodes by scanning rows of pixels across the bars and matching the widths to the EAN, UPC, Code 128 or Code 39 rules, including verifying the final check digit of retail barcodes. In camera mode, your browser's own BarcodeDetector performs the same job continuously on the live video frames until a code is found.</p>
+<p>A QR code or barcode is just a pattern that encodes text as light and dark modules. Decoding is the reverse of generating: find the pattern in the image, measure the modules, correct errors using the code's built-in redundancy, and turn the bits back into characters. jsQR does this for QR codes by locating the three finder squares and sampling the grid; ZXing does it for barcodes by scanning rows of pixels across the bars and matching the widths to the EAN, UPC, Code 128 or Code 39 rules, including verifying the final check digit of retail barcodes. In camera mode, your browser's own BarcodeDetector performs the same job continuously on the live video frames until a code is found. In batch mode, the same two image decoders run once per file and every result — filename, format, type and decoded text — is collected into a table you can export as CSV.</p>
 <p><strong>The method:</strong> choose camera or image &rarr; let the on-device decoder read the pattern &rarr; check the type, format and raw content &rarr; use the smart action (open, copy, save contact) &rarr; find the scan again any time in the session history.</p>
 <h3>Worked example</h3>
 <p>A shopkeeper generates an EAN-13 barcode for a new product with Loona's Barcode Generator and prints a proof. Before ordering a thousand labels, she photographs the proof with her phone, uploads the photo here, and the scanner reads the barcode back with ZXing: format EAN-13, number exactly the one she entered, check digit included. She also screenshots a supplier's WiFi QR code from a chat, pastes it into this page, and jsQR reveals the network name and password as plain text she can type into a laptop that has no camera.</p>
@@ -168,6 +186,7 @@ function classifyResult(raw){
   if(/^geo:/i.test(t))return 'Location';
   if(/^upi:\/\//i.test(t))return 'UPI payment';
   if(/^bitcoin:/i.test(t))return 'Bitcoin address';
+  if(/^ethereum:/i.test(t))return 'Crypto payment (Ethereum)';
   if(/^BEGIN:VEVENT/i.test(t))return 'Calendar event';
   if(/^\d{13}$/.test(t))return 'Barcode number (EAN-13 length)';
   if(/^\d{12}$/.test(t))return 'Barcode number (UPC-A length)';
@@ -203,6 +222,42 @@ function prettyFormat(fmt){
   var map={qr_code:'QR Code',ean_13:'EAN-13',ean_8:'EAN-8',upc_a:'UPC-A',upc_e:'UPC-E',code_128:'Code 128',code_39:'Code 39',code_93:'Code 93',codabar:'Codabar',itf:'ITF',data_matrix:'Data Matrix',aztec:'Aztec',pdf417:'PDF417',QR_CODE:'QR Code',EAN_13:'EAN-13',EAN_8:'EAN-8',UPC_A:'UPC-A',UPC_E:'UPC-E',CODE_128:'Code 128',CODE_39:'Code 39',CODE_93:'Code 93',CODABAR:'Codabar',ITF:'ITF',DATA_MATRIX:'Data Matrix',AZTEC:'Aztec',PDF_417:'PDF417'};
   return map[fmt]||String(fmt||'QR Code');
 }
+
+function parseQuery(q){
+  var out={};if(!q)return out;
+  var pairs=String(q).split('&');
+  for(var i=0;i<pairs.length;i++){var idx=pairs[i].indexOf('=');if(idx>0){var k=pairs[i].slice(0,idx).toLowerCase(),v=pairs[i].slice(idx+1);try{v=decodeURIComponent(v);}catch(e){}out[k]=v;}else if(pairs[i]){out[pairs[i].toLowerCase()]='';}}
+  return out;
+}
+function parseGeo(raw){
+  var m=String(raw||'').trim().match(/^geo:(-?\d+(?:\.\d+)?),(-?\d+(?:\.\d+)?)(?:,(-?\d+(?:\.\d+)?))?(?:\?(.*))?$/i);
+  if(!m)return null;
+  var q=parseQuery(m[4]||'');
+  return {lat:parseFloat(m[1]),lng:parseFloat(m[2]),altitude:(m[3]!==undefined&&m[3]!=='')?parseFloat(m[3]):null,query:q.q||'',zoom:q.z||''};
+}
+function parseMailto(raw){
+  var body=String(raw||'').trim().replace(/^mailto:/i,'');
+  var qi=body.indexOf('?');var addr=qi>=0?body.slice(0,qi):body;
+  try{addr=decodeURIComponent(addr);}catch(e){}
+  var q=parseQuery(qi>=0?body.slice(qi+1):'');
+  return {address:addr,subject:q.subject||'',body:q.body||'',cc:q.cc||''};
+}
+function parseCrypto(raw){
+  var m=String(raw||'').trim().match(/^(bitcoin|ethereum):([^?]+)(?:\?(.*))?$/i);
+  if(!m)return null;
+  var q=parseQuery(m[3]||'');
+  return {currency:m[1].toLowerCase()==='bitcoin'?'Bitcoin':'Ethereum',address:m[2],amount:q.amount||q.value||'',label:q.label||q.message||''};
+}
+function csvEscape(v){
+  var s=String(v===null||v===undefined?'':v);
+  if(/[",\n\r]/.test(s))return '"'+s.replace(/"/g,'""')+'"';
+  return s;
+}
+function buildBatchCsv(rows){
+  var lines=['filename,format,type,decoded text'];
+  (rows||[]).forEach(function(r){lines.push([csvEscape(r.filename),csvEscape(r.format),csvEscape(r.type),csvEscape(r.text)].join(','));});
+  return lines.join('\r\n')+'\r\n';
+}
 /*LOONA-SCAN-CORE-END*/
 </script>
 <script>
@@ -224,6 +279,23 @@ function showResult(res){
   var type=classifyResult(raw);
   if(type==='WiFi network'){var w=parseWifi(raw);parsed='<p style="margin:6px 0"><strong>WiFi details:</strong> Network (SSID): <strong>'+escHtml(w.ssid)+'</strong>'+(w.password?' · Password: <strong>'+escHtml(w.password)+'</strong>':' · no password (open network)')+' · Security: '+escHtml(w.encryption||'not stated')+(w.hidden?' · hidden network':'')+'<br><span class="small">A web page cannot join a WiFi network for you — copy the password above, or scan the original code with your phone camera app to join automatically.</span></p>';}
   else if(type==='vCard contact'){var v=parseVCard(raw);var rows=[];if(v.name)rows.push('Name: <strong>'+escHtml(v.name)+'</strong>');if(v.org)rows.push('Organisation: '+escHtml(v.org));if(v.title)rows.push('Title: '+escHtml(v.title));if(v.phones.length)rows.push('Phone: '+escHtml(v.phones.join(', ')));if(v.emails.length)rows.push('Email: '+escHtml(v.emails.join(', ')));if(v.url)rows.push('Website: '+escHtml(v.url));if(v.address)rows.push('Address: '+escHtml(v.address));parsed='<p style="margin:6px 0"><strong>Contact details:</strong><br>'+rows.join('<br>')+'</p>';}
+  if(type==='Location'){
+    var g=parseGeo(raw);
+    if(g){parsed='<p style="margin:6px 0"><strong>Location details:</strong> Latitude: <strong>'+g.lat+'</strong> · Longitude: <strong>'+g.lng+'</strong>'+(g.altitude!==null?' · Altitude: '+g.altitude+' m':'')+(g.query?' · Label: '+escHtml(g.query):'')+'<br><a href="https://www.google.com/maps/search/?api=1&query='+g.lat+','+g.lng+'" target="_blank" rel="noopener"><strong>Open in Maps</strong></a></p>';}
+    else{parsed='<p style="margin:6px 0"><strong>Location details:</strong> this payload starts with geo: but is not in the standard geo:latitude,longitude form, so no coordinates are guessed — see the raw content below.</p>';}
+  }
+  if(type==='Email'){
+    var mm=parseMailto(raw);var mrows=[];
+    if(mm.address)mrows.push('To: <strong>'+escHtml(mm.address)+'</strong>');
+    if(mm.cc)mrows.push('Cc: '+escHtml(mm.cc));
+    if(mm.subject)mrows.push('Subject: '+escHtml(mm.subject));
+    if(mm.body)mrows.push('Body: '+escHtml(mm.body));
+    parsed='<p style="margin:6px 0"><strong>Email details:</strong><br>'+mrows.join('<br>')+'</p>';
+  }
+  if(type==='Bitcoin address'||type==='Crypto payment (Ethereum)'){
+    var cp=parseCrypto(raw);
+    if(cp){parsed='<p style="margin:6px 0"><strong>'+escHtml(cp.currency)+' payment details:</strong><br>Address: <strong style="word-break:break-all">'+escHtml(cp.address)+'</strong>'+(cp.amount?'<br>Amount: '+escHtml(cp.amount):'')+(cp.label?'<br>Label / message: '+escHtml(cp.label):'')+'<br><span class="small">Check the address character by character before sending any payment — crypto payments cannot be reversed.</span></p>';}
+  }
   $('resParsed').innerHTML=parsed;
   $('resRaw').textContent=raw;
   var acts=[];
@@ -232,10 +304,14 @@ function showResult(res){
   else if(/^tel:/i.test(raw.trim())){acts.push('<a class="btn" href="'+escHtml(raw.trim())+'">Call number</a>');}
   else if(/^(SMSTO:)/i.test(raw.trim())){var sm=raw.trim().slice(6);var p=sm.split(':');acts.push('<a class="btn" href="sms:'+escHtml(p[0])+(p[1]?('?body='+encodeURIComponent(p.slice(1).join(':'))):'')+'">Send SMS</a>');}
   if(type==='vCard contact'){acts.push('<button class="btn" id="vcardBtn" type="button">Download contact (.vcf)</button>');}
+  if(type==='Location'){var gg=parseGeo(raw);if(gg){acts.push('<a class="btn" href="https://www.google.com/maps/search/?api=1&query='+gg.lat+','+gg.lng+'" target="_blank" rel="noopener">Open in Maps</a>');}}
+  var cryptoParsed=parseCrypto(raw);
+  if(cryptoParsed){acts.push('<button class="btn" id="cryptoCopyBtn" type="button">Copy '+escHtml(cryptoParsed.currency)+' address</button>');}
   acts.push('<button class="btn secondary" id="copyBtn" type="button">Copy result</button>');
   $('resActions').innerHTML=acts.join(' ');
   var cb=$('copyBtn'); if(cb)cb.addEventListener('click',function(){var done=function(){cb.textContent='Copied!';setTimeout(function(){cb.textContent='Copy result';},2000);};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(raw).then(done,done);}else{var ta=document.createElement('textarea');ta.value=raw;document.body.appendChild(ta);ta.select();try{document.execCommand('copy');}catch(e){}ta.remove();done();}});
   var vb=$('vcardBtn'); if(vb)vb.addEventListener('click',function(){var blob=new Blob([raw],{type:'text/vcard'});var u=URL.createObjectURL(blob);var a=document.createElement('a');a.href=u;a.download='contact.vcf';document.body.appendChild(a);a.click();a.remove();setTimeout(function(){URL.revokeObjectURL(u);},5000);});
+  var xb=$('cryptoCopyBtn'); if(xb&&cryptoParsed)xb.addEventListener('click',function(){var addr=cryptoParsed.address;var done=function(){xb.textContent='Address copied!';setTimeout(function(){xb.textContent='Copy '+cryptoParsed.currency+' address';},2000);};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(addr).then(done,done);}else{var ta=document.createElement('textarea');ta.value=addr;document.body.appendChild(ta);ta.select();try{document.execCommand('copy');}catch(e){}ta.remove();done();}});
   history.unshift({time:new Date(),format:prettyFormat(res.format),type:type,text:raw});
   if(history.length>20)history.length=20;
   renderHistory();
@@ -307,6 +383,59 @@ document.addEventListener('paste',function(e){
   var items=(e.clipboardData&&e.clipboardData.items)||[];
   for(var i=0;i<items.length;i++){if(items[i].type&&items[i].type.indexOf('image/')===0){var f=items[i].getAsFile();if(f){e.preventDefault();handleFile(f);return;}}}
 });
+
+/* ---------- Batch decode (multiple images + CSV export) ---------- */
+var batchRows=[];
+function decodeFilePromise(file){
+  return new Promise(function(resolve){
+    if(!file||!/^image\//.test(file.type||'')){resolve(null);return;}
+    var url=URL.createObjectURL(file);
+    var image=new Image();
+    image.onload=function(){var r=null;try{r=decodeImageElement(image);}catch(e){}URL.revokeObjectURL(url);resolve(r);};
+    image.onerror=function(){URL.revokeObjectURL(url);resolve(null);};
+    image.src=url;
+  });
+}
+function renderBatch(){
+  var body=$('batchBody');
+  body.innerHTML=batchRows.map(function(r){
+    return '<tr><td style="border-bottom:1px solid #eee;padding:6px;word-break:break-all">'+escHtml(r.filename)+'</td><td style="border-bottom:1px solid #eee;padding:6px">'+escHtml(r.format)+'</td><td style="border-bottom:1px solid #eee;padding:6px">'+escHtml(r.type)+'</td><td style="border-bottom:1px solid #eee;padding:6px;word-break:break-word">'+escHtml(r.text)+'</td></tr>';
+  }).join('');
+  var has=batchRows.length>0;
+  $('batchWrap').style.display=has?'':'none';
+  $('batchCsvBtn').style.display=has?'':'none';
+  $('batchClearBtn').style.display=has?'':'none';
+  if(has){
+    var ok=batchRows.filter(function(r){return r.type!=='Not decoded';}).length;
+    $('batchStatus').textContent='Batch finished: '+ok+' of '+batchRows.length+' image'+(batchRows.length===1?'':'s')+' decoded.';
+    $('batchStatus').style.color='';
+  }
+}
+async function handleBatchFiles(list){
+  var files=Array.prototype.slice.call(list||[]).filter(function(f){return /^image\//.test(f.type||'');});
+  if(!files.length){$('batchStatus').textContent='No image files were found in that selection. Choose PNG, JPG or other image files.';$('batchStatus').style.color='#b3261e';return;}
+  batchRows=[];renderBatch();
+  for(var i=0;i<files.length;i++){
+    $('batchStatus').textContent='Decoding image '+(i+1)+' of '+files.length+' on your device…';$('batchStatus').style.color='';
+    var r=await decodeFilePromise(files[i]);
+    if(r&&r.text){batchRows.push({filename:files[i].name,format:prettyFormat(r.format),type:classifyResult(r.text),text:r.text});}
+    else{batchRows.push({filename:files[i].name,format:'',type:'Not decoded',text:''});}
+    renderBatch();
+  }
+}
+var batchDrop=$('batchDrop'),batchInput=$('batchInput');
+batchDrop.addEventListener('click',function(){batchInput.click();});
+batchDrop.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();batchInput.click();}});
+batchInput.addEventListener('change',function(){handleBatchFiles(batchInput.files);batchInput.value='';});
+['dragenter','dragover'].forEach(function(ev){batchDrop.addEventListener(ev,function(e){e.preventDefault();batchDrop.classList.add('drag');});});
+['dragleave','drop'].forEach(function(ev){batchDrop.addEventListener(ev,function(e){e.preventDefault();batchDrop.classList.remove('drag');});});
+batchDrop.addEventListener('drop',function(e){handleBatchFiles(e.dataTransfer&&e.dataTransfer.files);});
+$('batchCsvBtn').addEventListener('click',function(){
+  if(!batchRows.length)return;
+  var blob=new Blob([buildBatchCsv(batchRows)],{type:'text/csv'});
+  var u=URL.createObjectURL(blob);var a=document.createElement('a');a.href=u;a.download='loona-scan-batch.csv';document.body.appendChild(a);a.click();a.remove();setTimeout(function(){URL.revokeObjectURL(u);},5000);
+});
+$('batchClearBtn').addEventListener('click',function(){batchRows=[];renderBatch();$('batchStatus').textContent='Batch cleared.';});
 
 /* ---------- Camera scanning (BarcodeDetector) ---------- */
 var stream=null,detector=null,detectTimer=null,scanning=false;
