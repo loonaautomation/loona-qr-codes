@@ -1,6 +1,6 @@
 {
   "name": "Loona Farmers Market Stall QR Code Generator",
-  "short_name": "Farmers Market Stall QR Code Gen",
+  "short_name": "Farmers Market Stall QR Code",
   "description": "Create a free Farmers Market Stall QR code instantly with Loona. No signup, no watermark, never expires. Custom colours, high-resolution PNG download.",
   "id": "/loona-qr-codes/farmers-market-qr-code-generator/",
   "start_url": ".",

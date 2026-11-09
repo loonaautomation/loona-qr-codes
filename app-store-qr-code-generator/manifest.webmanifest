@@ -1,6 +1,6 @@
 {
   "name": "Loona App Store / Google Play QR Code Generator",
-  "short_name": "App Store / Google Play QR Code ",
+  "short_name": "App Store / Google Play QR",
   "description": "Create a free App Store / Google Play QR Code instantly with Loona. No signup, no watermark, never expires. Scan to install your app. Custom colours, high-resolution PNG download.",
   "id": "/loona-qr-codes/app-store-qr-code-generator/",
   "start_url": ".",

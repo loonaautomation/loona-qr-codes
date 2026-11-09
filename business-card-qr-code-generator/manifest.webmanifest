@@ -1,6 +1,6 @@
 {
   "name": "Loona Business Card QR Code Generator",
-  "short_name": "Business Card QR Code Generator",
+  "short_name": "Business Card QR Code",
   "description": "Create a free Business Card QR code instantly with Loona. No signup, no watermark, never expires. Custom colours, high-resolution PNG download.",
   "id": "/loona-qr-codes/business-card-qr-code-generator/",
   "start_url": ".",

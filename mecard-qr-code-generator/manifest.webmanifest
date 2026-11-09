@@ -1,6 +1,6 @@
 {
   "name": "Loona MeCard Contact QR Code Generator",
-  "short_name": "MeCard Contact QR Code Generator",
+  "short_name": "MeCard Contact QR Code",
   "description": "Create a free MeCard Contact QR code instantly with Loona. No signup, no watermark, never expires. Custom colours, high-resolution PNG download.",
   "id": "/loona-qr-codes/mecard-qr-code-generator/",
   "start_url": ".",

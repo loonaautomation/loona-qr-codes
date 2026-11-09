@@ -1,6 +1,6 @@
 {
   "name": "Loona Parking Payment QR Code Generator",
-  "short_name": "Parking Payment QR Code Generato",
+  "short_name": "Parking Payment QR Code",
   "description": "Create a free Parking Payment QR code instantly with Loona. No signup, no watermark, never expires. Custom colours, high-resolution PNG download.",
   "id": "/loona-qr-codes/parking-payment-qr-code-generator/",
   "start_url": ".",

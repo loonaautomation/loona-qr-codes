@@ -1,6 +1,6 @@
 {
   "name": "Loona Zoom / Meeting QR Code Generator",
-  "short_name": "Zoom / Meeting QR Code Generator",
+  "short_name": "Zoom / Meeting QR Code",
   "description": "Create a free Zoom / Meeting QR Code instantly with Loona. No signup, no watermark, never expires. Scan to join a meeting or class. Custom colours, high-resolution PNG download.",
   "id": "/loona-qr-codes/zoom-meeting-qr-code-generator/",
   "start_url": ".",

@@ -1,6 +1,6 @@
 {
   "name": "Loona Google Calendar Event QR Code Generator",
-  "short_name": "Google Calendar Event QR Code Ge",
+  "short_name": "Google Calendar Event QR Code",
   "description": "Create a free Google Calendar Event QR code instantly with Loona. No signup, no watermark, never expires. Custom colours, high-resolution PNG download.",
   "id": "/loona-qr-codes/google-calendar-qr-code-generator/",
   "start_url": ".",

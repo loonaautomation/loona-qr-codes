@@ -1,6 +1,6 @@
 {
   "name": "Loona URL / Website QR Code Generator",
-  "short_name": "URL / Website QR Code Generator",
+  "short_name": "URL / Website QR Code",
   "description": "Create a free URL / Website QR Code instantly with Loona. No signup, no watermark, never expires. Turn any website link into a QR code. Custom colours, high-resolution PNG download.",
   "id": "/loona-qr-codes/url-qr-code-generator/",
   "start_url": ".",

@@ -1,6 +1,6 @@
 {
   "name": "Loona Feedback Form QR Code Generator",
-  "short_name": "Feedback Form QR Code Generator",
+  "short_name": "Feedback Form QR Code",
   "description": "Create a free Feedback Form QR code instantly with Loona. No signup, no watermark, never expires. Custom colours, high-resolution PNG download.",
   "id": "/loona-qr-codes/feedback-form-qr-code-generator/",
   "start_url": ".",

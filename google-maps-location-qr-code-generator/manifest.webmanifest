@@ -1,6 +1,6 @@
 {
   "name": "Loona Google Maps Location QR Code Generator",
-  "short_name": "Google Maps Location QR Code Gen",
+  "short_name": "Google Maps Location QR Code",
   "description": "Create a free Google Maps Location QR Code instantly with Loona. No signup, no watermark, never expires. Scan to get directions to your place. Custom colours, high-resolution PNG download.",
   "id": "/loona-qr-codes/google-maps-location-qr-code-generator/",
   "start_url": ".",
