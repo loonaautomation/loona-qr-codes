@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gerador de Códigos de Barras Interleaved 2 of 5",
+  "short_name": "Código de Barras Interleaved 2 of 5",
+  "description": "Gerador de códigos de barras Interleaved 2 of 5 gratuito. Dígitos de controlo corretos onde a norma os tem, transferência PNG e SVG, sem registo, sem marca de água.",
+  "id": "/loona-qr-codes/pt/interleaved-2-of-5-barcode-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
