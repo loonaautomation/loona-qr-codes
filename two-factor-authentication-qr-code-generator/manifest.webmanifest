@@ -1,0 +1,29 @@
+{
+  "name": "Loona Two-Factor Authentication (TOTP) QR Code Generator",
+  "short_name": "Two-Factor Authentication (TOTP)",
+  "description": "Create a free Two-Factor Authentication (TOTP) QR code instantly with Loona. No signup, no watermark, never expires. Custom colours, high-resolution PNG download.",
+  "id": "/loona-qr-codes/two-factor-authentication-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
