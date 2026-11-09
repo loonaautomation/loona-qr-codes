@@ -12,7 +12,7 @@
 .bulk-item .bq{display:inline-block;padding:8px;background:#fff}
 .bulk-item .blabel{font-weight:700;margin:8px 0 2px;word-break:break-word}
 .bulk-item .bcontent{font-size:.8rem;color:#5f5b73;word-break:break-all;margin:0 0 8px}
-@media print{header.site,footer.site,.no-print{display:none!important}body{background:#fff}.bulk-item{break-inside:avoid}}
+@media print{header.site,footer.site,.no-print{display:none!important}body{background:#fff}.bulk-item{break-inside:avoid}.print-brand{display:block!important;text-align:center;font-size:11px;color:#555;margin:14px 0 0}}
 </style>
 <script type="application/ld+json">{
   "@context": "https://schema.org",
@@ -92,6 +92,7 @@ https://loonaautomation.github.io/,Loona Automation home</textarea>
 <div id="bulkOut" class="no-print-off">
 <h2 id="bulkTitle" style="display:none">Your QR code sheet</h2>
 <div class="bulk-grid" id="bulkGrid"></div>
+<p class="print-brand" style="display:none">Made free with Loona Automation — loonaautomation.github.io/loona-qr-codes/</p>
 <p class="small no-print" id="bulkHint" style="display:none">Tip: use Print to save the whole sheet as a PDF, or download any single code as a PNG with its own button. Verify the sheet before a big print run with our <a href="../qr-code-scanner/">QR Code &amp; Barcode Scanner</a>.</p>
 </div>
 
@@ -171,6 +172,7 @@ function parseBulkInput(text,limit){
 }
 /*LOONA-BULK-CORE-END*/
 </script>
+<script src="../assets/brand.js"></script>
 <script>
 var $=function(id){return document.getElementById(id);};
 function escHtml(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
@@ -192,10 +194,10 @@ function generateBulk(){
     var cap=document.createElement('p');cap.className='bcontent';cap.textContent=item.content;card.appendChild(cap);
     var btn=document.createElement('button');btn.type='button';btn.className='btn secondary no-print';btn.textContent='Download PNG';
     btn.addEventListener('click',function(){
-      var canvas=holder.querySelector('canvas');var img=holder.querySelector('img');var url=null;
-      if(canvas){url=canvas.toDataURL('image/png');}else if(img&&img.src){url=img.src;}
-      if(!url)return;
-      var a=document.createElement('a');a.href=url;a.download='loona-qr-'+(idx+1)+'.png';document.body.appendChild(a);a.click();a.remove();
+      var canvas=holder.querySelector('canvas');var img=holder.querySelector('img');
+      function save(c){var a=document.createElement('a');a.href=(window.loonaBrand?loonaBrand.strip(c):c).toDataURL('image/png');a.download='loona-qr-'+(idx+1)+'.png';document.body.appendChild(a);a.click();a.remove();}
+      if(canvas){save(canvas);return;}
+      if(img&&img.src){var im=new Image();im.onload=function(){var cc=document.createElement('canvas');cc.width=im.naturalWidth||im.width;cc.height=im.naturalHeight||im.height;cc.getContext('2d').drawImage(im,0,0);save(cc);};im.src=img.src;}
     });
     card.appendChild(btn);
     grid.appendChild(card);

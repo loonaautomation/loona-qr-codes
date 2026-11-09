@@ -53,13 +53,41 @@ function generate(){
   var dl=document.getElementById('downloadBtn'); if(dl) dl.style.display='inline-block';
   window._loonaPayload=payload;
 }
+// Branding strip on downloads: the code (quiet zone included) stays
+// pixel-for-pixel untouched; below it a white gap and a white strip with
+// the Loona badge and "Made free with Loona Automation". Scans as before.
+var LOONA_STRIP_TEXT='Made free with Loona Automation';
+var _lbBadge=new Image(), _lbBadgeOk=false;
+_lbBadge.onload=function(){ _lbBadgeOk=true; };
+_lbBadge.src=(function(){ var s=document.currentScript; if(s && s.src) return s.src.replace(/[^\/]*$/,'')+'icon-192.png'; return '../assets/icon-192.png'; })();
+function loonaStrip(src){
+  if(!src || !src.width || !src.height) return src;
+  var W=src.width, H=src.height;
+  var gap=Math.max(12,Math.round(W*0.05)), sh=Math.max(32,Math.round(W*0.095));
+  var out=document.createElement('canvas'); out.width=W; out.height=H+gap+sh;
+  var x=out.getContext('2d');
+  x.fillStyle='#ffffff'; x.fillRect(0,0,W,out.height);
+  x.drawImage(src,0,0);
+  var fs=Math.floor(sh*0.38);
+  x.font='600 '+fs+'px Arial, sans-serif'; x.textBaseline='middle'; x.textAlign='left';
+  var tw=x.measureText(LOONA_STRIP_TEXT).width, bh=Math.round(sh*0.66), lg=Math.round(sh*0.22);
+  var tot=tw+(_lbBadgeOk?bh+lg:0), sx=Math.round((W-tot)/2), sy=H+gap;
+  if(_lbBadgeOk){ x.drawImage(_lbBadge,sx,Math.round(sy+(sh-bh)/2),bh,bh); sx+=bh+lg; }
+  x.fillStyle='#062e2a'; x.fillText(LOONA_STRIP_TEXT,sx,Math.round(sy+sh/2)+1);
+  return out;
+}
+function loonaSave(canvas){
+  var a=document.createElement('a'); a.href=canvas.toDataURL('image/png'); a.download='loona-qr-code.png'; document.body.appendChild(a); a.click(); a.remove();
+}
 function downloadPNG(){
   var box=document.getElementById('qrcode'); if(!box) return;
-  var canvas=box.querySelector('canvas'); var img=box.querySelector('img'); var url=null;
-  if(canvas){ url=canvas.toDataURL('image/png'); }
-  else if(img && img.src){ url=img.src; }
-  if(!url) return;
-  var a=document.createElement('a'); a.href=url; a.download='loona-qr-code.png'; document.body.appendChild(a); a.click(); a.remove();
+  var canvas=box.querySelector('canvas'); var img=box.querySelector('img');
+  if(canvas){ loonaSave(loonaStrip(canvas)); return; }
+  if(img && img.src){
+    var im=new Image();
+    im.onload=function(){ var c=document.createElement('canvas'); c.width=im.naturalWidth||im.width; c.height=im.naturalHeight||im.height; c.getContext('2d').drawImage(im,0,0); loonaSave(loonaStrip(c)); };
+    im.src=img.src;
+  }
 }
 document.addEventListener('DOMContentLoaded',function(){
   var form=document.getElementById('qr-form'); if(!form) return;

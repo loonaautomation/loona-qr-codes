@@ -209,6 +209,7 @@
     }
     new QRCode(hidden, {text: tool.u, width: 1024, height: 1024, colorDark: '#000000', colorLight: '#ffffff', correctLevel: QRCode.CorrectLevel.M});
     var src = hidden.querySelector('canvas');
+    if(canvas.height !== 1080){ canvas.height = 1080; }
     var ctx = canvas.getContext('2d');
     ctx.fillStyle = '#ffffff';
     ctx.fillRect(0, 0, canvas.width, canvas.height);
@@ -225,6 +226,9 @@
     ctx.fillStyle = '#5f5b73';
     ctx.font = '30px Arial, sans-serif';
     ctx.fillText('Scan to open — free, no sign-up', 440, 968);
+    ctx.fillStyle = '#062e2a';
+    ctx.font = '600 25px Arial, sans-serif';
+    ctx.fillText('Made free with Loona Automation', 440, 1034);
     renderList();
     var sel = listEl.querySelector('.tool-item.sel');
     if(sel && sel.scrollIntoView) sel.scrollIntoView({block: 'nearest'});

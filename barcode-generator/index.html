@@ -136,6 +136,7 @@
 <p class="small">Contact: <a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></p>
 <p class="small">Made by <a href="https://github.com/loonaautomation">Loona Automation</a> · © 2026 Loona QR Codes. Free to use for personal and commercial purposes.</p></div></footer>
 <script src="../assets/JsBarcode.all.min.js"></script>
+<script src="../assets/brand.js"></script>
 <script>
 /*LOONA-CORE-START*/
 function gtinCheckDigit(data){
@@ -210,7 +211,7 @@ function svgMarkup(){
   clone.setAttribute('xmlns','http://www.w3.org/2000/svg');
   return new XMLSerializer().serializeToString(clone);
 }
-svgBtn.addEventListener('click',()=>{if(!lastGood)return;saveBlob(new Blob([svgMarkup()],{type:'image/svg+xml'}),'barcode-'+lastGood.format.toLowerCase()+'.svg');});
+svgBtn.addEventListener('click',()=>{if(!lastGood)return;saveBlob(new Blob([window.loonaBrand?loonaBrand.svg(svgMarkup()):svgMarkup()],{type:'image/svg+xml'}),'barcode-'+lastGood.format.toLowerCase()+'.svg');});
 pngBtn.addEventListener('click',()=>{
   if(!lastGood)return;
   const url=URL.createObjectURL(new Blob([svgMarkup()],{type:'image/svg+xml'}));
@@ -223,7 +224,7 @@ pngBtn.addEventListener('click',()=>{
     ctx.fillStyle=$('bgColor').value;ctx.fillRect(0,0,canvas.width,canvas.height);
     ctx.drawImage(img,0,0,canvas.width,canvas.height);
     URL.revokeObjectURL(url);
-    canvas.toBlob(b=>saveBlob(b,'barcode-'+lastGood.format.toLowerCase()+'.png'),'image/png');
+    (window.loonaBrand?loonaBrand.strip(canvas,Math.max(28,Math.round(canvas.height*0.24))):canvas).toBlob(b=>saveBlob(b,'barcode-'+lastGood.format.toLowerCase()+'.png'),'image/png');
   };
   img.onerror=()=>{URL.revokeObjectURL(url);msg.textContent='PNG export failed in this browser - please use the SVG download instead.';msg.style.color='#b3261e';};
   img.src=url;

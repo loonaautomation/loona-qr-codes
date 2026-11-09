@@ -85,6 +85,7 @@
 <p class="small">Made by <a href="https://github.com/loonaautomation">Loona Automation</a> · © 2026 Loona QR Codes. Free to use for personal and commercial purposes.</p></div></footer>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
 <script src="../assets/JsBarcode.all.min.js"></script>
+<script src="../assets/brand.js"></script>
 <script>
 function gtinCheckDigit(data){ if(!/^\d+$/.test(data))return null; let sum=0; for(let i=0;i<data.length;i++){ const digit=data.charCodeAt(data.length-1-i)-48; sum+=digit*(i%2===0?3:1);} return (10-(sum%10))%10; }
 const $=id=>document.getElementById(id);
@@ -105,9 +106,9 @@ function render(){
     $('dlPng').style.display=''; $('dlSvg').style.display='';
   }catch(err){ msg.textContent='That value cannot be encoded as EAN-8: '+err.message; msg.style.color='#b3261e'; }
 }
-function dl(kind){ const svg=$('barcode'); const xml=new XMLSerializer().serializeToString(svg);
+function dl(kind){ const svg=$('barcode'); const rawXml=new XMLSerializer().serializeToString(svg); const xml=(kind==='svg'&&window.loonaBrand)?loonaBrand.svg(rawXml):rawXml;
   if(kind==='svg'){ const b=new Blob([xml],{type:'image/svg+xml'}); const u=URL.createObjectURL(b); const a=document.createElement('a'); a.href=u; a.download='loona-barcode.svg'; a.click(); setTimeout(()=>URL.revokeObjectURL(u),4000); return; }
-  const img=new Image(); img.onload=function(){ const c=document.createElement('canvas'); c.width=img.width*3; c.height=img.height*3; const x=c.getContext('2d'); x.fillStyle=$('bgColor').value; x.fillRect(0,0,c.width,c.height); x.drawImage(img,0,0,c.width,c.height); const a=document.createElement('a'); a.href=c.toDataURL('image/png'); a.download='loona-barcode.png'; a.click(); }; img.src='data:image/svg+xml;charset=utf-8,'+encodeURIComponent(xml); }
+  const img=new Image(); img.onload=function(){ const c=document.createElement('canvas'); c.width=img.width*3; c.height=img.height*3; const x=c.getContext('2d'); x.fillStyle=$('bgColor').value; x.fillRect(0,0,c.width,c.height); x.drawImage(img,0,0,c.width,c.height); const out=(window.loonaBrand)?loonaBrand.strip(c,Math.max(28,Math.round(c.height*0.24))):c; const a=document.createElement('a'); a.href=out.toDataURL('image/png'); a.download='loona-barcode.png'; a.click(); }; img.src='data:image/svg+xml;charset=utf-8,'+encodeURIComponent(xml); }
 $('genBtn').addEventListener('click',render);
 ['bcColor','bgColor','bcHeight'].forEach(id=>$(id).addEventListener('change',render));
 $('f-text').addEventListener('input',()=>setTimeout(render,300));
