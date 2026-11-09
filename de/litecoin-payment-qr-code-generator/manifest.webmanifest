@@ -1,0 +1,29 @@
+{
+  "name": "Loona Litecoin-Zahlungs-QR-Code-Generator",
+  "short_name": "Litecoin-Zahlungs-QR-Code",
+  "description": "Erstellen Sie sofort kostenlos einen Litecoin-Zahlungs-QR-Code mit Loona. Keine Anmeldung, kein Wasserzeichen, läuft niemals ab. Benutzerdefinierte Farben, hochauflösender PNG-Download.",
+  "id": "/loona-qr-codes/de/litecoin-payment-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

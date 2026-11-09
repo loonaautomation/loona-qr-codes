@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gäste-WLAN-QR-Code-Generator (Zuhause & Café)",
+  "short_name": "Gäste-WLAN-QR-Code (Zuhause & Café)",
+  "description": "Erstellen Sie sofort kostenlos einen Gäste-WLAN-QR-Code (Zuhause & Café) mit Loona. Keine Anmeldung, kein Wasserzeichen, läuft niemals ab. Benutzerdefinierte Farben, hochauflösender PNG-Download.",
+  "id": "/loona-qr-codes/de/wifi-qr-code-for-guests-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Stapel-QR-Code-Generator",
+  "short_name": "Stapel-QR-Code-Generator",
+  "description": "Erstellen Sie bis zu 100 QR-Codes auf einmal, kostenlos: Fügen Sie eine Liste ein oder laden Sie eine CSV-Datei mit Links und Texten hoch, erhalten Sie ein beschriftetes druckbares Blatt mit QR-Codes. Keine Anmeldung, kein Wasserzeichen, läuft niemals ab, 100 % privat in Ihrem Browser.",
+  "id": "/loona-qr-codes/de/bulk-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
