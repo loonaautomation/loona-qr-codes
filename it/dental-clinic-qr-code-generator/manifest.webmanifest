@@ -1,0 +1,29 @@
+{
+  "name": "Loona — Generatore di codici QR per dentisti e cliniche",
+  "short_name": "Codice QR per dentisti e cliniche",
+  "description": "Crea all’istante un codice QR per dentisti e cliniche gratuito con Loona. Nessuna registrazione, nessuna filigrana, non scade mai. Colori personalizzati, download PNG ad alta risoluzione.",
+  "id": "/loona-qr-codes/it/dental-clinic-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona — Generatore di codici QR per curriculum / portfolio",
+  "short_name": "Codice QR per curriculum / portfolio",
+  "description": "Crea all’istante un codice QR per curriculum / portfolio gratuito con Loona. Nessuna registrazione, nessuna filigrana, non scade mai. Metti il tuo curriculum o portfolio a una scansione di distanza. Colori personalizzati, download PNG ad alta risoluzione.",
+  "id": "/loona-qr-codes/it/resume-portfolio-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

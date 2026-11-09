@@ -1,0 +1,29 @@
+{
+  "name": "Loona — Generatore di codici QR PDF",
+  "short_name": "Generatore di codici QR PDF",
+  "description": "Crea all’istante un codice QR PDF gratuito con Loona. Nessuna registrazione, nessuna filigrana, non scade mai. Scansiona per aprire o scaricare un file PDF. Colori personalizzati, download PNG ad alta risoluzione.",
+  "id": "/loona-qr-codes/it/pdf-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

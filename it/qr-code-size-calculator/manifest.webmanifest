@@ -1,0 +1,29 @@
+{
+  "name": "Loona — Calcolatore di dimensioni dei codici QR",
+  "short_name": "Calcolatore delle dimensioni dei codici QR",
+  "description": "Calcolatore gratuito delle dimensioni dei codici QR: inserisci la distanza di scansione e il tipo di contenuto per ottenere la dimensione minima di stampa in cm, la risoluzione PNG consigliata e la larghezza della zona di rispetto.",
+  "id": "/loona-qr-codes/it/qr-code-size-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

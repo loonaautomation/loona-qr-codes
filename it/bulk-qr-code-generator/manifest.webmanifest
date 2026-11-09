@@ -1,0 +1,29 @@
+{
+  "name": "Loona — Generatore di codici QR in blocco",
+  "short_name": "Generatore di codici QR in blocco",
+  "description": "Crea fino a 100 codici QR in una volta, gratuitamente: incolla un elenco o carica un CSV di collegamenti e testi, ottieni un foglio stampabile di codici QR etichettati. Nessuna registrazione, nessuna filigrana, non scade mai, 100% privato nel tuo browser.",
+  "id": "/loona-qr-codes/it/bulk-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

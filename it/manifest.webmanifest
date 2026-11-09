@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR Codes",
+  "short_name": "Loona QR Codes",
+  "description": "Crea codici QR gratuiti per URL, WiFi, WhatsApp, vCard e pagamenti - 37 tipi di codici QR più uno scanner QR e di codici a barre gratuito e un generatore in blocco, nessuna scadenza, nessuna registrazione, nessuna filigrana.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-qr-codes/it/"
+}
