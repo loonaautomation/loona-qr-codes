@@ -16,6 +16,9 @@
 .tool-item.sel{background:#f5edd2;font-weight:700}
 .tool-item .site{color:var(--muted);font-size:.8rem;white-space:nowrap}
 #qrCanvas{max-width:330px;width:100%;height:auto;border:1px solid var(--border);border-radius:10px;background:#fff}
+.search-row{display:flex;gap:8px}
+.search-row input{flex:1 1 auto;min-width:0;width:auto}
+.preview{scroll-margin-top:12px}
 </style>
 <script type="application/ld+json">{
   "@context": "https://schema.org",
@@ -79,7 +82,7 @@
 <main class="wrap"><div class="hero"><h1>QR Codes for All Loona Tools</h1><p>Every Loona tool has a web address — and now every one of them has a QR code to match. Search the list, pick a tool, and download a ready-to-print QR code with the tool's name on it. Free, no signup, no watermark, and the code never expires.</p></div>
 <div class="card"><div class="gen"><div>
 <label for="toolSearch">Search 955 Loona tools &amp; apps</label>
-<input type="search" id="toolSearch" placeholder="Start typing — for example: age, zakat, pdf, invoice…" autocomplete="off">
+<div class="search-row"><input type="search" id="toolSearch" placeholder="Start typing — for example: age, zakat, pdf, invoice…" autocomplete="off"><button class="btn" id="searchBtn" type="button">Search</button></div>
 <div class="chips" id="siteChips"></div>
 <p class="small" id="toolCount"></p>
 <div class="tool-list" id="toolList"></div>
@@ -128,6 +131,8 @@
   var listEl = document.getElementById('toolList');
   var chipsEl = document.getElementById('siteChips');
   var searchEl = document.getElementById('toolSearch');
+  var searchBtn = document.getElementById('searchBtn');
+  var previewEl = document.querySelector('.preview');
   var countEl = document.getElementById('toolCount');
   var titleEl = document.getElementById('qrTitle');
   var captionEl = document.getElementById('qrCaption');
@@ -151,9 +156,13 @@
 
   function currentFilter(){
     var q = (searchEl.value || '').toLowerCase().trim();
+    var words = q ? q.split(/\s+/) : [];
     return tools.map(function(t, i){ return {t: t, i: i}; }).filter(function(x){
       if(activeSite !== 'All' && x.t.s !== activeSite) return false;
-      if(q && (x.t.n + ' ' + x.t.s).toLowerCase().indexOf(q) === -1) return false;
+      if(words.length){
+        var hay = (x.t.n + ' ' + x.t.s).toLowerCase();
+        for(var w = 0; w < words.length; w++){ if(hay.indexOf(words[w]) === -1) return false; }
+      }
       return true;
     });
   }
@@ -165,7 +174,7 @@
     rows.forEach(function(x){
       html += '<button type="button" class="tool-item' + (x.i===selected?' sel':'') + '" data-i="' + x.i + '"><span>' + esc(x.t.n) + '</span><span class="site">' + esc(x.t.s.replace(/^Loona /, '')) + '</span></button>';
     });
-    listEl.innerHTML = html || '<p class="small" style="padding:12px 14px">No tool matches that search. Try a shorter word.</p>';
+    listEl.innerHTML = html || '<p class="small" style="padding:12px 14px">No tool matches that search. Try "age", "zakat" or "emi".</p>';
   }
 
   function fitFont(ctx, text, maxWidth, base, weight){
@@ -178,7 +187,7 @@
     return size;
   }
 
-  function select(i){
+  function select(i, fromUser){
     selected = i;
     var tool = tools[i];
     if(!tool) return;
@@ -211,6 +220,7 @@
     renderList();
     var sel = listEl.querySelector('.tool-item.sel');
     if(sel && sel.scrollIntoView) sel.scrollIntoView({block: 'nearest'});
+    if(fromUser && previewEl && previewEl.scrollIntoView) previewEl.scrollIntoView({behavior: 'smooth', block: 'start'});
   }
 
   function slug(s){ return s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, ''); }
@@ -232,10 +242,21 @@
   listEl.addEventListener('click', function(e){
     var b = e.target.closest('.tool-item');
     if(!b) return;
-    select(parseInt(b.getAttribute('data-i'), 10));
+    select(parseInt(b.getAttribute('data-i'), 10), true);
   });
   var t;
   searchEl.addEventListener('input', function(){ clearTimeout(t); t = setTimeout(renderList, 120); });
+  function doSearch(){
+    clearTimeout(t);
+    renderList();
+    var rows = currentFilter();
+    if(rows.length){ select(rows[0].i, true); }
+    else if(listEl.scrollIntoView){ listEl.scrollIntoView({behavior: 'smooth', block: 'nearest'}); }
+  }
+  searchBtn.addEventListener('click', doSearch);
+  searchEl.addEventListener('keydown', function(e){
+    if(e.key === 'Enter' || e.keyCode === 13){ e.preventDefault(); doSearch(); }
+  });
 
   renderChips();
   renderList();
