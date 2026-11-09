@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR Codes pour tous les outils Loona",
+  "short_name": "Codes QR pour tous les outils Loona",
+  "description": "Obtenez un code QR gratuit prêt à l’emploi pour n’importe quel outil Loona — 955 calculateurs, outils PDF, outils d’image, outils d’étude et applications. Choisissez un outil, téléchargez son code QR en PNG haute résolution et imprimez-le. Aucune inscription, aucun filigrane, n’expire jamais.",
+  "id": "/loona-qr-codes/fr/tool-qr-codes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Générateur de code QR Événement / Calendrier",
+  "short_name": "Code QR Événement / Calendrier",
+  "description": "Créez un code QR Événement / Calendrier gratuit instantanément avec Loona. Aucune inscription, aucun filigrane, n’expire jamais. Scannez pour enregistrer un événement dans le calendrier. Couleurs personnalisées, téléchargement PNG haute résolution.",
+  "id": "/loona-qr-codes/fr/event-calendar-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

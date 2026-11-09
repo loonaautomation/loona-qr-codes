@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tous les générateurs de codes QR et de codes-barres",
+  "short_name": "Tous les codes QR et codes-barres",
+  "description": "La bibliothèque QR Loona complète : générateurs de codes-barres (Code 128, EAN-13, UPC, Data Matrix, PDF417), codes QR de paiement (SEPA, UPI, crypto, Venmo), cas d’usage sectoriels et outils d’impression.",
+  "id": "/loona-qr-codes/fr/qr-code-generators/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Générateur de code QR Invitation de mariage",
+  "short_name": "Code QR Invitation de mariage",
+  "description": "Créez un code QR Invitation de mariage gratuit instantanément avec Loona. Aucune inscription, aucun filigrane, n’expire jamais. Couleurs personnalisées, téléchargement PNG haute résolution.",
+  "id": "/loona-qr-codes/fr/wedding-invitation-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

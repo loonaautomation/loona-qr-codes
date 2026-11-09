@@ -1,0 +1,29 @@
+{
+  "name": "Loona Générateur de codes QR en masse",
+  "short_name": "Générateur de codes QR en masse",
+  "description": "Créez jusqu’à 100 codes QR à la fois, gratuitement : collez une liste ou téléversez un CSV de liens et de textes, obtenez une feuille imprimable étiquetée de codes QR. Aucune inscription, aucun filigrane, n’expire jamais, 100% privé dans votre navigateur.",
+  "id": "/loona-qr-codes/fr/bulk-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

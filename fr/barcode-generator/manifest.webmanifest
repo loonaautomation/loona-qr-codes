@@ -1,0 +1,29 @@
+{
+  "name": "Loona Générateur de codes-barres",
+  "short_name": "Générateur de codes-barres",
+  "description": "Créez des codes-barres gratuits en ligne avec Loona : Code 128, Code 39, EAN-13, UPC-A et ITF-14. Chiffres de contrôle ajoutés automatiquement, aperçu en direct, téléchargement en PNG ou SVG. Aucune inscription, aucun filigrane, 100% privé dans votre navigateur.",
+  "id": "/loona-qr-codes/fr/barcode-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
