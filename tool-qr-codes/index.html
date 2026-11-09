@@ -90,7 +90,7 @@
 <div class="preview"><h3 id="qrTitle">Your QR Code</h3>
 <canvas id="qrCanvas" width="880" height="1010"></canvas>
 <p class="small" id="qrCaption"></p>
-<p><button class="btn" id="downloadBtn" type="button">Download PNG</button> <a class="btn secondary" id="openBtn" href="#" target="_blank" rel="noopener" style="display:inline-block;text-decoration:none">Open Tool</a></p>
+<p><button class="btn" id="downloadBtn" type="button">Download PNG</button> <button class="btn secondary" id="shareBtn" type="button">Share</button> <a class="btn secondary" id="openBtn" href="#" target="_blank" rel="noopener" style="display:inline-block;text-decoration:none">Open Tool</a></p>
 <p class="note">100% private: the QR code is created inside your browser from the tool's public web address. Nothing is uploaded to a server, and the code never expires.</p>
 </div></div></div>
 <div id="qrHidden" style="position:absolute;left:-9999px;top:-9999px" aria-hidden="true"></div>
@@ -145,6 +145,7 @@
   var canvas = document.getElementById('qrCanvas');
   var openBtn = document.getElementById('openBtn');
   var dlBtn = document.getElementById('downloadBtn');
+  var shareBtn = document.getElementById('shareBtn');
   var hidden = document.getElementById('qrHidden');
   var activeSite = 'All';
   var selected = -1;
@@ -237,6 +238,32 @@
     a.href = canvas.toDataURL('image/png');
     a.download = (tool ? slug(tool.n) : 'loona-tool') + '-qr.png';
     document.body.appendChild(a); a.click(); a.remove();
+  });
+
+  shareBtn.addEventListener('click', function(){
+    var tool = tools[selected];
+    var fileName = (tool ? slug(tool.n) : 'loona-tool') + '-qr.png';
+    var shareTitle = tool ? (tool.n + ' QR Code — Loona') : 'Loona Tool QR Code';
+    var shareUrl = tool ? tool.u : 'https://loonaautomation.github.io/loona-qr-codes/tool-qr-codes/';
+    var shareText = tool ? (tool.n + ' — free online tool by Loona Automation: ' + tool.u) : 'Free online tools by Loona Automation';
+    function copyFallback(){
+      var done = function(){ shareBtn.textContent = 'Link copied!'; setTimeout(function(){ shareBtn.textContent = 'Share'; }, 2000); };
+      if(navigator.clipboard && navigator.clipboard.writeText){ navigator.clipboard.writeText(shareUrl).then(done, done); }
+      else { var ta = document.createElement('textarea'); ta.value = shareUrl; document.body.appendChild(ta); ta.select(); try{ document.execCommand('copy'); }catch(e){} ta.remove(); done(); }
+    }
+    function shareLink(){
+      if(navigator.share){ navigator.share({title: shareTitle, text: shareText, url: shareUrl}).catch(function(err){ if(err && err.name !== 'AbortError'){ copyFallback(); } }); }
+      else { copyFallback(); }
+    }
+    if(canvas.toBlob && typeof navigator.canShare === 'function'){
+      canvas.toBlob(function(blob){
+        if(!blob){ shareLink(); return; }
+        var file;
+        try{ file = new File([blob], fileName, {type: 'image/png'}); }catch(e){ shareLink(); return; }
+        if(navigator.canShare({files: [file]})){ navigator.share({files: [file], title: shareTitle, text: shareText}).catch(function(err){ if(err && err.name !== 'AbortError'){ shareLink(); } }); }
+        else { shareLink(); }
+      }, 'image/png');
+    } else { shareLink(); }
   });
 
   chipsEl.addEventListener('click', function(e){
