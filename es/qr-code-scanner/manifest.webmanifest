@@ -1,0 +1,29 @@
+{
+  "name": "Loona Escáner de códigos QR y de barras",
+  "short_name": "Escáner de códigos QR y de barras",
+  "description": "Escanea códigos QR y de barras gratis en línea con Loona: usa tu cámara o sube una foto o una captura de pantalla. Decodifica URL, WiFi, contactos vCard, EAN-13, UPC-A, Code 128 y Code 39. 100% privado — todo se decodifica en tu dispositivo, nada se sube.",
+  "id": "/loona-qr-codes/es/qr-code-scanner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

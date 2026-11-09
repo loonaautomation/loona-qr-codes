@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generador de códigos QR de firma de correo",
+  "short_name": "Código QR de firma de correo",
+  "description": "Crea un código QR de firma de correo gratuito al instante con Loona. Sin registro, sin marca de agua, nunca caduca. Colores personalizados, descarga de PNG en alta resolución.",
+  "id": "/loona-qr-codes/es/email-signature-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
