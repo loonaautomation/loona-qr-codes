@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tüm QR Kod ve Barkod Oluşturucular",
+  "short_name": "Tüm QR Kod ve Barkod",
+  "description": "Tam Loona QR kütüphanesi: barkod oluşturucular (Code 128, EAN-13, UPC, Data Matrix, PDF417), ödeme QR kodları (SEPA, UPI, kripto, Venmo), sektör kullanım örnekleri ve baskı araçları.",
+  "id": "/loona-qr-codes/tr/qr-code-generators/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

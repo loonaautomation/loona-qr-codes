@@ -1,0 +1,29 @@
+{
+  "name": "Loona Düz Metin QR Kod Oluşturucu",
+  "short_name": "Düz Metin QR Kod Oluşturucu",
+  "description": "Loona ile anında ücretsiz bir Düz Metin QR Kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Herhangi bir metni, kodu veya mesajı bir QR kodun içine koyun. Özel renkler, yüksek çözünürlüklü PNG indirme.",
+  "id": "/loona-qr-codes/tr/text-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kütüphane QR Kod Oluşturucu",
+  "short_name": "Kütüphane QR Kod Oluşturucu",
+  "description": "Loona ile anında ücretsiz bir Kütüphane QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
+  "id": "/loona-qr-codes/tr/library-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

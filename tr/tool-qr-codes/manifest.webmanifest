@@ -1,0 +1,29 @@
+{
+  "name": "Tüm Loona Araçları için Loona QR Kodları",
+  "short_name": "Tüm Loona Araçları için QR Kodlar",
+  "description": "Herhangi bir Loona aracı için ücretsiz hazır bir QR kod alın — 955 hesaplayıcı, PDF araçları, görsel araçları, çalışma araçları ve uygulamalar. Bir araç seçin, QR kodunu yüksek çözünürlüklü bir PNG olarak indirin ve basın. Kayıt yok, filigran yok, asla süresi dolmaz.",
+  "id": "/loona-qr-codes/tr/tool-qr-codes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
