@@ -1,0 +1,29 @@
+{
+  "name": "منشئ رمز QR لـ Snapchat من Loona",
+  "short_name": "منشئ رمز QR لـ Snapchat",
+  "description": "أنشئ رمز QR مجانيًا لـ Snapchat فورًا مع Loona. دون تسجيل، دون علامة مائية، لا تنتهي صلاحيته أبدًا. امسح لإضافتك على Snapchat. ألوان مخصصة، تنزيل PNG عالي الدقة.",
+  "id": "/loona-qr-codes/ar/snapchat-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
