@@ -55,6 +55,21 @@ footer.site a{color:#e9c766}
 .view{display:none}.view.active{display:block}
 .tool-card a{cursor:pointer}
 header.site nav a{cursor:pointer}
+
+.ls{max-width:640px;margin:22px auto 4px;position:relative;text-align:left}
+.ls-box{display:flex;background:#fff;border-radius:999px;overflow:hidden;box-shadow:0 8px 24px rgba(0,0,0,.28);border:2px solid var(--gold,#d4af37)}
+.ls-box input{flex:1;border:0;outline:0;padding:14px 18px;font-size:1.02rem;min-width:0;color:var(--ink,#12211c);background:#fff}
+.ls-box button{border:0;background:var(--gold,#d4af37);color:#231a00;font-weight:800;padding:0 22px;font-size:1rem;cursor:pointer}
+.ls-box button:hover{background:var(--gold2,#b8912a)}
+.ls-list{position:absolute;left:0;right:0;top:calc(100% + 8px);background:#fff;border-radius:14px;box-shadow:0 18px 44px rgba(0,0,0,.35);z-index:60;max-height:70vh;overflow-y:auto;text-align:left}
+.ls-item{display:block;padding:10px 16px;text-decoration:none;border-bottom:1px solid #eee9da}
+.ls-item:last-of-type{border-bottom:0}
+.ls-item:hover,.ls-item.act{background:#fbf6df}
+.ls-nm{font-weight:700;color:var(--ink,#12211c)}
+.ls-badge{display:inline-block;margin-left:8px;background:var(--teal,#062e2a);color:#ffe9a8;font-size:.68rem;font-weight:700;padding:2px 8px;border-radius:999px;vertical-align:2px;white-space:nowrap}
+.ls-ds{display:block;color:#5a6660;font-size:.85rem;margin-top:1px}
+.ls-none{padding:12px 16px;color:#5a6660;font-size:.92rem}
+@media(max-width:560px){.ls-box button{padding:0 14px}.ls-box input{padding:12px 14px;font-size:.98rem}}
 </style>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Loona QR Codes – Générateur de codes QR gratuit","url":"https://loonaautomation.github.io/loona-qr-codes/fr/","applicationCategory":"UtilitiesApplication","operatingSystem":"Any (Web Browser)","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}</script>
 <!-- Google tag (gtag.js) -->
@@ -142,7 +157,12 @@ header.site nav a{cursor:pointer}
 <nav><a href="#home">Accueil</a><a href="#home">Tous les outils</a><a href="#about">À propos</a><a href="#contact">Contact</a></nav></div></header>
 <main class="wrap">
 <section class="view active" id="view-home">
-<div class="hero"><img class="hero-logo" fetchpriority="high" src="../assets/logo-home.jpg" alt="Logo Loona Automation - Loona QR Codes" width="170" height="170"><h1>Générateur de codes QR gratuit</h1><p><strong>Loona QR Codes</strong> — Générateur de codes QR gratuit — Sans expiration, sans inscription, sans filigrane. Créez des codes QR pour les liens, le WiFi, WhatsApp, les contacts, les paiements et 25 types de plus. Tout fonctionne en privé dans votre navigateur.</p></div>
+<div class="hero"><img class="hero-logo" fetchpriority="high" src="../assets/logo-home.jpg" alt="Logo Loona Automation - Loona QR Codes" width="170" height="170"><h1>Générateur de codes QR gratuit</h1><p><strong>Loona QR Codes</strong> — Générateur de codes QR gratuit — Sans expiration, sans inscription, sans filigrane. Créez des codes QR pour les liens, le WiFi, WhatsApp, les contacts, les paiements et 25 types de plus. Tout fonctionne en privé dans votre navigateur.</p>
+<div class="ls"><form id="lsForm" role="search" autocomplete="off">
+<div class="ls-box"><input id="lsInput" type="search" placeholder="Rechercher parmi 38 générateurs de codes QR&hellip; essayez &lsquo;générateur&rsquo;" aria-label="Rechercher parmi 38 générateurs de codes QR" autocomplete="off"><button type="submit">Rechercher</button></div>
+<div id="lsList" class="ls-list" role="listbox" hidden></div>
+</form></div>
+</div>
 <div class="card" style="border:2px solid #c9a227;text-align:center">
 <h2 style="margin:0 0 8px;color:#062e2a">Besoin de scanner un code plutôt que d’en créer un ?</h2>
 <p style="margin:0 0 12px">Utilisez le gratuit <strong>Scanner de codes QR &amp; de codes-barres</strong> — pointez votre caméra sur un code, ou décodez-en un depuis une photo ou une capture d’écran. Plus le <strong>Générateur de codes QR en masse</strong> pour jusqu’à 100 codes dans une feuille imprimable. Tout fonctionne en privé sur votre appareil.</p>
@@ -1236,6 +1256,234 @@ document.addEventListener('DOMContentLoaded',function(){
     } else { shareLink(); }
   });
 })();
+</script>
+<script>/*loona-qr-search*/
+/* Loona QR Codes search (per-site build of the Loona hub tool search v2) — lazy-loads /search-index.json on first focus/typing.
+   v2 fixes: a failed fetch no longer poisons the session (it retries on the next
+   keystroke/focus), a "Loading tools…" state shows while the index downloads,
+   an embedded popular-tools fallback keeps search alive offline, Roman Urdu
+   aliases, joined-word matching, dedupe and tool-over-guide ranking. */
+(function () {
+  "use strict";
+  var form = document.getElementById('lsForm'),
+      input = document.getElementById('lsInput'),
+      list = document.getElementById('lsList');
+  if (!form || !input || !list) return;
+  var INDEX_URL = '/loona-qr-codes/fr/search-index.json';
+  var STR = {"loading": "Chargement des outils…", "fb": "Outils populaires affichés — l'index complet arrive…", "zero1": "Aucun résultat exact pour “", "zero2": "” — essayez ces outils populaires :"};
+  var FALLBACK = [{"n": "Générateur de code QR URL / Site web", "u": "https://loonaautomation.github.io/loona-qr-codes/fr/url-qr-code-generator/", "s": "Loona QR Codes", "d": "Transformez n’importe quel lien de site en code QR.", "k": "url website qr code generator url qr code generator transformez n importe quel lien de site en code qr", "p": 0, "c": "Tool"}, {"n": "Générateur de code QR WiFi", "u": "https://loonaautomation.github.io/loona-qr-codes/fr/wifi-qr-code-generator/", "s": "Loona QR Codes", "d": "Les invités se connectent au WiFi en un seul scan, sans saisir de mot de passe.", "k": "wifi qr code generator wifi qr code generator les invites se connectent au wifi en un seul scan sans saisir de mot de passe", "p": 1, "c": "Tool"}, {"n": "Générateur de code QR WhatsApp", "u": "https://loonaautomation.github.io/loona-qr-codes/fr/whatsapp-qr-code-generator/", "s": "Loona QR Codes", "d": "Démarrez une discussion WhatsApp en un seul scan, sans enregistrer le numéro.", "k": "whatsapp qr code generator whatsapp qr code generator demarrez une discussion whatsapp en un seul scan sans enregistrer le numero", "p": 2, "c": "Tool"}, {"n": "Générateur de code QR Texte brut", "u": "https://loonaautomation.github.io/loona-qr-codes/fr/text-qr-code-generator/", "s": "Loona QR Codes", "d": "Mettez n’importe quel texte, code ou message dans un code QR.", "k": "plain text qr code generator text qr code generator mettez n importe quel texte code ou message dans un code qr", "p": 3, "c": "Tool"}, {"n": "Générateur de code QR de contact vCard", "u": "https://loonaautomation.github.io/loona-qr-codes/fr/vcard-qr-code-generator/", "s": "Loona QR Codes", "d": "Scannez pour enregistrer votre carte de contact complète sur un téléphone.", "k": "vcard contact qr code generator vcard qr code generator scannez pour enregistrer votre carte de contact complete sur un telephone", "p": 4, "c": "Tool"}, {"n": "Scanner de codes QR & de codes-barres", "u": "https://loonaautomation.github.io/loona-qr-codes/fr/qr-code-scanner/", "s": "Loona QR Codes", "d": "Scannez des codes avec votre caméra, ou décodez des codes QR et des codes-barres depuis une photo ou une capture d’écran.", "k": "qr code barcode scanner qr code scanner scannez des codes avec votre camera ou decodez des codes qr et des codes barres depuis une photo ou une capture d ecran", "p": 5, "c": "Tool"}];
+  var data = null, loading = null, usingFallback = false, active = -1, current = [];
+
+  /*CORE-START*/
+/* Loona search core v2 — shared by the homepage dropdown and the /search/ page.
+   Adds over v1: Roman Urdu alias layer, joined-word matching, keyword prefix match,
+   URL+name dedupe, tool-over-guide boost. `data` is supplied by the page glue. */
+var ALIASES = {
+  "paigham": "text"
+};
+function norm(s) { s = (s || '').toLowerCase().replace(/ß/g, 'ss').replace(/æ/g, 'ae').replace(/ø/g, 'o').replace(/ł/g, 'l').replace(/đ/g, 'd'); try { s = s.normalize('NFD').replace(/[\u0300-\u036f]/g, ''); } catch (e) {} return s.replace(/[^a-z0-9\s]/g, ' ').replace(/\s+/g, ' ').trim(); }
+function lev(a, b) {
+  if (a === b) return 0;
+  var la = a.length, lb = b.length, i, j;
+  if (Math.abs(la - lb) > 1) return 2;
+  var prev = [], cur = [];
+  for (j = 0; j <= lb; j++) prev[j] = j;
+  for (i = 1; i <= la; i++) {
+    cur[0] = i; var best = 99;
+    for (j = 1; j <= lb; j++) {
+      var v = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (a.charAt(i - 1) === b.charAt(j - 1) ? 0 : 1));
+      cur[j] = v; if (v < best) best = v;
+    }
+    if (best > 1) return 2;
+    var t = prev; prev = cur; cur = t;
+  }
+  return prev[lb];
+}
+function wordLevel(w, nameWords, hayWords, nameJoined) {
+  var i;
+  for (i = 0; i < nameWords.length; i++) if (nameWords[i] === w) return 30;
+  for (i = 0; i < nameWords.length; i++) if (w.length >= 3 && nameWords[i].indexOf(w) === 0) return 24;
+  for (i = 0; i < hayWords.length; i++) if (hayWords[i] === w) return 20;
+  for (i = 0; i < hayWords.length; i++) if (w.length >= 3 && hayWords[i].indexOf(w) === 0) return 18;
+  if (w.length >= 4 && nameJoined.indexOf(w) >= 0) return 22;
+  if (w.length >= 4) {
+    for (i = 0; i < nameWords.length; i++) if (lev(w, nameWords[i]) <= 1) return 17;
+    for (i = 0; i < hayWords.length; i++) if (lev(w, hayWords[i]) <= 1) return 12;
+  }
+  for (i = 0; i < nameWords.length; i++) if (nameWords[i].indexOf(w) >= 0) return 14;
+  return 0;
+}
+function expandWords(qw) {
+  /* variants tried (best score wins): the words themselves; each Roman Urdu
+     word swapped for the FIRST word of its English meaning; the full meaning;
+     and — for multi-word queries — the words joined into one ("wi fi"→"wifi"). */
+  var prim = [], full = [], changed = false;
+  for (var i = 0; i < qw.length; i++) {
+    var a = ALIASES[qw[i]];
+    if (a) {
+      changed = true;
+      var parts = a.split(' ');
+      prim.push(parts[0]);
+      for (var j = 0; j < parts.length; j++) full.push(parts[j]);
+    } else { prim.push(qw[i]); full.push(qw[i]); }
+  }
+  var out = [qw];
+  if (changed) { out.push(prim); if (full.join(' ') !== prim.join(' ')) out.push(full); }
+  if (qw.length > 1) out.push([qw.join('')]);
+  return out;
+}
+function runSearch(q, limit) {
+  var query = norm(q);
+  if (!query || !data) return [];
+  var variants = expandWords(query.split(' ')), out = [];
+  for (var e = 0; e < data.length; e++) {
+    var it = data[e], name = norm(it.n),
+        hay = name + ' ' + norm(it.s) + ' ' + (it.k || ''),
+        nameWords = name.split(' '), hayWords = hay.split(' '),
+        nameJoined = name.replace(/ /g, ''), best = -1;
+    for (var v = 0; v < variants.length; v++) {
+      var qw = variants[v], sum = 0, ok = true;
+      for (var i = 0; i < qw.length; i++) {
+        var lv = wordLevel(qw[i], nameWords, hayWords, nameJoined);
+        if (lv === 0) { ok = false; break; }
+        sum += lv;
+      }
+      if (!ok) continue;
+      var score = sum * 10, qs = qw.join(' '), qJoined = qs.replace(/ /g, '');
+      if (name === qs) score += 100000;
+      else if (name.indexOf(qs) === 0) score += 5000;
+      else if (name.indexOf(qs) >= 0) score += 2000;
+      if (nameJoined === qJoined) score += 9000;
+      else if (qJoined.length >= 4 && nameJoined.indexOf(qJoined) >= 0) score += 2500;
+      if (qw.length > 1) {
+        var allN = true;
+        for (var k = 0; k < qw.length; k++) if (nameWords.indexOf(qw[k]) < 0) allN = false;
+        if (allN) score += 800;
+      }
+      /* tool whose name carries the searched word beats a guide about it */
+      if (it.c !== 'Guide') {
+        for (var m = 0; m < qw.length; m++) if (nameWords.indexOf(qw[m]) >= 0) { score += 350; break; }
+      }
+      score -= (typeof it.p === 'number' ? it.p : 400) * 0.6;
+      score -= name.length * 0.3;
+      if (score > best) best = score;
+    }
+    if (best >= 0) out.push({ it: it, score: best });
+  }
+  out.sort(function (a, b) { return b.score - a.score; });
+  /* dedupe: same URL once, same tool name once (keep the better-ranked copy) */
+  var seenU = {}, seenN = {}, res = [];
+  for (var r = 0; r < out.length; r++) {
+    var en = out[r].it, key = norm(en.n);
+    if (seenU[en.u] || seenN[key]) continue;
+    seenU[en.u] = 1; seenN[key] = 1; res.push(en);
+    if (res.length >= limit) break;
+  }
+  return res;
+}
+function popular(n) {
+  if (!data) return [];
+  return data.filter(function (e) { return (typeof e.p === 'number' ? e.p : 400) < 30; })
+             .sort(function (a, b) { return a.p - b.p; }).slice(0, n);
+}
+/*CORE-END*/
+
+
+  function esc(s) {
+    return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+  function badge(e) { return e.c === 'Website' ? 'Website' : (e.c === 'Guide' ? 'Guide' : e.s.replace(/^Loona /, '')); }
+  function itemHtml(e, i) {
+    return '<a class="ls-item" role="option" data-i="' + i + '" href="' + esc(e.u) + '">' +
+           '<span class="ls-nm">' + esc(e.n) + '</span><span class="ls-badge">' + esc(badge(e)) + '</span>' +
+           '<span class="ls-ds">' + esc(e.d) + '</span></a>';
+  }
+  function bindItems() {
+    var links = list.querySelectorAll('.ls-item');
+    for (var i = 0; i < links.length; i++) {
+      links[i].addEventListener('mouseenter', function () { setActive(parseInt(this.getAttribute('data-i'), 10)); });
+    }
+  }
+  function render(items, q) {
+    active = -1; current = items;
+    var h = '';
+    if (usingFallback) h += '<div class="ls-none">' + STR.fb + '</div>';
+    h += items.map(itemHtml).join('');
+    list.innerHTML = h;
+    bindItems();
+    list.hidden = false;
+    input.setAttribute('aria-expanded', 'true');
+  }
+  function renderZero(q) {
+    var pop = popular(6);
+    active = -1; current = pop;
+    var h = '<div class="ls-none">' + STR.zero1 + esc(q) + STR.zero2 + '</div>' +
+            pop.map(itemHtml).join('') +
+            '';
+    list.innerHTML = h;
+    bindItems();
+    list.hidden = false;
+    input.setAttribute('aria-expanded', 'true');
+  }
+  function renderLoading() {
+    list.innerHTML = '<div class="ls-none">' + STR.loading + '</div>';
+    list.hidden = false;
+    input.setAttribute('aria-expanded', 'true');
+  }
+  function refresh() {
+    var q = input.value;
+    if (!data) { renderLoading(); return; }
+    if (!norm(q)) { render(popular(6), ''); return; }
+    var res = runSearch(q, 8);
+    if (res.length) render(res, q); else renderZero(q);
+  }
+  function hide() { list.hidden = true; active = -1; input.setAttribute('aria-expanded', 'false'); }
+  function setActive(i) {
+    active = i;
+    var links = list.querySelectorAll('.ls-item');
+    for (var j = 0; j < links.length; j++) links[j].classList.toggle('act', j === i);
+    if (i >= 0 && links[i]) links[i].scrollIntoView({ block: 'nearest' });
+  }
+  function ensureIndex() {
+    if (data && !usingFallback) return;
+    if (loading) return;
+    loading = fetch(INDEX_URL).then(function (r) {
+      if (!r.ok) throw new Error('index ' + r.status);
+      return r.json();
+    }).then(function (j) {
+      data = j; usingFallback = false; loading = null; refresh();
+    }).catch(function () {
+      loading = null;                 /* not poisoned: next keystroke/focus retries */
+      if (!data) { data = FALLBACK; usingFallback = true; }
+      refresh();
+    });
+  }
+  var timer = null;
+  function onType() { ensureIndex(); refresh(); }
+  input.addEventListener('focus', onType);
+  input.addEventListener('input', function () { clearTimeout(timer); timer = setTimeout(onType, 70); });
+  input.addEventListener('keydown', function (ev) {
+    if (ev.key === 'ArrowDown' || ev.key === 'ArrowUp') {
+      ev.preventDefault();
+      if (list.hidden) { onType(); return; }
+      var n = current.length; if (!n) return;
+      setActive(ev.key === 'ArrowDown' ? (active + 1) % n : (active - 1 + n) % n);
+    } else if (ev.key === 'Escape') { hide(); }
+  });
+  form.addEventListener('submit', function (ev) {
+    ev.preventDefault();
+    var q = input.value;
+    if (active >= 0 && current[active]) { window.location.href = current[active].u; return; }
+    ensureIndex();
+    if (data) {
+      var best = runSearch(q, 1);
+      if (best.length) { window.location.href = best[0].u; return; }
+    }
+    if (norm(q)) renderZero(q);
+  });
+  document.addEventListener('click', function (ev) { if (!form.contains(ev.target)) hide(); });
+})();
+
 </script>
 <script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Install App';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Install this app: tap the Share button, then choose "Add to Home Screen".');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
 </body></html>
