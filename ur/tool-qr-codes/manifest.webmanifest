@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR Codes for All Loona Tools",
+  "short_name": "تمام Loona Tools کے لیے QR Codes",
+  "description": "کسی بھی Loona ٹول کے لیے مفت تیار QR کوڈ حاصل کریں — 955 کیلکولیٹرز، PDF ٹولز، امیج ٹولز، مطالعہ ٹولز اور ایپس۔ ٹول منتخب کریں، اس کا QR کوڈ ہائی ریزولوشن PNG کے طور پر ڈاؤن لوڈ کریں اور اسے پرنٹ کریں۔ کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، کبھی ختم نہیں ہوتا۔",
+  "id": "/loona-qr-codes/ur/tool-qr-codes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

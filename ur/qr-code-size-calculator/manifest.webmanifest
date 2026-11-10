@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR Code Size Calculator",
+  "short_name": "QR Code Size Calculator",
+  "description": "مفت QR کوڈ سائز کیلکولیٹر: اسکیننگ فاصلہ اور مواد کی قسم لکھیں تاکہ cm میں کم از کم پرنٹ سائز، تجویز کردہ PNG ریزولوشن اور خاموش زون حاصل کریں",
+  "id": "/loona-qr-codes/ur/qr-code-size-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

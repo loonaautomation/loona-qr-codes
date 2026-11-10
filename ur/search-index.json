@@ -1,0 +1,344 @@
+[
+ {
+  "n": "URL / Website QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/url-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "کسی بھی ویب سائٹ لنک کو QR کوڈ میں بدلیں۔",
+  "k": "url website qr code generator url qr code generator turn any website link into a qr code کسی بھی ویب سائٹ لنک کو کوڈ میں بدلیں۔",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Plain Text QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/text-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "کوئی بھی متن، کوڈ یا پیغام QR کوڈ کے اندر رکھیں۔",
+  "k": "plain text qr code generator text qr code generator put any text code or message inside a qr code کوئی بھی متن، کوڈ یا پیغام کوڈ کے اندر رکھیں۔",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "WiFi QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/wifi-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "مہمان ایک اسکین سے WiFi سے جڑتے ہیں، پاس ورڈ لکھے بغیر۔",
+  "k": "wifi qr code generator wifi qr code generator guests connect to wifi with one scan no password typing مہمان ایک اسکین سے سے جڑتے ہیں، پاس ورڈ لکھے بغیر۔",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "WhatsApp QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/whatsapp-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "ایک اسکین سے WhatsApp چیٹ شروع کریں، نمبر محفوظ کیے بغیر۔",
+  "k": "whatsapp qr code generator whatsapp qr code generator start a whatsapp chat with one scan no number saving ایک اسکین سے چیٹ شروع کریں، نمبر محفوظ کیے بغیر۔",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "vCard Contact QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/vcard-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "اپنا مکمل رابطہ کارڈ فون میں محفوظ کرنے کے لیے اسکین کریں۔",
+  "k": "vcard contact qr code generator vcard qr code generator scan to save your full contact card to a phone اپنا مکمل رابطہ کارڈ فون میں محفوظ کرنے کے لیے اسکین کریں۔",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Email QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/email-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "پہلے سے ایڈریس شدہ ای میل کھولنے کے لیے اسکین کریں، بھیجنے کے لیے تیار۔",
+  "k": "email qr code generator email qr code generator scan to open a pre addressed email ready to send پہلے سے ایڈریس شدہ ای میل کھولنے کے لیے اسکین کریں، بھیجنے کے لیے تیار۔",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "SMS QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/sms-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "پہلے سے لکھا ہوا ٹیکسٹ پیغام کھولنے کے لیے اسکین کریں۔",
+  "k": "sms qr code generator sms qr code generator scan to open a pre written text message پہلے سے لکھا ہوا ٹیکسٹ پیغام کھولنے کے لیے اسکین کریں۔",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "Phone Call QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/phone-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "اپنا نمبر فوراً ڈائل کرنے کے لیے اسکین کریں۔",
+  "k": "phone call qr code generator phone qr code generator scan to dial your number instantly اپنا نمبر فوراً ڈائل کرنے کے لیے اسکین کریں۔",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "Instagram QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/instagram-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "اسکین کر کے فالو کرنے والے Instagram QR سے فالورز بڑھائیں۔",
+  "k": "instagram qr code generator instagram qr code generator grow followers with a scan to follow instagram qr اسکین کر کے فالو کرنے والے سے فالورز بڑھائیں۔",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Facebook QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/facebook-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "لوگوں کو سیدھا اپنے Facebook پیج پر بھیجیں۔",
+  "k": "facebook qr code generator facebook qr code generator send people straight to your facebook page لوگوں کو سیدھا اپنے پیج پر بھیجیں۔",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "YouTube QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/youtube-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "ویڈیو یا چینل فوراً کھولنے کے لیے اسکین کریں۔",
+  "k": "youtube qr code generator youtube qr code generator scan to open a video or channel instantly ویڈیو یا چینل فوراً کھولنے کے لیے اسکین کریں۔",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "TikTok QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/tiktok-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "اپنا TikTok پروفائل کھولنے کے لیے اسکین کریں۔",
+  "k": "tiktok qr code generator tiktok qr code generator scan to open your tiktok profile اپنا پروفائل کھولنے کے لیے اسکین کریں۔",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "X (Twitter) QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/x-twitter-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "اپنا X پروفائل کھولنے کے لیے اسکین کریں۔",
+  "k": "x twitter qr code generator x twitter qr code generator scan to open your x profile اپنا پروفائل کھولنے کے لیے اسکین کریں۔",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "LinkedIn QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/linkedin-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "ایک اسکین سے پیشہ ورانہ طور پر جڑیں۔",
+  "k": "linkedin qr code generator linkedin qr code generator connect professionally with one scan ایک اسکین سے پیشہ ورانہ طور پر جڑیں۔",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Telegram QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/telegram-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "اپنے Telegram پروفائل، گروپ یا چینل میں شامل ہونے کے لیے اسکین کریں۔",
+  "k": "telegram qr code generator telegram qr code generator scan to join your telegram profile group or channel اپنے پروفائل، گروپ یا چینل میں شامل ہونے کے لیے اسکین کریں۔",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Snapchat QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/snapchat-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Snapchat پر آپ کو شامل کرنے کے لیے اسکین کریں۔",
+  "k": "snapchat qr code generator snapchat qr code generator scan to add you on snapchat پر آپ کو شامل کرنے کے لیے اسکین کریں۔",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Google Maps Location QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/google-maps-location-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "اپنی جگہ تک راستے حاصل کرنے کے لیے اسکین کریں۔",
+  "k": "google maps location qr code generator google maps location qr code generator scan to get directions to your place اپنی جگہ تک راستے حاصل کرنے کے لیے اسکین کریں۔",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Google Review QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/google-review-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "خوش گاہک سیکنڈوں میں Google ریویو دیتے ہیں۔",
+  "k": "google review qr code generator google review qr code generator happy customers leave a google review in seconds خوش گاہک سیکنڈوں میں ریویو دیتے ہیں۔",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Restaurant Menu QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/restaurant-menu-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "ہر میز پر بغیر رابطے مینو۔",
+  "k": "restaurant menu qr code generator restaurant menu qr code generator contactless menu on every table ہر میز پر بغیر رابطے مینو۔",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/pdf-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "PDF فائل کھولنے یا ڈاؤن لوڈ کرنے کے لیے اسکین کریں۔",
+  "k": "pdf qr code generator pdf qr code generator scan to open or download a pdf file فائل کھولنے یا ڈاؤن لوڈ کرنے کے لیے اسکین کریں۔",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "App Store / Google Play QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/app-store-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "اپنی ایپ انسٹال کرنے کے لیے اسکین کریں۔",
+  "k": "app store google play qr code generator app store qr code generator scan to install your app اپنی ایپ انسٹال کرنے کے لیے اسکین کریں۔",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Google Form QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/google-form-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Google Form کھولنے اور بھرنے کے لیے اسکین کریں۔",
+  "k": "google form qr code generator google form qr code generator scan to open and fill a google form کھولنے اور بھرنے کے لیے اسکین کریں۔",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Zoom / Meeting QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/zoom-meeting-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "میٹنگ یا کلاس میں شامل ہونے کے لیے اسکین کریں۔",
+  "k": "zoom meeting qr code generator zoom meeting qr code generator scan to join a meeting or class میٹنگ یا کلاس میں شامل ہونے کے لیے اسکین کریں۔",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Event / Calendar QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/event-calendar-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "ایونٹ کیلنڈر میں محفوظ کرنے کے لیے اسکین کریں۔",
+  "k": "event calendar qr code generator event calendar qr code generator scan to save an event to the calendar ایونٹ کیلنڈر میں محفوظ کرنے کے لیے اسکین کریں۔",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "PayPal QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/paypal-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "ادائیگی حاصل کریں: اپنا PayPal.me صفحہ کھولنے کے لیے اسکین کریں۔",
+  "k": "paypal qr code generator paypal qr code generator get paid scan to open your paypal me page ادائیگی حاصل کریں اپنا صفحہ کھولنے کے لیے اسکین کریں۔",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "UPI Payment QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/upi-payment-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "بھارت اور UPI خطوں میں دکانوں کے لیے UPI ادائیگی QR۔",
+  "k": "upi payment qr code generator upi payment qr code generator upi payment qr for shops in india and upi regions بھارت اور خطوں میں دکانوں کے لیے ادائیگی ۔",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "JazzCash / EasyPaisa QR Code (Pakistan) Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/jazzcash-easypaisa-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "اپنی JazzCash یا EasyPaisa اکاؤنٹ تفصیلات QR کے طور پر شیئر کریں۔",
+  "k": "jazzcash easypaisa qr code pakistan generator jazzcash easypaisa qr code generator share your jazzcash or easypaisa account details as a qr اپنی یا اکاؤنٹ تفصیلات کے طور پر شیئر کریں۔",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Bitcoin / Crypto QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/bitcoin-crypto-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Bitcoin والیٹ ایڈریس QR کے طور پر شیئر کریں۔",
+  "k": "bitcoin crypto qr code generator bitcoin crypto qr code generator share a bitcoin wallet address as a qr والیٹ ایڈریس کے طور پر شیئر کریں۔",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Spotify / Music QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/spotify-music-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "گانا، پلے لسٹ یا پوڈکاسٹ چلانے کے لیے اسکین کریں۔",
+  "k": "spotify music qr code generator spotify music qr code generator scan to play a song playlist or podcast گانا، پلے لسٹ یا پوڈکاسٹ چلانے کے لیے اسکین کریں۔",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Resume / Portfolio QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/resume-portfolio-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "اپنا ریزیومے یا پورٹ فولیو ایک اسکین کی دوری پر رکھیں۔",
+  "k": "resume portfolio qr code generator resume portfolio qr code generator put your resume or portfolio one scan away اپنا ریزیومے یا پورٹ فولیو ایک اسکین کی دوری پر رکھیں۔",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Image QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/image-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "فوٹو یا تصویر لنک کھولنے یا شیئر کرنے کے لیے اسکین کریں۔",
+  "k": "image qr code generator image qr code generator scan to open or share a photo or image link فوٹو یا تصویر لنک کھولنے یا شیئر کرنے کے لیے اسکین کریں۔",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Audio QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/audio-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "گانا، وائس نوٹ یا آڈیو فائل چلانے کے لیے اسکین کریں۔",
+  "k": "audio qr code generator audio qr code generator scan to play a song voice note or audio file گانا، وائس نوٹ یا آڈیو فائل چلانے کے لیے اسکین کریں۔",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Social Media QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/social-media-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "اپنے سوشل میڈیا پروفائل لنکس کے لیے ایک QR।",
+  "k": "social media qr code generator social media qr code generator one qr for your social media profile links اپنے سوشل میڈیا پروفائل لنکس کے لیے ایک",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Pinterest QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/pinterest-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "اپنا Pinterest پروفائل یا بورڈ کھولنے کے لیے اسکین کریں۔",
+  "k": "pinterest qr code generator pinterest qr code generator scan to open your pinterest profile or board اپنا پروفائل یا بورڈ کھولنے کے لیے اسکین کریں۔",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Discord QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/discord-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "اپنے Discord سرور یا پروفائل میں شامل ہونے کے لیے اسکین کریں۔",
+  "k": "discord qr code generator discord qr code generator scan to join your discord server or profile اپنے سرور یا پروفائل میں شامل ہونے کے لیے اسکین کریں۔",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "GitHub QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/github-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "اپنا GitHub پروفائل یا ریپوزیٹری کھولنے کے لیے اسکین کریں۔",
+  "k": "github qr code generator github qr code generator scan to open your github profile or repository اپنا پروفائل یا ریپوزیٹری کھولنے کے لیے اسکین کریں۔",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "QR Code & Barcode Scanner",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/qr-code-scanner/",
+  "s": "Loona QR Codes",
+  "d": "اپنے کیمرے سے کوڈز اسکین کریں، یا تصویر یا اسکرین شاٹ سے QR کوڈز اور بارکوڈز ڈیکوڈ کریں۔",
+  "k": "qr code barcode scanner qr code scanner scan codes with your camera or decode qr codes and barcodes from a photo or screenshot اپنے کیمرے سے کوڈز اسکین کریں، یا تصویر یا اسکرین شاٹ سے کوڈز اور بارکوڈز ڈیکوڈ کریں۔",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Bulk QR Code Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/bulk-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "ایک ساتھ 100 تک لیبل شدہ QR کوڈز پرنٹ کے قابل شیٹ میں بنائیں۔",
+  "k": "bulk qr code generator bulk qr code generator create up to 100 labelled qr codes at once in a printable sheet ایک ساتھ تک لیبل شدہ کوڈز پرنٹ کے قابل شیٹ میں بنائیں۔",
+  "p": 137,
+  "c": "Tool"
+ }
+]

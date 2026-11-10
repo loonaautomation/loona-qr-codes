@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bulk QR Code Generator",
+  "short_name": "Bulk QR Code Generator",
+  "description": "ایک ساتھ 100 تک QR کوڈز مفت بنائیں: لنکس اور متن کی فہرست پیسٹ کریں یا CSV اپ لوڈ کریں، لیبل شدہ پرنٹ کے قابل QR کوڈز کی شیٹ حاصل کریں۔ کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، کبھی ختم نہیں ہوتا، آپ کے براؤزر میں 100% پرائیویٹ۔",
+  "id": "/loona-qr-codes/ur/bulk-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
