@@ -1,0 +1,29 @@
+{
+  "name": "Loona e-mail-QR-codegenerator",
+  "short_name": "E-mail-QR-codegenerator",
+  "description": "Maak direct een gratis e-mail-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Scan om een vooraf geadresseerde e-mail te openen, klaar om te versturen. Aangepaste kleuren, PNG-download in hoge resolutie.",
+  "id": "/loona-qr-codes/nl/email-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

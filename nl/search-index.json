@@ -1,0 +1,344 @@
+[
+ {
+  "n": "URL- / website-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/url-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Verander elke websitelink in een QR-code.",
+  "k": "url website qr code generator url qr code generator verander elke websitelink in een qr code",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "QR-codegenerator met gewone tekst",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/text-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Zet elke tekst, code of elk bericht in een QR-code.",
+  "k": "plain text qr code generator text qr code generator zet elke tekst code of elk bericht in een qr code",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "WiFi-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/wifi-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Gasten verbinden met WiFi met één scan, zonder wachtwoorden te typen.",
+  "k": "wifi qr code generator wifi qr code generator gasten verbinden met wifi met een scan zonder wachtwoorden te typen",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "WhatsApp-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/whatsapp-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Start een WhatsApp-chat met één scan, geen nummer opslaan.",
+  "k": "whatsapp qr code generator whatsapp qr code generator start een whatsapp chat met een scan geen nummer opslaan",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "vCard-contact-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/vcard-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scan om je volledige contactkaart op een telefoon op te slaan.",
+  "k": "vcard contact qr code generator vcard qr code generator scan om je volledige contactkaart op een telefoon op te slaan",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "E-mail-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/email-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scan om een vooraf geadresseerde e-mail te openen, klaar om te versturen.",
+  "k": "email qr code generator email qr code generator scan om een vooraf geadresseerde e mail te openen klaar om te versturen",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "Sms-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/sms-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scan om een vooraf geschreven tekstbericht te openen.",
+  "k": "sms qr code generator sms qr code generator scan om een vooraf geschreven tekstbericht te openen",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "Telefoongesprek-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/phone-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scan om je nummer direct te bellen.",
+  "k": "phone call qr code generator phone qr code generator scan om je nummer direct te bellen",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "Instagram-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/instagram-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Laat volgers groeien met een scan-om-te-volgen Instagram-QR.",
+  "k": "instagram qr code generator instagram qr code generator laat volgers groeien met een scan om te volgen instagram qr",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Facebook-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/facebook-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Stuur mensen rechtstreeks naar je Facebook-pagina.",
+  "k": "facebook qr code generator facebook qr code generator stuur mensen rechtstreeks naar je facebook pagina",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "YouTube-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/youtube-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scan om direct een video of kanaal te openen.",
+  "k": "youtube qr code generator youtube qr code generator scan om direct een video of kanaal te openen",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "TikTok-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/tiktok-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scan om je TikTok-profiel te openen.",
+  "k": "tiktok qr code generator tiktok qr code generator scan om je tiktok profiel te openen",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "X (Twitter)-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/x-twitter-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scan om je X-profiel te openen.",
+  "k": "x twitter qr code generator x twitter qr code generator scan om je x profiel te openen",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "LinkedIn-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/linkedin-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Connect professioneel met één scan.",
+  "k": "linkedin qr code generator linkedin qr code generator connect professioneel met een scan",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Telegram-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/telegram-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scan om lid te worden van je Telegram-profiel, -groep of -kanaal.",
+  "k": "telegram qr code generator telegram qr code generator scan om lid te worden van je telegram profiel groep of kanaal",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Snapchat-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/snapchat-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scan om je toe te voegen op Snapchat.",
+  "k": "snapchat qr code generator snapchat qr code generator scan om je toe te voegen op snapchat",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Google Maps-locatie-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/google-maps-location-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scan om een routebeschrijving naar je plek te krijgen.",
+  "k": "google maps location qr code generator google maps location qr code generator scan om een routebeschrijving naar je plek te krijgen",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Google Review-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/google-review-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Tevreden klanten laten binnen seconden een Google-review achter.",
+  "k": "google review qr code generator google review qr code generator tevreden klanten laten binnen seconden een google review achter",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Restaurantmenu-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/restaurant-menu-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Contactloos menu op elke tafel.",
+  "k": "restaurant menu qr code generator restaurant menu qr code generator contactloos menu op elke tafel",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/pdf-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scan om een PDF-bestand te openen of te downloaden.",
+  "k": "pdf qr code generator pdf qr code generator scan om een pdf bestand te openen of te downloaden",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "App Store-/Google Play-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/app-store-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scan om je app te installeren.",
+  "k": "app store google play qr code generator app store qr code generator scan om je app te installeren",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Google Formulier-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/google-form-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scan om een Google-formulier te openen en in te vullen.",
+  "k": "google form qr code generator google form qr code generator scan om een google formulier te openen en in te vullen",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Zoom- / vergader-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/zoom-meeting-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scan om deel te nemen aan een vergadering of les.",
+  "k": "zoom meeting qr code generator zoom meeting qr code generator scan om deel te nemen aan een vergadering of les",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Evenement-/agenda-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/event-calendar-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scan om een evenement in de agenda op te slaan.",
+  "k": "event calendar qr code generator event calendar qr code generator scan om een evenement in de agenda op te slaan",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "PayPal-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/paypal-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Word betaald: scan om je PayPal.me-pagina te openen.",
+  "k": "paypal qr code generator paypal qr code generator word betaald scan om je paypal me pagina te openen",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "UPI-betaal-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/upi-payment-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "UPI-betaal-QR voor winkels in India en UPI-regio's.",
+  "k": "upi payment qr code generator upi payment qr code generator upi betaal qr voor winkels in india en upi regio s",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "JazzCash-/EasyPaisa-QR-codegenerator (Pakistan)",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/jazzcash-easypaisa-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Deel je JazzCash- of EasyPaisa-accountgegevens als QR.",
+  "k": "jazzcash easypaisa qr code pakistan generator jazzcash easypaisa qr code generator deel je jazzcash of easypaisa accountgegevens als qr",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Bitcoin-/crypto-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/bitcoin-crypto-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Deel een Bitcoin-walletadres als QR.",
+  "k": "bitcoin crypto qr code generator bitcoin crypto qr code generator deel een bitcoin walletadres als qr",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Spotify- / muziek-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/spotify-music-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scan om een nummer, afspeellijst of podcast af te spelen.",
+  "k": "spotify music qr code generator spotify music qr code generator scan om een nummer afspeellijst of podcast af te spelen",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Cv- / portfolio-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/resume-portfolio-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Zet je cv of portfolio één scan verwijderd.",
+  "k": "resume portfolio qr code generator resume portfolio qr code generator zet je cv of portfolio een scan verwijderd",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Afbeeldings-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/image-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scan om een foto- of afbeeldingslink te openen of te delen.",
+  "k": "image qr code generator image qr code generator scan om een foto of afbeeldingslink te openen of te delen",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Audio-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/audio-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scan om een nummer, spraaknotitie of audiobestand af te spelen.",
+  "k": "audio qr code generator audio qr code generator scan om een nummer spraaknotitie of audiobestand af te spelen",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Socialemedia-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/social-media-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Eén QR voor je socialemediaprofiellinks.",
+  "k": "social media qr code generator social media qr code generator een qr voor je socialemediaprofiellinks",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Pinterest-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/pinterest-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scan om je Pinterest-profiel of -bord te openen.",
+  "k": "pinterest qr code generator pinterest qr code generator scan om je pinterest profiel of bord te openen",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Discord-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/discord-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scan om lid te worden van je Discord-server of -profiel.",
+  "k": "discord qr code generator discord qr code generator scan om lid te worden van je discord server of profiel",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "GitHub-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/github-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scan om je GitHub-profiel of -repository te openen.",
+  "k": "github qr code generator github qr code generator scan om je github profiel of repository te openen",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "QR-code- en barcodescanner",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/qr-code-scanner/",
+  "s": "Loona QR Codes",
+  "d": "Scan codes met je camera, of decodeer QR-codes en barcodes uit een foto of screenshot.",
+  "k": "qr code barcode scanner qr code scanner scan codes met je camera of decodeer qr codes en barcodes uit een foto of screenshot",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Bulk-QR-codegenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/nl/bulk-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Maak tot 100 gelabelde QR-codes tegelijk in een printbaar vel.",
+  "k": "bulk qr code generator bulk qr code generator maak tot 100 gelabelde qr codes tegelijk in een printbaar vel",
+  "p": 137,
+  "c": "Tool"
+ }
+]

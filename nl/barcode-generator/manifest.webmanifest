@@ -1,0 +1,29 @@
+{
+  "name": "Loona barcodegenerator",
+  "short_name": "Barcodegenerator",
+  "description": "Maak gratis barcodes online met Loona: Code 128, Code 39, EAN-13, UPC-A en ITF-14. Controlecijfers automatisch toegevoegd, live preview, downloaden als PNG of SVG. Geen registratie, geen watermerk, 100% privé in je browser.",
+  "id": "/loona-qr-codes/nl/barcode-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

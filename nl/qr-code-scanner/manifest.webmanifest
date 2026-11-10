@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR-code- en barcodescanner",
+  "short_name": "QR-code- en barcodescanner",
+  "description": "Scan QR-codes en barcodes gratis online met Loona: gebruik je camera of upload een foto of screenshot. Decodeert URL's, WiFi, vCard-contacten, EAN-13, UPC-A, Code 128 en Code 39. 100% privé — alles wordt op je apparaat gedecodeerd, niets wordt geüpload.",
+  "id": "/loona-qr-codes/nl/qr-code-scanner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
