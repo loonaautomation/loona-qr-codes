@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор QR-кодов для аптек",
+  "short_name": "Генератор QR-кодов для аптек",
+  "description": "Создайте бесплатный QR-код аптеки мгновенно с Loona. Без регистрации, без водяного знака, никогда не истекает. Настраиваемые цвета, скачивание PNG в высоком разрешении.",
+  "id": "/loona-qr-codes/ru/pharmacy-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Все генераторы QR-кодов &amp; штрихкодов",
+  "short_name": "Все QR-коды &amp; штрих-коды",
+  "description": "Полная библиотека QR-кодов Loona: генераторы штрихкодов (Code 128, EAN-13, UPC, Data Matrix, PDF417), платёжные QR-коды (SEPA, UPI, криптовалюта, Venmo), отраслевые сценарии использования и инструменты печати.",
+  "id": "/loona-qr-codes/ru/qr-code-generators/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

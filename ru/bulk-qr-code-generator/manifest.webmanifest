@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор пакетных QR-кодов",
+  "short_name": "Пакетный генератор QR-кодов",
+  "description": "Создавайте до 100 QR-кодов сразу, бесплатно: вставьте список или загрузите CSV со ссылками и текстами — и получите готовый к печати лист QR-кодов с подписями. Без регистрации, без водяных знаков, срок действия не истекает, 100% конфиденциально в вашем браузере.",
+  "id": "/loona-qr-codes/ru/bulk-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор QR-кодов для социальных сетей",
+  "short_name": "Генератор QR-кодов для социальных сетей",
+  "description": "Создайте бесплатный QR-код социальных сетей мгновенно с Loona. Без регистрации, без водяного знака, никогда не истекает. Выберите платформу, добавьте ваше имя пользователя, и одно сканирование откроет ваш профиль. Настраиваемые цвета, скачивание PNG в высоком разрешении.",
+  "id": "/loona-qr-codes/ru/social-media-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
