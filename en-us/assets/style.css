@@ -1,0 +1,40 @@
+:root{--p:#7c3aed;--p2:#5b21b6;--pd:#4c1d95;--bg:#faf9ff;--card:#fff;--text:#1e1b2e;--muted:#5f5b73;--border:#e6e1f5;--radius:14px}
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif;background:var(--bg);color:var(--text);line-height:1.65}
+a{color:var(--p);text-decoration:none}a:hover{text-decoration:underline}
+header.site{background:linear-gradient(135deg,var(--p2),var(--p));color:#fff;padding:14px 0}
+.wrap{max-width:1080px;margin:0 auto;padding:0 18px}
+.nav{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px}
+.logo{font-size:1.5rem;font-weight:800;color:#fff}.logo span{color:#ddd6fe}
+.nav nav a{color:#ede9fe;margin-left:16px;font-weight:600}
+.hero{text-align:center;padding:42px 18px 10px}.hero h1{font-size:2rem;margin:.2em 0;color:var(--pd)}
+.hero p{color:var(--muted);max-width:720px;margin:8px auto}
+.btn{background:var(--p);color:#fff;border:0;padding:12px 22px;border-radius:10px;font-size:1rem;font-weight:700;cursor:pointer}
+.btn:hover{background:var(--p2)}.btn.secondary{background:#fff;color:var(--p);border:2px solid var(--p)}
+.card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:22px;margin:20px auto;box-shadow:0 2px 10px rgba(124,58,237,.06)}
+.gen{display:grid;grid-template-columns:1fr 320px;gap:24px}@media(max-width:800px){.gen{grid-template-columns:1fr}}
+label{display:block;font-weight:600;margin:12px 0 5px}
+input,select,textarea{width:100%;padding:11px;border:1px solid var(--border);border-radius:9px;font-size:1rem;background:#fff;color:var(--text)}
+textarea{min-height:84px}.row{display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px}@media(max-width:640px){.row{grid-template-columns:1fr}}
+.preview{text-align:center}.preview #qrcode{display:inline-block;padding:14px;background:#fff;border:1px solid var(--border);border-radius:10px;min-width:200px;min-height:200px}
+.preview #qrcode img,.preview #qrcode canvas{margin:0 auto}
+.note{background:#f5f3ff;border:1px solid var(--border);border-radius:10px;padding:12px 14px;color:var(--muted);font-size:.95rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:14px;margin:20px 0}
+.tool-card{background:#fff;border:1px solid var(--border);border-radius:12px;padding:16px}.tool-card a{font-weight:700}.tool-card p{color:var(--muted);font-size:.92rem;margin:6px 0 0}
+section.content h2{color:var(--pd);margin-top:28px}footer.site{margin-top:48px;background:#1e1b2e;color:#cbc6e0;padding:28px 0}
+footer.site a{color:#c4b5fd;margin-right:14px}.small{font-size:.9rem;color:var(--muted)}
+
+#qrcode img,#qrcode canvas,#qrcode table{max-width:100%;height:auto}
+
+/* Loona Automation branding: dark teal + gold to match the logo */
+.logo{display:flex;align-items:center;gap:10px}
+.logo-img{width:44px;height:44px;border-radius:50%;object-fit:cover;border:2px solid #c9a227;background:#07272e}
+.hero-logo{width:170px;height:170px;border-radius:24px;object-fit:cover;box-shadow:0 10px 34px rgba(7,39,46,.28);border:3px solid #c9a227;margin-bottom:10px}
+header.site{background:linear-gradient(135deg,#04191d,#0b3a42)}
+.logo span{color:#e9c766}
+.nav nav a{color:#f5e9c9}
+.btn{background:#c9a227;color:#171200}
+.btn:hover{background:#a8861f;color:#171200}
+.btn.secondary{background:#fff;color:#0b3a42;border:2px solid #0b3a42}
+.note{background:#fbf6e3}
+footer.site{background:#04191d}
+footer.site a{color:#e9c766}
