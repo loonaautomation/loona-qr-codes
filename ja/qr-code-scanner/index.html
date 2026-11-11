@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="ja"><head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>QRコード＆バーコードスキャナー – 無料オンラインスキャナー（カメラ＆画像） | Loona QRコード</title><meta name="description" content="Loona で QRコードとバーコードを無料でオンラインスキャン：カメラを使うか、写真やスクリーンショットをアップロード。URL、WiFi、vCard 連絡先、EAN-13、UPC-A、Code 128、Code 39 をデコード。100% プライベート — すべてがあなたのデバイス上でデコードされ、何もアップロードされません。">
+<link rel="canonical" href="https://loonaautomation.github.io/loona-qr-codes/ja/qr-code-scanner/"><link rel="alternate" hreflang="en" href="https://loonaautomation.github.io/loona-qr-codes/qr-code-scanner/"><link rel="alternate" hreflang="es" href="https://loonaautomation.github.io/loona-qr-codes/es/qr-code-scanner/"><link rel="alternate" hreflang="de" href="https://loonaautomation.github.io/loona-qr-codes/de/qr-code-scanner/"><link rel="alternate" hreflang="fr" href="https://loonaautomation.github.io/loona-qr-codes/fr/qr-code-scanner/"><link rel="alternate" hreflang="pt" href="https://loonaautomation.github.io/loona-qr-codes/pt/qr-code-scanner/"><link rel="alternate" hreflang="it" href="https://loonaautomation.github.io/loona-qr-codes/it/qr-code-scanner/"><link rel="alternate" hreflang="nl" href="https://loonaautomation.github.io/loona-qr-codes/nl/qr-code-scanner/"><link rel="alternate" hreflang="ar" href="https://loonaautomation.github.io/loona-qr-codes/ar/qr-code-scanner/"><link rel="alternate" hreflang="ur" href="https://loonaautomation.github.io/loona-qr-codes/ur/qr-code-scanner/"><link rel="alternate" hreflang="tr" href="https://loonaautomation.github.io/loona-qr-codes/tr/qr-code-scanner/"><link rel="alternate" hreflang="ru" href="https://loonaautomation.github.io/loona-qr-codes/ru/qr-code-scanner/"><link rel="alternate" hreflang="ja" href="https://loonaautomation.github.io/loona-qr-codes/ja/qr-code-scanner/"><link rel="alternate" hreflang="x-default" href="https://loonaautomation.github.io/loona-qr-codes/qr-code-scanner/">
+<meta property="og:title" content="QRコード＆バーコードスキャナー – 無料オンラインスキャナー | Loona QRコード"><meta property="og:description" content="カメラで QRコードやバーコードをスキャンするか、写真やスクリーンショットからデコードしてください。無料、登録不要、デバイス上で 100% プライベートなデコード。"><meta property="og:type" content="website"><meta property="og:url" content="https://loonaautomation.github.io/loona-qr-codes/ja/qr-code-scanner/"><meta property="og:locale" content="ja_JP"><meta property="og:site_name" content="Loona QR Codes">
+<meta name="twitter:card" content="summary"><meta name="robots" content="index, follow">
+<link rel="stylesheet" href="../../assets/style.css">
+<style>
+.scan-video{width:100%;max-width:520px;background:#000;border-radius:10px;display:none;margin:0 auto}
+.drop{border:2px dashed #c9a227;border-radius:12px;padding:26px 16px;text-align:center;background:#fdfaf1;cursor:pointer}
+.drop.drag{background:#f5eeda;border-color:#0b3a42}
+.result-box{background:#f5f3ff;border:1px solid #e6e1f5;border-radius:10px;padding:14px;text-align:left;word-break:break-word}
+.result-box pre{white-space:pre-wrap;word-break:break-word;background:#fff;border:1px solid #e6e1f5;border-radius:8px;padding:10px;font-size:.92rem;max-height:220px;overflow:auto}
+.hist{list-style:none;padding:0;margin:10px 0;text-align:left}
+.hist li{border-bottom:1px solid #eee;padding:8px 2px;font-size:.92rem;word-break:break-word}
+.mode-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px}@media(max-width:800px){.mode-grid{grid-template-columns:1fr}}
+</style>
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "QRコード＆バーコードスキャナー – 無料オンラインスキャナー",
+  "url": "https://loonaautomation.github.io/loona-qr-codes/ja/qr-code-scanner/",
+  "applicationCategory": "UtilitiesApplication",
+  "operatingSystem": "Any (Web Browser)",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Loona Automation",
+    "url": "https://loonaautomation.github.io/"
+  }
+}</script>
+<link rel="icon" type="image/svg+xml" href="../../assets/favicon.svg"><meta name="theme-color" content="#07272e"><meta property="og:image" content="https://loonaautomation.github.io/loona-qr-codes/assets/og-image.png"><link rel="icon" type="image/png" sizes="32x32" href="../../assets/favicon-32.png"><link rel="apple-touch-icon" href="../../assets/apple-touch-icon.png"><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-5L43M13ZYT');
+</script>
+<script type="text/javascript">
+(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window, document, "clarity", "script", "z599jkwoy9");
+</script>
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Loona Automation",
+      "item": "https://loonaautomation.github.io/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Loona QRコード",
+      "item": "https://loonaautomation.github.io/loona-qr-codes/ja/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "QRコード＆バーコードスキャナー – 無料オンラインスキャナー",
+      "item": "https://loonaautomation.github.io/loona-qr-codes/ja/qr-code-scanner/"
+    }
+  ]
+}</script>
+<link rel="manifest" href="manifest.webmanifest">
+</head>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"この QRコード＆バーコード スキャナーは無料ですか？","acceptedAnswer":{"@type":"Answer","text":"はい。Loona のスキャナーは完全に無料であり、登録不要、透かしなし、スキャンできるコードの数に制限はなく、個人利用と商用利用のいずれにも対応しています。"}},{"@type":"Question","name":"このスキャナーページで、私のカメラ映像や写真はプライベートですか？","acceptedAnswer":{"@type":"Answer","text":"はい。すべてがあなたのデバイス上、ブラウザ内でデコードされます。カメラのフレームがどこにも送信されることは決してなく、アップロードされた画像がサーバーに送信されることも決してありません — ファイルはローカルで読み取られ、ローカルでデコードされ、スキャン履歴はこのページのメモリ内にのみ保持され、タブを閉じると消えます。"}},{"@type":"Question","name":"なぜ私のブラウザではカメラスキャンが機能しないのですか？","acceptedAnswer":{"@type":"Answer","text":"ライブカメラスキャンは、Chrome、Edge、ほとんどの Android ブラウザに組み込まれた BarcodeDetector テクノロジーを使用します。Safari と Firefox はまだそれを含んでいないため、それらのブラウザでは、カメラボタンが、代わりに画像アップロードを使うよう求めるメッセージに置き換えられます — 写真やスクリーンショットのアップロードは、すべての最新ブラウザで機能します。"}},{"@type":"Question","name":"このスキャナーは写真からバーコードを読み取れますか？","acceptedAnswer":{"@type":"Answer","text":"はい。アップロードモードは、jsQR ライブラリで画像から QRコードを、ZXing ライブラリで画像からバーコードをデコードします — EAN-13、UPC-A、Code 128、Code 39 を含みます — そして jsQR が見逃した、ZXing が見つけた QRコードも。写真の中で非常に小さい、ぼやけた、損傷した、低コントラストのコードは依然として失敗する場合があります。より鮮明で近い写真が通常は解決します。"}},{"@type":"Question","name":"このスキャナーはどのような種類のコードを読めますか？","acceptedAnswer":{"@type":"Answer","text":"カメラスキャン（対応している場合）は、QRコードに加え、ブラウザの BarcodeDetector が提供するバーコード形式を読み取ります。一般的には EAN-13、EAN-8、UPC-A、UPC-E、Code 128、Code 39、Code 93、Codabar、ITF です。画像アップロードは、QRコードと EAN-13、UPC-A、Code 128、Code 39 バーコードを読み取り、デコードされた種類、元の内容、そしてリンクを開く、連絡先を保存するなどのスマートアクションを表示します。"}}]}</script>
+<body><header class="site"><div class="wrap nav"><a class="logo" href="../"><img class="logo-img" src="../../assets/logo.jpg" alt="Loona Automation ロゴ" width="44" height="44">Loona <span>QRコード</span></a>
+<nav><a href="../">ホーム</a><a href="../#all-tools">すべてのツール</a><a href="../about.html">概要</a><a href="../contact.html">お問い合わせ</a></nav></div></header>
+<main class="wrap"><div class="hero"><h1>無料 QRコード＆バーコードスキャナー</h1><p>カメラを QRコードやバーコードに向けるか、写真やスクリーンショットをドロップしてください — コードはあなたのデバイス上でここでデコードされます。登録不要、インストールするアプリも不要、スキャンしたものがアップロードされることは決してありません。多数のコード画像を一度にバッチデコードし、結果を CSV ファイルとしてエクスポートすることもできます。</p></div>
+<div class="card"><div class="mode-grid"><div>
+<h2 style="margin-top:0">カメラでスキャン</h2>
+<p class="small">ライブカメラスキャンは、Chrome、Edge、ほとんどの Android ブラウザに組み込まれた高速な BarcodeDetector を使用し、QRコードと一般的なバーコード（EAN-13、UPC-A、Code 128、Code 39 など、ブラウザにより異なります）を読み取ります。</p>
+<p><button class="btn" id="camStartBtn" type="button">カメラスキャンを開始</button> <button class="btn secondary" id="camStopBtn" type="button" style="display:none">カメラを停止</button></p>
+<video id="camVideo" class="scan-video" playsinline muted></video>
+<p id="camStatus" class="small" role="status"></p>
+<p class="note">プライバシー：カメラのフレームはこのデバイス上でのみ処理され、ブラウザを離れることは決してありません。動画が録画、送信、保存されることはありません。</p>
+</div>
+<div>
+<h2 style="margin-top:0">画像からスキャン</h2>
+<p class="small">写真をアップロードするか、ここに画像ファイルをドロップするか、スクリーンショットを貼り付けてください (Ctrl+V / Cmd+V)。画像内の QRコードは jsQR で、バーコードは ZXing でデコードされます — EAN-13、UPC-A、Code 128、Code 39 を含みます。</p>
+<div class="drop" id="dropZone" tabindex="0" role="button" aria-label="QRコードまたはバーコードを含む画像をアップロード">
+<p style="margin:0"><strong>ここに画像をドロップ</strong> またはクリックしてファイルを選択</p>
+<p class="small" style="margin:6px 0 0">PNG、JPG、WebP、その他のブラウザで読める画像</p>
+</div>
+<input type="file" id="fileInput" accept="image/*" style="display:none">
+<p id="uploadStatus" class="small" role="status"></p>
+<p class="note">100%プライベート: 画像はお使いのブラウザ内で読み取られ、デコードされます。サーバーにアップロードされることは決してありません。</p>
+</div></div></div>
+
+<div class="card" id="resultCard" style="display:none"><h2 style="margin-top:0">スキャン結果</h2>
+<div class="result-box">
+<p style="margin:0 0 6px"><strong>種類：</strong> <span id="resType"></span> &nbsp; <strong>形式：</strong> <span id="resFormat"></span></p>
+<p style="margin:0 0 6px"><strong>デコーダーの詳細:</strong> <span id="resDetails"></span> <span class="small">（QRバージョンとデータモードは、デコーダーが報告した場合に表示されます。誤り訂正レベルとマスクパターンは、これらのデコーダーでは公開されず、決して推測されません。）</span></p>
+<div id="resParsed"></div>
+<p style="margin:10px 0 4px"><strong>生コンテンツ:</strong></p>
+<pre id="resRaw"></pre>
+<p id="resActions" style="margin:10px 0 0"></p>
+</div>
+<h3>スキャン履歴（このセッションのみ）</h3>
+<ul class="hist" id="historyList"></ul>
+<p><button class="btn secondary" id="clearHistoryBtn" type="button">履歴をクリア</button></p>
+<p class="small">履歴はこのページのメモリ内のみに存在します — タブを閉じると消えます。何も保存されず、どこにも送信されません。</p>
+</div>
+
+<div class="card" id="batchCard"><h2 style="margin-top:0">一括デコード — 多数のコード画像を一度に</h2>
+<p class="small">確認するコード写真のセット丸ごとがありますか — 印刷したシート、商品写真のフォルダ、クラスのスクリーンショットセット？一度に複数の画像を選択またはドロップしてください：それぞれが上記と同じ jsQR と ZXing デコーダーでデコードされ、結果は表に集められ、表を CSV ファイルとしてエクスポートできます。読み取り可能なコードを含まないファイルは、正直に「デコードできませんでした」としてリストされます。</p>
+<div class="drop" id="batchDrop" tabindex="0" role="button" aria-label="QRコードまたはバーコードを含む複数の画像をアップロード">
+<p style="margin:0"><strong>ここに複数の画像をドロップ</strong> またはクリックしてファイルを選択</p>
+<p class="small" style="margin:6px 0 0">PNG、JPG、WebP、その他のブラウザで読める画像 — このデバイスで一つずつデコードされます</p>
+</div>
+<input type="file" id="batchInput" accept="image/*" multiple style="display:none">
+<p id="batchStatus" class="small" role="status"></p>
+<div id="batchWrap" style="display:none;overflow-x:auto">
+<table style="width:100%;border-collapse:collapse;font-size:.92rem">
+<thead><tr><th style="text-align:left;border-bottom:2px solid #e6e1f5;padding:6px">ファイル名</th><th style="text-align:left;border-bottom:2px solid #e6e1f5;padding:6px">形式</th><th style="text-align:left;border-bottom:2px solid #e6e1f5;padding:6px">種類</th><th style="text-align:left;border-bottom:2px solid #e6e1f5;padding:6px">デコードされたテキスト</th></tr></thead>
+<tbody id="batchBody"></tbody>
+</table>
+</div>
+<p><button class="btn" id="batchCsvBtn" type="button" style="display:none">結果を CSV としてエクスポート</button> <button class="btn secondary" id="batchClearBtn" type="button" style="display:none">バッチをクリア</button></p>
+<p class="note">100%プライベート: バッチデコードも完全にお使いのブラウザ内で行われます。バッチ内の画像がアップロードされることはなく、CSV はエクスポートをクリックしたときにデバイス上で作成されます。</p>
+</div>
+
+<section class="content">
+<h2>3つのステップで QRコードやバーコードをスキャンする方法</h2>
+<ol><li><strong>カメラまたは画像を選択してください。</strong> Chrome、Edge、Android では、「カメラスキャンを開始」をタップし、カメラへのアクセスを許可し、コードをフレーム内に保持してください。Safari や Firefox を含むどのブラウザでも、代わりに写真をアップロードしたり、画像をドラッグしたり、スクリーンショットを貼り付けたりできます。</li>
+<li><strong>デコードのために少しお待ちください。</strong> スキャナーはあなたのデバイス上でパターンを読み、デコードされた種類、形式、生コンテンツを表示します。写真については、コードの鮮明で近く、十分に明るい画像が最も速くスキャンされます。</li><li><strong>スマートアクションを使用してください。</strong> デコードされたリンクを開いたり、WiFi ネットワーク名とパスワードを表示したり、vCard コードから連絡先カード (.vcf) をダウンロードしたり、番号に電話したり、生テキストをワンタップでコピーしたりできます。すべてのスキャンは、このセッションのページ内履歴に追加されます。</li></ol>
+<h2>このQRコード＆バーコードスキャナーについて</h2>
+<p>ほとんどの QR サイトは〜だけ <em>make</em> コード。このページは反対の仕事をします：それらを読みます。それは、印刷されたコードに読み取り可能なラベルがない場合、同僚がその中のリンクの代わりにコードのスクリーンショットを送ってきた場合、大きな印刷の前に、あなた自身の印刷したコードの一つが実際に何を含んでいるか確認したい場合、または製品のバーコード番号を写真から読み取らなければならない場合に必要なものです。</p>
+<p>二つの方法で動作します。カメラモードは、最新の Chromium ブラウザに組み込まれた BarcodeDetector インターフェースを使用します — あなたのスマートフォンのシステムが使うのと同じ、高速でハードウェアに優しい検出 — そして QRコードと一般的な一次元バーコードを報告します。画像モードは完全に自己完結型です：オープンソースの jsQR ライブラリが画像のピクセルから QRコードをデコードし、オープンソースの ZXing ライブラリが同じピクセルからバーコード（そして jsQR が見逃した QRコード）をデコードします。どちらも完全にブラウザ内で実行されます。そのため、このスキャナーは、見知らぬ人のサーバーにアップロードしたくない機密性の高いコード — WiFi パスワード、支払いコード、プライベートリンク — でも機能し続けます。</p>
+<h2>このスキャナーの最適な用途</h2><ul><li>大量に印刷する前に、自分の印刷したQRコードをチェックすること</li><li>誰かが送ってくれたスクリーンショットや写真の中にある QRコードに隠されたリンクを開くこと</li><li>WiFi QRコード画像から WiFi ネットワーク名とパスワードを復元すること</li><li>名刺の QRコードから vCard 連絡先を .vcf ファイルとして保存すること</li><li>製品とラベルの写真から EAN-13、UPC-A、Code 128、Code 39 のバーコード番号を読み取ること</li><li>生成したバーコードが、意図した正確な番号にスキャンし直されることを確認すること</li><li>印刷したシート全体や、コード写真のフォルダーを一括チェックし、すべての結果を CSV でエクスポートします</li><li>geo: ロケーションコードの背後にある座標や、Bitcoin や Ethereum の支払いコードの背後にあるアドレスを、行動する前に確認すること</li></ul>
+<p>驚かないための正直な制限：カメラスキャンは、Safari と Firefox がまだ出荷していないブラウザ機能に依存しているため、それらのブラウザでは画像モードのみが利用できます — ページはこれを検出し、黙って失敗する代わりに、率直に伝えます。そして、写真の中で小さすぎたり、ぼやけていたり、破れていたり、コントラストが不十分に印刷されたコードは、どのデコーダーも読めません。写真をより近く、正面から、十分な光の下で撮り直すと、ほとんどの失敗したスキャンは修正されます。</p>
+<h2>よくある質問</h2><h3>この QRコード＆バーコード スキャナーは無料ですか？</h3><p>はい。Loona のスキャナーは完全に無料であり、登録不要、透かしなし、スキャンできるコードの数に制限はなく、個人利用と商用利用のいずれにも対応しています。</p><h3>このスキャナーページで、私のカメラ映像や写真はプライベートですか？</h3><p>はい。すべてがあなたのデバイス上、ブラウザ内でデコードされます。カメラのフレームがどこにも送信されることは決してなく、アップロードされた画像がサーバーに送信されることも決してありません — ファイルはローカルで読み取られ、ローカルでデコードされ、スキャン履歴はこのページのメモリ内にのみ保持され、タブを閉じると消えます。</p><h3>なぜ私のブラウザではカメラスキャンが機能しないのですか？</h3><p>ライブカメラスキャンは、Chrome、Edge、ほとんどの Android ブラウザに組み込まれた BarcodeDetector テクノロジーを使用します。Safari と Firefox はまだそれを含んでいないため、それらのブラウザでは、カメラボタンが、代わりに画像アップロードを使うよう求めるメッセージに置き換えられます — 写真やスクリーンショットのアップロードは、すべての最新ブラウザで機能します。</p><h3>このスキャナーは写真からバーコードを読み取れますか？</h3><p>はい。アップロードモードは、jsQR ライブラリで画像から QRコードを、ZXing ライブラリで画像からバーコードをデコードします — EAN-13、UPC-A、Code 128、Code 39 を含みます — そして jsQR が見逃した、ZXing が見つけた QRコードも。写真の中で非常に小さい、ぼやけた、損傷した、低コントラストのコードは依然として失敗する場合があります。より鮮明で近い写真が通常は解決します。</p><h3>このスキャナーはどのような種類のコードを読めますか？</h3><p>カメラスキャン（対応している場合）は、QRコードに加え、ブラウザの BarcodeDetector が提供するバーコード形式を読み取ります。一般的には EAN-13、EAN-8、UPC-A、UPC-E、Code 128、Code 39、Code 93、Codabar、ITF です。画像アップロードは、QRコードと EAN-13、UPC-A、Code 128、Code 39 バーコードを読み取り、デコードされた種類、元の内容、そしてリンクを開く、連絡先を保存するなどのスマートアクションを表示します。</p>
+<h2>関連する QRコード生成ツール</h2><div class="grid"><div class="tool-card"><a href="../barcode-generator/">バーコード生成ツール</a><p>製品バーコードを作成 — Code 128、EAN-13、UPC など。その後、ここでスキャンし直して確認します。</p></div><div class="tool-card"><a href="../url-qr-code-generator/">URL / ウェブサイト QRコード生成ツール</a><p>任意のウェブサイトリンクを QRコードに変換。</p></div><div class="tool-card"><a href="../text-qr-code-generator/">プレーンテキスト QRコード生成ツール</a><p>任意のテキスト、コード、メッセージを QRコードの中に入れます。</p></div><div class="tool-card"><a href="../wifi-qr-code-generator/">WiFi QRコード生成ツール</a><p>ゲストは一度のスキャンで WiFi に接続します。パスワードの入力は不要です。</p></div><div class="tool-card"><a href="../vcard-qr-code-generator/">vCard 連絡先 QRコード生成ツール</a><p>スキャンして完全な連絡先カードをスマートフォンに保存。</p></div></div>
+<h2>仕組み</h2>
+<p>QRコードやバーコードは、テキストを明暗のモジュールとしてエンコードするパターンにすぎません。デコードは生成の逆です。画像内のパターンを見つけ、モジュールを測定し、コードに組み込まれた冗長性を使ってエラーを訂正し、ビットを文字に戻します。jsQR はQRコードで、三つのファインダーパターンを特定してグリッドをサンプリングすることでこれを行います。ZXing はバーコードで、バー全体のピクセル行をスキャンし、幅を EAN、UPC、Code 128、Code 39 の規則と照合し、小売バーコードの最終チェックデジットの検証も行います。カメラモードでは、ブラウザ自体の BarcodeDetector がコードが見つかるまでライブ映像フレームに対して同じ処理を継続します。バッチモードでは、同じ二つの画像デコーダーがファイルごとに一度実行され、ファイル名、形式、種類、デコードされたテキストなど、すべての結果が CSV としてエクスポートできる表にまとめられます。</p>
+<p><strong>方法：</strong> カメラまたは画像を選択 &rarr; デバイス上のデコーダーにパターンを読ませる &rarr; 種類、形式、生コンテンツを確認 &rarr; スマートアクションを使用（開く、コピー、連絡先を保存） &rarr; セッション履歴でいつでもスキャンを再び見つける。</p>
+<h3>実例</h3>
+<p>店主は Loona のバーコード生成ツールで新商品の EAN-13 バーコードを生成し、校正刷りを印刷します。多数のラベルを注文する前に、彼女は校正刷りをスマートフォンで撮影し、その写真をここにアップロードします。スキャナーは ZXing でバーコードを読み取ります。形式は EAN-13、番号は入力したものと正確に一致し、チェックデジットも含まれています。彼女はまた、チャットから仕入先の WiFi QRコードのスクリーンショットを撮り、このページに貼り付けます。jsQR がネットワーク名とパスワードをプレーンテキストで表示し、カメラのないノートパソコンに入力できます。</p>
+<h3>よくある質問</h3>
+<p><strong>同じスマートフォン上のスクリーンショットからコードをスキャンできますか？</strong></p>
+<p>はい。スクリーンショットを写真アプリに保存または共有し、ここで画像アップロードを使ってそのスクリーンショットを選んでください。コンピューターでは、単に画像をコピーし、Ctrl+V（Mac では Cmd+V）でこのページに貼り付けてください — ファイルの保存は不要です。</p>
+<p><strong>結果は WIFI:T:WPA;S:… のように見えます — それはどういう意味ですか？</strong></p>
+<p>それは WiFi QRコード内部の標準の生フォーマットです：T はセキュリティタイプ、S はネットワーク名 (SSID)、P はパスワードです。このページは、それら三つの値を生コンテンツの上に別々に表示するため、自分で拾い出す必要はありません。</p>
+<p><strong>スキャンした連絡先をスマートフォンに追加するにはどうすればよいですか？</strong></p>
+<p>スキャンが vCard の場合、「連絡先をダウンロード (.vcf)」アクションが表示されます。ファイルをダウンロードして開いてください — スマートフォンとコンピューターは、名前、組織、電話、メール、ウェブサイトがすでに入力された状態で、連絡先として保存するよう提案します。</p>
+<p><strong>なぜ私の写真はデコードされなかったのですか？</strong></p>
+<p>通常の原因は、大きな写真の中でコードが極小であること、ぼやけ、グレア、破れたりコントラストの低い印刷、またはコードの周りが切り取られすぎたスクリーンショット（デコーダーはコードの周りの白いクワイエットゾーンを必要とします）です。緩く切り取り、より近く、正面から写真を撮り直し、もう一度試してください。</p>
+<p><strong>公共で見つけた QRコードを信頼すべきですか？</strong></p>
+<p>結果を自動的に開くアプリではなく、まずここでスキャンしてください：このページのみ <em>shows</em> デコードされたコンテンツを表示し、それ自体で何かを開くことは決してありません。「リンクを開く」をタップする前に、リンクがそのラベルが約束する場所に本当に通じているか確認してください — その一つの習慣が、本物のコードの上にステッカーを貼る詐欺のほとんどを打ち破ります。</p>
+<div id="loona-embed" style="max-width:780px;margin:30px auto;padding:24px;background:#fdfaf1;border:1px solid #d9c98a;border-radius:14px;text-align:left">
+<h2 style="margin:0 0 10px;color:#062e2a;font-size:1.35rem;line-height:1.3">このツールをウェブサイトに埋め込む — 無料</h2>
+<p style="margin:0 0 12px;line-height:1.6">このツールを自分のウェブサイトやブログに追加してください。完全に無料で、登録も不要で、常に最新バージョンを表示します。下のコードをコピーし、ツールを表示したいページの場所に貼り付けてください。埋め込みの下にある小さな「Powered by Loona Automation」のクレジット行を残すことは、このツールを無料に保つ助けになります &mdash; ただし、スタイルを変更したり削除したりしても自由です。ツールはどちらの場合も機能します。</p>
+<textarea id="loonaEmbedCode" readonly rows="4" style="width:100%;box-sizing:border-box;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.8rem;line-height:1.45;padding:12px;border:1px solid #e4ddc8;border-radius:10px;background:#fff;color:#1c2422;resize:vertical">&lt;iframe src="https://loonaautomation.github.io/loona-qr-codes/ja/qr-code-scanner/" width="100%" height="720" style="border:1px solid #e5e7eb;border-radius:12px;max-width:760px" loading="lazy" title="QR Code & Barcode Scanner by Loona"&gt;&lt;/iframe&gt;
+&lt;p style="font-size:13px;font-family:Arial,sans-serif"&gt;提供 &lt;a href="https://loonaautomation.github.io/loona-qr-codes/ja/qr-code-scanner/" target="_blank" rel="noopener"&gt;Loona Automation&lt;/a&gt; &mdash; 無料 QRコード＆バーコードスキャナー&lt;/p&gt;</textarea>
+<p style="margin:10px 0 0"><button type="button" id="loonaEmbedBtn" style="background:#062e2a;color:#fff;border:0;border-radius:8px;padding:10px 18px;font-size:.95rem;font-weight:700;cursor:pointer">埋め込みコードをコピー</button></p>
+</div>
+<script>
+(function(){var b=document.getElementById('loonaEmbedBtn'),t=document.getElementById('loonaEmbedCode');if(!b||!t)return;b.addEventListener('click',function(){var done=function(){b.textContent='コピーしました！';setTimeout(function(){b.textContent='埋め込みコードをコピー';},2000);};var fallback=function(){t.removeAttribute('readonly');t.select();try{document.execCommand('copy');}catch(e){}t.setAttribute('readonly','');done();};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t.value).then(done,fallback);}else{fallback();}});})();
+</script>
+</section></main><footer class="site"><div class="wrap"><p><strong>Loona QRコード</strong> — 無料 QRコード生成ツール — 無期限、登録不要、透かしなし。すべての QRコードはブラウザ内でプライベートに生成されます。サーバーにアップロードされるものはなく、コードに有効期限はなく、透かしもありません。</p>
+<p><a href="../url-qr-code-generator/">URL / ウェブサイト QRコード</a> <a href="../text-qr-code-generator/">プレーンテキスト QRコード</a> <a href="../wifi-qr-code-generator/">WiFi QRコード</a> <a href="../whatsapp-qr-code-generator/">WhatsApp QRコード</a> <a href="../vcard-qr-code-generator/">vCard 連絡先 QRコード</a> <a href="../email-qr-code-generator/">メール QRコード</a> <a href="../sms-qr-code-generator/">SMS QRコード</a> <a href="../phone-qr-code-generator/">電話発信 QRコード</a> <a href="../instagram-qr-code-generator/">Instagram QRコード</a> <a href="../facebook-qr-code-generator/">Facebook QRコード</a></p>
+<p><a href="../about.html">概要</a><a href="../privacy-policy.html">プライバシーポリシー</a><a href="../terms.html">利用規約</a><a href="../disclaimer.html">免責事項</a><a href="../contact.html">お問い合わせ</a></p>
+<p class="small">連絡先： <a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></p>
+<p class="small">スキャナーライブラリ：jsQR と ZXing (Apache License 2.0)、ブラウザ内でローカルに実行されます。制作： <a href="https://github.com/loonaautomation">Loona Automation</a> · © 2026 Loona QRコード。個人利用と商用利用に無料で使用できます。</p></div></footer>
+<script src="../../assets/jsQR.js"></script>
+<script src="../../assets/zxing.min.js"></script>
+<script>
+/*LOONA-SCAN-CORE-START*/
+function classifyResult(raw){
+  var t=String(raw===null||raw===undefined?'':raw).trim();
+  if(/^BEGIN:VCARD/i.test(t))return 'vCard連絡先';
+  if(/^WIFI:/i.test(t))return 'WiFiネットワーク';
+  if(/^https?:\/\//i.test(t))return 'ウェブリンク (URL)';
+  if(/^mailto:/i.test(t))return 'Email';
+  if(/^tel:/i.test(t))return '電話番号';
+  if(/^(SMSTO:|sms:)/i.test(t))return 'SMSメッセージ';
+  if(/^geo:/i.test(t))return 'Location';
+  if(/^upi:\/\//i.test(t))return 'UPI支払い';
+  if(/^bitcoin:/i.test(t))return 'Bitcoinアドレス';
+  if(/^ethereum:/i.test(t))return '暗号資産の支払い (Ethereum)';
+  if(/^BEGIN:VEVENT/i.test(t))return 'カレンダーの予定';
+  if(/^\d{13}$/.test(t))return 'バーコード番号（EAN-13 の長さ）';
+  if(/^\d{12}$/.test(t))return 'バーコード番号（UPC-A の長さ）';
+  if(/^\d{8}$/.test(t))return 'バーコード番号（EAN-8 の長さ）';
+  if(/^\d+$/.test(t))return 'バーコード / 数字コード';
+  return 'プレーンテキスト';
+}
+function splitUnescaped(s,sep){
+  var parts=[],cur='',esc=false;
+  for(var i=0;i<s.length;i++){var ch=s[i];
+    if(esc){cur+=ch;esc=false;continue;}
+    if(ch==='\\'){esc=true;continue;}
+    if(ch===sep){parts.push(cur);cur='';continue;}
+    cur+=ch;}
+  parts.push(cur);return parts;
+}
+function parseWifi(raw){
+  var body=String(raw||'').replace(/^WIFI:/i,'');
+  var out={},parts=splitUnescaped(body,';');
+  for(var i=0;i<parts.length;i++){var idx=parts[i].indexOf(':');if(idx>0){out[parts[i].slice(0,idx).toUpperCase()]=parts[i].slice(idx+1);}}
+  return {ssid:out.S||'',password:out.P||'',encryption:out.T||'',hidden:/^true$/i.test(out.H||'')};
+}
+function parseVCard(raw){
+  var out={phones:[],emails:[]},lines=String(raw||'').split(/\r?\n/);
+  for(var i=0;i<lines.length;i++){var line=lines[i];var idx=line.indexOf(':');if(idx<0)continue;
+    var key=line.slice(0,idx).split(';')[0].toUpperCase(),val=line.slice(idx+1).replace(/\\,/g,',').replace(/\\;/g,';').replace(/\\n/gi,' ');
+    if(key==='FN')out.name=val;else if(key==='ORG')out.org=val;else if(key==='TITLE')out.title=val;
+    else if(key==='TEL')out.phones.push(val);else if(key==='EMAIL')out.emails.push(val);
+    else if(key==='URL')out.url=val;else if(key==='ADR')out.address=val.replace(/;+/g,' ').trim();}
+  return out;
+}
+function prettyFormat(fmt){
+  var map={qr_code:'QR Code',ean_13:'EAN-13',ean_8:'EAN-8',upc_a:'UPC-A',upc_e:'UPC-E',code_128:'Code 128',code_39:'Code 39',code_93:'Code 93',codabar:'Codabar',itf:'ITF',data_matrix:'Data Matrix',aztec:'Aztec',pdf417:'PDF417',QR_CODE:'QR Code',EAN_13:'EAN-13',EAN_8:'EAN-8',UPC_A:'UPC-A',UPC_E:'UPC-E',CODE_128:'Code 128',CODE_39:'Code 39',CODE_93:'Code 93',CODABAR:'Codabar',ITF:'ITF',DATA_MATRIX:'Data Matrix',AZTEC:'Aztec',PDF_417:'PDF417'};
+  return map[fmt]||String(fmt||'QR Code');
+}
+
+function parseQuery(q){
+  var out={};if(!q)return out;
+  var pairs=String(q).split('&');
+  for(var i=0;i<pairs.length;i++){var idx=pairs[i].indexOf('=');if(idx>0){var k=pairs[i].slice(0,idx).toLowerCase(),v=pairs[i].slice(idx+1);try{v=decodeURIComponent(v);}catch(e){}out[k]=v;}else if(pairs[i]){out[pairs[i].toLowerCase()]='';}}
+  return out;
+}
+function parseGeo(raw){
+  var m=String(raw||'').trim().match(/^geo:(-?\d+(?:\.\d+)?),(-?\d+(?:\.\d+)?)(?:,(-?\d+(?:\.\d+)?))?(?:\?(.*))?$/i);
+  if(!m)return null;
+  var q=parseQuery(m[4]||'');
+  return {lat:parseFloat(m[1]),lng:parseFloat(m[2]),altitude:(m[3]!==undefined&&m[3]!=='')?parseFloat(m[3]):null,query:q.q||'',zoom:q.z||''};
+}
+function parseMailto(raw){
+  var body=String(raw||'').trim().replace(/^mailto:/i,'');
+  var qi=body.indexOf('?');var addr=qi>=0?body.slice(0,qi):body;
+  try{addr=decodeURIComponent(addr);}catch(e){}
+  var q=parseQuery(qi>=0?body.slice(qi+1):'');
+  return {address:addr,subject:q.subject||'',body:q.body||'',cc:q.cc||''};
+}
+function parseCrypto(raw){
+  var m=String(raw||'').trim().match(/^(bitcoin|ethereum):([^?]+)(?:\?(.*))?$/i);
+  if(!m)return null;
+  var q=parseQuery(m[3]||'');
+  return {currency:m[1].toLowerCase()==='bitcoin'?'Bitcoin':'Ethereum',address:m[2],amount:q.amount||q.value||'',label:q.label||q.message||''};
+}
+function csvEscape(v){
+  var s=String(v===null||v===undefined?'':v);
+  if(/[",\n\r]/.test(s))return '"'+s.replace(/"/g,'""')+'"';
+  return s;
+}
+function buildBatchCsv(rows){
+  var lines=['filename,format,type,decoded text'];
+  (rows||[]).forEach(function(r){lines.push([csvEscape(r.filename),csvEscape(r.format),csvEscape(r.type),csvEscape(r.text)].join(','));});
+  return lines.join('\r\n')+'\r\n';
+}
+/*LOONA-SCAN-CORE-END*/
+</script>
+<script>
+var $=function(id){return document.getElementById(id);};
+var history=[];
+function escHtml(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+function showResult(res){
+  var raw=String(res.text||'');
+  $('resultCard').style.display='';
+  $('resType').textContent=classifyResult(raw);
+  $('resFormat').textContent=prettyFormat(res.format)+(res.engine?' · デコード方法: '+res.engine:'');
+  var details=[];
+  details.push(raw.length+' 文字');
+  try{details.push(new Blob([raw]).size+' バイト (UTF-8)');}catch(e){}
+  if(res.version){details.push('QRバージョン '+res.version);}
+  if(res.chunks&&res.chunks.length){details.push('データモード: '+res.chunks.map(function(c){return c.type;}).join(', '));}
+  var detEl=$('resDetails'); if(detEl)detEl.textContent=details.join(' · ')+((res.version)?'':'');
+  var parsed='';
+  var type=classifyResult(raw);
+  if(type==='WiFiネットワーク'){var w=parseWifi(raw);parsed='<p style="margin:6px 0"><strong>WiFiの詳細:</strong> ネットワーク (SSID): <strong>'+escHtml(w.ssid)+'</strong>'+(w.password?' · パスワード: <strong>'+escHtml(w.password)+'</strong>':' · パスワードなし（オープンネットワーク）')+' · セキュリティ: '+escHtml(w.encryption||'未指定')+(w.hidden?' · 非公開ネットワーク':'')+'<br><span class="small">ウェブページがお客様の代わりにWiFiネットワークへ接続することはできません。上記のパスワードをコピーするか、スマートフォンのカメラアプリで元のコードをスキャンすると自動的に接続できます。</span></p>';}
+  else if(type==='vCard連絡先'){var v=parseVCard(raw);var rows=[];if(v.name)rows.push('名前: <strong>'+escHtml(v.name)+'</strong>');if(v.org)rows.push('組織: '+escHtml(v.org));if(v.title)rows.push('タイトル: '+escHtml(v.title));if(v.phones.length)rows.push('電話: '+escHtml(v.phones.join(', ')));if(v.emails.length)rows.push('メール: '+escHtml(v.emails.join(', ')));if(v.url)rows.push('ウェブサイト: '+escHtml(v.url));if(v.address)rows.push('アドレス: '+escHtml(v.address));parsed='<p style="margin:6px 0"><strong>連絡先の詳細:</strong><br>'+rows.join('<br>')+'</p>';}
+  if(type==='Location'){
+    var g=parseGeo(raw);
+    if(g){parsed='<p style="margin:6px 0"><strong>位置情報の詳細:</strong> 緯度: <strong>'+g.lat+'</strong> · 経度: <strong>'+g.lng+'</strong>'+(g.altitude!==null?' · 高度: '+g.altitude+' m':'')+(g.query?' · ラベル: '+escHtml(g.query):'')+'<br><a href="https://www.google.com/maps/search/?api=1&query='+g.lat+','+g.lng+'" target="_blank" rel="noopener"><strong>マップで開く</strong></a></p>';}
+    else{parsed='<p style="margin:6px 0"><strong>位置情報の詳細:</strong> このペイロードは geo: で始まっていますが、標準の geo:緯度,経度 の形式ではないため、座標は推測されません。下の元の内容をご覧ください。</p>';}
+  }
+  if(type==='Email'){
+    var mm=parseMailto(raw);var mrows=[];
+    if(mm.address)mrows.push('宛先: <strong>'+escHtml(mm.address)+'</strong>');
+    if(mm.cc)mrows.push('Cc: '+escHtml(mm.cc));
+    if(mm.subject)mrows.push('件名: '+escHtml(mm.subject));
+    if(mm.body)mrows.push('本文: '+escHtml(mm.body));
+    parsed='<p style="margin:6px 0"><strong>メールの詳細:</strong><br>'+mrows.join('<br>')+'</p>';
+  }
+  if(type==='Bitcoinアドレス'||type==='暗号資産の支払い (Ethereum)'){
+    var cp=parseCrypto(raw);
+    if(cp){parsed='<p style="margin:6px 0"><strong>'+escHtml(cp.currency)+' の支払い詳細:</strong><br>アドレス: <strong style="word-break:break-all">'+escHtml(cp.address)+'</strong>'+(cp.amount?'<br>金額: '+escHtml(cp.amount):'')+(cp.label?'<br>ラベル / メッセージ: '+escHtml(cp.label):'')+'<br><span class="small">支払いを送信する前に、アドレスを1文字ずつ確認してください。暗号資産の支払いは取り消せません。</span></p>';}
+  }
+  $('resParsed').innerHTML=parsed;
+  $('resRaw').textContent=raw;
+  var acts=[];
+  if(/^https?:\/\//i.test(raw.trim())){acts.push('<a class="btn" href="'+escHtml(raw.trim())+'" target="_blank" rel="noopener">リンクを開く</a>');}
+  else if(/^mailto:/i.test(raw.trim())){acts.push('<a class="btn" href="'+escHtml(raw.trim())+'">メールを作成</a>');}
+  else if(/^tel:/i.test(raw.trim())){acts.push('<a class="btn" href="'+escHtml(raw.trim())+'">番号に発信</a>');}
+  else if(/^(SMSTO:)/i.test(raw.trim())){var sm=raw.trim().slice(6);var p=sm.split(':');acts.push('<a class="btn" href="sms:'+escHtml(p[0])+(p[1]?('?body='+encodeURIComponent(p.slice(1).join(':'))):'')+'">SMSを送信</a>');}
+  if(type==='vCard連絡先'){acts.push('<button class="btn" id="vcardBtn" type="button">連絡先をダウンロード (.vcf)</button>');}
+  if(type==='Location'){var gg=parseGeo(raw);if(gg){acts.push('<a class="btn" href="https://www.google.com/maps/search/?api=1&query='+gg.lat+','+gg.lng+'" target="_blank" rel="noopener">マップで開く</a>');}}
+  var cryptoParsed=parseCrypto(raw);
+  if(cryptoParsed){acts.push('<button class="btn" id="cryptoCopyBtn" type="button">コピー: '+escHtml(cryptoParsed.currency)+' アドレス</button>');}
+  acts.push('<button class="btn secondary" id="copyBtn" type="button">結果をコピー</button>');
+  acts.push('<button class="btn secondary" id="shareBtn" type="button">共有</button>');
+  $('resActions').innerHTML=acts.join(' ');
+  var cb=$('copyBtn'); if(cb)cb.addEventListener('click',function(){var done=function(){cb.textContent='コピーしました！';setTimeout(function(){cb.textContent='結果をコピー';},2000);};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(raw).then(done,done);}else{var ta=document.createElement('textarea');ta.value=raw;document.body.appendChild(ta);ta.select();try{document.execCommand('copy');}catch(e){}ta.remove();done();}});
+  var sb=$('shareBtn'); if(sb)sb.addEventListener('click',function(){var val=raw.trim();var isUrl=/^https?:\/\//i.test(val);function copyFallback(){var done=function(){sb.textContent='コピーしました！';setTimeout(function(){sb.textContent='Share';},2000);};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(raw).then(done,done);}else{var ta=document.createElement('textarea');ta.value=raw;document.body.appendChild(ta);ta.select();try{document.execCommand('copy');}catch(e){}ta.remove();done();}}if(navigator.share){var payload=isUrl?{title:'Loona QR Code Scanner',text:'無料の Loona QRコードスキャナーでスキャンしました:',url:val}:{title:'Loona QR Code Scanner',text:raw};navigator.share(payload).catch(function(err){if(err&&err.name!=='AbortError'){copyFallback();}});}else{copyFallback();}});
+  var vb=$('vcardBtn'); if(vb)vb.addEventListener('click',function(){var blob=new Blob([raw],{type:'text/vcard'});var u=URL.createObjectURL(blob);var a=document.createElement('a');a.href=u;a.download='contact.vcf';document.body.appendChild(a);a.click();a.remove();setTimeout(function(){URL.revokeObjectURL(u);},5000);});
+  var xb=$('cryptoCopyBtn'); if(xb&&cryptoParsed)xb.addEventListener('click',function(){var addr=cryptoParsed.address;var done=function(){xb.textContent='アドレスをコピーしました！';setTimeout(function(){xb.textContent='コピー: '+cryptoParsed.currency+' アドレス';},2000);};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(addr).then(done,done);}else{var ta=document.createElement('textarea');ta.value=addr;document.body.appendChild(ta);ta.select();try{document.execCommand('copy');}catch(e){}ta.remove();done();}});
+  history.unshift({time:new Date(),format:prettyFormat(res.format),type:type,text:raw});
+  if(history.length>20)history.length=20;
+  renderHistory();
+  $('resultCard').scrollIntoView({behavior:'smooth',block:'nearest'});
+}
+function renderHistory(){
+  $('historyList').innerHTML=history.map(function(h){return '<li><strong>'+escHtml(h.format)+'</strong> · '+escHtml(h.type)+' · '+h.time.toLocaleTimeString()+'<br>'+escHtml(h.text.length>140?h.text.slice(0,140)+'…':h.text)+'</li>';}).join('');
+}
+$('clearHistoryBtn').addEventListener('click',function(){history=[];renderHistory();});
+
+/* ---------- Image upload decoding ---------- */
+function zxingDecode(imageData){
+  if(typeof ZXing==='undefined')return null;
+  var w=imageData.width,h=imageData.height,d=imageData.data;
+  var lum=new Uint8ClampedArray(w*h);
+  for(var i=0,j=0;i<d.length;i+=4,j++){lum[j]=Math.round(0.299*d[i]+0.587*d[i+1]+0.114*d[i+2]);}
+  var source=new ZXing.RGBLuminanceSource(lum,w,h);
+  var bitmap=new ZXing.BinaryBitmap(new ZXing.HybridBinarizer(source));
+  var reader=new ZXing.MultiFormatReader();
+  try{var hints=new Map();hints.set(ZXing.DecodeHintType.TRY_HARDER,true);reader.setHints(hints);}catch(e){}
+  var res=reader.decode(bitmap);
+  return {text:res.getText(),format:(ZXing.BarcodeFormat[res.getBarcodeFormat()]||'Barcode'),engine:'ZXing'};
+}
+function decodeCanvas(canvas){
+  var ctx=canvas.getContext('2d',{willReadFrequently:true});
+  var img=ctx.getImageData(0,0,canvas.width,canvas.height);
+  if(typeof jsQR!=='undefined'){
+    try{var r=jsQR(img.data,img.width,img.height);if(r&&r.data)return {text:r.data,format:'QR Code',engine:'jsQR',version:r.version,chunks:r.chunks};}catch(e){}
+  }
+  try{var z=zxingDecode(img);if(z&&z.text)return z;}catch(e){}
+  return null;
+}
+function decodeImageElement(image){
+  var attempts=[];
+  var nw=image.naturalWidth||image.width,nh=image.naturalHeight||image.height;
+  function make(w,h){var c=document.createElement('canvas');c.width=w;c.height=h;var x=c.getContext('2d',{willReadFrequently:true});x.fillStyle='#fff';x.fillRect(0,0,w,h);x.drawImage(image,0,0,w,h);return c;}
+  attempts.push(make(nw,nh));
+  var maxDim=Math.max(nw,nh);
+  if(maxDim>1400){var s=1400/maxDim;attempts.push(make(Math.round(nw*s),Math.round(nh*s)));}
+  if(maxDim<700){attempts.push(make(nw*2,nh*2));}
+  for(var i=0;i<attempts.length;i++){var r=decodeCanvas(attempts[i]);if(r)return r;}
+  return null;
+}
+function handleFile(file){
+  if(!file)return;
+  if(!/^image\//.test(file.type||'')){$('uploadStatus').textContent='そのファイルは画像ではありません。PNG、JPG などの画像ファイルを選択してください。';$('uploadStatus').style.color='#b3261e';return;}
+  $('uploadStatus').textContent='お使いのデバイスで画像をデコードしています…';$('uploadStatus').style.color='';
+  var url=URL.createObjectURL(file);
+  var image=new Image();
+  image.onload=function(){
+    var res=null;
+    try{res=decodeImageElement(image);}catch(e){}
+    URL.revokeObjectURL(url);
+    if(res){$('uploadStatus').textContent='デコード方法: '+res.engine+': '+prettyFormat(res.format)+'.';showResult(res);}
+    else{$('uploadStatus').textContent='その画像からはQRコードも対応バーコードも読み取れませんでした。コード周囲の白い余白も含めて、より鮮明で近い写真をお試しください。';$('uploadStatus').style.color='#b3261e';}
+  };
+  image.onerror=function(){URL.revokeObjectURL(url);$('uploadStatus').textContent='その画像はブラウザで開けませんでした。';$('uploadStatus').style.color='#b3261e';};
+  image.src=url;
+}
+var drop=$('dropZone'),fileInput=$('fileInput');
+drop.addEventListener('click',function(){fileInput.click();});
+drop.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();fileInput.click();}});
+fileInput.addEventListener('change',function(){handleFile(fileInput.files&&fileInput.files[0]);fileInput.value='';});
+['dragenter','dragover'].forEach(function(ev){drop.addEventListener(ev,function(e){e.preventDefault();drop.classList.add('drag');});});
+['dragleave','drop'].forEach(function(ev){drop.addEventListener(ev,function(e){e.preventDefault();drop.classList.remove('drag');});});
+drop.addEventListener('drop',function(e){var f=e.dataTransfer&&e.dataTransfer.files&&e.dataTransfer.files[0];handleFile(f);});
+document.addEventListener('paste',function(e){
+  if(e.target&&(e.target.tagName==='INPUT'||e.target.tagName==='TEXTAREA'))return;
+  var items=(e.clipboardData&&e.clipboardData.items)||[];
+  for(var i=0;i<items.length;i++){if(items[i].type&&items[i].type.indexOf('image/')===0){var f=items[i].getAsFile();if(f){e.preventDefault();handleFile(f);return;}}}
+});
+
+/* ---------- Batch decode (multiple images + CSV export) ---------- */
+var batchRows=[];
+function decodeFilePromise(file){
+  return new Promise(function(resolve){
+    if(!file||!/^image\//.test(file.type||'')){resolve(null);return;}
+    var url=URL.createObjectURL(file);
+    var image=new Image();
+    image.onload=function(){var r=null;try{r=decodeImageElement(image);}catch(e){}URL.revokeObjectURL(url);resolve(r);};
+    image.onerror=function(){URL.revokeObjectURL(url);resolve(null);};
+    image.src=url;
+  });
+}
+function renderBatch(){
+  var body=$('batchBody');
+  body.innerHTML=batchRows.map(function(r){
+    return '<tr><td style="border-bottom:1px solid #eee;padding:6px;word-break:break-all">'+escHtml(r.filename)+'</td><td style="border-bottom:1px solid #eee;padding:6px">'+escHtml(r.format)+'</td><td style="border-bottom:1px solid #eee;padding:6px">'+escHtml(r.type)+'</td><td style="border-bottom:1px solid #eee;padding:6px;word-break:break-word">'+escHtml(r.text)+'</td></tr>';
+  }).join('');
+  var has=batchRows.length>0;
+  $('batchWrap').style.display=has?'':'none';
+  $('batchCsvBtn').style.display=has?'':'none';
+  $('batchClearBtn').style.display=has?'':'none';
+  if(has){
+    var ok=batchRows.filter(function(r){return r.type!=='デコードできませんでした';}).length;
+    $('batchStatus').textContent='バッチが完了しました: '+ok+' / '+batchRows.length+' image'+(batchRows.length===1?'':'s')+' decoded.';
+    $('batchStatus').style.color='';
+  }
+}
+async function handleBatchFiles(list){
+  var files=Array.prototype.slice.call(list||[]).filter(function(f){return /^image\//.test(f.type||'');});
+  if(!files.length){$('batchStatus').textContent='その選択には画像ファイルが見つかりませんでした。PNG、JPG などの画像ファイルを選択してください。';$('batchStatus').style.color='#b3261e';return;}
+  batchRows=[];renderBatch();
+  for(var i=0;i<files.length;i++){
+    $('batchStatus').textContent='画像をデコードしています '+(i+1)+' / '+files.length+' をお使いのデバイスで処理しています…';$('batchStatus').style.color='';
+    var r=await decodeFilePromise(files[i]);
+    if(r&&r.text){batchRows.push({filename:files[i].name,format:prettyFormat(r.format),type:classifyResult(r.text),text:r.text});}
+    else{batchRows.push({filename:files[i].name,format:'',type:'デコードできませんでした',text:''});}
+    renderBatch();
+  }
+}
+var batchDrop=$('batchDrop'),batchInput=$('batchInput');
+batchDrop.addEventListener('click',function(){batchInput.click();});
+batchDrop.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();batchInput.click();}});
+batchInput.addEventListener('change',function(){handleBatchFiles(batchInput.files);batchInput.value='';});
+['dragenter','dragover'].forEach(function(ev){batchDrop.addEventListener(ev,function(e){e.preventDefault();batchDrop.classList.add('drag');});});
+['dragleave','drop'].forEach(function(ev){batchDrop.addEventListener(ev,function(e){e.preventDefault();batchDrop.classList.remove('drag');});});
+batchDrop.addEventListener('drop',function(e){handleBatchFiles(e.dataTransfer&&e.dataTransfer.files);});
+$('batchCsvBtn').addEventListener('click',function(){
+  if(!batchRows.length)return;
+  var blob=new Blob([buildBatchCsv(batchRows)],{type:'text/csv'});
+  var u=URL.createObjectURL(blob);var a=document.createElement('a');a.href=u;a.download='loona-scan-batch.csv';document.body.appendChild(a);a.click();a.remove();setTimeout(function(){URL.revokeObjectURL(u);},5000);
+});
+$('batchClearBtn').addEventListener('click',function(){batchRows=[];renderBatch();$('batchStatus').textContent='バッチをクリアしました。';});
+
+/* ---------- Camera scanning (BarcodeDetector) ---------- */
+var stream=null,detector=null,detectTimer=null,scanning=false;
+var CAM_FALLBACK='このブラウザではカメラによるライブスキャンを利用できません。Chrome、Edge、およびほとんどの Android ブラウザに組み込まれている BarcodeDetector 機能が必要です（Safari と Firefox にはまだ搭載されていません）。代わりに「画像からスキャン」をご利用ください。コードの写真やスクリーンショットを撮って、ここにアップロードまたは貼り付けてください。すべての最新ブラウザで動作します。';
+function stopCamera(){
+  scanning=false;
+  if(detectTimer){clearInterval(detectTimer);detectTimer=null;}
+  if(stream){stream.getTracks().forEach(function(t){t.stop();});stream=null;}
+  $('camVideo').style.display='none';
+  $('camStartBtn').style.display='';$('camStopBtn').style.display='none';
+}
+async function startCamera(){
+  if(!('BarcodeDetector' in window)){$('camStatus').textContent=CAM_FALLBACK;$('camStatus').style.color='#b3261e';return;}
+  if(!navigator.mediaDevices||!navigator.mediaDevices.getUserMedia){$('camStatus').textContent='このブラウザはウェブページからカメラを開けません。'+CAM_FALLBACK;$('camStatus').style.color='#b3261e';return;}
+  try{
+    var wanted=['qr_code','ean_13','ean_8','upc_a','upc_e','code_128','code_39','code_93','codabar','itf','data_matrix','aztec','pdf417'];
+    var formats=wanted;
+    try{var supported=await BarcodeDetector.getSupportedFormats();formats=wanted.filter(function(f){return supported.indexOf(f)>=0;});if(!formats.length)formats=undefined;}catch(e){}
+    detector=formats?new BarcodeDetector({formats:formats}):new BarcodeDetector();
+  }catch(e){$('camStatus').textContent=CAM_FALLBACK;$('camStatus').style.color='#b3261e';return;}
+  try{
+    stream=await navigator.mediaDevices.getUserMedia({video:{facingMode:'environment'},audio:false});
+  }catch(e){
+    $('camStatus').textContent='カメラへのアクセスがブロックされたか、カメラが見つかりませんでした。このサイトのカメラ許可を有効にして再試行するか、代わりに「画像からスキャン」をご利用ください。';$('camStatus').style.color='#b3261e';return;
+  }
+  var video=$('camVideo');
+  video.srcObject=stream;video.style.display='block';
+  try{await video.play();}catch(e){}
+  $('camStartBtn').style.display='none';$('camStopBtn').style.display='';
+  $('camStatus').textContent='カメラがオンになりました。QRコードまたはバーコードを枠の中で静止させてください。フレームはこのデバイス上でのみ処理されます。';$('camStatus').style.color='';
+  scanning=true;
+  detectTimer=setInterval(async function(){
+    if(!scanning||!detector||video.readyState<2)return;
+    try{
+      var codes=await detector.detect(video);
+      if(codes&&codes.length&&codes[0].rawValue){
+        var c=codes[0];
+        stopCamera();
+        $('camStatus').textContent='コードが見つかりました: '+prettyFormat(c.format)+'.';
+        showResult({text:c.rawValue,format:c.format,engine:'BarcodeDetector (camera)'});
+      }
+    }catch(e){/* a frame that fails to detect is normal; keep scanning */}
+  },350);
+}
+$('camStartBtn').addEventListener('click',startCamera);
+$('camStopBtn').addEventListener('click',function(){stopCamera();$('camStatus').textContent='カメラを停止しました。';$('camStatus').style.color='';});
+window.addEventListener('pagehide',stopCamera);
+(function initCameraSupport(){
+  if(!('BarcodeDetector' in window)){
+    $('camStartBtn').style.display='none';
+    $('camStatus').textContent=CAM_FALLBACK;
+  }
+})();
+</script>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' アプリをインストール';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('このアプリをインストールするには、共有ボタンをタップし、「ホーム画面に追加」を選択してください。');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
+</body></html>

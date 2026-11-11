@@ -1,0 +1,29 @@
+{
+  "name": "Loona QRコード＆バーコードスキャナー",
+  "short_name": "QRコード＆バーコードスキャナー",
+  "description": "Loona で QRコードとバーコードを無料でオンラインスキャン：カメラを使うか、写真やスクリーンショットをアップロード。URL、WiFi、vCard 連絡先、EAN-13、UPC-A、Code 128、Code 39 をデコード。100% プライベート — すべてがあなたのデバイス上でデコードされ、何もアップロードされません。",
+  "id": "/loona-qr-codes/ja/qr-code-scanner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

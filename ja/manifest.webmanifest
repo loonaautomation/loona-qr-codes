@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR Codes",
+  "short_name": "Loona QR Codes",
+  "description": "URL、WiFi、WhatsApp、vCard、支払い用の無料QRコードを作成 — 37 種類のQRコードに加え、無料のQR＆バーコードスキャナーと一括生成ツール。有効期限なし、登録不要、透かしなし。",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-qr-codes/ja/"
+}

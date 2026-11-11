@@ -1,0 +1,29 @@
+{
+  "name": "Loona イベント / カレンダー QRコード生成ツール",
+  "short_name": "イベント / カレンダー QRコード",
+  "description": "Loona で無料のイベント / カレンダー QRコードを即座に作成。登録不要、透かしなし、無期限。スキャンしてイベントをカレンダーに保存。カスタムカラー、高解像度 PNG ダウンロード。",
+  "id": "/loona-qr-codes/ja/event-calendar-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

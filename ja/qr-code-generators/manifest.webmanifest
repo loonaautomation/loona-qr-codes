@@ -1,0 +1,29 @@
+{
+  "name": "Loona すべての QRコード＆バーコード生成ツール",
+  "short_name": "すべての QRコード＆バーコード",
+  "description": "完全な Loona QR ライブラリ：バーコード生成ツール (Code 128、EAN-13、UPC、Data Matrix、PDF417)、支払い QRコード (SEPA、UPI、暗号資産、Venmo)、業界のユースケース、印刷ツール。",
+  "id": "/loona-qr-codes/ja/qr-code-generators/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
