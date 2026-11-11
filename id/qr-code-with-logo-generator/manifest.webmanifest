@@ -1,0 +1,29 @@
+{
+  "name": "Generator Kode QR dengan Logo Loona",
+  "short_name": "Generator Kode QR dengan Logo",
+  "description": "Generator kode QR dengan logo gratis: tambahkan logo Anda ke tengah kode QR pada tingkat koreksi kesalahan H, warna kustom, unduhan PNG 1024px, tanpa watermark.",
+  "id": "/loona-qr-codes/id/qr-code-with-logo-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

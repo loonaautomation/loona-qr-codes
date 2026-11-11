@@ -1,0 +1,29 @@
+{
+  "name": "Generator Kode QR Massal Loona",
+  "short_name": "Generator Kode QR Massal",
+  "description": "Buat hingga 100 kode QR sekaligus, gratis: tempel daftar atau unggah CSV tautan dan teks, dapatkan lembar kode QR berlabel yang dapat dicetak. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa, 100% privat di browser Anda.",
+  "id": "/loona-qr-codes/id/bulk-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

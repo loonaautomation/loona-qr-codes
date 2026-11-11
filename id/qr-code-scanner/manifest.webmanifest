@@ -1,0 +1,29 @@
+{
+  "name": "Pemindai Kode QR & Kode Batang Loona",
+  "short_name": "Pemindai Kode QR & Kode Batang",
+  "description": "Pindai kode QR dan kode batang gratis secara online dengan Loona: gunakan kamera Anda atau unggah foto atau tangkapan layar. Mendekode URL, WiFi, kontak vCard, EAN-13, UPC-A, Code 128, dan Code 39. 100% privat — semuanya didekode di perangkat Anda, tidak ada yang diunggah.",
+  "id": "/loona-qr-codes/id/qr-code-scanner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
