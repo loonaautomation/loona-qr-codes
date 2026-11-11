@@ -1,0 +1,29 @@
+{
+  "name": "Penjana Kod Bar Loona",
+  "short_name": "Penjana Kod Bar",
+  "description": "Cipta kod bar percuma dalam talian dengan Loona: Code 128, Code 39, EAN-13, UPC-A dan ITF-14. Digit semak ditambah secara automatik, pratonton langsung, muat turun sebagai PNG atau SVG. Tiada pendaftaran, tiada tera air, 100% peribadi dalam pelayar anda.",
+  "id": "/loona-qr-codes/ms/barcode-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

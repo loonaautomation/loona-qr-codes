@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR Codes untuk Semua Alat Loona",
+  "short_name": "Kod QR untuk Semua Alat Loona",
+  "description": "Dapatkan kod QR siap percuma untuk mana-mana alat Loona — 955 kalkulator, alat PDF, alat imej, alat pembelajaran dan aplikasi. Pilih alat, muat turun kod QRnya sebagai PNG resolusi tinggi dan cetaknya. Tiada pendaftaran, tiada tera air, tidak pernah luput.",
+  "id": "/loona-qr-codes/ms/tool-qr-codes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

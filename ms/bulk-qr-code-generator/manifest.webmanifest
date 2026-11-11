@@ -1,0 +1,29 @@
+{
+  "name": "Penjana Kod QR Kelompok Loona",
+  "short_name": "Penjana Kod QR Kelompok",
+  "description": "Cipta sehingga 100 kod QR sekali gus, percuma: tampal senarai atau muat naik CSV pautan dan teks, dapatkan helaian kod QR berlabel yang boleh dicetak. Tiada pendaftaran, tiada tera air, tidak pernah luput, 100% peribadi dalam pelayar anda.",
+  "id": "/loona-qr-codes/ms/bulk-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

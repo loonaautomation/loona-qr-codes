@@ -1,0 +1,344 @@
+[
+ {
+  "n": "Penjana Kod QR URL / Laman Web",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/url-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Tukar sebarang pautan laman web menjadi kod QR.",
+  "k": "url website qr code generator url qr code generator tukar sebarang pautan laman web menjadi kod qr",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR Teks Biasa",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/text-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Letakkan sebarang teks, kod atau mesej di dalam kod QR.",
+  "k": "plain text qr code generator text qr code generator letakkan sebarang teks kod atau mesej di dalam kod qr",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR WiFi",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/wifi-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Tetamu menyambung ke WiFi dengan satu imbasan, tiada menaip kata laluan.",
+  "k": "wifi qr code generator wifi qr code generator tetamu menyambung ke wifi dengan satu imbasan tiada menaip kata laluan",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR WhatsApp",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/whatsapp-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Mulakan sembang WhatsApp dengan satu imbasan, tanpa menyimpan nombor.",
+  "k": "whatsapp qr code generator whatsapp qr code generator mulakan sembang whatsapp dengan satu imbasan tanpa menyimpan nombor",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR Kenalan vCard",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/vcard-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Imbas untuk menyimpan kad kenalan penuh anda ke telefon.",
+  "k": "vcard contact qr code generator vcard qr code generator imbas untuk menyimpan kad kenalan penuh anda ke telefon",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR E-mel",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/email-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Imbas untuk membuka emel yang telah dialamatkan, sedia untuk dihantar.",
+  "k": "email qr code generator email qr code generator imbas untuk membuka emel yang telah dialamatkan sedia untuk dihantar",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR SMS",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/sms-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Imbas untuk membuka mesej teks yang telah ditulis.",
+  "k": "sms qr code generator sms qr code generator imbas untuk membuka mesej teks yang telah ditulis",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR Panggilan Telefon",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/phone-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Imbas untuk mendail nombor anda serta-merta.",
+  "k": "phone call qr code generator phone qr code generator imbas untuk mendail nombor anda serta merta",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR Instagram",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/instagram-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Kembangkan pengikut dengan QR Instagram imbas-untuk-ikuti.",
+  "k": "instagram qr code generator instagram qr code generator kembangkan pengikut dengan qr instagram imbas untuk ikuti",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR Facebook",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/facebook-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Hantar orang terus ke halaman Facebook anda.",
+  "k": "facebook qr code generator facebook qr code generator hantar orang terus ke halaman facebook anda",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR YouTube",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/youtube-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Imbas untuk membuka video atau saluran serta-merta.",
+  "k": "youtube qr code generator youtube qr code generator imbas untuk membuka video atau saluran serta merta",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR TikTok",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/tiktok-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Imbas untuk membuka profil TikTok anda.",
+  "k": "tiktok qr code generator tiktok qr code generator imbas untuk membuka profil tiktok anda",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR X (Twitter)",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/x-twitter-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Imbas untuk membuka profil X anda.",
+  "k": "x twitter qr code generator x twitter qr code generator imbas untuk membuka profil x anda",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR LinkedIn",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/linkedin-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Berhubung secara profesional dengan satu imbasan.",
+  "k": "linkedin qr code generator linkedin qr code generator berhubung secara profesional dengan satu imbasan",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR Telegram",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/telegram-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Imbas untuk menyertai profil, kumpulan atau saluran Telegram anda.",
+  "k": "telegram qr code generator telegram qr code generator imbas untuk menyertai profil kumpulan atau saluran telegram anda",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR Snapchat",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/snapchat-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Imbas untuk menambah anda di Snapchat.",
+  "k": "snapchat qr code generator snapchat qr code generator imbas untuk menambah anda di snapchat",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR Lokasi Google Maps",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/google-maps-location-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Imbas untuk mendapatkan arah ke tempat anda.",
+  "k": "google maps location qr code generator google maps location qr code generator imbas untuk mendapatkan arah ke tempat anda",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR Ulasan Google",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/google-review-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Pelanggan yang gembira meninggalkan ulasan Google dalam beberapa saat.",
+  "k": "google review qr code generator google review qr code generator pelanggan yang gembira meninggalkan ulasan google dalam beberapa saat",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR Menu Restoran",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/restaurant-menu-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Menu tanpa sentuh pada setiap meja.",
+  "k": "restaurant menu qr code generator restaurant menu qr code generator menu tanpa sentuh pada setiap meja",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR PDF",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/pdf-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Imbas untuk membuka atau memuat turun fail PDF.",
+  "k": "pdf qr code generator pdf qr code generator imbas untuk membuka atau memuat turun fail pdf",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR App Store / Google Play",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/app-store-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Imbas untuk memasang aplikasi anda.",
+  "k": "app store google play qr code generator app store qr code generator imbas untuk memasang aplikasi anda",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR Google Form",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/google-form-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Imbas untuk membuka dan mengisi Google Form.",
+  "k": "google form qr code generator google form qr code generator imbas untuk membuka dan mengisi google form",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR Zoom / Mesyuarat",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/zoom-meeting-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Imbas untuk menyertai mesyuarat atau kelas.",
+  "k": "zoom meeting qr code generator zoom meeting qr code generator imbas untuk menyertai mesyuarat atau kelas",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR Acara / Kalendar",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/event-calendar-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Imbas untuk menyimpan acara ke kalendar.",
+  "k": "event calendar qr code generator event calendar qr code generator imbas untuk menyimpan acara ke kalendar",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR PayPal",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/paypal-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Dapatkan bayaran: imbas untuk membuka halaman PayPal.me anda.",
+  "k": "paypal qr code generator paypal qr code generator dapatkan bayaran imbas untuk membuka halaman paypal me anda",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR Bayaran UPI",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/upi-payment-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "QR bayaran UPI untuk kedai di India dan rantau UPI.",
+  "k": "upi payment qr code generator upi payment qr code generator qr bayaran upi untuk kedai di india dan rantau upi",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR JazzCash / EasyPaisa (Pakistan)",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/jazzcash-easypaisa-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Kongsi butiran akaun JazzCash atau EasyPaisa anda sebagai QR.",
+  "k": "jazzcash easypaisa qr code pakistan generator jazzcash easypaisa qr code generator kongsi butiran akaun jazzcash atau easypaisa anda sebagai qr",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR Bitcoin / Kripto",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/bitcoin-crypto-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Kongsi alamat dompet Bitcoin sebagai QR.",
+  "k": "bitcoin crypto qr code generator bitcoin crypto qr code generator kongsi alamat dompet bitcoin sebagai qr",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR Spotify / Muzik",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/spotify-music-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Imbas untuk memainkan lagu, senarai main atau podcast.",
+  "k": "spotify music qr code generator spotify music qr code generator imbas untuk memainkan lagu senarai main atau podcast",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR Resume / Portfolio",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/resume-portfolio-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Letakkan resume atau portfolio anda hanya sejauh satu imbasan.",
+  "k": "resume portfolio qr code generator resume portfolio qr code generator letakkan resume atau portfolio anda hanya sejauh satu imbasan",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR Imej",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/image-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Imbas untuk membuka atau berkongsi pautan foto atau imej.",
+  "k": "image qr code generator image qr code generator imbas untuk membuka atau berkongsi pautan foto atau imej",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR Audio",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/audio-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Imbas untuk memainkan lagu, nota suara atau fail audio.",
+  "k": "audio qr code generator audio qr code generator imbas untuk memainkan lagu nota suara atau fail audio",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR Media Sosial",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/social-media-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Satu QR untuk pautan profil media sosial anda.",
+  "k": "social media qr code generator social media qr code generator satu qr untuk pautan profil media sosial anda",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR Pinterest",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/pinterest-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Imbas untuk membuka profil atau papan Pinterest anda.",
+  "k": "pinterest qr code generator pinterest qr code generator imbas untuk membuka profil atau papan pinterest anda",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR Discord",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/discord-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Imbas untuk menyertai pelayan atau profil Discord anda.",
+  "k": "discord qr code generator discord qr code generator imbas untuk menyertai pelayan atau profil discord anda",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR GitHub",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/github-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Imbas untuk membuka profil atau repositori GitHub anda.",
+  "k": "github qr code generator github qr code generator imbas untuk membuka profil atau repositori github anda",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Pengimbas Kod QR & Kod Bar",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/qr-code-scanner/",
+  "s": "Loona QR Codes",
+  "d": "Imbas kod dengan kamera anda, atau nyahkod kod QR dan kod bar daripada foto atau tangkapan skrin.",
+  "k": "qr code barcode scanner qr code scanner imbas kod dengan kamera anda atau nyahkod kod qr dan kod bar daripada foto atau tangkapan skrin",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kod QR Kelompok",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ms/bulk-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Cipta sehingga 100 kod QR berlabel sekali gus dalam helaian yang boleh dicetak.",
+  "k": "bulk qr code generator bulk qr code generator cipta sehingga 100 kod qr berlabel sekali gus dalam helaian yang boleh dicetak",
+  "p": 137,
+  "c": "Tool"
+ }
+]

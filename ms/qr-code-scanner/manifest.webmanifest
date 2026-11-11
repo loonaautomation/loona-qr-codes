@@ -1,0 +1,29 @@
+{
+  "name": "Pengimbas Kod QR & Kod Bar Loona",
+  "short_name": "Pengimbas Kod QR & Kod Bar",
+  "description": "Imbas kod QR dan kod bar secara percuma dalam talian dengan Loona: gunakan kamera anda atau muat naik foto atau tangkapan skrin. Menyahkod URL, WiFi, kenalan vCard, EAN-13, UPC-A, Code 128 dan Code 39. 100% peribadi — semuanya dinyahkod pada peranti anda, tiada apa-apa dimuat naik.",
+  "id": "/loona-qr-codes/ms/qr-code-scanner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

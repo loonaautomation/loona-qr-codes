@@ -1,0 +1,29 @@
+{
+  "name": "Kod QR Manual & Arahan Produk Loona",
+  "short_name": "Manual & Arahan Produk",
+  "description": "Cipta kod Manual & Arahan Produk percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai, muat turun PNG resolusi tinggi.",
+  "id": "/loona-qr-codes/ms/product-manual-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

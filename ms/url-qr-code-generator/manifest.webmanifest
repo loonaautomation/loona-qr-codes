@@ -1,0 +1,29 @@
+{
+  "name": "Penjana Kod QR URL / Laman Web Loona",
+  "short_name": "Kod QR URL / Laman Web",
+  "description": "Cipta kod QR URL / Laman Web percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Tukar sebarang pautan laman web menjadi kod QR. Warna tersuai, muat turun PNG resolusi tinggi.",
+  "id": "/loona-qr-codes/ms/url-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
