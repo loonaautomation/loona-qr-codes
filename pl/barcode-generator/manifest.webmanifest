@@ -1,0 +1,29 @@
+{
+  "name": "Generator kodów kreskowych Loona",
+  "short_name": "Generator kodów kreskowych",
+  "description": "Twórz darmowe kody kreskowe online z Loona: Code 128, Code 39, EAN-13, UPC-A i ITF-14. Cyfry kontrolne dodawane automatycznie, podgląd na żywo, pobieranie jako PNG lub SVG. Bez rejestracji, bez znaku wodnego, w 100% prywatne w Twojej przeglądarce.",
+  "id": "/loona-qr-codes/pl/barcode-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

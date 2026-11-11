@@ -1,0 +1,29 @@
+{
+  "name": "Generator kodów kreskowych Code 128 Loona",
+  "short_name": "Generator kodów kreskowych Code 128",
+  "description": "Darmowy generator kodów kreskowych Code 128. Poprawne cyfry kontrolne tam, gdzie standard je ma, pobieranie PNG i SVG, bez rejestracji, bez znaku wodnego.",
+  "id": "/loona-qr-codes/pl/code-128-barcode-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

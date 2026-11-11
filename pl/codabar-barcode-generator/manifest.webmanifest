@@ -1,0 +1,29 @@
+{
+  "name": "Generator kodów kreskowych Codabar Loona",
+  "short_name": "Generator kodów kreskowych Codabar",
+  "description": "Darmowy generator kodów kreskowych Codabar. Poprawne cyfry kontrolne tam, gdzie standard je ma, pobieranie PNG i SVG, bez rejestracji, bez znaku wodnego.",
+  "id": "/loona-qr-codes/pl/codabar-barcode-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

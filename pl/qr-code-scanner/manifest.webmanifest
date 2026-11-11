@@ -1,0 +1,29 @@
+{
+  "name": "Skaner kodów QR i kreskowych Loona",
+  "short_name": "Skaner kodów QR i kreskowych",
+  "description": "Skanuj kody QR i kody kreskowe za darmo online z Loona: użyj aparatu lub prześlij zdjęcie lub zrzut ekranu. Dekoduje URL, WiFi, kontakty vCard, EAN-13, UPC-A, Code 128 i Code 39. W 100% prywatne — wszystko jest dekodowane na Twoim urządzeniu, nic nie jest przesyłane.",
+  "id": "/loona-qr-codes/pl/qr-code-scanner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
