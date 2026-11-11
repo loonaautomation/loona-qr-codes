@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator de coduri QR WhatsApp",
+  "short_name": "Generator de coduri QR WhatsApp",
+  "description": "Creează gratuit un cod QR WhatsApp instantaneu cu Loona. Fără înregistrare, fără filigran, nu expiră niciodată. Începe o conversație WhatsApp cu o singură scanare, fără salvarea numărului. Culori personalizate, descărcare PNG la rezoluție înaltă.",
+  "id": "/loona-qr-codes/ro/whatsapp-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

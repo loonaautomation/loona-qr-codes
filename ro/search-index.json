@@ -1,0 +1,344 @@
+[
+ {
+  "n": "Generator de coduri QR pentru URL / site web",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/url-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Transformă orice link de site web într-un cod QR.",
+  "k": "url website qr code generator url qr code generator transforma orice link de site web intr un cod qr",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR cu text simplu",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/text-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Pune orice text, cod sau mesaj într-un cod QR.",
+  "k": "plain text qr code generator text qr code generator pune orice text cod sau mesaj intr un cod qr",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR WiFi",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/wifi-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Oaspeții se conectează la WiFi cu o singură scanare, fără tastarea parolei.",
+  "k": "wifi qr code generator wifi qr code generator oaspetii se conecteaza la wifi cu o singura scanare fara tastarea parolei",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR WhatsApp",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/whatsapp-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Începe o conversație WhatsApp cu o singură scanare, fără salvarea numărului.",
+  "k": "whatsapp qr code generator whatsapp qr code generator incepe o conversatie whatsapp cu o singura scanare fara salvarea numarului",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR pentru contacte vCard",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/vcard-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scanează pentru a salva cartea ta de vizită completă pe un telefon.",
+  "k": "vcard contact qr code generator vcard qr code generator scaneaza pentru a salva cartea ta de vizita completa pe un telefon",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR pentru e-mail",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/email-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scanează pentru a deschide un e-mail adresat în prealabil, gata de trimis.",
+  "k": "email qr code generator email qr code generator scaneaza pentru a deschide un e mail adresat in prealabil gata de trimis",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR pentru SMS",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/sms-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scanează pentru a deschide un mesaj text scris în prealabil.",
+  "k": "sms qr code generator sms qr code generator scaneaza pentru a deschide un mesaj text scris in prealabil",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR pentru apeluri telefonice",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/phone-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scanează pentru a forma instantaneu numărul tău.",
+  "k": "phone call qr code generator phone qr code generator scaneaza pentru a forma instantaneu numarul tau",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR Instagram",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/instagram-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Crește-ți urmăritorii cu un cod QR Instagram de tip scanează-pentru-a-urmări.",
+  "k": "instagram qr code generator instagram qr code generator creste ti urmaritorii cu un cod qr instagram de tip scaneaza pentru a urmari",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR Facebook",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/facebook-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Trimite oamenii direct la pagina ta de Facebook.",
+  "k": "facebook qr code generator facebook qr code generator trimite oamenii direct la pagina ta de facebook",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR YouTube",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/youtube-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scanează pentru a deschide instantaneu un videoclip sau un canal.",
+  "k": "youtube qr code generator youtube qr code generator scaneaza pentru a deschide instantaneu un videoclip sau un canal",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR TikTok",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/tiktok-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scanează pentru a deschide profilul tău TikTok.",
+  "k": "tiktok qr code generator tiktok qr code generator scaneaza pentru a deschide profilul tau tiktok",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR X (Twitter)",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/x-twitter-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scanează pentru a deschide profilul tău X.",
+  "k": "x twitter qr code generator x twitter qr code generator scaneaza pentru a deschide profilul tau x",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR LinkedIn",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/linkedin-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Conectează-te profesional cu o singură scanare.",
+  "k": "linkedin qr code generator linkedin qr code generator conecteaza te profesional cu o singura scanare",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR Telegram",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/telegram-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scanează pentru a te alătura profilului, grupului sau canalului tău Telegram.",
+  "k": "telegram qr code generator telegram qr code generator scaneaza pentru a te alatura profilului grupului sau canalului tau telegram",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR Snapchat",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/snapchat-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scanează pentru a te adăuga pe Snapchat.",
+  "k": "snapchat qr code generator snapchat qr code generator scaneaza pentru a te adauga pe snapchat",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR pentru locații Google Maps",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/google-maps-location-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scanează pentru a primi indicații către locul tău.",
+  "k": "google maps location qr code generator google maps location qr code generator scaneaza pentru a primi indicatii catre locul tau",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR pentru recenzii Google",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/google-review-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Clienții mulțumiți lasă o recenzie Google în câteva secunde.",
+  "k": "google review qr code generator google review qr code generator clientii multumiti lasa o recenzie google in cateva secunde",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR pentru meniuri de restaurant",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/restaurant-menu-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Meniu fără atingere pe fiecare masă.",
+  "k": "restaurant menu qr code generator restaurant menu qr code generator meniu fara atingere pe fiecare masa",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR pentru PDF",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/pdf-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scanează pentru a deschide sau descărca un fișier PDF.",
+  "k": "pdf qr code generator pdf qr code generator scaneaza pentru a deschide sau descarca un fisier pdf",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR pentru App Store / Google Play",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/app-store-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scanează pentru a-ți instala aplicația.",
+  "k": "app store google play qr code generator app store qr code generator scaneaza pentru a ti instala aplicatia",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR pentru formulare Google",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/google-form-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scanează pentru a deschide și completa un formular Google.",
+  "k": "google form qr code generator google form qr code generator scaneaza pentru a deschide si completa un formular google",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR Zoom / pentru întâlniri",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/zoom-meeting-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scanează pentru a te alătura unei întâlniri sau unui curs.",
+  "k": "zoom meeting qr code generator zoom meeting qr code generator scaneaza pentru a te alatura unei intalniri sau unui curs",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR pentru evenimente / calendar",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/event-calendar-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scanează pentru a salva un eveniment în calendar.",
+  "k": "event calendar qr code generator event calendar qr code generator scaneaza pentru a salva un eveniment in calendar",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR PayPal",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/paypal-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Primește plata: scanează pentru a deschide pagina ta PayPal.me.",
+  "k": "paypal qr code generator paypal qr code generator primeste plata scaneaza pentru a deschide pagina ta paypal me",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR pentru plăți UPI",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/upi-payment-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Cod QR de plată UPI pentru magazine din India și regiunile UPI.",
+  "k": "upi payment qr code generator upi payment qr code generator cod qr de plata upi pentru magazine din india si regiunile upi",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR JazzCash / EasyPaisa (Pakistan)",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/jazzcash-easypaisa-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Distribuie detaliile contului tău JazzCash sau EasyPaisa ca un cod QR.",
+  "k": "jazzcash easypaisa qr code pakistan generator jazzcash easypaisa qr code generator distribuie detaliile contului tau jazzcash sau easypaisa ca un cod qr",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR Bitcoin / cripto",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/bitcoin-crypto-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Distribuie o adresă de portofel Bitcoin ca un cod QR.",
+  "k": "bitcoin crypto qr code generator bitcoin crypto qr code generator distribuie o adresa de portofel bitcoin ca un cod qr",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR pentru Spotify / muzică",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/spotify-music-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scanează pentru a reda o melodie, un playlist sau un podcast.",
+  "k": "spotify music qr code generator spotify music qr code generator scaneaza pentru a reda o melodie un playlist sau un podcast",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR pentru CV / portofoliu",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/resume-portfolio-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Pune-ți CV-ul sau portofoliul la o scanare distanță.",
+  "k": "resume portfolio qr code generator resume portfolio qr code generator pune ti cv ul sau portofoliul la o scanare distanta",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR pentru imagini",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/image-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scanează pentru a deschide sau distribui un link către o fotografie sau imagine.",
+  "k": "image qr code generator image qr code generator scaneaza pentru a deschide sau distribui un link catre o fotografie sau imagine",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR pentru audio",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/audio-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scanează pentru a reda o melodie, o notă vocală sau un fișier audio.",
+  "k": "audio qr code generator audio qr code generator scaneaza pentru a reda o melodie o nota vocala sau un fisier audio",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR pentru rețele sociale",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/social-media-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Un cod QR pentru linkurile profilului tău de pe rețelele sociale.",
+  "k": "social media qr code generator social media qr code generator un cod qr pentru linkurile profilului tau de pe retelele sociale",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR Pinterest",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/pinterest-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scanează pentru a deschide profilul sau panoul tău Pinterest.",
+  "k": "pinterest qr code generator pinterest qr code generator scaneaza pentru a deschide profilul sau panoul tau pinterest",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR Discord",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/discord-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scanează pentru a te alătura serverului sau profilului tău Discord.",
+  "k": "discord qr code generator discord qr code generator scaneaza pentru a te alatura serverului sau profilului tau discord",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR GitHub",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/github-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Scanează pentru a deschide profilul sau depozitul tău GitHub.",
+  "k": "github qr code generator github qr code generator scaneaza pentru a deschide profilul sau depozitul tau github",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Scaner de coduri QR și de bare",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/qr-code-scanner/",
+  "s": "Loona QR Codes",
+  "d": "Scanează coduri cu camera ta sau decodează coduri QR și de bare dintr-o fotografie sau o captură de ecran.",
+  "k": "qr code barcode scanner qr code scanner scaneaza coduri cu camera ta sau decodeaza coduri qr si de bare dintr o fotografie sau o captura de ecran",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri QR în serie",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/bulk-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Creează până la 100 de coduri QR etichetate deodată, într-o foaie tipăribilă.",
+  "k": "bulk qr code generator bulk qr code generator creeaza pana la 100 de coduri qr etichetate deodata intr o foaie tiparibila",
+  "p": 137,
+  "c": "Tool"
+ }
+]

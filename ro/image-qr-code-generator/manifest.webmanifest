@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator de coduri QR pentru imagini",
+  "short_name": "Generator de coduri QR pentru imagini",
+  "description": "Creează gratuit un cod QR pentru imagini instantaneu cu Loona. Fără înregistrare, fără filigran, nu expiră niciodată. Scanează pentru a deschide o fotografie, un afiș, o imagine de meniu sau o imagine de produs. Culori personalizate, descărcare PNG la rezoluție înaltă.",
+  "id": "/loona-qr-codes/ro/image-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
