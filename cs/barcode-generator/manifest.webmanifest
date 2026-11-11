@@ -1,0 +1,29 @@
+{
+  "name": "Generátor čárových kódů Loona",
+  "short_name": "Generátor čárových kódů",
+  "description": "Vytvářejte bezplatné čárové kódy online s Loonou: Code 128, Code 39, EAN-13, UPC-A a ITF-14. Kontrolní číslice se přidávají automaticky, živý náhled, stažení jako PNG nebo SVG. Bez registrace, bez vodoznaku, 100% soukromé ve vašem prohlížeči.",
+  "id": "/loona-qr-codes/cs/barcode-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Hromadný generátor QR kódů Loona",
+  "short_name": "Hromadný generátor QR kódů",
+  "description": "Vytvořte až 100 QR kódů najednou, zdarma: vložte seznam nebo nahrajte CSV s odkazy a texty, získejte označený tisknutelný arch QR kódů. Bez registrace, bez vodoznaku, nikdy nevyprší, 100% soukromé ve vašem prohlížeči.",
+  "id": "/loona-qr-codes/cs/bulk-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="cs"><head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Skener QR kódů &amp; čárových kódů – Bezplatný online skener (Fotoaparát &amp; obrázek) | Loona QR Codes</title><meta name="description" content="Skenujte QR kódy a čárové kódy zdarma online s Loonou: použijte fotoaparát nebo nahrajte fotografii či snímek obrazovky. Dekóduje URL, WiFi, kontakty vCard, EAN-13, UPC-A, Code 128 a Code 39. 100% soukromé — vše se dekóduje na vašem zařízení, nic se nenahrává.">
+<link rel="canonical" href="https://loonaautomation.github.io/loona-qr-codes/cs/qr-code-scanner/"><link rel="alternate" hreflang="en" href="https://loonaautomation.github.io/loona-qr-codes/qr-code-scanner/"><link rel="alternate" hreflang="es" href="https://loonaautomation.github.io/loona-qr-codes/es/qr-code-scanner/"><link rel="alternate" hreflang="de" href="https://loonaautomation.github.io/loona-qr-codes/de/qr-code-scanner/"><link rel="alternate" hreflang="fr" href="https://loonaautomation.github.io/loona-qr-codes/fr/qr-code-scanner/"><link rel="alternate" hreflang="pt" href="https://loonaautomation.github.io/loona-qr-codes/pt/qr-code-scanner/"><link rel="alternate" hreflang="it" href="https://loonaautomation.github.io/loona-qr-codes/it/qr-code-scanner/"><link rel="alternate" hreflang="nl" href="https://loonaautomation.github.io/loona-qr-codes/nl/qr-code-scanner/"><link rel="alternate" hreflang="ar" href="https://loonaautomation.github.io/loona-qr-codes/ar/qr-code-scanner/"><link rel="alternate" hreflang="ur" href="https://loonaautomation.github.io/loona-qr-codes/ur/qr-code-scanner/"><link rel="alternate" hreflang="tr" href="https://loonaautomation.github.io/loona-qr-codes/tr/qr-code-scanner/"><link rel="alternate" hreflang="ru" href="https://loonaautomation.github.io/loona-qr-codes/ru/qr-code-scanner/"><link rel="alternate" hreflang="pl" href="https://loonaautomation.github.io/loona-qr-codes/pl/qr-code-scanner/"><link rel="alternate" hreflang="cs" href="https://loonaautomation.github.io/loona-qr-codes/cs/qr-code-scanner/"><link rel="alternate" hreflang="x-default" href="https://loonaautomation.github.io/loona-qr-codes/qr-code-scanner/">
+<meta property="og:title" content="Skener QR kódů a čárových kódů – Bezplatný online skener | Loona QR Codes"><meta property="og:description" content="Naskenujte QR kód nebo čárový kód fotoaparátem, nebo ho dešifrujte z fotografie či snímku obrazovky. Zdarma, bez registrace, 100% soukromé dekódování na zařízení."><meta property="og:type" content="website"><meta property="og:url" content="https://loonaautomation.github.io/loona-qr-codes/cs/qr-code-scanner/"><meta property="og:locale" content="cs_CZ"><meta property="og:site_name" content="Loona QR Codes">
+<meta name="twitter:card" content="summary"><meta name="robots" content="index, follow">
+<link rel="stylesheet" href="../../assets/style.css">
+<style>
+.scan-video{width:100%;max-width:520px;background:#000;border-radius:10px;display:none;margin:0 auto}
+.drop{border:2px dashed #c9a227;border-radius:12px;padding:26px 16px;text-align:center;background:#fdfaf1;cursor:pointer}
+.drop.drag{background:#f5eeda;border-color:#0b3a42}
+.result-box{background:#f5f3ff;border:1px solid #e6e1f5;border-radius:10px;padding:14px;text-align:left;word-break:break-word}
+.result-box pre{white-space:pre-wrap;word-break:break-word;background:#fff;border:1px solid #e6e1f5;border-radius:8px;padding:10px;font-size:.92rem;max-height:220px;overflow:auto}
+.hist{list-style:none;padding:0;margin:10px 0;text-align:left}
+.hist li{border-bottom:1px solid #eee;padding:8px 2px;font-size:.92rem;word-break:break-word}
+.mode-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px}@media(max-width:800px){.mode-grid{grid-template-columns:1fr}}
+</style>
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "Skener QR kódů a čárových kódů – Bezplatný online skener",
+  "url": "https://loonaautomation.github.io/loona-qr-codes/cs/qr-code-scanner/",
+  "applicationCategory": "UtilitiesApplication",
+  "operatingSystem": "Any (Web Browser)",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Loona Automation",
+    "url": "https://loonaautomation.github.io/"
+  }
+}</script>
+<link rel="icon" type="image/svg+xml" href="../../assets/favicon.svg"><meta name="theme-color" content="#07272e"><meta property="og:image" content="https://loonaautomation.github.io/loona-qr-codes/assets/og-image.png"><link rel="icon" type="image/png" sizes="32x32" href="../../assets/favicon-32.png"><link rel="apple-touch-icon" href="../../assets/apple-touch-icon.png"><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-5L43M13ZYT');
+</script>
+<script type="text/javascript">
+(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window, document, "clarity", "script", "z599jkwoy9");
+</script>
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Loona Automation",
+      "item": "https://loonaautomation.github.io/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Loona QR Codes",
+      "item": "https://loonaautomation.github.io/loona-qr-codes/cs/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Skener QR kódů a čárových kódů – Bezplatný online skener",
+      "item": "https://loonaautomation.github.io/loona-qr-codes/cs/qr-code-scanner/"
+    }
+  ]
+}</script>
+<link rel="manifest" href="manifest.webmanifest">
+</head>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Je tento skener QR kódů a čárových kódů zdarma?","acceptedAnswer":{"@type":"Answer","text":"Ano. Skener od Loony je zcela zdarma, bez registrace, bez vodoznaku a bez omezení počtu kódů, které naskenujete, pro osobní i komerční použití."}},{"@type":"Question","name":"Je video z mé kamery nebo má fotografie na této stránce skeneru soukromá?","acceptedAnswer":{"@type":"Answer","text":"Ano. Vše se dekóduje na vašem vlastním zařízení, uvnitř vašeho prohlížeče. Snímky fotoaparátu se nikdy nikam neposílají a nahrané obrázky se nikdy neposílají na server — soubor se čte lokálně, dekóduje lokálně a historie skenování se uchovává pouze v paměti této stránky a zmizí, když zavřete záložku."}},{"@type":"Question","name":"Proč v mém prohlížeči nefunguje skenování fotoaparátem?","acceptedAnswer":{"@type":"Answer","text":"Živé skenování fotoaparátem používá technologii BarcodeDetector vestavěnou do Chrome, Edge a většiny prohlížečů Android. Safari a Firefox ji zatím neobsahují, takže na těchto prohlížečích je tlačítko fotoaparátu nahrazeno zprávou, která vás žádá, abyste místo toho použili nahrání obrázku — nahrání fotografie nebo snímku obrazovky funguje v každém moderním prohlížeči."}},{"@type":"Question","name":"Může tento skener přečíst čárový kód z fotografie?","acceptedAnswer":{"@type":"Answer","text":"Ano. Režim nahrávání dekóduje QR kódy z obrázků pomocí knihovny jsQR a čárové kódy z obrázků pomocí knihovny ZXing — včetně EAN-13, UPC-A, Code 128 a Code 39 — stejně jako QR kódy, které ZXing najde a jsQR přehlédl. Velmi malé, rozmazané, poškozené nebo málo kontrastní kódy na fotografii mohou stále selhat; ostřejší, bližší fotografie to obvykle napraví."}},{"@type":"Question","name":"Jaké typy kódů dokáže tento skener přečíst?","acceptedAnswer":{"@type":"Answer","text":"Skenování fotoaparátem (kde je podporováno) čte QR kódy plus formáty čárových kódů, které BarcodeDetector vašeho prohlížeče nabízí, běžně EAN-13, EAN-8, UPC-A, UPC-E, Code 128, Code 39, Code 93, Codabar a ITF. Nahrání obrázku čte QR kódy a čárové kódy EAN-13, UPC-A, Code 128 a Code 39 a ukáže vám dekódovaný typ, surový obsah a chytré akce, jako je otevření odkazu nebo uložení kontaktu."}}]}</script>
+<body><header class="site"><div class="wrap nav"><a class="logo" href="../"><img class="logo-img" src="../../assets/logo.jpg" alt="Logo Loona Automation" width="44" height="44">Loona <span>QR kódy</span></a>
+<nav><a href="../">Domů</a><a href="../#all-tools">Všechny nástroje</a><a href="../about.html">O nás</a><a href="../contact.html">Kontakt</a></nav></div></header>
+<main class="wrap"><div class="hero"><h1>Bezplatný skener QR kódů &amp; čárových kódů</h1><p>Namiřte fotoaparát na QR kód nebo čárový kód, nebo sem vložte fotografii či snímek obrazovky — kód se dešifruje přímo zde na vašem zařízení. Bez registrace, bez aplikace k instalaci a nic, co naskenujete, se nikdy nenahraje. Můžete také hromadně dekódovat mnoho obrázků kódů najednou a exportovat výsledky jako soubor CSV.</p></div>
+<div class="card"><div class="mode-grid"><div>
+<h2 style="margin-top:0">Skenovat fotoaparátem</h2>
+<p class="small">Živé skenování fotoaparátem používá rychlý BarcodeDetector vestavěný do Chrome, Edge a většiny prohlížečů Android a čte QR kódy plus běžné čárové kódy (EAN-13, UPC-A, Code 128, Code 39 a další, podle vašeho prohlížeče).</p>
+<p><button class="btn" id="camStartBtn" type="button">Spustit skenování fotoaparátem</button> <button class="btn secondary" id="camStopBtn" type="button" style="display:none">Zastavit fotoaparát</button></p>
+<video id="camVideo" class="scan-video" playsinline muted></video>
+<p id="camStatus" class="small" role="status"></p>
+<p class="note">Soukromí: snímky fotoaparátu se zpracovávají pouze na tomto zařízení a nikdy neopustí váš prohlížeč. Žádné video se nezaznamenává, neodesílá ani neukládá.</p>
+</div>
+<div>
+<h2 style="margin-top:0">Skenovat z obrázku</h2>
+<p class="small">Nahrajte fotografii, sem vložte soubor obrázku, nebo vložte snímek obrazovky (Ctrl+V / Cmd+V). QR kódy v obrázcích se dekódují pomocí jsQR a čárové kódy v obrázcích pomocí ZXing — včetně EAN-13, UPC-A, Code 128 a Code 39.</p>
+<div class="drop" id="dropZone" tabindex="0" role="button" aria-label="Nahrajte obrázek obsahující QR kód nebo čárový kód">
+<p style="margin:0"><strong>Sem přetáhněte obrázek</strong> nebo klikněte pro výběr souboru</p>
+<p class="small" style="margin:6px 0 0">PNG, JPG, WebP a další obrázky čitelné v prohlížeči</p>
+</div>
+<input type="file" id="fileInput" accept="image/*" style="display:none">
+<p id="uploadStatus" class="small" role="status"></p>
+<p class="note">100% soukromé: obrázek se čte a dekóduje ve vašem prohlížeči. Nikdy se nenahrává na žádný server.</p>
+</div></div></div>
+
+<div class="card" id="resultCard" style="display:none"><h2 style="margin-top:0">Výsledek skenování</h2>
+<div class="result-box">
+<p style="margin:0 0 6px"><strong>Typ:</strong> <span id="resType"></span> &nbsp; <strong>Formát:</strong> <span id="resFormat"></span></p>
+<p style="margin:0 0 6px"><strong>Podrobnosti dekodéru:</strong> <span id="resDetails"></span> <span class="small">(Verze QR a datový režim se zobrazí, když je dekodér nahlásí; úroveň opravy chyb a vzor masky tyto dekodéry nezveřejňují a nikdy se neodhadují.)</span></p>
+<div id="resParsed"></div>
+<p style="margin:10px 0 4px"><strong>Nezpracovaný obsah:</strong></p>
+<pre id="resRaw"></pre>
+<p id="resActions" style="margin:10px 0 0"></p>
+</div>
+<h3>Historie skenování (pouze tato relace)</h3>
+<ul class="hist" id="historyList"></ul>
+<p><button class="btn secondary" id="clearHistoryBtn" type="button">Vymazat historii</button></p>
+<p class="small">Historie žije pouze v paměti této stránky — zavřete kartu a je pryč. Nic se nikam neukládá ani neposílá.</p>
+</div>
+
+<div class="card" id="batchCard"><h2 style="margin-top:0">Hromadné dekódování — mnoho obrázků kódů najednou</h2>
+<p class="small">Máte celou sadu fotografií kódů ke kontrole — vytištěný arch, složku záběrů produktů, třídní sadu snímků obrazovky? Vyberte nebo přetáhněte několik obrázků najednou: každý se dekóduje stejnými dekodéry jsQR a ZXing jako výše, výsledky se shromáždí do tabulky a tabulku můžete exportovat jako soubor CSV. Soubory, které neobsahují žádný čitelný kód, jsou poctivě uvedeny jako „Nedekódováno“.</p>
+<div class="drop" id="batchDrop" tabindex="0" role="button" aria-label="Nahrajte více obrázků obsahujících QR kódy nebo čárové kódy">
+<p style="margin:0"><strong>Sem přetáhněte více obrázků</strong> nebo klikněte pro výběr souborů</p>
+<p class="small" style="margin:6px 0 0">PNG, JPG, WebP a další obrázky čitelné v prohlížeči — dekódované jeden po druhém, na tomto zařízení</p>
+</div>
+<input type="file" id="batchInput" accept="image/*" multiple style="display:none">
+<p id="batchStatus" class="small" role="status"></p>
+<div id="batchWrap" style="display:none;overflow-x:auto">
+<table style="width:100%;border-collapse:collapse;font-size:.92rem">
+<thead><tr><th style="text-align:left;border-bottom:2px solid #e6e1f5;padding:6px">Název souboru</th><th style="text-align:left;border-bottom:2px solid #e6e1f5;padding:6px">Formát</th><th style="text-align:left;border-bottom:2px solid #e6e1f5;padding:6px">Typ</th><th style="text-align:left;border-bottom:2px solid #e6e1f5;padding:6px">Dekódovaný text</th></tr></thead>
+<tbody id="batchBody"></tbody>
+</table>
+</div>
+<p><button class="btn" id="batchCsvBtn" type="button" style="display:none">Exportovat výsledky jako CSV</button> <button class="btn secondary" id="batchClearBtn" type="button" style="display:none">Vymazat dávku</button></p>
+<p class="note">100% soukromé: hromadné dekódování také probíhá výhradně ve vašem prohlížeči. Žádný obrázek z dávky se nenahrává a soubor CSV se vytvoří na vašem zařízení, když klepnete na export.</p>
+</div>
+
+<section class="content">
+<h2>Jak naskenovat QR kód nebo čárový kód ve 3 krocích</h2>
+<ol><li><strong>Zvolte fotoaparát nebo obrázek.</strong> V prohlížeči Chrome, Edge nebo na Androidu klepněte na „Spustit skenování fotoaparátem“, povolte přístup k fotoaparátu a podržte kód uvnitř rámu. V jakémkoli prohlížeči — včetně Safari a Firefoxu — můžete místo toho nahrát fotografii, přetáhnout obrázek nebo vložit snímek obrazovky.</li>
+<li><strong>Počkejte chvíli na dekódování.</strong> Skener přečte vzor na vašem zařízení a zobrazí dekódovaný typ, formát a nezpracovaný obsah. U fotografie se ostrý, blízký a dobře osvětlený obrázek kódu skenuje nejrychleji.</li><li><strong>Použijte chytrou akci.</strong> Otevřete dekódovaný odkaz, odhalte název a heslo sítě WiFi, stáhněte si kontaktní kartu (.vcf) z kódu vCard, zavolejte na číslo nebo zkopírujte nezpracovaný text jedním klepnutím. Každé naskenování se přidá do vaší historie na stránce pro tuto relaci.</li></ol>
+<h2>O tomto skeneru QR kódů a čárových kódů</h2>
+<p>Většina QR webů pouze <em>vytvořit</em> kódů. Tato stránka dělá opačnou práci: čte je. To potřebujete, když vytištěný kód nemá čitelný popisek, když vám kolega pošle snímek obrazovky kódu místo odkazu uvnitř něj, když chcete před velkým tiskovým nákladem zkontrolovat, co jeden z vašich vlastních vytištěných kódů skutečně obsahuje, nebo když se číslo čárového kódu produktu musí přečíst z fotografie.</p>
+<p>Funguje dvěma způsoby. Režim fotoaparátu používá rozhraní BarcodeDetector vestavěné do moderních prohlížečů Chromium — stejnou rychlou, k hardwaru přívětivou detekci, kterou používá systém vašeho telefonu — a hlásí QR kódy a běžné jednorozměrné čárové kódy. Režim obrázku je zcela soběstačný: open-source knihovna jsQR dekóduje QR kódy z pixelů vašeho obrázku a open-source knihovna ZXing dekóduje čárové kódy (a jakýkoli QR kód, který jsQR přehlédl) ze stejných pixelů. Oba běží výhradně ve vašem prohlížeči, a proto tento skener dál funguje s citlivými kódy — hesly k WiFi, platebními kódy, soukromými odkazy — které byste nikdy nechtěli nahrávat na cizí server.</p>
+<h2>Nejlepší využití tohoto skeneru</h2><ul><li>Kontrola vašich vlastních vytištěných QR kódů před tiskem ve větším množství</li><li>Otevření odkazu skrytého uvnitř QR kódu na snímku obrazovky nebo fotografii, kterou vám někdo poslal</li><li>Obnovení názvu a hesla sítě WiFi z obrázku QR kódu pro WiFi</li><li>Uložení kontaktu vCard z QR kódu vizitky jako soubor .vcf</li><li>Čtení čísel čárových kódů EAN-13, UPC-A, Code 128 a Code 39 z fotografií produktů a štítků</li><li>Ověření, že se čárový kód, který jste vygenerovali, naskenuje zpět přesně na číslo, které jste zamýšleli</li><li>Hromadná kontrola celého vytištěného archu nebo složky fotografií kódů, s exportem CSV každého výsledku</li><li>Zobrazení souřadnic za kódem polohy geo:, nebo adresy za platebním kódem Bitcoin či Ethereum, předtím než podle nich budete jednat</li></ul>
+<p>Poctivé limity, abyste nebyli překvapeni: skenování fotoaparátem závisí na funkci prohlížeče, kterou Safari a Firefox zatím nedodávají, takže na těchto prohlížečích je k dispozici pouze režim obrázku — stránka to zjistí a řekne vám to otevřeně, místo aby tiše selhala. A žádný dekodér nedokáže přečíst kód, který je na fotografii příliš malý, rozmazaný, roztrhaný nebo vytištěný s příliš malým kontrastem; opětovné vyfocení blíže, přímo a v dobrém světle většinu neúspěšných skenů napraví.</p>
+<h2>Často kladené otázky</h2><h3>Je tento skener QR kódů a čárových kódů zdarma?</h3><p>Ano. Skener od Loony je zcela zdarma, bez registrace, bez vodoznaku a bez omezení počtu kódů, které naskenujete, pro osobní i komerční použití.</p><h3>Je video z mé kamery nebo má fotografie na této stránce skeneru soukromá?</h3><p>Ano. Vše se dekóduje na vašem vlastním zařízení, uvnitř vašeho prohlížeče. Snímky fotoaparátu se nikdy nikam neposílají a nahrané obrázky se nikdy neposílají na server — soubor se čte lokálně, dekóduje lokálně a historie skenování se uchovává pouze v paměti této stránky a zmizí, když zavřete záložku.</p><h3>Proč v mém prohlížeči nefunguje skenování fotoaparátem?</h3><p>Živé skenování fotoaparátem používá technologii BarcodeDetector vestavěnou do Chrome, Edge a většiny prohlížečů Android. Safari a Firefox ji zatím neobsahují, takže na těchto prohlížečích je tlačítko fotoaparátu nahrazeno zprávou, která vás žádá, abyste místo toho použili nahrání obrázku — nahrání fotografie nebo snímku obrazovky funguje v každém moderním prohlížeči.</p><h3>Může tento skener přečíst čárový kód z fotografie?</h3><p>Ano. Režim nahrávání dekóduje QR kódy z obrázků pomocí knihovny jsQR a čárové kódy z obrázků pomocí knihovny ZXing — včetně EAN-13, UPC-A, Code 128 a Code 39 — stejně jako QR kódy, které ZXing najde a jsQR přehlédl. Velmi malé, rozmazané, poškozené nebo málo kontrastní kódy na fotografii mohou stále selhat; ostřejší, bližší fotografie to obvykle napraví.</p><h3>Jaké typy kódů dokáže tento skener přečíst?</h3><p>Skenování fotoaparátem (kde je podporováno) čte QR kódy plus formáty čárových kódů, které BarcodeDetector vašeho prohlížeče nabízí, běžně EAN-13, EAN-8, UPC-A, UPC-E, Code 128, Code 39, Code 93, Codabar a ITF. Nahrání obrázku čte QR kódy a čárové kódy EAN-13, UPC-A, Code 128 a Code 39 a ukáže vám dekódovaný typ, surový obsah a chytré akce, jako je otevření odkazu nebo uložení kontaktu.</p>
+<h2>Související generátory QR kódů</h2><div class="grid"><div class="tool-card"><a href="../barcode-generator/">Generátor čárových kódů</a><p>Vytvářejte čárové kódy produktů — Code 128, EAN-13, UPC a další. Poté je zde naskenujte zpět pro ověření.</p></div><div class="tool-card"><a href="../url-qr-code-generator/">Generátor QR kódů pro URL / web</a><p>Proměňte každý odkaz na web v QR kód.</p></div><div class="tool-card"><a href="../text-qr-code-generator/">Generátor QR kódů pro prostý text</a><p>Vložte jakýkoli text, kód nebo zprávu dovnitř QR kódu.</p></div><div class="tool-card"><a href="../wifi-qr-code-generator/">Generátor QR kódů pro WiFi</a><p>Hosté se připojí k WiFi jedním naskenováním, bez psaní hesla.</p></div><div class="tool-card"><a href="../vcard-qr-code-generator/">Generátor QR kódů pro kontakt vCard</a><p>Naskenujte a uložte si celou kontaktní kartu do telefonu.</p></div></div>
+<h2>Jak to funguje</h2>
+<p>QR kód nebo čárový kód je jen vzor, který kóduje text jako světlé a tmavé moduly. Dekódování je opakem generování: najít vzor v obrázku, změřit moduly, opravit chyby pomocí vestavěné redundance kódu a převést bity zpět na znaky. jsQR to u QR kódů dělá tak, že najde tři vyhledávací čtverce a vzorkuje mřížku; ZXing to u čárových kódů dělá skenováním řádků pixelů přes čáry a porovnáváním šířek s pravidly EAN, UPC, Code 128 nebo Code 39, včetně ověření poslední kontrolní číslice maloobchodních čárových kódů. V režimu fotoaparátu provádí tutéž práci nepřetržitě na živých snímcích videa vlastní BarcodeDetector vašeho prohlížeče, dokud se kód nenajde. V dávkovém režimu běží tytéž dva obrazové dekodéry jednou pro každý soubor a každý výsledek — název souboru, formát, typ a dekódovaný text — se shromáždí do tabulky, kterou můžete exportovat jako CSV.</p>
+<p><strong>Metoda:</strong> vyberte fotoaparát nebo obrázek &rarr; nechte dekodér na zařízení přečíst vzor &rarr; zkontrolujte typ, formát a nezpracovaný obsah &rarr; použijte chytrou akci (otevřít, kopírovat, uložit kontakt) &rarr; najděte naskenování kdykoli znovu v historii relace.</p>
+<h3>Vypracovaný příklad</h3>
+<p>Obchodnice vygeneruje čárový kód EAN-13 pro nový produkt generátorem čárových kódů od Loony a vytiskne náhled. Před objednáním tisíce štítků náhled vyfotí telefonem, fotografii sem nahraje a skener přečte čárový kód zpět pomocí ZXing: formát EAN-13, číslo přesně to, které zadala, včetně kontrolní číslice. Také pořídí snímek obrazovky WiFi QR kódu dodavatele z chatu, vloží ho na tuto stránku a jsQR odhalí název sítě a heslo jako prostý text, který může napsat do notebooku bez fotoaparátu.</p>
+<h3>Často kladené otázky</h3>
+<p><strong>Mohu naskenovat kód ze snímku obrazovky na stejném telefonu?</strong></p>
+<p>Ano. Uložte nebo sdílejte snímek obrazovky do své aplikace fotografií, poté zde použijte nahrávání obrázků a vyberte tento snímek. Na počítači jednoduše obrázek zkopírujte a vložte ho do této stránky pomocí Ctrl+V (nebo Cmd+V na Macu) — není potřeba žádné ukládání souboru.</p>
+<p><strong>Výsledek vypadá jako WIFI:T:WPA;S:… — co to znamená?</strong></p>
+<p>To je standardní nezpracovaný formát uvnitř QR kódu pro WiFi: T je typ zabezpečení, S je název sítě (SSID) a P je heslo. Tato stránka také zobrazuje tyto tři hodnoty samostatně nad nezpracovaným obsahem, takže je nemusíte sami vybírat.</p>
+<p><strong>Jak přidám naskenovaný kontakt do svého telefonu?</strong></p>
+<p>Když je naskenování vCard, objeví se akce „Stáhnout kontakt (.vcf)“. Stáhněte soubor a otevřete ho — telefony a počítače nabídnou uložení jako kontakt se jménem, organizací, telefonem, e-mailem a webem už vyplněnými.</p>
+<p><strong>Proč se moje fotografie nedekódovala?</strong></p>
+<p>Obvyklými příčinami jsou kód, který je v velké fotografii maličký, rozmazání, odlesky, roztržený nebo málo kontrastní výtisk, nebo snímek obrazovky oříznutý příliš těsně kolem kódu (dekodéry potřebují bílou tichou zónu kolem kódu). Ořízněte volně, vyfoťte znovu blíže a přímo zepředu a zkuste to znovu.</p>
+<p><strong>Mám důvěřovat QR kódu, který jsem našel na veřejnosti?</strong></p>
+<p>Naskenujte ho nejprve zde, místo aplikace, která výsledky otevírá automaticky: tato stránka pouze <em>zobrazuje</em> vám dekódovaný obsah a nikdy nic samo neotevře. Zkontrolujte, že odkaz skutečně vede tam, kam jeho popisek slibuje, než klepnete na „Otevřít odkaz“ — tento jeden zvyk porazí většinu podvodů s nálepkou přes skutečný kód.</p>
+<div id="loona-embed" style="max-width:780px;margin:30px auto;padding:24px;background:#fdfaf1;border:1px solid #d9c98a;border-radius:14px;text-align:left">
+<h2 style="margin:0 0 10px;color:#062e2a;font-size:1.35rem;line-height:1.3">Vložte tento nástroj na svůj web — zdarma</h2>
+<p style="margin:0 0 12px;line-height:1.6">Přidejte tento nástroj na svůj vlastní web nebo blog — je zcela zdarma, nevyžaduje registraci a vždy ukazuje nejnovější verzi. Zkopírujte kód níže a vložte ho na svou stránku tam, kde chcete, aby se nástroj zobrazil. Ponechání malé řádky s kreditem &ldquo;Vytvořeno pomocí Loona Automation&rdquo; pod vloženým nástrojem pomáhá udržet tento nástroj zdarma &mdash; ale můžete ji libovolně upravit nebo odstranit; nástroj funguje tak jako tak.</p>
+<textarea id="loonaEmbedCode" readonly rows="4" style="width:100%;box-sizing:border-box;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.8rem;line-height:1.45;padding:12px;border:1px solid #e4ddc8;border-radius:10px;background:#fff;color:#1c2422;resize:vertical">&lt;iframe src="https://loonaautomation.github.io/loona-qr-codes/cs/qr-code-scanner/" width="100%" height="720" style="border:1px solid #e5e7eb;border-radius:12px;max-width:760px" loading="lazy" title="QR Code & Barcode Scanner by Loona"&gt;&lt;/iframe&gt;
+&lt;p style="font-size:13px;font-family:Arial,sans-serif"&gt;Vytvořeno pomocí &lt;a href="https://loonaautomation.github.io/loona-qr-codes/cs/qr-code-scanner/" target="_blank" rel="noopener"&gt;Loona Automation&lt;/a&gt; &mdash; zdarma Skener QR kódů &amp; čárových kódů&lt;/p&gt;</textarea>
+<p style="margin:10px 0 0"><button type="button" id="loonaEmbedBtn" style="background:#062e2a;color:#fff;border:0;border-radius:8px;padding:10px 18px;font-size:.95rem;font-weight:700;cursor:pointer">Kopírovat kód pro vložení</button></p>
+</div>
+<script>
+(function(){var b=document.getElementById('loonaEmbedBtn'),t=document.getElementById('loonaEmbedCode');if(!b||!t)return;b.addEventListener('click',function(){var done=function(){b.textContent='Zkopírováno!';setTimeout(function(){b.textContent='Kopírovat kód pro vložení';},2000);};var fallback=function(){t.removeAttribute('readonly');t.select();try{document.execCommand('copy');}catch(e){}t.setAttribute('readonly','');done();};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t.value).then(done,fallback);}else{fallback();}});})();
+</script>
+</section></main><footer class="site"><div class="wrap"><p><strong>Loona QR Codes</strong> — Bezplatný generátor QR kódů — Bez vypršení, bez registrace, bez vodoznaku. Každý QR kód se generuje soukromě ve vašem prohlížeči; nic se nenahrává na server, kódy nikdy nevyprší a není tu žádný vodoznak.</p>
+<p><a href="../url-qr-code-generator/">QR kód pro URL / web</a> <a href="../text-qr-code-generator/">QR kód pro prostý text</a> <a href="../wifi-qr-code-generator/">QR kód pro WiFi</a> <a href="../whatsapp-qr-code-generator/">QR kód pro WhatsApp</a> <a href="../vcard-qr-code-generator/">QR kód pro kontakt vCard</a> <a href="../email-qr-code-generator/">QR kód pro e-mail</a> <a href="../sms-qr-code-generator/">QR kód pro SMS</a> <a href="../phone-qr-code-generator/">QR kód pro telefonní hovory</a> <a href="../instagram-qr-code-generator/">QR kód pro Instagram</a> <a href="../facebook-qr-code-generator/">QR kód pro Facebook</a></p>
+<p><a href="../about.html">O nás</a><a href="../privacy-policy.html">Zásady ochrany soukromí</a><a href="../terms.html">Podmínky</a><a href="../disclaimer.html">Vyloučení odpovědnosti</a><a href="../contact.html">Kontakt</a></p>
+<p class="small">Kontakt: <a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></p>
+<p class="small">Knihovny skeneru: jsQR a ZXing (Apache License 2.0), běžící lokálně ve vašem prohlížeči. Vytvořil <a href="https://github.com/loonaautomation">Loona Automation</a> · © 2026 Loona QR Codes. Zdarma k použití pro osobní i komerční účely.</p></div></footer>
+<script src="../../assets/jsQR.js"></script>
+<script src="../../assets/zxing.min.js"></script>
+<script>
+/*LOONA-SCAN-CORE-START*/
+function classifyResult(raw){
+  var t=String(raw===null||raw===undefined?'':raw).trim();
+  if(/^BEGIN:VCARD/i.test(t))return 'kontakt vCard';
+  if(/^WIFI:/i.test(t))return 'Síť WiFi';
+  if(/^https?:\/\//i.test(t))return 'Webový odkaz (URL)';
+  if(/^mailto:/i.test(t))return 'Email';
+  if(/^tel:/i.test(t))return 'Telefonní číslo';
+  if(/^(SMSTO:|sms:)/i.test(t))return 'Zpráva SMS';
+  if(/^geo:/i.test(t))return 'Location';
+  if(/^upi:\/\//i.test(t))return 'Platba UPI';
+  if(/^bitcoin:/i.test(t))return 'Adresa Bitcoin';
+  if(/^ethereum:/i.test(t))return 'Platba kryptoměnou (Ethereum)';
+  if(/^BEGIN:VEVENT/i.test(t))return 'Událost kalendáře';
+  if(/^\d{13}$/.test(t))return 'Číslo čárového kódu (délka EAN-13)';
+  if(/^\d{12}$/.test(t))return 'Číslo čárového kódu (délka UPC-A)';
+  if(/^\d{8}$/.test(t))return 'Číslo čárového kódu (délka EAN-8)';
+  if(/^\d+$/.test(t))return 'Čárový kód / číselný kód';
+  return 'Prostý text';
+}
+function splitUnescaped(s,sep){
+  var parts=[],cur='',esc=false;
+  for(var i=0;i<s.length;i++){var ch=s[i];
+    if(esc){cur+=ch;esc=false;continue;}
+    if(ch==='\\'){esc=true;continue;}
+    if(ch===sep){parts.push(cur);cur='';continue;}
+    cur+=ch;}
+  parts.push(cur);return parts;
+}
+function parseWifi(raw){
+  var body=String(raw||'').replace(/^WIFI:/i,'');
+  var out={},parts=splitUnescaped(body,';');
+  for(var i=0;i<parts.length;i++){var idx=parts[i].indexOf(':');if(idx>0){out[parts[i].slice(0,idx).toUpperCase()]=parts[i].slice(idx+1);}}
+  return {ssid:out.S||'',password:out.P||'',encryption:out.T||'',hidden:/^true$/i.test(out.H||'')};
+}
+function parseVCard(raw){
+  var out={phones:[],emails:[]},lines=String(raw||'').split(/\r?\n/);
+  for(var i=0;i<lines.length;i++){var line=lines[i];var idx=line.indexOf(':');if(idx<0)continue;
+    var key=line.slice(0,idx).split(';')[0].toUpperCase(),val=line.slice(idx+1).replace(/\\,/g,',').replace(/\\;/g,';').replace(/\\n/gi,' ');
+    if(key==='FN')out.name=val;else if(key==='ORG')out.org=val;else if(key==='TITLE')out.title=val;
+    else if(key==='TEL')out.phones.push(val);else if(key==='EMAIL')out.emails.push(val);
+    else if(key==='URL')out.url=val;else if(key==='ADR')out.address=val.replace(/;+/g,' ').trim();}
+  return out;
+}
+function prettyFormat(fmt){
+  var map={qr_code:'QR Code',ean_13:'EAN-13',ean_8:'EAN-8',upc_a:'UPC-A',upc_e:'UPC-E',code_128:'Code 128',code_39:'Code 39',code_93:'Code 93',codabar:'Codabar',itf:'ITF',data_matrix:'Data Matrix',aztec:'Aztec',pdf417:'PDF417',QR_CODE:'QR Code',EAN_13:'EAN-13',EAN_8:'EAN-8',UPC_A:'UPC-A',UPC_E:'UPC-E',CODE_128:'Code 128',CODE_39:'Code 39',CODE_93:'Code 93',CODABAR:'Codabar',ITF:'ITF',DATA_MATRIX:'Data Matrix',AZTEC:'Aztec',PDF_417:'PDF417'};
+  return map[fmt]||String(fmt||'QR Code');
+}
+
+function parseQuery(q){
+  var out={};if(!q)return out;
+  var pairs=String(q).split('&');
+  for(var i=0;i<pairs.length;i++){var idx=pairs[i].indexOf('=');if(idx>0){var k=pairs[i].slice(0,idx).toLowerCase(),v=pairs[i].slice(idx+1);try{v=decodeURIComponent(v);}catch(e){}out[k]=v;}else if(pairs[i]){out[pairs[i].toLowerCase()]='';}}
+  return out;
+}
+function parseGeo(raw){
+  var m=String(raw||'').trim().match(/^geo:(-?\d+(?:\.\d+)?),(-?\d+(?:\.\d+)?)(?:,(-?\d+(?:\.\d+)?))?(?:\?(.*))?$/i);
+  if(!m)return null;
+  var q=parseQuery(m[4]||'');
+  return {lat:parseFloat(m[1]),lng:parseFloat(m[2]),altitude:(m[3]!==undefined&&m[3]!=='')?parseFloat(m[3]):null,query:q.q||'',zoom:q.z||''};
+}
+function parseMailto(raw){
+  var body=String(raw||'').trim().replace(/^mailto:/i,'');
+  var qi=body.indexOf('?');var addr=qi>=0?body.slice(0,qi):body;
+  try{addr=decodeURIComponent(addr);}catch(e){}
+  var q=parseQuery(qi>=0?body.slice(qi+1):'');
+  return {address:addr,subject:q.subject||'',body:q.body||'',cc:q.cc||''};
+}
+function parseCrypto(raw){
+  var m=String(raw||'').trim().match(/^(bitcoin|ethereum):([^?]+)(?:\?(.*))?$/i);
+  if(!m)return null;
+  var q=parseQuery(m[3]||'');
+  return {currency:m[1].toLowerCase()==='bitcoin'?'Bitcoin':'Ethereum',address:m[2],amount:q.amount||q.value||'',label:q.label||q.message||''};
+}
+function csvEscape(v){
+  var s=String(v===null||v===undefined?'':v);
+  if(/[",\n\r]/.test(s))return '"'+s.replace(/"/g,'""')+'"';
+  return s;
+}
+function buildBatchCsv(rows){
+  var lines=['filename,format,type,decoded text'];
+  (rows||[]).forEach(function(r){lines.push([csvEscape(r.filename),csvEscape(r.format),csvEscape(r.type),csvEscape(r.text)].join(','));});
+  return lines.join('\r\n')+'\r\n';
+}
+/*LOONA-SCAN-CORE-END*/
+</script>
+<script>
+var $=function(id){return document.getElementById(id);};
+var history=[];
+function escHtml(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+function showResult(res){
+  var raw=String(res.text||'');
+  $('resultCard').style.display='';
+  $('resType').textContent=classifyResult(raw);
+  $('resFormat').textContent=prettyFormat(res.format)+(res.engine?' · dekódováno pomocí '+res.engine:'');
+  var details=[];
+  details.push(raw.length+' znaků');
+  try{details.push(new Blob([raw]).size+' bajtů (UTF-8)');}catch(e){}
+  if(res.version){details.push('Verze QR '+res.version);}
+  if(res.chunks&&res.chunks.length){details.push('režim dat: '+res.chunks.map(function(c){return c.type;}).join(', '));}
+  var detEl=$('resDetails'); if(detEl)detEl.textContent=details.join(' · ')+((res.version)?'':'');
+  var parsed='';
+  var type=classifyResult(raw);
+  if(type==='Síť WiFi'){var w=parseWifi(raw);parsed='<p style="margin:6px 0"><strong>Údaje o WiFi:</strong> Síť (SSID): <strong>'+escHtml(w.ssid)+'</strong>'+(w.password?' · Heslo: <strong>'+escHtml(w.password)+'</strong>':' · bez hesla (otevřená síť)')+' · Zabezpečení: '+escHtml(w.encryption||'neuvedeno')+(w.hidden?' · skrytá síť':'')+'<br><span class="small">Webová stránka vás nemůže připojit k síti WiFi za vás — zkopírujte heslo výše, nebo naskenujte původní kód aplikací fotoaparátu v telefonu a připojte se automaticky.</span></p>';}
+  else if(type==='kontakt vCard'){var v=parseVCard(raw);var rows=[];if(v.name)rows.push('Jméno: <strong>'+escHtml(v.name)+'</strong>');if(v.org)rows.push('Organizace: '+escHtml(v.org));if(v.title)rows.push('Název: '+escHtml(v.title));if(v.phones.length)rows.push('Telefon: '+escHtml(v.phones.join(', ')));if(v.emails.length)rows.push('E-mail: '+escHtml(v.emails.join(', ')));if(v.url)rows.push('Web: '+escHtml(v.url));if(v.address)rows.push('Adresa: '+escHtml(v.address));parsed='<p style="margin:6px 0"><strong>Kontaktní údaje:</strong><br>'+rows.join('<br>')+'</p>';}
+  if(type==='Location'){
+    var g=parseGeo(raw);
+    if(g){parsed='<p style="margin:6px 0"><strong>Údaje o poloze:</strong> Zeměpisná šířka: <strong>'+g.lat+'</strong> · Zeměpisná délka: <strong>'+g.lng+'</strong>'+(g.altitude!==null?' · Nadmořská výška: '+g.altitude+' m':'')+(g.query?' · Popisek: '+escHtml(g.query):'')+'<br><a href="https://www.google.com/maps/search/?api=1&query='+g.lat+','+g.lng+'" target="_blank" rel="noopener"><strong>Otevřít v Mapách</strong></a></p>';}
+    else{parsed='<p style="margin:6px 0"><strong>Údaje o poloze:</strong> tato datová část začíná geo:, ale není ve standardní formě geo:šířka,délka, takže se žádné souřadnice neodhadují — viz nezpracovaný obsah níže.</p>';}
+  }
+  if(type==='Email'){
+    var mm=parseMailto(raw);var mrows=[];
+    if(mm.address)mrows.push('Komu: <strong>'+escHtml(mm.address)+'</strong>');
+    if(mm.cc)mrows.push('Kopie: '+escHtml(mm.cc));
+    if(mm.subject)mrows.push('Předmět: '+escHtml(mm.subject));
+    if(mm.body)mrows.push('Tělo: '+escHtml(mm.body));
+    parsed='<p style="margin:6px 0"><strong>Údaje e-mailu:</strong><br>'+mrows.join('<br>')+'</p>';
+  }
+  if(type==='Adresa Bitcoin'||type==='Platba kryptoměnou (Ethereum)'){
+    var cp=parseCrypto(raw);
+    if(cp){parsed='<p style="margin:6px 0"><strong>'+escHtml(cp.currency)+' údaje o platbě:</strong><br>Adresa: <strong style="word-break:break-all">'+escHtml(cp.address)+'</strong>'+(cp.amount?'<br>Částka: '+escHtml(cp.amount):'')+(cp.label?'<br>Popisek / zpráva: '+escHtml(cp.label):'')+'<br><span class="small">Před odesláním jakékoli platby zkontrolujte adresu znak po znaku — platby kryptoměnami nelze vrátit zpět.</span></p>';}
+  }
+  $('resParsed').innerHTML=parsed;
+  $('resRaw').textContent=raw;
+  var acts=[];
+  if(/^https?:\/\//i.test(raw.trim())){acts.push('<a class="btn" href="'+escHtml(raw.trim())+'" target="_blank" rel="noopener">Otevřít odkaz</a>');}
+  else if(/^mailto:/i.test(raw.trim())){acts.push('<a class="btn" href="'+escHtml(raw.trim())+'">Napsat e-mail</a>');}
+  else if(/^tel:/i.test(raw.trim())){acts.push('<a class="btn" href="'+escHtml(raw.trim())+'">Zavolat na číslo</a>');}
+  else if(/^(SMSTO:)/i.test(raw.trim())){var sm=raw.trim().slice(6);var p=sm.split(':');acts.push('<a class="btn" href="sms:'+escHtml(p[0])+(p[1]?('?body='+encodeURIComponent(p.slice(1).join(':'))):'')+'">Poslat SMS</a>');}
+  if(type==='kontakt vCard'){acts.push('<button class="btn" id="vcardBtn" type="button">Stáhnout kontakt (.vcf)</button>');}
+  if(type==='Location'){var gg=parseGeo(raw);if(gg){acts.push('<a class="btn" href="https://www.google.com/maps/search/?api=1&query='+gg.lat+','+gg.lng+'" target="_blank" rel="noopener">Otevřít v Mapách</a>');}}
+  var cryptoParsed=parseCrypto(raw);
+  if(cryptoParsed){acts.push('<button class="btn" id="cryptoCopyBtn" type="button">Kopírovat '+escHtml(cryptoParsed.currency)+' adresa</button>');}
+  acts.push('<button class="btn secondary" id="copyBtn" type="button">Kopírovat výsledek</button>');
+  acts.push('<button class="btn secondary" id="shareBtn" type="button">Sdílet</button>');
+  $('resActions').innerHTML=acts.join(' ');
+  var cb=$('copyBtn'); if(cb)cb.addEventListener('click',function(){var done=function(){cb.textContent='Zkopírováno!';setTimeout(function(){cb.textContent='Kopírovat výsledek';},2000);};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(raw).then(done,done);}else{var ta=document.createElement('textarea');ta.value=raw;document.body.appendChild(ta);ta.select();try{document.execCommand('copy');}catch(e){}ta.remove();done();}});
+  var sb=$('shareBtn'); if(sb)sb.addEventListener('click',function(){var val=raw.trim();var isUrl=/^https?:\/\//i.test(val);function copyFallback(){var done=function(){sb.textContent='Zkopírováno!';setTimeout(function(){sb.textContent='Share';},2000);};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(raw).then(done,done);}else{var ta=document.createElement('textarea');ta.value=raw;document.body.appendChild(ta);ta.select();try{document.execCommand('copy');}catch(e){}ta.remove();done();}}if(navigator.share){var payload=isUrl?{title:'Loona QR Code Scanner',text:'Naskenováno bezplatným skenerem QR kódů Loona:',url:val}:{title:'Loona QR Code Scanner',text:raw};navigator.share(payload).catch(function(err){if(err&&err.name!=='AbortError'){copyFallback();}});}else{copyFallback();}});
+  var vb=$('vcardBtn'); if(vb)vb.addEventListener('click',function(){var blob=new Blob([raw],{type:'text/vcard'});var u=URL.createObjectURL(blob);var a=document.createElement('a');a.href=u;a.download='contact.vcf';document.body.appendChild(a);a.click();a.remove();setTimeout(function(){URL.revokeObjectURL(u);},5000);});
+  var xb=$('cryptoCopyBtn'); if(xb&&cryptoParsed)xb.addEventListener('click',function(){var addr=cryptoParsed.address;var done=function(){xb.textContent='Adresa zkopírována!';setTimeout(function(){xb.textContent='Kopírovat '+cryptoParsed.currency+' adresa';},2000);};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(addr).then(done,done);}else{var ta=document.createElement('textarea');ta.value=addr;document.body.appendChild(ta);ta.select();try{document.execCommand('copy');}catch(e){}ta.remove();done();}});
+  history.unshift({time:new Date(),format:prettyFormat(res.format),type:type,text:raw});
+  if(history.length>20)history.length=20;
+  renderHistory();
+  $('resultCard').scrollIntoView({behavior:'smooth',block:'nearest'});
+}
+function renderHistory(){
+  $('historyList').innerHTML=history.map(function(h){return '<li><strong>'+escHtml(h.format)+'</strong> · '+escHtml(h.type)+' · '+h.time.toLocaleTimeString()+'<br>'+escHtml(h.text.length>140?h.text.slice(0,140)+'…':h.text)+'</li>';}).join('');
+}
+$('clearHistoryBtn').addEventListener('click',function(){history=[];renderHistory();});
+
+/* ---------- Image upload decoding ---------- */
+function zxingDecode(imageData){
+  if(typeof ZXing==='undefined')return null;
+  var w=imageData.width,h=imageData.height,d=imageData.data;
+  var lum=new Uint8ClampedArray(w*h);
+  for(var i=0,j=0;i<d.length;i+=4,j++){lum[j]=Math.round(0.299*d[i]+0.587*d[i+1]+0.114*d[i+2]);}
+  var source=new ZXing.RGBLuminanceSource(lum,w,h);
+  var bitmap=new ZXing.BinaryBitmap(new ZXing.HybridBinarizer(source));
+  var reader=new ZXing.MultiFormatReader();
+  try{var hints=new Map();hints.set(ZXing.DecodeHintType.TRY_HARDER,true);reader.setHints(hints);}catch(e){}
+  var res=reader.decode(bitmap);
+  return {text:res.getText(),format:(ZXing.BarcodeFormat[res.getBarcodeFormat()]||'Barcode'),engine:'ZXing'};
+}
+function decodeCanvas(canvas){
+  var ctx=canvas.getContext('2d',{willReadFrequently:true});
+  var img=ctx.getImageData(0,0,canvas.width,canvas.height);
+  if(typeof jsQR!=='undefined'){
+    try{var r=jsQR(img.data,img.width,img.height);if(r&&r.data)return {text:r.data,format:'QR Code',engine:'jsQR',version:r.version,chunks:r.chunks};}catch(e){}
+  }
+  try{var z=zxingDecode(img);if(z&&z.text)return z;}catch(e){}
+  return null;
+}
+function decodeImageElement(image){
+  var attempts=[];
+  var nw=image.naturalWidth||image.width,nh=image.naturalHeight||image.height;
+  function make(w,h){var c=document.createElement('canvas');c.width=w;c.height=h;var x=c.getContext('2d',{willReadFrequently:true});x.fillStyle='#fff';x.fillRect(0,0,w,h);x.drawImage(image,0,0,w,h);return c;}
+  attempts.push(make(nw,nh));
+  var maxDim=Math.max(nw,nh);
+  if(maxDim>1400){var s=1400/maxDim;attempts.push(make(Math.round(nw*s),Math.round(nh*s)));}
+  if(maxDim<700){attempts.push(make(nw*2,nh*2));}
+  for(var i=0;i<attempts.length;i++){var r=decodeCanvas(attempts[i]);if(r)return r;}
+  return null;
+}
+function handleFile(file){
+  if(!file)return;
+  if(!/^image\//.test(file.type||'')){$('uploadStatus').textContent='Tento soubor není obrázek. Vyberte prosím PNG, JPG nebo jiný soubor obrázku.';$('uploadStatus').style.color='#b3261e';return;}
+  $('uploadStatus').textContent='Dekódování obrázku na vašem zařízení…';$('uploadStatus').style.color='';
+  var url=URL.createObjectURL(file);
+  var image=new Image();
+  image.onload=function(){
+    var res=null;
+    try{res=decodeImageElement(image);}catch(e){}
+    URL.revokeObjectURL(url);
+    if(res){$('uploadStatus').textContent='Dekódováno pomocí '+res.engine+': '+prettyFormat(res.format)+'.';showResult(res);}
+    else{$('uploadStatus').textContent='V tomto obrázku se nepodařilo přečíst žádný QR kód ani podporovaný čárový kód. Zkuste ostřejší, bližší fotografii včetně bílého okraje kolem kódu.';$('uploadStatus').style.color='#b3261e';}
+  };
+  image.onerror=function(){URL.revokeObjectURL(url);$('uploadStatus').textContent='Váš prohlížeč tento obrázek nemohl otevřít.';$('uploadStatus').style.color='#b3261e';};
+  image.src=url;
+}
+var drop=$('dropZone'),fileInput=$('fileInput');
+drop.addEventListener('click',function(){fileInput.click();});
+drop.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();fileInput.click();}});
+fileInput.addEventListener('change',function(){handleFile(fileInput.files&&fileInput.files[0]);fileInput.value='';});
+['dragenter','dragover'].forEach(function(ev){drop.addEventListener(ev,function(e){e.preventDefault();drop.classList.add('drag');});});
+['dragleave','drop'].forEach(function(ev){drop.addEventListener(ev,function(e){e.preventDefault();drop.classList.remove('drag');});});
+drop.addEventListener('drop',function(e){var f=e.dataTransfer&&e.dataTransfer.files&&e.dataTransfer.files[0];handleFile(f);});
+document.addEventListener('paste',function(e){
+  if(e.target&&(e.target.tagName==='INPUT'||e.target.tagName==='TEXTAREA'))return;
+  var items=(e.clipboardData&&e.clipboardData.items)||[];
+  for(var i=0;i<items.length;i++){if(items[i].type&&items[i].type.indexOf('image/')===0){var f=items[i].getAsFile();if(f){e.preventDefault();handleFile(f);return;}}}
+});
+
+/* ---------- Batch decode (multiple images + CSV export) ---------- */
+var batchRows=[];
+function decodeFilePromise(file){
+  return new Promise(function(resolve){
+    if(!file||!/^image\//.test(file.type||'')){resolve(null);return;}
+    var url=URL.createObjectURL(file);
+    var image=new Image();
+    image.onload=function(){var r=null;try{r=decodeImageElement(image);}catch(e){}URL.revokeObjectURL(url);resolve(r);};
+    image.onerror=function(){URL.revokeObjectURL(url);resolve(null);};
+    image.src=url;
+  });
+}
+function renderBatch(){
+  var body=$('batchBody');
+  body.innerHTML=batchRows.map(function(r){
+    return '<tr><td style="border-bottom:1px solid #eee;padding:6px;word-break:break-all">'+escHtml(r.filename)+'</td><td style="border-bottom:1px solid #eee;padding:6px">'+escHtml(r.format)+'</td><td style="border-bottom:1px solid #eee;padding:6px">'+escHtml(r.type)+'</td><td style="border-bottom:1px solid #eee;padding:6px;word-break:break-word">'+escHtml(r.text)+'</td></tr>';
+  }).join('');
+  var has=batchRows.length>0;
+  $('batchWrap').style.display=has?'':'none';
+  $('batchCsvBtn').style.display=has?'':'none';
+  $('batchClearBtn').style.display=has?'':'none';
+  if(has){
+    var ok=batchRows.filter(function(r){return r.type!=='Nedekódováno';}).length;
+    $('batchStatus').textContent='Dávka dokončena: '+ok+' z '+batchRows.length+' image'+(batchRows.length===1?'':'s')+' decoded.';
+    $('batchStatus').style.color='';
+  }
+}
+async function handleBatchFiles(list){
+  var files=Array.prototype.slice.call(list||[]).filter(function(f){return /^image\//.test(f.type||'');});
+  if(!files.length){$('batchStatus').textContent='V tomto výběru nebyly nalezeny žádné soubory obrázků. Vyberte PNG, JPG nebo jiné soubory obrázků.';$('batchStatus').style.color='#b3261e';return;}
+  batchRows=[];renderBatch();
+  for(var i=0;i<files.length;i++){
+    $('batchStatus').textContent='Dekódování obrázku '+(i+1)+' z '+files.length+' na vašem zařízení…';$('batchStatus').style.color='';
+    var r=await decodeFilePromise(files[i]);
+    if(r&&r.text){batchRows.push({filename:files[i].name,format:prettyFormat(r.format),type:classifyResult(r.text),text:r.text});}
+    else{batchRows.push({filename:files[i].name,format:'',type:'Nedekódováno',text:''});}
+    renderBatch();
+  }
+}
+var batchDrop=$('batchDrop'),batchInput=$('batchInput');
+batchDrop.addEventListener('click',function(){batchInput.click();});
+batchDrop.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();batchInput.click();}});
+batchInput.addEventListener('change',function(){handleBatchFiles(batchInput.files);batchInput.value='';});
+['dragenter','dragover'].forEach(function(ev){batchDrop.addEventListener(ev,function(e){e.preventDefault();batchDrop.classList.add('drag');});});
+['dragleave','drop'].forEach(function(ev){batchDrop.addEventListener(ev,function(e){e.preventDefault();batchDrop.classList.remove('drag');});});
+batchDrop.addEventListener('drop',function(e){handleBatchFiles(e.dataTransfer&&e.dataTransfer.files);});
+$('batchCsvBtn').addEventListener('click',function(){
+  if(!batchRows.length)return;
+  var blob=new Blob([buildBatchCsv(batchRows)],{type:'text/csv'});
+  var u=URL.createObjectURL(blob);var a=document.createElement('a');a.href=u;a.download='loona-scan-batch.csv';document.body.appendChild(a);a.click();a.remove();setTimeout(function(){URL.revokeObjectURL(u);},5000);
+});
+$('batchClearBtn').addEventListener('click',function(){batchRows=[];renderBatch();$('batchStatus').textContent='Dávka vymazána.';});
+
+/* ---------- Camera scanning (BarcodeDetector) ---------- */
+var stream=null,detector=null,detectTimer=null,scanning=false;
+var CAM_FALLBACK='Živé skenování fotoaparátem není v tomto prohlížeči dostupné: potřebuje funkci BarcodeDetector vestavěnou do Chrome, Edge a většiny prohlížečů Androidu (Safari a Firefox ji zatím neobsahují). Použijte prosím místo toho „Skenovat z obrázku“ — vyfoťte kód nebo pořiďte snímek obrazovky a nahrajte nebo vložte ho sem; to funguje v každém moderním prohlížeči.';
+function stopCamera(){
+  scanning=false;
+  if(detectTimer){clearInterval(detectTimer);detectTimer=null;}
+  if(stream){stream.getTracks().forEach(function(t){t.stop();});stream=null;}
+  $('camVideo').style.display='none';
+  $('camStartBtn').style.display='';$('camStopBtn').style.display='none';
+}
+async function startCamera(){
+  if(!('BarcodeDetector' in window)){$('camStatus').textContent=CAM_FALLBACK;$('camStatus').style.color='#b3261e';return;}
+  if(!navigator.mediaDevices||!navigator.mediaDevices.getUserMedia){$('camStatus').textContent='Tento prohlížeč nemůže otevřít fotoaparát z webové stránky. '+CAM_FALLBACK;$('camStatus').style.color='#b3261e';return;}
+  try{
+    var wanted=['qr_code','ean_13','ean_8','upc_a','upc_e','code_128','code_39','code_93','codabar','itf','data_matrix','aztec','pdf417'];
+    var formats=wanted;
+    try{var supported=await BarcodeDetector.getSupportedFormats();formats=wanted.filter(function(f){return supported.indexOf(f)>=0;});if(!formats.length)formats=undefined;}catch(e){}
+    detector=formats?new BarcodeDetector({formats:formats}):new BarcodeDetector();
+  }catch(e){$('camStatus').textContent=CAM_FALLBACK;$('camStatus').style.color='#b3261e';return;}
+  try{
+    stream=await navigator.mediaDevices.getUserMedia({video:{facingMode:'environment'},audio:false});
+  }catch(e){
+    $('camStatus').textContent='Přístup k fotoaparátu byl zablokován nebo nebyl nalezen žádný fotoaparát. Povolte pro tento web oprávnění k fotoaparátu a zkuste to znovu — nebo místo toho použijte „Skenovat z obrázku“.';$('camStatus').style.color='#b3261e';return;
+  }
+  var video=$('camVideo');
+  video.srcObject=stream;video.style.display='block';
+  try{await video.play();}catch(e){}
+  $('camStartBtn').style.display='none';$('camStopBtn').style.display='';
+  $('camStatus').textContent='Fotoaparát zapnutý — držte QR kód nebo čárový kód klidně uvnitř rámu. Snímky se zpracovávají pouze na tomto zařízení.';$('camStatus').style.color='';
+  scanning=true;
+  detectTimer=setInterval(async function(){
+    if(!scanning||!detector||video.readyState<2)return;
+    try{
+      var codes=await detector.detect(video);
+      if(codes&&codes.length&&codes[0].rawValue){
+        var c=codes[0];
+        stopCamera();
+        $('camStatus').textContent='Kód nalezen: '+prettyFormat(c.format)+'.';
+        showResult({text:c.rawValue,format:c.format,engine:'BarcodeDetector (camera)'});
+      }
+    }catch(e){/* a frame that fails to detect is normal; keep scanning */}
+  },350);
+}
+$('camStartBtn').addEventListener('click',startCamera);
+$('camStopBtn').addEventListener('click',function(){stopCamera();$('camStatus').textContent='Fotoaparát zastaven.';$('camStatus').style.color='';});
+window.addEventListener('pagehide',stopCamera);
+(function initCameraSupport(){
+  if(!('BarcodeDetector' in window)){
+    $('camStartBtn').style.display='none';
+    $('camStatus').textContent=CAM_FALLBACK;
+  }
+})();
+</script>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Instalovat aplikaci';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Nainstalujte tuto aplikaci: klepněte na tlačítko Sdílet a poté zvolte „Přidat na domovskou obrazovku“.');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
+</body></html>

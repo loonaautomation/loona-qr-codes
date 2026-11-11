@@ -1,0 +1,29 @@
+{
+  "name": "Skener QR kódů a čárových kódů Loona",
+  "short_name": "Skener QR kódů a čárových kódů",
+  "description": "Skenujte QR kódy a čárové kódy zdarma online s Loonou: použijte fotoaparát nebo nahrajte fotografii či snímek obrazovky. Dekóduje URL, WiFi, kontakty vCard, EAN-13, UPC-A, Code 128 a Code 39. 100% soukromé — vše se dekóduje na vašem zařízení, nic se nenahrává.",
+  "id": "/loona-qr-codes/cs/qr-code-scanner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

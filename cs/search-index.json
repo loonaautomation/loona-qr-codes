@@ -1,0 +1,344 @@
+[
+ {
+  "n": "Generátor QR kódů pro URL / web",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/url-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Proměňte každý odkaz na web v QR kód.",
+  "k": "url website qr code generator url qr code generator promente kazdy odkaz na web v qr kod",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro prostý text",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/text-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Vložte jakýkoli text, kód nebo zprávu dovnitř QR kódu.",
+  "k": "plain text qr code generator text qr code generator vlozte jakykoli text kod nebo zpravu dovnitr qr kodu",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro WiFi",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/wifi-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Hosté se připojí k WiFi jedním naskenováním, bez psaní hesla.",
+  "k": "wifi qr code generator wifi qr code generator hoste se pripoji k wifi jednim naskenovanim bez psani hesla",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro WhatsApp",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/whatsapp-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Začněte chat na WhatsAppu jedním naskenováním, bez ukládání čísla.",
+  "k": "whatsapp qr code generator whatsapp qr code generator zacnete chat na whatsappu jednim naskenovanim bez ukladani cisla",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro kontakt vCard",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/vcard-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Naskenujte a uložte si celou kontaktní kartu do telefonu.",
+  "k": "vcard contact qr code generator vcard qr code generator naskenujte a ulozte si celou kontaktni kartu do telefonu",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro e-mail",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/email-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Naskenujte a otevřete předem adresovaný e-mail, připravený k odeslání.",
+  "k": "email qr code generator email qr code generator naskenujte a otevrete predem adresovany e mail pripraveny k odeslani",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro SMS",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/sms-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Naskenujte a otevřete předem napsanou textovou zprávu.",
+  "k": "sms qr code generator sms qr code generator naskenujte a otevrete predem napsanou textovou zpravu",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro telefonní hovory",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/phone-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Naskenujte a okamžitě vytočte své číslo.",
+  "k": "phone call qr code generator phone qr code generator naskenujte a okamzite vytocte sve cislo",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro Instagram",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/instagram-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Získávejte sledující pomocí QR kódu pro Instagram, který stačí naskenovat a sledovat.",
+  "k": "instagram qr code generator instagram qr code generator ziskavejte sledujici pomoci qr kodu pro instagram ktery staci naskenovat a sledovat",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro Facebook",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/facebook-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Posílejte lidi přímo na svou stránku na Facebooku.",
+  "k": "facebook qr code generator facebook qr code generator posilejte lidi primo na svou stranku na facebooku",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro YouTube",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/youtube-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Naskenujte a okamžitě otevřete video nebo kanál.",
+  "k": "youtube qr code generator youtube qr code generator naskenujte a okamzite otevrete video nebo kanal",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro TikTok",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/tiktok-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Naskenujte a otevřete svůj profil na TikToku.",
+  "k": "tiktok qr code generator tiktok qr code generator naskenujte a otevrete svuj profil na tiktoku",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro X (Twitter)",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/x-twitter-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Naskenujte a otevřete svůj profil na X.",
+  "k": "x twitter qr code generator x twitter qr code generator naskenujte a otevrete svuj profil na x",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro LinkedIn",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/linkedin-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Spojte se profesionálně jedním naskenováním.",
+  "k": "linkedin qr code generator linkedin qr code generator spojte se profesionalne jednim naskenovanim",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro Telegram",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/telegram-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Naskenujte a připojte se ke svému profilu, skupině nebo kanálu na Telegramu.",
+  "k": "telegram qr code generator telegram qr code generator naskenujte a pripojte se ke svemu profilu skupine nebo kanalu na telegramu",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro Snapchat",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/snapchat-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Naskenujte a přidejte si vás na Snapchatu.",
+  "k": "snapchat qr code generator snapchat qr code generator naskenujte a pridejte si vas na snapchatu",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro polohu v Mapách Google",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/google-maps-location-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Naskenujte a získejte trasu ke svému místu.",
+  "k": "google maps location qr code generator google maps location qr code generator naskenujte a ziskejte trasu ke svemu mistu",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro recenze Google",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/google-review-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Spokojení zákazníci zanechají recenzi na Googlu během několika sekund.",
+  "k": "google review qr code generator google review qr code generator spokojeni zakaznici zanechaji recenzi na googlu behem nekolika sekund",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro menu restaurace",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/restaurant-menu-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Bezkontaktní menu na každém stole.",
+  "k": "restaurant menu qr code generator restaurant menu qr code generator bezkontaktni menu na kazdem stole",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro PDF",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/pdf-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Naskenujte a otevřete nebo stáhněte soubor PDF.",
+  "k": "pdf qr code generator pdf qr code generator naskenujte a otevrete nebo stahnete soubor pdf",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro App Store / Google Play",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/app-store-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Naskenujte pro instalaci své aplikace.",
+  "k": "app store google play qr code generator app store qr code generator naskenujte pro instalaci sve aplikace",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro Formuláře Google",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/google-form-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Naskenujte a otevřete a vyplňte Formulář Google.",
+  "k": "google form qr code generator google form qr code generator naskenujte a otevrete a vyplnte formular google",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro Zoom / schůzky",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/zoom-meeting-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Naskenujte a připojte se ke schůzce nebo třídě.",
+  "k": "zoom meeting qr code generator zoom meeting qr code generator naskenujte a pripojte se ke schuzce nebo tride",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro události / kalendář",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/event-calendar-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Naskenujte a uložte událost do kalendáře.",
+  "k": "event calendar qr code generator event calendar qr code generator naskenujte a ulozte udalost do kalendare",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro PayPal",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/paypal-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Nechte si zaplatit: naskenujte a otevřete svou stránku PayPal.me.",
+  "k": "paypal qr code generator paypal qr code generator nechte si zaplatit naskenujte a otevrete svou stranku paypal me",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro platby UPI",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/upi-payment-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "QR kód pro platby UPI pro obchody v Indii a oblastech UPI.",
+  "k": "upi payment qr code generator upi payment qr code generator qr kod pro platby upi pro obchody v indii a oblastech upi",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro JazzCash / EasyPaisa (Pákistán)",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/jazzcash-easypaisa-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Sdílejte údaje svého účtu JazzCash nebo EasyPaisa jako QR kód.",
+  "k": "jazzcash easypaisa qr code pakistan generator jazzcash easypaisa qr code generator sdilejte udaje sveho uctu jazzcash nebo easypaisa jako qr kod",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro Bitcoin / krypto",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/bitcoin-crypto-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Sdílejte adresu bitcoinové peněženky jako QR kód.",
+  "k": "bitcoin crypto qr code generator bitcoin crypto qr code generator sdilejte adresu bitcoinove penezenky jako qr kod",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro Spotify / hudbu",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/spotify-music-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Naskenujte a přehrajte píseň, playlist nebo podcast.",
+  "k": "spotify music qr code generator spotify music qr code generator naskenujte a prehrajte pisen playlist nebo podcast",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro životopis / portfolio",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/resume-portfolio-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Mějte svůj životopis nebo portfolio na jedno naskenování daleko.",
+  "k": "resume portfolio qr code generator resume portfolio qr code generator mejte svuj zivotopis nebo portfolio na jedno naskenovani daleko",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro obrázky",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/image-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Naskenujte a otevřete nebo sdílejte odkaz na fotografii nebo obrázek.",
+  "k": "image qr code generator image qr code generator naskenujte a otevrete nebo sdilejte odkaz na fotografii nebo obrazek",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro audio",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/audio-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Naskenujte a přehrajte píseň, hlasovou poznámku nebo zvukový soubor.",
+  "k": "audio qr code generator audio qr code generator naskenujte a prehrajte pisen hlasovou poznamku nebo zvukovy soubor",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro sociální sítě",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/social-media-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Jeden QR kód pro odkazy na vaše profily na sociálních sítích.",
+  "k": "social media qr code generator social media qr code generator jeden qr kod pro odkazy na vase profily na socialnich sitich",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro Pinterest",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/pinterest-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Naskenujte a otevřete svůj profil nebo nástěnku na Pinterestu.",
+  "k": "pinterest qr code generator pinterest qr code generator naskenujte a otevrete svuj profil nebo nastenku na pinterestu",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro Discord",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/discord-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Naskenujte a připojte se ke svému serveru nebo profilu Discord.",
+  "k": "discord qr code generator discord qr code generator naskenujte a pripojte se ke svemu serveru nebo profilu discord",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor QR kódů pro GitHub",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/github-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Naskenujte a otevřete svůj profil nebo repozitář GitHub.",
+  "k": "github qr code generator github qr code generator naskenujte a otevrete svuj profil nebo repozitar github",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Skener QR kódů a čárových kódů",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/qr-code-scanner/",
+  "s": "Loona QR Codes",
+  "d": "Skenujte kódy fotoaparátem, nebo dekódujte QR kódy a čárové kódy z fotografie či snímku obrazovky.",
+  "k": "qr code barcode scanner qr code scanner skenujte kody fotoaparatem nebo dekodujte qr kody a carove kody z fotografie ci snimku obrazovky",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Hromadný generátor QR kódů",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/bulk-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Vytvořte až 100 označených QR kódů najednou v tisknutelném archu.",
+  "k": "bulk qr code generator bulk qr code generator vytvorte az 100 oznacenych qr kodu najednou v tisknutelnem archu",
+  "p": 137,
+  "c": "Tool"
+ }
+]

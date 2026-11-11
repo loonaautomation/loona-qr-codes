@@ -1,0 +1,29 @@
+{
+  "name": "Generátor čárových kódů ITF-14 Loona",
+  "short_name": "Generátor čárových kódů ITF-14",
+  "description": "Bezplatný generátor čárových kódů ITF-14. Správné kontrolní číslice tam, kde je standard má, stažení PNG a SVG, bez registrace, bez vodoznaku.",
+  "id": "/loona-qr-codes/cs/itf-14-barcode-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
