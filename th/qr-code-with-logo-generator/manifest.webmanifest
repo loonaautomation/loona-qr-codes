@@ -1,0 +1,29 @@
+{
+  "name": "เครื่องสร้างคิวอาร์โค้ดพร้อมโลโก้ของ Loona",
+  "short_name": "เครื่องสร้างคิวอาร์โค้ดพร้อมโลโก้",
+  "description": "เครื่องสร้างคิวอาร์โค้ดพร้อมโลโก้ฟรี: เพิ่มโลโก้ของคุณลงตรงกลางของคิวอาร์โค้ดที่ระดับการแก้ไขข้อผิดพลาด H สีที่กำหนดเอง ดาวน์โหลด PNG ขนาด 1024px ไม่มีลายน้ำ",
+  "id": "/loona-qr-codes/th/qr-code-with-logo-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

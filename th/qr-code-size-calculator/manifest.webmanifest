@@ -1,0 +1,29 @@
+{
+  "name": "เครื่องคำนวณขนาดคิวอาร์โค้ดของ Loona",
+  "short_name": "เครื่องคำนวณขนาดคิวอาร์โค้ด",
+  "description": "เครื่องคำนวณขนาดคิวอาร์โค้ดฟรี: ใส่ระยะการสแกนและประเภทเนื้อหาเพื่อรับขนาดพิมพ์ขั้นต่ำในหน่วย cm ความละเอียด PNG ที่แนะนำ และความกว้างของพื้นที่เงียบ",
+  "id": "/loona-qr-codes/th/qr-code-size-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

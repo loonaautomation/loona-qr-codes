@@ -1,0 +1,29 @@
+{
+  "name": "เครื่องสร้างคิวอาร์โค้ด Spotify / เพลงของ Loona",
+  "short_name": "คิวอาร์โค้ด Spotify / เพลง",
+  "description": "สร้างคิวอาร์โค้ด Spotify / เพลงฟรีได้ทันทีด้วย Loona ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ สแกนเพื่อเล่นเพลง เพลย์ลิสต์ หรือพอดแคสต์ สีที่กำหนดเอง ดาวน์โหลด PNG ความละเอียดสูง",
+  "id": "/loona-qr-codes/th/spotify-music-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

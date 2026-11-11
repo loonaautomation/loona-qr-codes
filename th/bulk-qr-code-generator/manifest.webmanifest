@@ -1,0 +1,29 @@
+{
+  "name": "เครื่องสร้างคิวอาร์โค้ดแบบกลุ่มของ Loona",
+  "short_name": "เครื่องสร้างคิวอาร์โค้ดแบบกลุ่ม",
+  "description": "สร้างคิวอาร์โค้ดได้สูงสุด 100 โค้ดในคราวเดียว ฟรี: วางรายการหรืออัปโหลด CSV ของลิงก์และข้อความ รับแผ่นคิวอาร์โค้ดที่พิมพ์ได้พร้อมป้ายกำกับ ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ เป็นส่วนตัว 100% ในเบราว์เซอร์ของคุณ",
+  "id": "/loona-qr-codes/th/bulk-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

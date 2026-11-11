@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR Codes สำหรับเครื่องมือ Loona ทั้งหมด",
+  "short_name": "คิวอาร์โค้ดสำหรับเครื่องมือ Loona ทั้งหมด",
+  "description": "รับคิวอาร์โค้ดสำเร็จรูปฟรีสำหรับเครื่องมือ Loona ใดก็ตาม — เครื่องคำนวณ 955 รายการ เครื่องมือ PDF เครื่องมือรูปภาพ เครื่องมือการเรียน และแอป เลือกเครื่องมือ ดาวน์โหลดคิวอาร์โค้ดของมันเป็น PNG ความละเอียดสูง และพิมพ์มัน ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ",
+  "id": "/loona-qr-codes/th/tool-qr-codes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

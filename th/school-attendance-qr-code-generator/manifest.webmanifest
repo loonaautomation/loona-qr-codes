@@ -1,0 +1,29 @@
+{
+  "name": "คิวอาร์โค้ดการเช็กชื่อและแบบฟอร์มของโรงเรียนของ Loona",
+  "short_name": "QR สำหรับการเข้าเรียนและแบบฟอร์มของโรงเรียน",
+  "description": "สร้างคิวอาร์โค้ดการเช็กชื่อและแบบฟอร์มของโรงเรียนฟรีได้ทันทีด้วย Loona ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ สีที่กำหนดเอง ดาวน์โหลด PNG ความละเอียดสูง",
+  "id": "/loona-qr-codes/th/school-attendance-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "เครื่องสร้างคิวอาร์โค้ดและบาร์โค้ด Loona ทั้งหมด",
+  "short_name": "คิวอาร์โค้ดและบาร์โค้ดทั้งหมด",
+  "description": "ไลบรารี QR ของ Loona ฉบับเต็ม: เครื่องสร้างบาร์โค้ด (Code 128, EAN-13, UPC, Data Matrix, PDF417) คิวอาร์โค้ดการชำระเงิน (SEPA, UPI, คริปโต, Venmo) กรณีการใช้งานในอุตสาหกรรม และเครื่องมือพิมพ์",
+  "id": "/loona-qr-codes/th/qr-code-generators/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
