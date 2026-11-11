@@ -1,0 +1,29 @@
+{
+  "name": "Loona बारकोड जनरेटर",
+  "short_name": "बारकोड जनरेटर",
+  "description": "Loona के साथ ऑनलाइन मुफ़्त बारकोड बनाएँ: Code 128, Code 39, EAN-13, UPC-A और ITF-14। जाँच अंक अपने आप जुड़ते हैं, लाइव पूर्वावलोकन, PNG या SVG के रूप में डाउनलोड करें। कोई साइन-अप नहीं, कोई वॉटरमार्क नहीं, आपके ब्राउज़र में 100% निजी।",
+  "id": "/loona-qr-codes/hi/barcode-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

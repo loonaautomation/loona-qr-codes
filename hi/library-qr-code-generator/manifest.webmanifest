@@ -1,0 +1,29 @@
+{
+  "name": "Loona पुस्तकालय QR कोड जनरेटर",
+  "short_name": "पुस्तकालय QR कोड जनरेटर",
+  "description": "Loona के साथ तुरंत एक मुफ़्त पुस्तकालय QR कोड बनाएँ। कोई साइन-अप नहीं, कोई वॉटरमार्क नहीं, कभी समाप्त नहीं होता। कस्टम रंग, उच्च-रिज़ॉल्यूशन PNG डाउनलोड।",
+  "id": "/loona-qr-codes/hi/library-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

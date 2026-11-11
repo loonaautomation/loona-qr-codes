@@ -1,0 +1,29 @@
+{
+  "name": "Loona बल्क QR कोड जनरेटर",
+  "short_name": "बल्क QR कोड जनरेटर",
+  "description": "एक साथ 100 तक QR कोड मुफ़्त बनाएँ: लिंक और पाठों की एक सूची पेस्ट करें या एक CSV अपलोड करें, QR कोडों की एक लेबलयुक्त प्रिंट योग्य शीट पाएँ। कोई साइन-अप नहीं, कोई वॉटरमार्क नहीं, कभी समाप्त नहीं होता, आपके ब्राउज़र में 100% निजी।",
+  "id": "/loona-qr-codes/hi/bulk-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

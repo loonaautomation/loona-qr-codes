@@ -1,0 +1,29 @@
+{
+  "name": "Loona लोगो के साथ QR कोड जनरेटर",
+  "short_name": "लोगो के साथ QR कोड जनरेटर",
+  "description": "मुफ़्त लोगो के साथ QR कोड जनरेटर: त्रुटि-सुधार स्तर H पर एक QR कोड के केंद्र में अपना लोगो जोड़ें, कस्टम रंग, 1024px PNG डाउनलोड, कोई वॉटरमार्क नहीं।",
+  "id": "/loona-qr-codes/hi/qr-code-with-logo-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

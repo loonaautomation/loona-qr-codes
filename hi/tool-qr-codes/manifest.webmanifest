@@ -1,0 +1,29 @@
+{
+  "name": "सभी Loona टूलों के लिए Loona QR Codes",
+  "short_name": "सभी Loona टूलों के लिए QR कोड",
+  "description": "किसी भी Loona टूल के लिए एक मुफ़्त तैयार QR कोड पाएँ — 955 कैलकुलेटर, PDF टूल, छवि टूल, अध्ययन टूल और ऐप। एक टूल चुनें, उसका QR कोड उच्च-रिज़ॉल्यूशन PNG के रूप में डाउनलोड करें और प्रिंट करें। कोई साइन-अप नहीं, कोई वॉटरमार्क नहीं, कभी समाप्त नहीं होता।",
+  "id": "/loona-qr-codes/hi/tool-qr-codes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
