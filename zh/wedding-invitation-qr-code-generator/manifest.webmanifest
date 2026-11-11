@@ -1,0 +1,29 @@
+{
+  "name": "Loona 婚礼请柬二维码生成器",
+  "short_name": "婚礼请柬二维码",
+  "description": "用 Loona 立即创建一个免费的婚礼请柬二维码。无需注册，无水印，永不过期。自定义颜色，高分辨率 PNG 下载。",
+  "id": "/loona-qr-codes/zh/wedding-invitation-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

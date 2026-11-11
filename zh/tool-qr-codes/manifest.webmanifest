@@ -1,0 +1,29 @@
+{
+  "name": "适用于全部 Loona 工具的 Loona 二维码",
+  "short_name": "全部 Loona 工具的二维码",
+  "description": "为任何 Loona 工具获取免费的现成二维码 — 955 个计算器、PDF 工具、图片工具、学习工具和应用。选择一个工具，下载其二维码为高分辨率 PNG 并打印。无需注册，无水印，永不过期。",
+  "id": "/loona-qr-codes/zh/tool-qr-codes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

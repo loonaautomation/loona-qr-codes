@@ -1,0 +1,29 @@
+{
+  "name": "Loona 条形码生成器",
+  "short_name": "条形码生成器",
+  "description": "用 Loona 在线创建免费条形码：Code 128、Code 39、EAN-13、UPC-A 和 ITF-14。自动添加校验位，实时预览，下载为 PNG 或 SVG。无需注册，无水印，在您的浏览器中 100% 私密。",
+  "id": "/loona-qr-codes/zh/barcode-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

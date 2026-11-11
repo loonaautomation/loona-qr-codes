@@ -1,0 +1,29 @@
+{
+  "name": "Loona Aztec 码条形码生成器",
+  "short_name": "Aztec 码条形码生成器",
+  "description": "免费 Aztec 码条形码生成器。标准有校验位的地方提供正确的校验位，PNG 和 SVG 下载，无需注册，无水印。",
+  "id": "/loona-qr-codes/zh/aztec-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

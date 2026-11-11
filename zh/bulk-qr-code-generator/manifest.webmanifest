@@ -1,0 +1,29 @@
+{
+  "name": "Loona 批量二维码生成器",
+  "short_name": "批量二维码生成器",
+  "description": "一次免费创建最多 100 个二维码：粘贴列表或上传链接和文本的 CSV，获得带标签的可打印二维码表。无需注册，无水印，永不过期，在您的浏览器中 100% 私密。",
+  "id": "/loona-qr-codes/zh/bulk-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
