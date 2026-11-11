@@ -1,0 +1,29 @@
+{
+  "name": "Loona ITF-14 streckkodgenerator",
+  "short_name": "ITF-14 streckkodgenerator",
+  "description": "Gratis ITF-14 streckkodgenerator. Korrekta kontrollsiffror där standarden har dem, PNG- och SVG-nedladdning, ingen registrering, ingen vattenstämpel.",
+  "id": "/loona-qr-codes/sv/itf-14-barcode-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

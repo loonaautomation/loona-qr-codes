@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR-kod & streckkodsskanner",
+  "short_name": "QR-kod & streckkodsskanner",
+  "description": "Skanna QR-koder och streckkoder gratis online med Loona: använd din kamera eller ladda upp ett foto eller en skärmdump. Avkodar URL:er, WiFi, vCard-kontakter, EAN-13, UPC-A, Code 128 och Code 39. 100 % privat — allt avkodas på din enhet, inget laddas upp.",
+  "id": "/loona-qr-codes/sv/qr-code-scanner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

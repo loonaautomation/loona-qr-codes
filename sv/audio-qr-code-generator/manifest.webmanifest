@@ -1,0 +1,29 @@
+{
+  "name": "Loona ljud-QR-kodgenerator",
+  "short_name": "Ljud-QR-kodgenerator",
+  "description": "Skapa direkt en gratis ljud-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Skanna för att spela en röstanteckning, låt, podcast eller ljudguide. Anpassade färger, högupplöst PNG-nedladdning.",
+  "id": "/loona-qr-codes/sv/audio-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona storlekskalkylator för QR-koder",
+  "short_name": "Storlekskalkylator för QR-koder",
+  "description": "Gratis storlekskalkylator för QR-koder: ange skanningsavståndet och innehållstypen för att få den minsta tryckstorleken i cm, rekommenderad PNG-upplösning och bredd på den tysta zonen.",
+  "id": "/loona-qr-codes/sv/qr-code-size-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR-kod med logotyp-generator",
+  "short_name": "QR-kod med logotyp-generator",
+  "description": "Gratis QR-kod med logotyp-generator: lägg till din logotyp i mitten av en QR-kod på felkorrigeringsnivå H, anpassade färger, 1024px PNG-nedladdning, ingen vattenstämpel.",
+  "id": "/loona-qr-codes/sv/qr-code-with-logo-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
