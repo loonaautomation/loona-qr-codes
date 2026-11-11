@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR Codes",
+  "short_name": "Loona QR Codes",
+  "description": "Tạo mã QR miễn phí cho URL, WiFi, WhatsApp, vCard và thanh toán - 37 loại mã QR cộng với một máy quét QR và mã vạch miễn phí và trình tạo hàng loạt, không hết hạn, không đăng ký, không hình mờ.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-qr-codes/vi/"
+}

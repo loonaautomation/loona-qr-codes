@@ -1,0 +1,29 @@
+{
+  "name": "Trình tạo mã QR Snapchat Loona",
+  "short_name": "Trình tạo mã QR Snapchat",
+  "description": "Tạo mã QR Snapchat miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Quét để thêm bạn trên Snapchat. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
+  "id": "/loona-qr-codes/vi/snapchat-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

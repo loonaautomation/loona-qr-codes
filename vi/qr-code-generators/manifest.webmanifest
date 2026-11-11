@@ -1,0 +1,29 @@
+{
+  "name": "Tất cả Trình tạo Mã QR & Mã vạch Loona",
+  "short_name": "Tất cả Mã QR & Mã vạch",
+  "description": "Thư viện QR Loona đầy đủ: trình tạo mã vạch (Code 128, EAN-13, UPC, Data Matrix, PDF417), mã QR thanh toán (SEPA, UPI, crypto, Venmo), trường hợp sử dụng ngành và công cụ in.",
+  "id": "/loona-qr-codes/vi/qr-code-generators/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

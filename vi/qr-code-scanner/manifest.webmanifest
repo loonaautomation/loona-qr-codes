@@ -1,0 +1,29 @@
+{
+  "name": "Máy quét Mã QR & Mã vạch Loona",
+  "short_name": "Máy quét Mã QR & Mã vạch",
+  "description": "Quét mã QR và mã vạch miễn phí trực tuyến với Loona: sử dụng camera của bạn hoặc tải lên ảnh hoặc ảnh chụp màn hình. Giải mã URL, WiFi, danh bạ vCard, EAN-13, UPC-A, Code 128 và Code 39. 100% riêng tư — mọi thứ được giải mã trên thiết bị của bạn, không có gì được tải lên.",
+  "id": "/loona-qr-codes/vi/qr-code-scanner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

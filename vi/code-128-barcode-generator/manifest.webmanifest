@@ -1,0 +1,29 @@
+{
+  "name": "Trình tạo mã vạch Code 128 Loona",
+  "short_name": "Trình tạo mã vạch Code 128",
+  "description": "Trình tạo mã vạch Code 128 miễn phí. Chữ số kiểm tra đúng ở nơi tiêu chuẩn có chúng, tải xuống PNG và SVG, không đăng ký, không hình mờ.",
+  "id": "/loona-qr-codes/vi/code-128-barcode-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

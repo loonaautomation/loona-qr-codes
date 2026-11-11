@@ -1,0 +1,344 @@
+[
+ {
+  "n": "Trình tạo mã QR URL / Website",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/url-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Biến bất kỳ liên kết trang web nào thành mã QR.",
+  "k": "url website qr code generator url qr code generator bien bat ky lien ket trang web nao thanh ma qr",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR Văn bản Thuần",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/text-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Đặt bất kỳ văn bản, mã hoặc tin nhắn nào bên trong mã QR.",
+  "k": "plain text qr code generator text qr code generator at bat ky van ban ma hoac tin nhan nao ben trong ma qr",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR WiFi",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/wifi-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Khách kết nối WiFi bằng một lần quét, không cần gõ mật khẩu.",
+  "k": "wifi qr code generator wifi qr code generator khach ket noi wifi bang mot lan quet khong can go mat khau",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR WhatsApp",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/whatsapp-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Bắt đầu cuộc trò chuyện WhatsApp bằng một lần quét, không lưu số.",
+  "k": "whatsapp qr code generator whatsapp qr code generator bat au cuoc tro chuyen whatsapp bang mot lan quet khong luu so",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR Danh bạ vCard",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/vcard-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Quét để lưu thẻ liên hệ đầy đủ của bạn vào điện thoại.",
+  "k": "vcard contact qr code generator vcard qr code generator quet e luu the lien he ay u cua ban vao ien thoai",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR Email",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/email-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Quét để mở email đã định địa chỉ trước, sẵn sàng gửi.",
+  "k": "email qr code generator email qr code generator quet e mo email a inh ia chi truoc san sang gui",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR SMS",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/sms-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Quét để mở tin nhắn văn bản đã viết trước.",
+  "k": "sms qr code generator sms qr code generator quet e mo tin nhan van ban a viet truoc",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR Cuộc gọi Điện thoại",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/phone-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Quét để quay số của bạn ngay lập tức.",
+  "k": "phone call qr code generator phone qr code generator quet e quay so cua ban ngay lap tuc",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR Instagram",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/instagram-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Tăng người theo dõi bằng mã QR Instagram quét để theo dõi.",
+  "k": "instagram qr code generator instagram qr code generator tang nguoi theo doi bang ma qr instagram quet e theo doi",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR Facebook",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/facebook-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Gửi mọi người thẳng tới trang Facebook của bạn.",
+  "k": "facebook qr code generator facebook qr code generator gui moi nguoi thang toi trang facebook cua ban",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR YouTube",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/youtube-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Quét để mở video hoặc kênh ngay lập tức.",
+  "k": "youtube qr code generator youtube qr code generator quet e mo video hoac kenh ngay lap tuc",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR TikTok",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/tiktok-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Quét để mở hồ sơ TikTok của bạn.",
+  "k": "tiktok qr code generator tiktok qr code generator quet e mo ho so tiktok cua ban",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR X (Twitter)",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/x-twitter-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Quét để mở hồ sơ X của bạn.",
+  "k": "x twitter qr code generator x twitter qr code generator quet e mo ho so x cua ban",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR LinkedIn",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/linkedin-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Kết nối chuyên nghiệp bằng một lần quét.",
+  "k": "linkedin qr code generator linkedin qr code generator ket noi chuyen nghiep bang mot lan quet",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR Telegram",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/telegram-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Quét để tham gia hồ sơ, nhóm hoặc kênh Telegram của bạn.",
+  "k": "telegram qr code generator telegram qr code generator quet e tham gia ho so nhom hoac kenh telegram cua ban",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR Snapchat",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/snapchat-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Quét để thêm bạn trên Snapchat.",
+  "k": "snapchat qr code generator snapchat qr code generator quet e them ban tren snapchat",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR Vị trí Google Maps",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/google-maps-location-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Quét để nhận hướng dẫn đường đi tới địa điểm của bạn.",
+  "k": "google maps location qr code generator google maps location qr code generator quet e nhan huong dan uong i toi ia iem cua ban",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR Đánh giá Google",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/google-review-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Khách hàng hài lòng để lại đánh giá Google trong vài giây.",
+  "k": "google review qr code generator google review qr code generator khach hang hai long e lai anh gia google trong vai giay",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR Thực đơn Nhà hàng",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/restaurant-menu-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Thực đơn không chạm trên mỗi bàn.",
+  "k": "restaurant menu qr code generator restaurant menu qr code generator thuc on khong cham tren moi ban",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR PDF",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/pdf-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Quét để mở hoặc tải xuống tệp PDF.",
+  "k": "pdf qr code generator pdf qr code generator quet e mo hoac tai xuong tep pdf",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR App Store / Google Play",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/app-store-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Quét để cài đặt ứng dụng của bạn.",
+  "k": "app store google play qr code generator app store qr code generator quet e cai at ung dung cua ban",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR Google Form",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/google-form-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Quét để mở và điền Google Form.",
+  "k": "google form qr code generator google form qr code generator quet e mo va ien google form",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR Zoom / Cuộc họp",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/zoom-meeting-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Quét để tham gia cuộc họp hoặc lớp học.",
+  "k": "zoom meeting qr code generator zoom meeting qr code generator quet e tham gia cuoc hop hoac lop hoc",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR Sự kiện / Lịch",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/event-calendar-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Quét để lưu sự kiện vào lịch.",
+  "k": "event calendar qr code generator event calendar qr code generator quet e luu su kien vao lich",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR PayPal",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/paypal-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Nhận thanh toán: quét để mở trang PayPal.me của bạn.",
+  "k": "paypal qr code generator paypal qr code generator nhan thanh toan quet e mo trang paypal me cua ban",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR Thanh toán UPI",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/upi-payment-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "QR thanh toán UPI cho cửa hàng ở Ấn Độ và khu vực UPI.",
+  "k": "upi payment qr code generator upi payment qr code generator qr thanh toan upi cho cua hang o an o va khu vuc upi",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo Mã QR JazzCash / EasyPaisa (Pakistan)",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/jazzcash-easypaisa-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Chia sẻ chi tiết tài khoản JazzCash hoặc EasyPaisa của bạn dưới dạng QR.",
+  "k": "jazzcash easypaisa qr code pakistan generator jazzcash easypaisa qr code generator chia se chi tiet tai khoan jazzcash hoac easypaisa cua ban duoi dang qr",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR Bitcoin / Crypto",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/bitcoin-crypto-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Chia sẻ địa chỉ ví Bitcoin dưới dạng QR.",
+  "k": "bitcoin crypto qr code generator bitcoin crypto qr code generator chia se ia chi vi bitcoin duoi dang qr",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR Spotify / Âm nhạc",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/spotify-music-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Quét để phát bài hát, danh sách phát hoặc podcast.",
+  "k": "spotify music qr code generator spotify music qr code generator quet e phat bai hat danh sach phat hoac podcast",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR Sơ yếu lý lịch / Portfolio",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/resume-portfolio-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Đặt sơ yếu lý lịch hoặc portfolio của bạn cách một lần quét.",
+  "k": "resume portfolio qr code generator resume portfolio qr code generator at so yeu ly lich hoac portfolio cua ban cach mot lan quet",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR Hình ảnh",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/image-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Quét để mở hoặc chia sẻ liên kết ảnh hoặc hình ảnh.",
+  "k": "image qr code generator image qr code generator quet e mo hoac chia se lien ket anh hoac hinh anh",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR Âm thanh",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/audio-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Quét để phát bài hát, ghi chú thoại hoặc tệp âm thanh.",
+  "k": "audio qr code generator audio qr code generator quet e phat bai hat ghi chu thoai hoac tep am thanh",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR Mạng xã hội",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/social-media-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Một QR cho liên kết hồ sơ mạng xã hội của bạn.",
+  "k": "social media qr code generator social media qr code generator mot qr cho lien ket ho so mang xa hoi cua ban",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR Pinterest",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/pinterest-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Quét để mở hồ sơ hoặc bảng Pinterest của bạn.",
+  "k": "pinterest qr code generator pinterest qr code generator quet e mo ho so hoac bang pinterest cua ban",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR Discord",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/discord-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Quét để tham gia máy chủ hoặc hồ sơ Discord của bạn.",
+  "k": "discord qr code generator discord qr code generator quet e tham gia may chu hoac ho so discord cua ban",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR GitHub",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/github-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Quét để mở hồ sơ hoặc kho GitHub của bạn.",
+  "k": "github qr code generator github qr code generator quet e mo ho so hoac kho github cua ban",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Máy quét Mã QR & Mã vạch",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/qr-code-scanner/",
+  "s": "Loona QR Codes",
+  "d": "Quét mã bằng camera của bạn, hoặc giải mã mã QR và mã vạch từ ảnh hoặc ảnh chụp màn hình.",
+  "k": "qr code barcode scanner qr code scanner quet ma bang camera cua ban hoac giai ma ma qr va ma vach tu anh hoac anh chup man hinh",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mã QR Hàng loạt",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/vi/bulk-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Tạo tối đa 100 mã QR có nhãn cùng lúc trong một tờ có thể in.",
+  "k": "bulk qr code generator bulk qr code generator tao toi a 100 ma qr co nhan cung luc trong mot to co the in",
+  "p": 137,
+  "c": "Tool"
+ }
+]

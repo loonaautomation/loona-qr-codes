@@ -1,0 +1,29 @@
+{
+  "name": "Máy tính Kích thước Mã QR Loona",
+  "short_name": "Máy tính Kích thước Mã QR",
+  "description": "Máy tính kích thước mã QR miễn phí: nhập khoảng cách quét và loại nội dung để nhận kích thước in tối thiểu bằng cm, độ phân giải PNG được khuyến nghị và chiều rộng vùng yên tĩnh.",
+  "id": "/loona-qr-codes/vi/qr-code-size-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

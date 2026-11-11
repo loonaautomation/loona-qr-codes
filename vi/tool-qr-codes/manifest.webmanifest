@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR Codes cho Tất cả Công cụ Loona",
+  "short_name": "Mã QR cho Tất cả Công cụ Loona",
+  "description": "Nhận một mã QR làm sẵn miễn phí cho bất kỳ công cụ Loona nào — 955 máy tính, công cụ PDF, công cụ hình ảnh, công cụ học tập và ứng dụng. Chọn một công cụ, tải xuống mã QR của nó dưới dạng PNG độ phân giải cao và in nó. Không đăng ký, không hình mờ, không bao giờ hết hạn.",
+  "id": "/loona-qr-codes/vi/tool-qr-codes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
