@@ -1,0 +1,29 @@
+{
+  "name": "Loona Product Packaging QR Code Generator",
+  "short_name": "Product Packaging QR Code",
+  "description": "Loona দিয়ে সঙ্গে সঙ্গে একটি বিনামূল্যের Product Packaging QR কোড তৈরি করুন। কোনো সাইনআপ নেই, কোনো ওয়াটারমার্ক নেই, মেয়াদ কখনো শেষ হয় না। কাস্টম রং, উচ্চ-রেজোলিউশন PNG ডাউনলোড।",
+  "id": "/loona-qr-codes/bn/product-packaging-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR Code Size Calculator",
+  "short_name": "QR Code Size Calculator",
+  "description": "বিনামূল্যে QR কোড আকার ক্যালকুলেটর: স্ক্যানিং দূরত্ব ও বিষয়বস্তুর ধরন লিখুন ন্যূনতম ছাপার আকার cm-এ, সুপারিশ করা PNG রেজোলিউশন ও নীরব অঞ্চলের প্রস্থ পেতে।",
+  "id": "/loona-qr-codes/bn/qr-code-size-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

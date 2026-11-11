@@ -1,0 +1,29 @@
+{
+  "name": "সব Loona Tools-এর জন্য Loona QR Codes",
+  "short_name": "সব Loona Tools-এর জন্য QR Codes",
+  "description": "যেকোনো Loona টুলের জন্য একটি বিনামূল্যের তৈরি QR কোড পান — 955টি ক্যালকুলেটর, PDF টুল, ছবির টুল, পড়াশোনার টুল ও অ্যাপ। একটি টুল বেছে নিন, এর QR কোড একটি উচ্চ-রেজোলিউশন PNG হিসেবে ডাউনলোড করুন এবং ছাপান। কোনো সাইনআপ নেই, কোনো ওয়াটারমার্ক নেই, মেয়াদ কখনো শেষ হয় না।",
+  "id": "/loona-qr-codes/bn/tool-qr-codes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
