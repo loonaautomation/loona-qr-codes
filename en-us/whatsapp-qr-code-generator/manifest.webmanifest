@@ -1,0 +1,29 @@
+{
+  "name": "Loona Free WhatsApp QR Code Generator",
+  "short_name": "Free WhatsApp QR Code Generator",
+  "description": "Create a free WhatsApp QR Code instantly with Loona. No signup, no watermark, never expires. Start a WhatsApp chat with one scan, no number saving. Custom colors, high-resolution PNG download.",
+  "id": "/loona-qr-codes/en-us/whatsapp-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
