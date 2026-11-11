@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="ko"><head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>QR 코드 및 바코드 스캐너 – 무료 온라인 스캐너 (카메라 및 이미지) | Loona QR Codes</title><meta name="description" content="Loona로 QR 코드와 바코드를 온라인에서 무료로 스캔하세요: 카메라를 쓰거나 사진 또는 스크린샷을 업로드하세요. URL, WiFi, vCard 연락처, EAN-13, UPC-A, Code 128, Code 39를 디코딩해요. 100% 비공개예요. 모든 것이 회원님 기기에서 디코딩되고, 아무것도 업로드되지 않아요.">
+<link rel="canonical" href="https://loonaautomation.github.io/loona-qr-codes/ko/qr-code-scanner/"><link rel="alternate" hreflang="en" href="https://loonaautomation.github.io/loona-qr-codes/qr-code-scanner/"><link rel="alternate" hreflang="es" href="https://loonaautomation.github.io/loona-qr-codes/es/qr-code-scanner/"><link rel="alternate" hreflang="de" href="https://loonaautomation.github.io/loona-qr-codes/de/qr-code-scanner/"><link rel="alternate" hreflang="fr" href="https://loonaautomation.github.io/loona-qr-codes/fr/qr-code-scanner/"><link rel="alternate" hreflang="pt" href="https://loonaautomation.github.io/loona-qr-codes/pt/qr-code-scanner/"><link rel="alternate" hreflang="it" href="https://loonaautomation.github.io/loona-qr-codes/it/qr-code-scanner/"><link rel="alternate" hreflang="nl" href="https://loonaautomation.github.io/loona-qr-codes/nl/qr-code-scanner/"><link rel="alternate" hreflang="ar" href="https://loonaautomation.github.io/loona-qr-codes/ar/qr-code-scanner/"><link rel="alternate" hreflang="ur" href="https://loonaautomation.github.io/loona-qr-codes/ur/qr-code-scanner/"><link rel="alternate" hreflang="tr" href="https://loonaautomation.github.io/loona-qr-codes/tr/qr-code-scanner/"><link rel="alternate" hreflang="ru" href="https://loonaautomation.github.io/loona-qr-codes/ru/qr-code-scanner/"><link rel="alternate" hreflang="ko" href="https://loonaautomation.github.io/loona-qr-codes/ko/qr-code-scanner/"><link rel="alternate" hreflang="x-default" href="https://loonaautomation.github.io/loona-qr-codes/qr-code-scanner/">
+<meta property="og:title" content="QR 코드 및 바코드 스캐너 – 무료 온라인 스캐너 | Loona QR Codes"><meta property="og:description" content="카메라로 QR 코드나 바코드를 스캔하거나, 사진이나 스크린샷에서 디코딩하세요. 무료, 가입 없음, 100% 비공개 기기 내 디코딩이에요."><meta property="og:type" content="website"><meta property="og:url" content="https://loonaautomation.github.io/loona-qr-codes/ko/qr-code-scanner/"><meta property="og:locale" content="ko_KR"><meta property="og:site_name" content="Loona QR Codes">
+<meta name="twitter:card" content="summary"><meta name="robots" content="index, follow">
+<link rel="stylesheet" href="../../assets/style.css">
+<style>
+.scan-video{width:100%;max-width:520px;background:#000;border-radius:10px;display:none;margin:0 auto}
+.drop{border:2px dashed #c9a227;border-radius:12px;padding:26px 16px;text-align:center;background:#fdfaf1;cursor:pointer}
+.drop.drag{background:#f5eeda;border-color:#0b3a42}
+.result-box{background:#f5f3ff;border:1px solid #e6e1f5;border-radius:10px;padding:14px;text-align:left;word-break:break-word}
+.result-box pre{white-space:pre-wrap;word-break:break-word;background:#fff;border:1px solid #e6e1f5;border-radius:8px;padding:10px;font-size:.92rem;max-height:220px;overflow:auto}
+.hist{list-style:none;padding:0;margin:10px 0;text-align:left}
+.hist li{border-bottom:1px solid #eee;padding:8px 2px;font-size:.92rem;word-break:break-word}
+.mode-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px}@media(max-width:800px){.mode-grid{grid-template-columns:1fr}}
+</style>
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "QR 코드 및 바코드 스캐너 – 무료 온라인 스캐너",
+  "url": "https://loonaautomation.github.io/loona-qr-codes/ko/qr-code-scanner/",
+  "applicationCategory": "UtilitiesApplication",
+  "operatingSystem": "Any (Web Browser)",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Loona Automation",
+    "url": "https://loonaautomation.github.io/"
+  }
+}</script>
+<link rel="icon" type="image/svg+xml" href="../../assets/favicon.svg"><meta name="theme-color" content="#07272e"><meta property="og:image" content="https://loonaautomation.github.io/loona-qr-codes/assets/og-image.png"><link rel="icon" type="image/png" sizes="32x32" href="../../assets/favicon-32.png"><link rel="apple-touch-icon" href="../../assets/apple-touch-icon.png"><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-5L43M13ZYT');
+</script>
+<script type="text/javascript">
+(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window, document, "clarity", "script", "z599jkwoy9");
+</script>
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Loona Automation",
+      "item": "https://loonaautomation.github.io/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Loona QR Codes",
+      "item": "https://loonaautomation.github.io/loona-qr-codes/ko/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "QR 코드 및 바코드 스캐너 – 무료 온라인 스캐너",
+      "item": "https://loonaautomation.github.io/loona-qr-codes/ko/qr-code-scanner/"
+    }
+  ]
+}</script>
+<link rel="manifest" href="manifest.webmanifest">
+</head>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"이 QR 코드 및 바코드 스캐너는 무료인가요?","acceptedAnswer":{"@type":"Answer","text":"네. Loona의 스캐너는 완전히 무료예요. 가입 없음, 워터마크 없음, 스캔하는 코드 수에 제한이 없고, 개인 또는 상업 용도로 쓸 수 있어요."}},{"@type":"Question","name":"이 스캐너 페이지에서 제 카메라 영상이나 사진이 비공개로 유지되나요?","acceptedAnswer":{"@type":"Answer","text":"네. 모든 것이 회원님 본인의 기기에서, 브라우저 안에서 디코딩돼요. 카메라 프레임은 어디에도 전송되지 않고 업로드된 이미지는 서버에 절대 전송되지 않아요. 파일은 로컬로 읽히고, 로컬로 디코딩되고, 스캔 기록은 이 페이지의 메모리에만 유지되며 탭을 닫으면 사라져요."}},{"@type":"Question","name":"왜 제 브라우저에서 카메라 스캔이 작동하지 않나요?","acceptedAnswer":{"@type":"Answer","text":"라이브 카메라 스캔은 Chrome, Edge, 대부분 Android 브라우저에 내장된 BarcodeDetector 기술을 써요. Safari와 Firefox는 아직 포함하지 않아요. 그래서 그 브라우저에서는 카메라 버튼이 대신 이미지 업로드를 사용하라는 메시지로 바뀌어요. 사진이나 스크린샷을 업로드하는 것은 모든 최신 브라우저에서 작동해요."}},{"@type":"Question","name":"이 스캐너가 사진에서 바코드를 읽을 수 있나요?","acceptedAnswer":{"@type":"Answer","text":"네. 업로드 모드는 jsQR 라이브러리로 이미지에서 QR 코드를, ZXing 라이브러리로 이미지에서 바코드를 디코딩해요 — EAN-13, UPC-A, Code 128, Code 39가 포함돼요 — 그리고 jsQR이 놓친, ZXing이 찾은 QR 코드도요. 사진에서 아주 작거나, 흐리거나, 손상되거나, 대비가 낮은 코드는 여전히 실패할 수 있어요. 더 선명하고 가까운 사진이 보통 그것을 고쳐요."}},{"@type":"Question","name":"이 스캐너는 어떤 유형의 코드를 읽을 수 있나요?","acceptedAnswer":{"@type":"Answer","text":"카메라 스캔(지원되는 경우)은 QR 코드와 브라우저의 BarcodeDetector가 제공하는 바코드 형식을 읽어요. 보통 EAN-13, EAN-8, UPC-A, UPC-E, Code 128, Code 39, Code 93, Codabar, ITF예요. 이미지 업로드는 QR 코드와 EAN-13, UPC-A, Code 128, Code 39 바코드를 읽고, 디코딩된 유형, 원시 내용, 링크 열기나 연락처 저장 같은 스마트 동작을 보여 줘요."}}]}</script>
+<body><header class="site"><div class="wrap nav"><a class="logo" href="../"><img class="logo-img" src="../../assets/logo.jpg" alt="Loona Automation 로고" width="44" height="44">Loona <span>QR 코드</span></a>
+<nav><a href="../">홈</a><a href="../#all-tools">모든 도구</a><a href="../about.html">소개</a><a href="../contact.html">연락처</a></nav></div></header>
+<main class="wrap"><div class="hero"><h1>무료 QR 코드 및 바코드 스캐너</h1><p>카메라를 QR 코드나 바코드에 향하게 하거나, 사진이나 스크린샷을 넣으세요. 코드는 바로 여기, 회원님 기기에서 디코딩돼요. 가입 없음, 설치할 앱 없음, 스캔하는 것은 아무것도 업로드되지 않아요. 여러 코드 이미지를 한 번에 일괄 디코딩하고 결과를 CSV 파일로 내보낼 수도 있어요.</p></div>
+<div class="card"><div class="mode-grid"><div>
+<h2 style="margin-top:0">카메라로 스캔</h2>
+<p class="small">라이브 카메라 스캔은 Chrome, Edge, 대부분 Android 브라우저에 내장된 빠른 BarcodeDetector를 쓰고, QR 코드와 흔한 바코드(EAN-13, UPC-A, Code 128, Code 39 등, 브라우저에 따라 달라요)를 읽어요.</p>
+<p><button class="btn" id="camStartBtn" type="button">카메라 스캔 시작</button> <button class="btn secondary" id="camStopBtn" type="button" style="display:none">카메라 중지</button></p>
+<video id="camVideo" class="scan-video" playsinline muted></video>
+<p id="camStatus" class="small" role="status"></p>
+<p class="note">개인정보: 카메라 프레임은 이 기기에서만 처리되고 브라우저를 절대 떠나지 않아요. 동영상은 녹화, 전송, 저장되지 않아요.</p>
+</div>
+<div>
+<h2 style="margin-top:0">이미지에서 스캔</h2>
+<p class="small">사진을 업로드하거나, 여기에 이미지 파일을 놓거나, 스크린샷을 붙여 넣으세요(Ctrl+V / Cmd+V). 이미지의 QR 코드는 jsQR로, 이미지의 바코드는 ZXing으로 디코딩돼요 — EAN-13, UPC-A, Code 128, Code 39가 포함돼요.</p>
+<div class="drop" id="dropZone" tabindex="0" role="button" aria-label="QR 코드나 바코드가 들어 있는 이미지 업로드">
+<p style="margin:0"><strong>여기에 이미지를 놓으세요</strong> 또는 클릭해서 파일 선택</p>
+<p class="small" style="margin:6px 0 0">PNG, JPG, WebP 및 기타 브라우저에서 읽을 수 있는 이미지</p>
+</div>
+<input type="file" id="fileInput" accept="image/*" style="display:none">
+<p id="uploadStatus" class="small" role="status"></p>
+<p class="note">100% 프라이버시 보호: 이미지는 브라우저 안에서 읽히고 디코딩돼요. 서버에 절대 업로드되지 않아요.</p>
+</div></div></div>
+
+<div class="card" id="resultCard" style="display:none"><h2 style="margin-top:0">스캔 결과</h2>
+<div class="result-box">
+<p style="margin:0 0 6px"><strong>유형:</strong> <span id="resType"></span> &nbsp; <strong>형식:</strong> <span id="resFormat"></span></p>
+<p style="margin:0 0 6px"><strong>디코더 세부 정보:</strong> <span id="resDetails"></span> <span class="small">(QR 버전과 데이터 모드는 디코더가 알려 줄 때 표시돼요. 오류 정정 레벨과 마스크 패턴은 이 디코더들이 공개하지 않으므로 절대 추측하지 않아요.)</span></p>
+<div id="resParsed"></div>
+<p style="margin:10px 0 4px"><strong>원본 내용:</strong></p>
+<pre id="resRaw"></pre>
+<p id="resActions" style="margin:10px 0 0"></p>
+</div>
+<h3>스캔 기록 (이 세션만)</h3>
+<ul class="hist" id="historyList"></ul>
+<p><button class="btn secondary" id="clearHistoryBtn" type="button">기록 지우기</button></p>
+<p class="small">기록은 이 페이지의 메모리에만 살아요. 탭을 닫으면 사라져요. 아무것도 저장되거나 전송되지 않아요.</p>
+</div>
+
+<div class="card" id="batchCard"><h2 style="margin-top:0">일괄 디코딩 — 코드 이미지를 한 번에 여러 개</h2>
+<p class="small">확인할 코드 사진 세트 전체가 있나요 — 인쇄 시트, 제품 사진 폴더, 스크린샷 학급 세트요? 한 번에 여러 이미지를 고르거나 놓으세요. 각각이 위와 같은 jsQR과 ZXing 디코더로 디코딩되고, 결과가 표에 모이며, 표를 CSV 파일로 내보낼 수 있어요. 읽을 수 있는 코드가 없는 파일은 솔직히 “디코딩 안 됨”으로 표시돼요.</p>
+<div class="drop" id="batchDrop" tabindex="0" role="button" aria-label="QR 코드나 바코드가 들어 있는 여러 이미지 업로드">
+<p style="margin:0"><strong>여기에 이미지를 여러 장 놓으세요</strong> 또는 클릭해서 파일들 선택</p>
+<p class="small" style="margin:6px 0 0">PNG, JPG, WebP 및 기타 브라우저에서 읽을 수 있는 이미지 — 이 기기에서 하나씩 디코딩돼요</p>
+</div>
+<input type="file" id="batchInput" accept="image/*" multiple style="display:none">
+<p id="batchStatus" class="small" role="status"></p>
+<div id="batchWrap" style="display:none;overflow-x:auto">
+<table style="width:100%;border-collapse:collapse;font-size:.92rem">
+<thead><tr><th style="text-align:left;border-bottom:2px solid #e6e1f5;padding:6px">파일 이름</th><th style="text-align:left;border-bottom:2px solid #e6e1f5;padding:6px">형식</th><th style="text-align:left;border-bottom:2px solid #e6e1f5;padding:6px">유형</th><th style="text-align:left;border-bottom:2px solid #e6e1f5;padding:6px">디코딩된 텍스트</th></tr></thead>
+<tbody id="batchBody"></tbody>
+</table>
+</div>
+<p><button class="btn" id="batchCsvBtn" type="button" style="display:none">결과를 CSV로 내보내기</button> <button class="btn secondary" id="batchClearBtn" type="button" style="display:none">일괄 지우기</button></p>
+<p class="note">100% 프라이버시 보호: 일괄 디코딩도 전적으로 브라우저 안에서 일어나요. 일괄 처리되는 어떤 이미지도 업로드되지 않고, CSV는 내보내기를 클릭할 때 기기에서 만들어져요.</p>
+</div>
+
+<section class="content">
+<h2>3단계로 QR 코드나 바코드 스캔하기</h2>
+<ol><li><strong>카메라 또는 이미지를 선택하세요.</strong> Chrome, Edge, Android에서는 “카메라 스캔 시작”을 누르고, 카메라 접근을 허용한 뒤, 코드를 프레임 안에 두세요. Safari와 Firefox를 포함한 어떤 브라우저에서든, 대신 사진을 업로드하거나, 이미지를 끌어다 놓거나, 스크린샷을 붙여 넣을 수 있어요.</li>
+<li><strong>디코딩을 잠시 기다리세요.</strong> 스캐너는 회원님 기기에서 패턴을 읽고 디코딩된 유형, 형식, 원본 내용을 보여 줘요. 사진에서는, 코드의 선명하고 가깝고 밝은 이미지가 가장 빠르게 스캔돼요.</li><li><strong>스마트 액션을 쓰세요.</strong> 디코딩된 링크를 열거나, WiFi 네트워크 이름과 비밀번호를 드러내거나, vCard 코드에서 연락처 카드(.vcf)를 다운로드하거나, 번호로 전화하거나, 한 번 눌러 원본 텍스트를 복사하세요. 모든 스캔은 이 세션 동안 페이지 내 기록에 더해져요.</li></ol>
+<h2>이 QR 코드 및 바코드 스캐너 소개</h2>
+<p>대부분의 QR 사이트는 그저 <em>만들기</em> 코드예요. 이 페이지는 반대의 일을 해요: 그것들을 읽어요. 인쇄된 코드에 읽을 수 있는 라벨이 없을 때, 동료가 안에 든 링크 대신 코드의 스크린샷을 보낼 때, 큰 인쇄 작업 전에 회원님 본인의 인쇄 코드 중 하나가 실제로 무엇을 담고 있는지 확인하고 싶을 때, 또는 제품 바코드 번호를 사진에서 읽어 내야 할 때 필요한 것이에요.</p>
+<p>두 가지 방식으로 작동해요. 카메라 모드는 최신 Chromium 브라우저에 내장된 BarcodeDetector 인터페이스를 써요. 휴대폰 시스템이 쓰는 것과 같은 빠르고 하드웨어 친화적인 감지예요. QR 코드와 흔한 일차원 바코드를 알려 줘요. 이미지 모드는 완전히 자체 완결적이에요. 오픈소스 jsQR 라이브러리가 이미지의 픽셀에서 QR 코드를 디코딩하고, 오픈소스 ZXing 라이브러리가 같은 픽셀에서 바코드(그리고 jsQR이 놓친 모든 QR 코드)를 디코딩해요. 둘 다 전적으로 브라우저에서 실행돼요. 그래서 이 스캐너는 낯선 사람의 서버에 절대 업로드하고 싶지 않은 민감한 코드(WiFi 비밀번호, 결제 코드, 비공개 링크)에서도 계속 작동해요.</p>
+<h2>이 스캐너의 주요 활용법</h2><ul><li>대량으로 인쇄하기 전에 자신의 인쇄 QR 코드를 확인하세요</li><li>누군가 보낸 스크린샷이나 사진 속 QR 코드 안에 숨은 링크 열기</li><li>WiFi QR 코드 이미지에서 WiFi 네트워크 이름과 비밀번호를 복구하고 있어요</li><li>명함 QR 코드에서 vCard 연락처를 .vcf 파일로 저장하기</li><li>제품과 라벨 사진에서 EAN-13, UPC-A, Code 128, Code 39 바코드 번호를 읽어요</li><li>생성한 바코드가 의도한 바로 그 번호로 다시 스캔되는지 확인하고 있어요</li><li>인쇄된 시트 전체나 코드 사진 폴더를 일괄 확인하고, 모든 결과를 CSV로 내보내요</li><li>geo: 위치 코드 뒤의 좌표나, Bitcoin이나 Ethereum 결제 코드 뒤의 주소를, 행동하기 전에 보고 있어요</li></ul>
+<p>놀라지 않게 솔직한 한계예요. 카메라 스캔은 Safari와 Firefox가 아직 제공하지 않은 브라우저 기능에 의존해요. 그래서 그 브라우저에서는 이미지 모드만 쓸 수 있어요. 페이지는 이를 감지해 조용히 실패하는 대신 분명히 알려 줘요. 그리고 어떤 디코더도 사진에서 너무 작거나, 흐리거나, 찢어지거나, 대비가 너무 낮게 인쇄된 코드는 읽을 수 없어요. 사진을 더 가까이, 정면으로, 좋은 조명에서 다시 찍으면 실패한 스캔 대부분이 고쳐져요.</p>
+<h2>자주 묻는 질문</h2><h3>이 QR 코드 및 바코드 스캐너는 무료인가요?</h3><p>네. Loona의 스캐너는 완전히 무료예요. 가입 없음, 워터마크 없음, 스캔하는 코드 수에 제한이 없고, 개인 또는 상업 용도로 쓸 수 있어요.</p><h3>이 스캐너 페이지에서 제 카메라 영상이나 사진이 비공개로 유지되나요?</h3><p>네. 모든 것이 회원님 본인의 기기에서, 브라우저 안에서 디코딩돼요. 카메라 프레임은 어디에도 전송되지 않고 업로드된 이미지는 서버에 절대 전송되지 않아요. 파일은 로컬로 읽히고, 로컬로 디코딩되고, 스캔 기록은 이 페이지의 메모리에만 유지되며 탭을 닫으면 사라져요.</p><h3>왜 제 브라우저에서 카메라 스캔이 작동하지 않나요?</h3><p>라이브 카메라 스캔은 Chrome, Edge, 대부분 Android 브라우저에 내장된 BarcodeDetector 기술을 써요. Safari와 Firefox는 아직 포함하지 않아요. 그래서 그 브라우저에서는 카메라 버튼이 대신 이미지 업로드를 사용하라는 메시지로 바뀌어요. 사진이나 스크린샷을 업로드하는 것은 모든 최신 브라우저에서 작동해요.</p><h3>이 스캐너가 사진에서 바코드를 읽을 수 있나요?</h3><p>네. 업로드 모드는 jsQR 라이브러리로 이미지에서 QR 코드를, ZXing 라이브러리로 이미지에서 바코드를 디코딩해요 — EAN-13, UPC-A, Code 128, Code 39가 포함돼요 — 그리고 jsQR이 놓친, ZXing이 찾은 QR 코드도요. 사진에서 아주 작거나, 흐리거나, 손상되거나, 대비가 낮은 코드는 여전히 실패할 수 있어요. 더 선명하고 가까운 사진이 보통 그것을 고쳐요.</p><h3>이 스캐너는 어떤 유형의 코드를 읽을 수 있나요?</h3><p>카메라 스캔(지원되는 경우)은 QR 코드와 브라우저의 BarcodeDetector가 제공하는 바코드 형식을 읽어요. 보통 EAN-13, EAN-8, UPC-A, UPC-E, Code 128, Code 39, Code 93, Codabar, ITF예요. 이미지 업로드는 QR 코드와 EAN-13, UPC-A, Code 128, Code 39 바코드를 읽고, 디코딩된 유형, 원시 내용, 링크 열기나 연락처 저장 같은 스마트 동작을 보여 줘요.</p>
+<h2>관련 QR 코드 생성기</h2><div class="grid"><div class="tool-card"><a href="../barcode-generator/">바코드 생성기</a><p>제품 바코드를 만드세요 — Code 128, EAN-13, UPC 등. 그런 다음 여기서 다시 스캔해 확인하세요.</p></div><div class="tool-card"><a href="../url-qr-code-generator/">URL / 웹사이트 QR 코드 생성기</a><p>모든 웹사이트 링크를 QR 코드로 바꾸세요.</p></div><div class="tool-card"><a href="../text-qr-code-generator/">일반 텍스트 QR 코드 생성기</a><p>어떤 텍스트, 코드, 메시지를 QR 코드 안에 넣으세요.</p></div><div class="tool-card"><a href="../wifi-qr-code-generator/">WiFi QR 코드 생성기</a><p>손님이 한 번의 스캔으로 WiFi에 연결해요. 비밀번호 입력이 필요 없어요.</p></div><div class="tool-card"><a href="../vcard-qr-code-generator/">vCard 연락처 QR 코드 생성기</a><p>스캔해서 전체 연락처 카드를 휴대폰에 저장하세요.</p></div></div>
+<h2>작동 방식</h2>
+<p>QR 코드나 바코드는 텍스트를 밝고 어두운 모듈로 인코딩한 패턴일 뿐이에요. 디코딩은 생성의 반대예요. 이미지에서 패턴을 찾고, 모듈을 측정하고, 코드 자체의 중복성을 이용해 오류를 정정하고, 비트를 다시 문자로 바꿔요. jsQR은 세 개의 찾기 정사각형 위치를 파악하고 격자를 샘플링해서 QR 코드에 이 작업을 해요. ZXing은 바를 가로지르는 픽셀 행을 스캔하고 너비를 EAN, UPC, Code 128, Code 39 규칙과 대조해서 바코드에 이 작업을 하며, 소매 바코드의 마지막 체크 숫자 검증도 포함해요. 카메라 모드에서는 브라우저 자체의 BarcodeDetector가 코드가 발견될 때까지 라이브 영상 프레임에서 같은 작업을 계속 수행해요. 일괄 모드에서는 같은 두 이미지 디코더가 파일마다 한 번씩 실행되고, 파일명, 형식, 유형, 디코딩된 텍스트 등 모든 결과가 CSV로 내보낼 수 있는 표에 수집돼요.</p>
+<p><strong>방법:</strong> 카메라 또는 이미지를 선택하세요 &rarr; 기기 내 디코더가 패턴을 읽게 하세요 &rarr; 유형, 형식, 원본 내용을 확인하세요 &rarr; 스마트 액션을 쓰세요 (열기, 복사, 연락처 저장) &rarr; 세션 기록에서 언제든 스캔을 다시 찾으세요.</p>
+<h3>예시</h3>
+<p>가게 주인이 Loona 바코드 생성기로 새 제품의 EAN-13 바코드를 생성하고 교정을 인쇄해요. 라벨 천 장을 주문하기 전에 휴대폰으로 교정을 촬영해 여기에 업로드하면, 스캐너가 ZXing으로 바코드를 다시 읽어요. 형식 EAN-13, 입력한 그대로의 번호, 체크 숫자 포함이에요. 그녀는 또 채팅에서 공급사의 WiFi QR 코드 스크린샷을 복사해 이 페이지에 붙여 넣어요. jsQR이 네트워크 이름과 비밀번호를 그녀가 카메라 없는 노트북에 입력할 수 있는 일반 텍스트로 드러내요.</p>
+<h3>자주 묻는 질문</h3>
+<p><strong>같은 휴대폰에서 스크린샷의 코드를 스캔할 수 있나요?</strong></p>
+<p>네. 스크린샷을 사진 앱에 저장하거나 공유한 뒤, 여기서 이미지 업로드를 써서 그 스크린샷을 고르세요. 컴퓨터에서는 이미지를 복사해 Ctrl+V(Mac에서는 Cmd+V)로 이 페이지에 붙여 넣으면 돼요 — 파일을 저장할 필요가 없어요.</p>
+<p><strong>결과가 WIFI:T:WPA;S:…처럼 보여요 — 무슨 뜻인가요?</strong></p>
+<p>그것은 WiFi QR 코드 안의 표준 원본 형식이에요: T는 보안 유형, S는 네트워크 이름(SSID), P는 비밀번호예요. 이 페이지는 그 세 값을 원본 내용 위에 따로도 보여 주니까, 직접 골라낼 필요가 없어요.</p>
+<p><strong>스캔한 연락처를 제 휴대폰에 어떻게 추가하나요?</strong></p>
+<p>스캔이 vCard이면, “연락처 다운로드(.vcf)” 동작이 나타나요. 파일을 다운로드하고 여세요. 휴대폰과 컴퓨터가 이름, 조직, 전화, 이메일, 웹사이트가 이미 채워진 연락처로 저장하라고 제안해요.</p>
+<p><strong>왜 제 사진이 디코딩되지 않았나요?</strong></p>
+<p>흔한 원인은 큰 사진에서 아주 작은 코드, 흐림, 눈부심, 찢어지거나 대비가 낮은 인쇄, 또는 코드 주변에 너무 바짝 자른 스크린샷이에요(디코더는 코드 주변의 흰색 퀴엣 존이 필요해요). 느슨하게 자르고, 사진을 더 가깝고 정면으로 다시 찍고, 다시 시도하세요.</p>
+<p><strong>공공장소에서 발견한 QR 코드를 신뢰해야 하나요?</strong></p>
+<p>결과를 자동으로 여는 앱으로 대신 여기서 먼저 스캔하세요: 이 페이지는 그저 <em>표시해요</em> 회원님에게 디코딩된 내용을 보여 주고 스스로는 아무것도 절대 열지 않아요. “링크 열기”를 누르기 전에 링크가 그 라벨이 약속하는 곳으로 정말 가는지 확인하세요 — 그 습관 하나가 진짜 코드 위에 스티커를 붙이는 사기 대부분을 물리쳐요.</p>
+<div id="loona-embed" style="max-width:780px;margin:30px auto;padding:24px;background:#fdfaf1;border:1px solid #d9c98a;border-radius:14px;text-align:left">
+<h2 style="margin:0 0 10px;color:#062e2a;font-size:1.35rem;line-height:1.3">이 도구를 웹사이트에 임베드하세요 — 무료</h2>
+<p style="margin:0 0 12px;line-height:1.6">이 도구를 회원님의 웹사이트나 블로그에 추가하세요. 완전 무료이고, 가입도 필요 없으며, 항상 최신 버전을 보여 줘요. 아래 코드를 복사해 도구가 나타나길 원하는 페이지 위치에 붙여 넣으세요. 임베드 아래 작은 &ldquo;Powered by Loona Automation&rdquo; 크레딧 줄을 유지하면 이 도구를 무료로 유지하는 데 도움이 돼요 &mdash; 하지만 스타일을 바꾸거나 제거해도 자유예요. 어느 쪽이든 도구는 작동해요.</p>
+<textarea id="loonaEmbedCode" readonly rows="4" style="width:100%;box-sizing:border-box;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.8rem;line-height:1.45;padding:12px;border:1px solid #e4ddc8;border-radius:10px;background:#fff;color:#1c2422;resize:vertical">&lt;iframe src="https://loonaautomation.github.io/loona-qr-codes/ko/qr-code-scanner/" width="100%" height="720" style="border:1px solid #e5e7eb;border-radius:12px;max-width:760px" loading="lazy" title="QR Code & Barcode Scanner by Loona"&gt;&lt;/iframe&gt;
+&lt;p style="font-size:13px;font-family:Arial,sans-serif"&gt;제공 &lt;a href="https://loonaautomation.github.io/loona-qr-codes/ko/qr-code-scanner/" target="_blank" rel="noopener"&gt;Loona Automation&lt;/a&gt; &mdash; 무료 QR 코드 및 바코드 스캐너&lt;/p&gt;</textarea>
+<p style="margin:10px 0 0"><button type="button" id="loonaEmbedBtn" style="background:#062e2a;color:#fff;border:0;border-radius:8px;padding:10px 18px;font-size:.95rem;font-weight:700;cursor:pointer">임베드 코드 복사</button></p>
+</div>
+<script>
+(function(){var b=document.getElementById('loonaEmbedBtn'),t=document.getElementById('loonaEmbedCode');if(!b||!t)return;b.addEventListener('click',function(){var done=function(){b.textContent='복사됐어요!';setTimeout(function(){b.textContent='임베드 코드 복사';},2000);};var fallback=function(){t.removeAttribute('readonly');t.select();try{document.execCommand('copy');}catch(e){}t.setAttribute('readonly','');done();};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t.value).then(done,fallback);}else{fallback();}});})();
+</script>
+</section></main><footer class="site"><div class="wrap"><p><strong>Loona QR Codes</strong> — 무료 QR 코드 생성기 — 만료 없음, 가입 없음, 워터마크 없음. 모든 QR 코드는 브라우저에서 비공개로 생성돼요. 아무것도 서버에 업로드되지 않고, 코드는 절대 만료되지 않으며, 워터마크가 없어요.</p>
+<p><a href="../url-qr-code-generator/">URL / 웹사이트 QR 코드</a> <a href="../text-qr-code-generator/">일반 텍스트 QR 코드</a> <a href="../wifi-qr-code-generator/">WiFi QR 코드</a> <a href="../whatsapp-qr-code-generator/">WhatsApp QR 코드</a> <a href="../vcard-qr-code-generator/">vCard 연락처 QR 코드</a> <a href="../email-qr-code-generator/">이메일 QR 코드</a> <a href="../sms-qr-code-generator/">SMS QR 코드</a> <a href="../phone-qr-code-generator/">전화 통화 QR 코드</a> <a href="../instagram-qr-code-generator/">Instagram QR 코드</a> <a href="../facebook-qr-code-generator/">Facebook QR 코드</a></p>
+<p><a href="../about.html">소개</a><a href="../privacy-policy.html">개인정보 처리방침</a><a href="../terms.html">약관</a><a href="../disclaimer.html">면책 조항</a><a href="../contact.html">연락처</a></p>
+<p class="small">연락처: <a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></p>
+<p class="small">스캐너 라이브러리: jsQR와 ZXing(Apache License 2.0), 브라우저에서 로컬로 실행돼요. 제작: <a href="https://github.com/loonaautomation">Loona Automation</a> · © 2026 Loona QR Codes. 개인 및 상업 목적으로 자유롭게 사용할 수 있어요.</p></div></footer>
+<script src="../../assets/jsQR.js"></script>
+<script src="../../assets/zxing.min.js"></script>
+<script>
+/*LOONA-SCAN-CORE-START*/
+function classifyResult(raw){
+  var t=String(raw===null||raw===undefined?'':raw).trim();
+  if(/^BEGIN:VCARD/i.test(t))return 'vCard 연락처';
+  if(/^WIFI:/i.test(t))return 'WiFi 네트워크';
+  if(/^https?:\/\//i.test(t))return '웹 링크 (URL)';
+  if(/^mailto:/i.test(t))return 'Email';
+  if(/^tel:/i.test(t))return '전화번호';
+  if(/^(SMSTO:|sms:)/i.test(t))return 'SMS 메시지';
+  if(/^geo:/i.test(t))return 'Location';
+  if(/^upi:\/\//i.test(t))return 'UPI 결제';
+  if(/^bitcoin:/i.test(t))return 'Bitcoin 주소';
+  if(/^ethereum:/i.test(t))return '암호화폐 결제 (Ethereum)';
+  if(/^BEGIN:VEVENT/i.test(t))return '캘린더 행사';
+  if(/^\d{13}$/.test(t))return '바코드 번호 (EAN-13 길이)';
+  if(/^\d{12}$/.test(t))return '바코드 번호 (UPC-A 길이)';
+  if(/^\d{8}$/.test(t))return '바코드 번호 (EAN-8 길이)';
+  if(/^\d+$/.test(t))return '바코드 / 숫자 코드';
+  return '일반 텍스트';
+}
+function splitUnescaped(s,sep){
+  var parts=[],cur='',esc=false;
+  for(var i=0;i<s.length;i++){var ch=s[i];
+    if(esc){cur+=ch;esc=false;continue;}
+    if(ch==='\\'){esc=true;continue;}
+    if(ch===sep){parts.push(cur);cur='';continue;}
+    cur+=ch;}
+  parts.push(cur);return parts;
+}
+function parseWifi(raw){
+  var body=String(raw||'').replace(/^WIFI:/i,'');
+  var out={},parts=splitUnescaped(body,';');
+  for(var i=0;i<parts.length;i++){var idx=parts[i].indexOf(':');if(idx>0){out[parts[i].slice(0,idx).toUpperCase()]=parts[i].slice(idx+1);}}
+  return {ssid:out.S||'',password:out.P||'',encryption:out.T||'',hidden:/^true$/i.test(out.H||'')};
+}
+function parseVCard(raw){
+  var out={phones:[],emails:[]},lines=String(raw||'').split(/\r?\n/);
+  for(var i=0;i<lines.length;i++){var line=lines[i];var idx=line.indexOf(':');if(idx<0)continue;
+    var key=line.slice(0,idx).split(';')[0].toUpperCase(),val=line.slice(idx+1).replace(/\\,/g,',').replace(/\\;/g,';').replace(/\\n/gi,' ');
+    if(key==='FN')out.name=val;else if(key==='ORG')out.org=val;else if(key==='TITLE')out.title=val;
+    else if(key==='TEL')out.phones.push(val);else if(key==='EMAIL')out.emails.push(val);
+    else if(key==='URL')out.url=val;else if(key==='ADR')out.address=val.replace(/;+/g,' ').trim();}
+  return out;
+}
+function prettyFormat(fmt){
+  var map={qr_code:'QR Code',ean_13:'EAN-13',ean_8:'EAN-8',upc_a:'UPC-A',upc_e:'UPC-E',code_128:'Code 128',code_39:'Code 39',code_93:'Code 93',codabar:'Codabar',itf:'ITF',data_matrix:'Data Matrix',aztec:'Aztec',pdf417:'PDF417',QR_CODE:'QR Code',EAN_13:'EAN-13',EAN_8:'EAN-8',UPC_A:'UPC-A',UPC_E:'UPC-E',CODE_128:'Code 128',CODE_39:'Code 39',CODE_93:'Code 93',CODABAR:'Codabar',ITF:'ITF',DATA_MATRIX:'Data Matrix',AZTEC:'Aztec',PDF_417:'PDF417'};
+  return map[fmt]||String(fmt||'QR Code');
+}
+
+function parseQuery(q){
+  var out={};if(!q)return out;
+  var pairs=String(q).split('&');
+  for(var i=0;i<pairs.length;i++){var idx=pairs[i].indexOf('=');if(idx>0){var k=pairs[i].slice(0,idx).toLowerCase(),v=pairs[i].slice(idx+1);try{v=decodeURIComponent(v);}catch(e){}out[k]=v;}else if(pairs[i]){out[pairs[i].toLowerCase()]='';}}
+  return out;
+}
+function parseGeo(raw){
+  var m=String(raw||'').trim().match(/^geo:(-?\d+(?:\.\d+)?),(-?\d+(?:\.\d+)?)(?:,(-?\d+(?:\.\d+)?))?(?:\?(.*))?$/i);
+  if(!m)return null;
+  var q=parseQuery(m[4]||'');
+  return {lat:parseFloat(m[1]),lng:parseFloat(m[2]),altitude:(m[3]!==undefined&&m[3]!=='')?parseFloat(m[3]):null,query:q.q||'',zoom:q.z||''};
+}
+function parseMailto(raw){
+  var body=String(raw||'').trim().replace(/^mailto:/i,'');
+  var qi=body.indexOf('?');var addr=qi>=0?body.slice(0,qi):body;
+  try{addr=decodeURIComponent(addr);}catch(e){}
+  var q=parseQuery(qi>=0?body.slice(qi+1):'');
+  return {address:addr,subject:q.subject||'',body:q.body||'',cc:q.cc||''};
+}
+function parseCrypto(raw){
+  var m=String(raw||'').trim().match(/^(bitcoin|ethereum):([^?]+)(?:\?(.*))?$/i);
+  if(!m)return null;
+  var q=parseQuery(m[3]||'');
+  return {currency:m[1].toLowerCase()==='bitcoin'?'Bitcoin':'Ethereum',address:m[2],amount:q.amount||q.value||'',label:q.label||q.message||''};
+}
+function csvEscape(v){
+  var s=String(v===null||v===undefined?'':v);
+  if(/[",\n\r]/.test(s))return '"'+s.replace(/"/g,'""')+'"';
+  return s;
+}
+function buildBatchCsv(rows){
+  var lines=['filename,format,type,decoded text'];
+  (rows||[]).forEach(function(r){lines.push([csvEscape(r.filename),csvEscape(r.format),csvEscape(r.type),csvEscape(r.text)].join(','));});
+  return lines.join('\r\n')+'\r\n';
+}
+/*LOONA-SCAN-CORE-END*/
+</script>
+<script>
+var $=function(id){return document.getElementById(id);};
+var history=[];
+function escHtml(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+function showResult(res){
+  var raw=String(res.text||'');
+  $('resultCard').style.display='';
+  $('resType').textContent=classifyResult(raw);
+  $('resFormat').textContent=prettyFormat(res.format)+(res.engine?' · 디코딩: '+res.engine:'');
+  var details=[];
+  details.push(raw.length+' 자');
+  try{details.push(new Blob([raw]).size+' 바이트 (UTF-8)');}catch(e){}
+  if(res.version){details.push('QR 버전 '+res.version);}
+  if(res.chunks&&res.chunks.length){details.push('데이터 모드: '+res.chunks.map(function(c){return c.type;}).join(', '));}
+  var detEl=$('resDetails'); if(detEl)detEl.textContent=details.join(' · ')+((res.version)?'':'');
+  var parsed='';
+  var type=classifyResult(raw);
+  if(type==='WiFi 네트워크'){var w=parseWifi(raw);parsed='<p style="margin:6px 0"><strong>WiFi 세부 정보:</strong> 네트워크 (SSID): <strong>'+escHtml(w.ssid)+'</strong>'+(w.password?' · 비밀번호: <strong>'+escHtml(w.password)+'</strong>':' · 비밀번호 없음 (개방형 네트워크)')+' · 보안: '+escHtml(w.encryption||'명시 안 됨')+(w.hidden?' · 숨은 네트워크':'')+'<br><span class="small">웹 페이지는 회원님을 대신해 WiFi 네트워크에 참여할 수 없어요 — 위 비밀번호를 복사하거나, 휴대폰 카메라 앱으로 원본 코드를 스캔해서 자동으로 참여하세요.</span></p>';}
+  else if(type==='vCard 연락처'){var v=parseVCard(raw);var rows=[];if(v.name)rows.push('이름: <strong>'+escHtml(v.name)+'</strong>');if(v.org)rows.push('조직: '+escHtml(v.org));if(v.title)rows.push('제목: '+escHtml(v.title));if(v.phones.length)rows.push('전화: '+escHtml(v.phones.join(', ')));if(v.emails.length)rows.push('이메일: '+escHtml(v.emails.join(', ')));if(v.url)rows.push('웹사이트: '+escHtml(v.url));if(v.address)rows.push('주소: '+escHtml(v.address));parsed='<p style="margin:6px 0"><strong>연락처 세부 정보:</strong><br>'+rows.join('<br>')+'</p>';}
+  if(type==='Location'){
+    var g=parseGeo(raw);
+    if(g){parsed='<p style="margin:6px 0"><strong>위치 세부 정보:</strong> 위도: <strong>'+g.lat+'</strong> · 경도: <strong>'+g.lng+'</strong>'+(g.altitude!==null?' · 고도: '+g.altitude+' m':'')+(g.query?' · 라벨: '+escHtml(g.query):'')+'<br><a href="https://www.google.com/maps/search/?api=1&query='+g.lat+','+g.lng+'" target="_blank" rel="noopener"><strong>지도에서 열기</strong></a></p>';}
+    else{parsed='<p style="margin:6px 0"><strong>위치 세부 정보:</strong> 이 페이로드는 geo:로 시작하지만 표준 geo:latitude,longitude 형식이 아니라서, 좌표는 추측하지 않아요 — 아래 원본 내용을 보세요.</p>';}
+  }
+  if(type==='Email'){
+    var mm=parseMailto(raw);var mrows=[];
+    if(mm.address)mrows.push('받는 사람: <strong>'+escHtml(mm.address)+'</strong>');
+    if(mm.cc)mrows.push('참조: '+escHtml(mm.cc));
+    if(mm.subject)mrows.push('제목: '+escHtml(mm.subject));
+    if(mm.body)mrows.push('본문: '+escHtml(mm.body));
+    parsed='<p style="margin:6px 0"><strong>이메일 세부 정보:</strong><br>'+mrows.join('<br>')+'</p>';
+  }
+  if(type==='Bitcoin 주소'||type==='암호화폐 결제 (Ethereum)'){
+    var cp=parseCrypto(raw);
+    if(cp){parsed='<p style="margin:6px 0"><strong>'+escHtml(cp.currency)+' 결제 세부 정보:</strong><br>주소: <strong style="word-break:break-all">'+escHtml(cp.address)+'</strong>'+(cp.amount?'<br>금액: '+escHtml(cp.amount):'')+(cp.label?'<br>라벨 / 메시지: '+escHtml(cp.label):'')+'<br><span class="small">결제를 보내기 전에 주소를 글자 하나하나 확인하세요 — 암호화폐 결제는 되돌릴 수 없어요.</span></p>';}
+  }
+  $('resParsed').innerHTML=parsed;
+  $('resRaw').textContent=raw;
+  var acts=[];
+  if(/^https?:\/\//i.test(raw.trim())){acts.push('<a class="btn" href="'+escHtml(raw.trim())+'" target="_blank" rel="noopener">링크 열기</a>');}
+  else if(/^mailto:/i.test(raw.trim())){acts.push('<a class="btn" href="'+escHtml(raw.trim())+'">이메일 쓰기</a>');}
+  else if(/^tel:/i.test(raw.trim())){acts.push('<a class="btn" href="'+escHtml(raw.trim())+'">번호로 전화</a>');}
+  else if(/^(SMSTO:)/i.test(raw.trim())){var sm=raw.trim().slice(6);var p=sm.split(':');acts.push('<a class="btn" href="sms:'+escHtml(p[0])+(p[1]?('?body='+encodeURIComponent(p.slice(1).join(':'))):'')+'">SMS 보내기</a>');}
+  if(type==='vCard 연락처'){acts.push('<button class="btn" id="vcardBtn" type="button">연락처 다운로드 (.vcf)</button>');}
+  if(type==='Location'){var gg=parseGeo(raw);if(gg){acts.push('<a class="btn" href="https://www.google.com/maps/search/?api=1&query='+gg.lat+','+gg.lng+'" target="_blank" rel="noopener">지도에서 열기</a>');}}
+  var cryptoParsed=parseCrypto(raw);
+  if(cryptoParsed){acts.push('<button class="btn" id="cryptoCopyBtn" type="button">복사: '+escHtml(cryptoParsed.currency)+' 주소</button>');}
+  acts.push('<button class="btn secondary" id="copyBtn" type="button">결과 복사</button>');
+  acts.push('<button class="btn secondary" id="shareBtn" type="button">공유</button>');
+  $('resActions').innerHTML=acts.join(' ');
+  var cb=$('copyBtn'); if(cb)cb.addEventListener('click',function(){var done=function(){cb.textContent='복사됐어요!';setTimeout(function(){cb.textContent='결과 복사';},2000);};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(raw).then(done,done);}else{var ta=document.createElement('textarea');ta.value=raw;document.body.appendChild(ta);ta.select();try{document.execCommand('copy');}catch(e){}ta.remove();done();}});
+  var sb=$('shareBtn'); if(sb)sb.addEventListener('click',function(){var val=raw.trim();var isUrl=/^https?:\/\//i.test(val);function copyFallback(){var done=function(){sb.textContent='복사됐어요!';setTimeout(function(){sb.textContent='Share';},2000);};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(raw).then(done,done);}else{var ta=document.createElement('textarea');ta.value=raw;document.body.appendChild(ta);ta.select();try{document.execCommand('copy');}catch(e){}ta.remove();done();}}if(navigator.share){var payload=isUrl?{title:'Loona QR Code Scanner',text:'무료 Loona QR 코드 스캐너로 스캔했어요:',url:val}:{title:'Loona QR Code Scanner',text:raw};navigator.share(payload).catch(function(err){if(err&&err.name!=='AbortError'){copyFallback();}});}else{copyFallback();}});
+  var vb=$('vcardBtn'); if(vb)vb.addEventListener('click',function(){var blob=new Blob([raw],{type:'text/vcard'});var u=URL.createObjectURL(blob);var a=document.createElement('a');a.href=u;a.download='contact.vcf';document.body.appendChild(a);a.click();a.remove();setTimeout(function(){URL.revokeObjectURL(u);},5000);});
+  var xb=$('cryptoCopyBtn'); if(xb&&cryptoParsed)xb.addEventListener('click',function(){var addr=cryptoParsed.address;var done=function(){xb.textContent='주소가 복사됐어요!';setTimeout(function(){xb.textContent='복사: '+cryptoParsed.currency+' 주소';},2000);};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(addr).then(done,done);}else{var ta=document.createElement('textarea');ta.value=addr;document.body.appendChild(ta);ta.select();try{document.execCommand('copy');}catch(e){}ta.remove();done();}});
+  history.unshift({time:new Date(),format:prettyFormat(res.format),type:type,text:raw});
+  if(history.length>20)history.length=20;
+  renderHistory();
+  $('resultCard').scrollIntoView({behavior:'smooth',block:'nearest'});
+}
+function renderHistory(){
+  $('historyList').innerHTML=history.map(function(h){return '<li><strong>'+escHtml(h.format)+'</strong> · '+escHtml(h.type)+' · '+h.time.toLocaleTimeString()+'<br>'+escHtml(h.text.length>140?h.text.slice(0,140)+'…':h.text)+'</li>';}).join('');
+}
+$('clearHistoryBtn').addEventListener('click',function(){history=[];renderHistory();});
+
+/* ---------- Image upload decoding ---------- */
+function zxingDecode(imageData){
+  if(typeof ZXing==='undefined')return null;
+  var w=imageData.width,h=imageData.height,d=imageData.data;
+  var lum=new Uint8ClampedArray(w*h);
+  for(var i=0,j=0;i<d.length;i+=4,j++){lum[j]=Math.round(0.299*d[i]+0.587*d[i+1]+0.114*d[i+2]);}
+  var source=new ZXing.RGBLuminanceSource(lum,w,h);
+  var bitmap=new ZXing.BinaryBitmap(new ZXing.HybridBinarizer(source));
+  var reader=new ZXing.MultiFormatReader();
+  try{var hints=new Map();hints.set(ZXing.DecodeHintType.TRY_HARDER,true);reader.setHints(hints);}catch(e){}
+  var res=reader.decode(bitmap);
+  return {text:res.getText(),format:(ZXing.BarcodeFormat[res.getBarcodeFormat()]||'Barcode'),engine:'ZXing'};
+}
+function decodeCanvas(canvas){
+  var ctx=canvas.getContext('2d',{willReadFrequently:true});
+  var img=ctx.getImageData(0,0,canvas.width,canvas.height);
+  if(typeof jsQR!=='undefined'){
+    try{var r=jsQR(img.data,img.width,img.height);if(r&&r.data)return {text:r.data,format:'QR Code',engine:'jsQR',version:r.version,chunks:r.chunks};}catch(e){}
+  }
+  try{var z=zxingDecode(img);if(z&&z.text)return z;}catch(e){}
+  return null;
+}
+function decodeImageElement(image){
+  var attempts=[];
+  var nw=image.naturalWidth||image.width,nh=image.naturalHeight||image.height;
+  function make(w,h){var c=document.createElement('canvas');c.width=w;c.height=h;var x=c.getContext('2d',{willReadFrequently:true});x.fillStyle='#fff';x.fillRect(0,0,w,h);x.drawImage(image,0,0,w,h);return c;}
+  attempts.push(make(nw,nh));
+  var maxDim=Math.max(nw,nh);
+  if(maxDim>1400){var s=1400/maxDim;attempts.push(make(Math.round(nw*s),Math.round(nh*s)));}
+  if(maxDim<700){attempts.push(make(nw*2,nh*2));}
+  for(var i=0;i<attempts.length;i++){var r=decodeCanvas(attempts[i]);if(r)return r;}
+  return null;
+}
+function handleFile(file){
+  if(!file)return;
+  if(!/^image\//.test(file.type||'')){$('uploadStatus').textContent='그 파일은 이미지가 아니에요. PNG, JPG 또는 다른 이미지 파일을 선택하세요.';$('uploadStatus').style.color='#b3261e';return;}
+  $('uploadStatus').textContent='회원님 기기에서 이미지를 디코딩하는 중…';$('uploadStatus').style.color='';
+  var url=URL.createObjectURL(file);
+  var image=new Image();
+  image.onload=function(){
+    var res=null;
+    try{res=decodeImageElement(image);}catch(e){}
+    URL.revokeObjectURL(url);
+    if(res){$('uploadStatus').textContent='디코딩: '+res.engine+': '+prettyFormat(res.format)+'.';showResult(res);}
+    else{$('uploadStatus').textContent='그 이미지에서 QR 코드나 지원되는 바코드를 읽을 수 없었어요. 코드 주변의 흰색 테두리를 포함해, 더 선명하고 가까운 사진을 시도해 보세요.';$('uploadStatus').style.color='#b3261e';}
+  };
+  image.onerror=function(){URL.revokeObjectURL(url);$('uploadStatus').textContent='그 이미지는 브라우저로 열 수 없었어요.';$('uploadStatus').style.color='#b3261e';};
+  image.src=url;
+}
+var drop=$('dropZone'),fileInput=$('fileInput');
+drop.addEventListener('click',function(){fileInput.click();});
+drop.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();fileInput.click();}});
+fileInput.addEventListener('change',function(){handleFile(fileInput.files&&fileInput.files[0]);fileInput.value='';});
+['dragenter','dragover'].forEach(function(ev){drop.addEventListener(ev,function(e){e.preventDefault();drop.classList.add('drag');});});
+['dragleave','drop'].forEach(function(ev){drop.addEventListener(ev,function(e){e.preventDefault();drop.classList.remove('drag');});});
+drop.addEventListener('drop',function(e){var f=e.dataTransfer&&e.dataTransfer.files&&e.dataTransfer.files[0];handleFile(f);});
+document.addEventListener('paste',function(e){
+  if(e.target&&(e.target.tagName==='INPUT'||e.target.tagName==='TEXTAREA'))return;
+  var items=(e.clipboardData&&e.clipboardData.items)||[];
+  for(var i=0;i<items.length;i++){if(items[i].type&&items[i].type.indexOf('image/')===0){var f=items[i].getAsFile();if(f){e.preventDefault();handleFile(f);return;}}}
+});
+
+/* ---------- Batch decode (multiple images + CSV export) ---------- */
+var batchRows=[];
+function decodeFilePromise(file){
+  return new Promise(function(resolve){
+    if(!file||!/^image\//.test(file.type||'')){resolve(null);return;}
+    var url=URL.createObjectURL(file);
+    var image=new Image();
+    image.onload=function(){var r=null;try{r=decodeImageElement(image);}catch(e){}URL.revokeObjectURL(url);resolve(r);};
+    image.onerror=function(){URL.revokeObjectURL(url);resolve(null);};
+    image.src=url;
+  });
+}
+function renderBatch(){
+  var body=$('batchBody');
+  body.innerHTML=batchRows.map(function(r){
+    return '<tr><td style="border-bottom:1px solid #eee;padding:6px;word-break:break-all">'+escHtml(r.filename)+'</td><td style="border-bottom:1px solid #eee;padding:6px">'+escHtml(r.format)+'</td><td style="border-bottom:1px solid #eee;padding:6px">'+escHtml(r.type)+'</td><td style="border-bottom:1px solid #eee;padding:6px;word-break:break-word">'+escHtml(r.text)+'</td></tr>';
+  }).join('');
+  var has=batchRows.length>0;
+  $('batchWrap').style.display=has?'':'none';
+  $('batchCsvBtn').style.display=has?'':'none';
+  $('batchClearBtn').style.display=has?'':'none';
+  if(has){
+    var ok=batchRows.filter(function(r){return r.type!=='디코딩 안 됨';}).length;
+    $('batchStatus').textContent='배치 완료: '+ok+' 중 '+batchRows.length+' image'+(batchRows.length===1?'':'s')+' decoded.';
+    $('batchStatus').style.color='';
+  }
+}
+async function handleBatchFiles(list){
+  var files=Array.prototype.slice.call(list||[]).filter(function(f){return /^image\//.test(f.type||'');});
+  if(!files.length){$('batchStatus').textContent='그 선택에서 이미지 파일을 찾을 수 없었어요. PNG, JPG 또는 다른 이미지 파일을 선택하세요.';$('batchStatus').style.color='#b3261e';return;}
+  batchRows=[];renderBatch();
+  for(var i=0;i<files.length;i++){
+    $('batchStatus').textContent='이미지 디코딩 중: '+(i+1)+' 중 '+files.length+' 회원님 기기에서…';$('batchStatus').style.color='';
+    var r=await decodeFilePromise(files[i]);
+    if(r&&r.text){batchRows.push({filename:files[i].name,format:prettyFormat(r.format),type:classifyResult(r.text),text:r.text});}
+    else{batchRows.push({filename:files[i].name,format:'',type:'디코딩 안 됨',text:''});}
+    renderBatch();
+  }
+}
+var batchDrop=$('batchDrop'),batchInput=$('batchInput');
+batchDrop.addEventListener('click',function(){batchInput.click();});
+batchDrop.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();batchInput.click();}});
+batchInput.addEventListener('change',function(){handleBatchFiles(batchInput.files);batchInput.value='';});
+['dragenter','dragover'].forEach(function(ev){batchDrop.addEventListener(ev,function(e){e.preventDefault();batchDrop.classList.add('drag');});});
+['dragleave','drop'].forEach(function(ev){batchDrop.addEventListener(ev,function(e){e.preventDefault();batchDrop.classList.remove('drag');});});
+batchDrop.addEventListener('drop',function(e){handleBatchFiles(e.dataTransfer&&e.dataTransfer.files);});
+$('batchCsvBtn').addEventListener('click',function(){
+  if(!batchRows.length)return;
+  var blob=new Blob([buildBatchCsv(batchRows)],{type:'text/csv'});
+  var u=URL.createObjectURL(blob);var a=document.createElement('a');a.href=u;a.download='loona-scan-batch.csv';document.body.appendChild(a);a.click();a.remove();setTimeout(function(){URL.revokeObjectURL(u);},5000);
+});
+$('batchClearBtn').addEventListener('click',function(){batchRows=[];renderBatch();$('batchStatus').textContent='배치가 지워졌어요.';});
+
+/* ---------- Camera scanning (BarcodeDetector) ---------- */
+var stream=null,detector=null,detectTimer=null,scanning=false;
+var CAM_FALLBACK='이 브라우저에서는 실시간 카메라 스캔을 쓸 수 없어요: Chrome, Edge, 대부분 Android 브라우저에 내장된 BarcodeDetector 기능이 필요해요 (Safari와 Firefox는 아직 포함하지 않았어요). 대신 “이미지에서 스캔”을 쓰세요 — 코드의 사진이나 스크린샷을 찍어 여기에 업로드하거나 붙여 넣으세요. 모든 최신 브라우저에서 작동해요.';
+function stopCamera(){
+  scanning=false;
+  if(detectTimer){clearInterval(detectTimer);detectTimer=null;}
+  if(stream){stream.getTracks().forEach(function(t){t.stop();});stream=null;}
+  $('camVideo').style.display='none';
+  $('camStartBtn').style.display='';$('camStopBtn').style.display='none';
+}
+async function startCamera(){
+  if(!('BarcodeDetector' in window)){$('camStatus').textContent=CAM_FALLBACK;$('camStatus').style.color='#b3261e';return;}
+  if(!navigator.mediaDevices||!navigator.mediaDevices.getUserMedia){$('camStatus').textContent='이 브라우저는 웹 페이지에서 카메라를 열 수 없어요. '+CAM_FALLBACK;$('camStatus').style.color='#b3261e';return;}
+  try{
+    var wanted=['qr_code','ean_13','ean_8','upc_a','upc_e','code_128','code_39','code_93','codabar','itf','data_matrix','aztec','pdf417'];
+    var formats=wanted;
+    try{var supported=await BarcodeDetector.getSupportedFormats();formats=wanted.filter(function(f){return supported.indexOf(f)>=0;});if(!formats.length)formats=undefined;}catch(e){}
+    detector=formats?new BarcodeDetector({formats:formats}):new BarcodeDetector();
+  }catch(e){$('camStatus').textContent=CAM_FALLBACK;$('camStatus').style.color='#b3261e';return;}
+  try{
+    stream=await navigator.mediaDevices.getUserMedia({video:{facingMode:'environment'},audio:false});
+  }catch(e){
+    $('camStatus').textContent='카메라 접근이 차단됐거나 카메라를 찾을 수 없었어요. 이 사이트에 카메라 권한을 허용하고 다시 시도하세요 — 또는 대신 “이미지에서 스캔”을 쓰세요.';$('camStatus').style.color='#b3261e';return;
+  }
+  var video=$('camVideo');
+  video.srcObject=stream;video.style.display='block';
+  try{await video.play();}catch(e){}
+  $('camStartBtn').style.display='none';$('camStopBtn').style.display='';
+  $('camStatus').textContent='카메라가 켜졌어요 — QR 코드나 바코드를 프레임 안에 안정적으로 두세요. 프레임은 이 기기에서만 처리돼요.';$('camStatus').style.color='';
+  scanning=true;
+  detectTimer=setInterval(async function(){
+    if(!scanning||!detector||video.readyState<2)return;
+    try{
+      var codes=await detector.detect(video);
+      if(codes&&codes.length&&codes[0].rawValue){
+        var c=codes[0];
+        stopCamera();
+        $('camStatus').textContent='코드를 찾았어요: '+prettyFormat(c.format)+'.';
+        showResult({text:c.rawValue,format:c.format,engine:'BarcodeDetector (camera)'});
+      }
+    }catch(e){/* a frame that fails to detect is normal; keep scanning */}
+  },350);
+}
+$('camStartBtn').addEventListener('click',startCamera);
+$('camStopBtn').addEventListener('click',function(){stopCamera();$('camStatus').textContent='카메라가 중지됐어요.';$('camStatus').style.color='';});
+window.addEventListener('pagehide',stopCamera);
+(function initCameraSupport(){
+  if(!('BarcodeDetector' in window)){
+    $('camStartBtn').style.display='none';
+    $('camStatus').textContent=CAM_FALLBACK;
+  }
+})();
+</script>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Install App';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Install this app: tap the Share button, then choose "Add to Home Screen".');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
+</body></html>

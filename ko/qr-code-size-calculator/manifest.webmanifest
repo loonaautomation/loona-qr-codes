@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR 코드 크기 계산기",
+  "short_name": "QR 코드 크기 계산기",
+  "description": "무료 QR 코드 크기 계산기예요. 스캔 거리와 내용 유형을 입력하면 최소 인쇄 크기를 cm로, 권장 PNG 해상도와 퀴엣 존 너비를 받아요.",
+  "id": "/loona-qr-codes/ko/qr-code-size-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

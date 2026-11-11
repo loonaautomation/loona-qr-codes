@@ -1,0 +1,29 @@
+{
+  "name": "Loona 모든 QR 코드 및 바코드 생성기",
+  "short_name": "모든 QR 코드 및 바코드",
+  "description": "전체 Loona QR 라이브러리: 바코드 생성기(Code 128, EAN-13, UPC, Data Matrix, PDF417), 결제 QR 코드(SEPA, UPI, 암호화폐, Venmo), 산업 사용 사례, 인쇄 도구예요.",
+  "id": "/loona-qr-codes/ko/qr-code-generators/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

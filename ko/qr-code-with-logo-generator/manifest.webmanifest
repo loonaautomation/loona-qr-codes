@@ -1,0 +1,29 @@
+{
+  "name": "Loona 로고 있는 QR 코드 생성기",
+  "short_name": "로고 포함 QR 코드 생성기",
+  "description": "무료 로고 있는 QR 코드 생성기예요. 오류 정정 레벨 H로 QR 코드 중앙에 로고를 더하고, 맞춤 색상, 1024px PNG 다운로드, 워터마크 없음이에요.",
+  "id": "/loona-qr-codes/ko/qr-code-with-logo-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona JazzCash / EasyPaisa QR 코드 (파키스탄)",
+  "short_name": "JazzCash / EasyPaisa QR 코드",
+  "description": "파키스탄용 무료 JazzCash 또는 EasyPaisa QR 코드를 만드세요 — 가입 없음, 워터마크 없음, 절대 만료되지 않아요. 맞춤 색상과 고해상도 PNG 다운로드예요.",
+  "id": "/loona-qr-codes/ko/jazzcash-easypaisa-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

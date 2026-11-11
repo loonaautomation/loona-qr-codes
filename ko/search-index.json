@@ -1,0 +1,344 @@
+[
+ {
+  "n": "URL / 웹사이트 QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/url-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "모든 웹사이트 링크를 QR 코드로 바꾸세요.",
+  "k": "url website qr code generator url qr code generator qr",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "일반 텍스트 QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/text-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "어떤 텍스트, 코드, 메시지를 QR 코드 안에 넣으세요.",
+  "k": "plain text qr code generator text qr code generator qr",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "WiFi QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/wifi-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "손님이 한 번의 스캔으로 WiFi에 연결해요. 비밀번호 입력이 필요 없어요.",
+  "k": "wifi qr code generator wifi qr code generator wifi",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "WhatsApp QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/whatsapp-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "번호를 저장하지 않고 스캔 한 번으로 WhatsApp 채팅을 시작하세요.",
+  "k": "whatsapp qr code generator whatsapp qr code generator whatsapp",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "vCard 연락처 QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/vcard-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "스캔해서 전체 연락처 카드를 휴대폰에 저장하세요.",
+  "k": "vcard contact qr code generator vcard qr code generator",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "이메일 QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/email-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "스캔해서 보낼 준비가 된, 주소가 미리 적힌 이메일을 여세요.",
+  "k": "email qr code generator email qr code generator",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "SMS QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/sms-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "스캔해서 미리 작성된 문자 메시지를 여세요.",
+  "k": "sms qr code generator sms qr code generator",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "전화 통화 QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/phone-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "스캔해서 회원님의 번호로 즉시 전화하세요.",
+  "k": "phone call qr code generator phone qr code generator",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "Instagram QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/instagram-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "스캔-팔로우 Instagram QR로 팔로워를 늘리세요.",
+  "k": "instagram qr code generator instagram qr code generator instagram qr",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Facebook QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/facebook-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "사람들을 Facebook 페이지로 바로 보내세요.",
+  "k": "facebook qr code generator facebook qr code generator facebook",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "YouTube QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/youtube-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "스캔해서 동영상이나 채널을 즉시 여세요.",
+  "k": "youtube qr code generator youtube qr code generator",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "TikTok QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/tiktok-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "스캔해서 회원님의 TikTok 프로필을 여세요.",
+  "k": "tiktok qr code generator tiktok qr code generator tiktok",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "X (Twitter) QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/x-twitter-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "스캔해서 회원님의 X 프로필을 여세요.",
+  "k": "x twitter qr code generator x twitter qr code generator x",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "LinkedIn QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/linkedin-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "한 번의 스캔으로 전문가답게 연결하세요.",
+  "k": "linkedin qr code generator linkedin qr code generator",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Telegram QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/telegram-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "스캔해서 회원님의 Telegram 프로필, 그룹, 채널에 참여하세요.",
+  "k": "telegram qr code generator telegram qr code generator telegram",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Snapchat QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/snapchat-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "스캔해서 Snapchat에서 회원님을 추가하세요.",
+  "k": "snapchat qr code generator snapchat qr code generator snapchat",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Google 지도 위치 QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/google-maps-location-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "스캔해서 회원님의 장소로 길찾기를 받으세요.",
+  "k": "google maps location qr code generator google maps location qr code generator",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Google 리뷰 QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/google-review-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "만족한 고객이 몇 초 만에 Google 리뷰를 남겨요.",
+  "k": "google review qr code generator google review qr code generator google",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "레스토랑 메뉴 QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/restaurant-menu-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "모든 테이블의 비대면 메뉴예요.",
+  "k": "restaurant menu qr code generator restaurant menu qr code generator",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/pdf-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "스캔해서 PDF 파일을 열거나 다운로드하세요.",
+  "k": "pdf qr code generator pdf qr code generator pdf",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "App Store / Google Play QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/app-store-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "스캔해서 앱을 설치하세요.",
+  "k": "app store google play qr code generator app store qr code generator",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Google Form QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/google-form-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "스캔해서 Google Form을 열고 작성하세요.",
+  "k": "google form qr code generator google form qr code generator google form",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Zoom / 회의 QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/zoom-meeting-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "스캔해서 회의나 수업에 참여하세요.",
+  "k": "zoom meeting qr code generator zoom meeting qr code generator",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "행사 / 캘린더 QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/event-calendar-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "스캔해서 행사를 캘린더에 저장하세요.",
+  "k": "event calendar qr code generator event calendar qr code generator",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "PayPal QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/paypal-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "결제 받으세요: 스캔해서 PayPal.me 페이지를 여세요.",
+  "k": "paypal qr code generator paypal qr code generator paypal me",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "UPI 결제 QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/upi-payment-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "인도와 UPI 지역의 가게를 위한 UPI 결제 QR이에요.",
+  "k": "upi payment qr code generator upi payment qr code generator upi upi qr",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "JazzCash / EasyPaisa QR 코드 (파키스탄) 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/jazzcash-easypaisa-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "JazzCash나 EasyPaisa 계정 세부 정보를 QR로 공유하세요.",
+  "k": "jazzcash easypaisa qr code pakistan generator jazzcash easypaisa qr code generator jazzcash easypaisa qr",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Bitcoin / 암호화폐 QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/bitcoin-crypto-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Bitcoin 지갑 주소를 QR로 공유하세요.",
+  "k": "bitcoin crypto qr code generator bitcoin crypto qr code generator bitcoin qr",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Spotify / 음악 QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/spotify-music-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "스캔해서 노래, 재생목록, 팟캐스트를 재생하세요.",
+  "k": "spotify music qr code generator spotify music qr code generator",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "이력서 / 포트폴리오 QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/resume-portfolio-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "이력서나 포트폴리오를 스캔 한 번 거리로 두세요.",
+  "k": "resume portfolio qr code generator resume portfolio qr code generator",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "이미지 QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/image-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "스캔해서 사진이나 이미지 링크를 열거나 공유하세요.",
+  "k": "image qr code generator image qr code generator",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "오디오 QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/audio-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "스캔해서 노래, 음성 메모, 오디오 파일을 재생하세요.",
+  "k": "audio qr code generator audio qr code generator",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "소셜 미디어 QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/social-media-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "소셜 미디어 프로필 링크용 QR 코드 하나예요.",
+  "k": "social media qr code generator social media qr code generator qr",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Pinterest QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/pinterest-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "스캔해서 회원님의 Pinterest 프로필이나 보드를 여세요.",
+  "k": "pinterest qr code generator pinterest qr code generator pinterest",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Discord QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/discord-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "스캔해서 회원님의 Discord 서버나 프로필에 참여하세요.",
+  "k": "discord qr code generator discord qr code generator discord",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "GitHub QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/github-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "스캔해서 회원님의 GitHub 프로필이나 저장소를 여세요.",
+  "k": "github qr code generator github qr code generator github",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "QR 코드 및 바코드 스캐너",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/qr-code-scanner/",
+  "s": "Loona QR Codes",
+  "d": "카메라로 코드를 스캔하거나, 사진이나 스크린샷에서 QR 코드와 바코드를 디코딩하세요.",
+  "k": "qr code barcode scanner qr code scanner qr",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "대량 QR 코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/bulk-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "인쇄용 시트에 라벨이 있는 QR 코드를 한 번에 최대 100개 만드세요.",
+  "k": "bulk qr code generator bulk qr code generator qr 100",
+  "p": 137,
+  "c": "Tool"
+ }
+]

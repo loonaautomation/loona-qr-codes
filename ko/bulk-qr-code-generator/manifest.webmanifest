@@ -1,0 +1,29 @@
+{
+  "name": "Loona 대량 QR 코드 생성기",
+  "short_name": "대량 QR 코드 생성기",
+  "description": "한 번에 최대 100개의 QR 코드를 무료로 만드세요: 링크와 텍스트 목록을 붙여 넣거나 CSV를 업로드하면, 라벨이 있는 인쇄용 QR 코드 시트를 받아요. 가입 없음, 워터마크 없음, 절대 만료 없음, 브라우저에서 100% 비공개예요.",
+  "id": "/loona-qr-codes/ko/bulk-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR Codes",
+  "short_name": "Loona QR Codes",
+  "description": "URL, WiFi, WhatsApp, vCard, 결제용 무료 QR 코드를 만드세요 - QR 코드 유형 37개와 무료 QR 및 바코드 스캐너와 대량 생성기, 만료 없음, 가입 없음, 워터마크 없음.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-qr-codes/ko/"
+}
