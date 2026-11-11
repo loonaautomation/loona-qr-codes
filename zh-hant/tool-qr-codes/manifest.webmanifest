@@ -1,0 +1,29 @@
+{
+  "name": "適用於全部 Loona 工具的 Loona 二維碼",
+  "short_name": "全部 Loona 工具的二維碼",
+  "description": "為任何 Loona 工具獲取免費的現成二維碼 — 955 個計算器、PDF 工具、圖片工具、學習工具和應用。選擇一個工具，下載其二維碼為高解析度 PNG 並列印。無需註冊，無水印，永不過期。",
+  "id": "/loona-qr-codes/zh-hant/tool-qr-codes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

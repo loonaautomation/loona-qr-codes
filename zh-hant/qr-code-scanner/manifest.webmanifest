@@ -1,0 +1,29 @@
+{
+  "name": "Loona 二維碼和條形碼掃描器",
+  "short_name": "二維碼和條形碼掃描器",
+  "description": "用 Loona 免費線上掃描二維碼和條形碼：使用您的攝像頭或上傳照片或截圖。解碼 URL、WiFi、vCard 聯絡人、EAN-13、UPC-A、Code 128 和 Code 39。100% 私密 — 一切都在您的裝置上解碼，不上傳任何東西。",
+  "id": "/loona-qr-codes/zh-hant/qr-code-scanner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

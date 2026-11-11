@@ -1,0 +1,344 @@
+[
+ {
+  "n": "URL / 網站二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/url-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "將任何網站連結轉化為二維碼。",
+  "k": "url website qr code generator url qr code generator",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "純文字二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/text-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "將任何文字、程式碼或訊息放在二維碼內。",
+  "k": "plain text qr code generator text qr code generator",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "WiFi 二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/wifi-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "客人一次掃碼連線 WiFi，無需輸入密碼。",
+  "k": "wifi qr code generator wifi qr code generator wifi",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "WhatsApp 二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/whatsapp-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "一次掃碼開始 WhatsApp 聊天，無需儲存號碼。",
+  "k": "whatsapp qr code generator whatsapp qr code generator whatsapp",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "vCard 聯絡人二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/vcard-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "掃碼將您的完整聯絡人卡片儲存到手機。",
+  "k": "vcard contact qr code generator vcard qr code generator",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "電子郵件二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/email-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "掃碼開啟預先填寫地址的電子郵件，準備傳送。",
+  "k": "email qr code generator email qr code generator",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "SMS 二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/sms-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "掃碼開啟預先寫好的簡訊。",
+  "k": "sms qr code generator sms qr code generator",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "電話二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/phone-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "掃碼立即撥打您的號碼。",
+  "k": "phone call qr code generator phone qr code generator",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "Instagram 二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/instagram-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "用掃碼關注的 Instagram 二維碼增長關注者。",
+  "k": "instagram qr code generator instagram qr code generator instagram",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Facebook 二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/facebook-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "將人們直接傳送到您的 Facebook 頁面。",
+  "k": "facebook qr code generator facebook qr code generator facebook",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "YouTube 二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/youtube-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "掃碼立即開啟影片或頻道。",
+  "k": "youtube qr code generator youtube qr code generator",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "TikTok 二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/tiktok-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "掃碼開啟您的 TikTok 資料。",
+  "k": "tiktok qr code generator tiktok qr code generator tiktok",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "X (Twitter) 二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/x-twitter-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "掃碼開啟您的 X 資料。",
+  "k": "x twitter qr code generator x twitter qr code generator x",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "LinkedIn 二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/linkedin-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "一次掃碼，專業連線。",
+  "k": "linkedin qr code generator linkedin qr code generator",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Telegram 二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/telegram-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "掃碼加入您的 Telegram 資料、群組或頻道。",
+  "k": "telegram qr code generator telegram qr code generator telegram",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Snapchat 二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/snapchat-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "掃碼在 Snapchat 上新增您。",
+  "k": "snapchat qr code generator snapchat qr code generator snapchat",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Google 地圖位置二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/google-maps-location-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "掃碼獲取到您地點的路線。",
+  "k": "google maps location qr code generator google maps location qr code generator",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Google 評價二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/google-review-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "滿意的顧客在幾秒鐘內留下 Google 評價。",
+  "k": "google review qr code generator google review qr code generator google",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "餐廳選單二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/restaurant-menu-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "每張桌子上的無接觸選單。",
+  "k": "restaurant menu qr code generator restaurant menu qr code generator",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF 二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/pdf-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "掃碼開啟或下載 PDF 檔案。",
+  "k": "pdf qr code generator pdf qr code generator pdf",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "App Store / Google Play 二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/app-store-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "掃碼安裝您的應用。",
+  "k": "app store google play qr code generator app store qr code generator",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Google 表單二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/google-form-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "掃碼開啟並填寫 Google 表單。",
+  "k": "google form qr code generator google form qr code generator google",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Zoom / 會議二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/zoom-meeting-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "掃碼加入會議或課堂。",
+  "k": "zoom meeting qr code generator zoom meeting qr code generator",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "活動 / 日曆二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/event-calendar-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "掃碼將活動儲存到日曆。",
+  "k": "event calendar qr code generator event calendar qr code generator",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "PayPal 二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/paypal-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "獲得付款：掃碼開啟您的 PayPal.me 頁面。",
+  "k": "paypal qr code generator paypal qr code generator paypal me",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "UPI 付款二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/upi-payment-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "印度和 UPI 地區商店的 UPI 付款二維碼。",
+  "k": "upi payment qr code generator upi payment qr code generator upi upi",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "JazzCash / EasyPaisa 二維碼（巴基斯坦）生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/jazzcash-easypaisa-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "以二維碼形式分享您的 JazzCash 或 EasyPaisa 賬戶詳情。",
+  "k": "jazzcash easypaisa qr code pakistan generator jazzcash easypaisa qr code generator jazzcash easypaisa",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Bitcoin / Crypto 二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/bitcoin-crypto-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "以二維碼形式分享 Bitcoin 錢包地址。",
+  "k": "bitcoin crypto qr code generator bitcoin crypto qr code generator bitcoin",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Spotify / 音樂二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/spotify-music-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "掃碼播放歌曲、播放列表或播客。",
+  "k": "spotify music qr code generator spotify music qr code generator",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "簡歷 / 作品集二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/resume-portfolio-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "讓您的簡歷或作品集只需一次掃碼。",
+  "k": "resume portfolio qr code generator resume portfolio qr code generator",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "圖片二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/image-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "掃碼開啟或分享照片或圖片連結。",
+  "k": "image qr code generator image qr code generator",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "音訊二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/audio-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "掃碼播放歌曲、語音筆記或音訊檔案。",
+  "k": "audio qr code generator audio qr code generator",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "社交媒體二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/social-media-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "一個二維碼，用於您的社交媒體資料連結。",
+  "k": "social media qr code generator social media qr code generator",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Pinterest 二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/pinterest-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "掃碼開啟您的 Pinterest 資料或畫板。",
+  "k": "pinterest qr code generator pinterest qr code generator pinterest",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Discord 二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/discord-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "掃碼加入您的 Discord 伺服器或資料。",
+  "k": "discord qr code generator discord qr code generator discord",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "GitHub 二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/github-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "掃碼開啟您的 GitHub 資料或倉庫。",
+  "k": "github qr code generator github qr code generator github",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "二維碼和條形碼掃描器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/qr-code-scanner/",
+  "s": "Loona QR Codes",
+  "d": "用攝像頭掃描條碼，或從照片或截圖中解碼二維碼和條形碼。",
+  "k": "qr code barcode scanner qr code scanner",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "批次二維碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/bulk-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "一次在可列印表中建立最多 100 個帶標籤的二維碼。",
+  "k": "bulk qr code generator bulk qr code generator 100",
+  "p": 137,
+  "c": "Tool"
+ }
+]

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 帶標誌二維碼生成器",
+  "short_name": "帶標誌的二維碼生成器",
+  "description": "免費帶標誌二維碼生成器：將您的標誌新增到二維碼中央，糾錯等級 H，自定義顏色，1024px PNG 下載，無水印。",
+  "id": "/loona-qr-codes/zh-hant/qr-code-with-logo-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

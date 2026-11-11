@@ -1,0 +1,29 @@
+{
+  "name": "Loona 全部二維碼和條形碼生成器",
+  "short_name": "全部二維碼和條形碼",
+  "description": "完整的 Loona 二維碼庫：條形碼生成器（Code 128、EAN-13、UPC、Data Matrix、PDF417）、付款二維碼（SEPA、UPI、加密貨幣、Venmo）、行業用例和列印工具。",
+  "id": "/loona-qr-codes/zh-hant/qr-code-generators/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

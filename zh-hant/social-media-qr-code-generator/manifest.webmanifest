@@ -1,0 +1,29 @@
+{
+  "name": "Loona 社交媒體二維碼生成器",
+  "short_name": "社交媒體二維碼生成器",
+  "description": "用 Loona 立即建立一個免費的社交媒體二維碼。無需註冊，無水印，永不過期。選擇一個平台，新增您的使用者名稱，一次掃碼即可開啟您的個人資料。自定義顏色，高解析度 PNG 下載。",
+  "id": "/loona-qr-codes/zh-hant/social-media-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

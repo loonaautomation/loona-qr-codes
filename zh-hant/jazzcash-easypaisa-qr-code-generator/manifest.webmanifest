@@ -1,0 +1,29 @@
+{
+  "name": "Loona JazzCash / EasyPaisa 二維碼（巴基斯坦）",
+  "short_name": "JazzCash / EasyPaisa 二維碼",
+  "description": "為巴基斯坦建立一個免費的 JazzCash 或 EasyPaisa 二維碼 — 無需註冊，無水印，永不過期。自定義顏色和高解析度 PNG 下載。",
+  "id": "/loona-qr-codes/zh-hant/jazzcash-easypaisa-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

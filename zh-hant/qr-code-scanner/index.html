@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="zh-Hant"><head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>二維碼和條形碼掃描器 – 免費線上掃描器（攝像頭和圖片）| Loona 二維碼</title><meta name="description" content="用 Loona 免費線上掃描二維碼和條形碼：使用您的攝像頭或上傳照片或截圖。解碼 URL、WiFi、vCard 聯絡人、EAN-13、UPC-A、Code 128 和 Code 39。100% 私密 — 一切都在您的裝置上解碼，不上傳任何東西。">
+<link rel="canonical" href="https://loonaautomation.github.io/loona-qr-codes/zh-hant/qr-code-scanner/"><link rel="alternate" hreflang="en" href="https://loonaautomation.github.io/loona-qr-codes/qr-code-scanner/"><link rel="alternate" hreflang="es" href="https://loonaautomation.github.io/loona-qr-codes/es/qr-code-scanner/"><link rel="alternate" hreflang="de" href="https://loonaautomation.github.io/loona-qr-codes/de/qr-code-scanner/"><link rel="alternate" hreflang="fr" href="https://loonaautomation.github.io/loona-qr-codes/fr/qr-code-scanner/"><link rel="alternate" hreflang="pt" href="https://loonaautomation.github.io/loona-qr-codes/pt/qr-code-scanner/"><link rel="alternate" hreflang="it" href="https://loonaautomation.github.io/loona-qr-codes/it/qr-code-scanner/"><link rel="alternate" hreflang="nl" href="https://loonaautomation.github.io/loona-qr-codes/nl/qr-code-scanner/"><link rel="alternate" hreflang="ar" href="https://loonaautomation.github.io/loona-qr-codes/ar/qr-code-scanner/"><link rel="alternate" hreflang="ur" href="https://loonaautomation.github.io/loona-qr-codes/ur/qr-code-scanner/"><link rel="alternate" hreflang="tr" href="https://loonaautomation.github.io/loona-qr-codes/tr/qr-code-scanner/"><link rel="alternate" hreflang="ru" href="https://loonaautomation.github.io/loona-qr-codes/ru/qr-code-scanner/"><link rel="alternate" hreflang="bn" href="https://loonaautomation.github.io/loona-qr-codes/bn/qr-code-scanner/"><link rel="alternate" hreflang="zh" href="https://loonaautomation.github.io/loona-qr-codes/zh/qr-code-scanner/"><link rel="alternate" hreflang="zh-Hant" href="https://loonaautomation.github.io/loona-qr-codes/zh-hant/qr-code-scanner/"><link rel="alternate" hreflang="x-default" href="https://loonaautomation.github.io/loona-qr-codes/qr-code-scanner/">
+<meta property="og:title" content="二維碼和條形碼掃描器 – 免費線上掃描器 | Loona 二維碼"><meta property="og:description" content="用攝像頭掃描二維碼或條形碼，或從照片或截圖中解碼一個。免費，無需註冊，100% 私密的裝置上解碼。"><meta property="og:type" content="website"><meta property="og:url" content="https://loonaautomation.github.io/loona-qr-codes/zh-hant/qr-code-scanner/"><meta property="og:locale" content="zh_TW"><meta property="og:site_name" content="Loona QR Codes">
+<meta name="twitter:card" content="summary"><meta name="robots" content="index, follow">
+<link rel="stylesheet" href="../../assets/style.css">
+<style>
+.scan-video{width:100%;max-width:520px;background:#000;border-radius:10px;display:none;margin:0 auto}
+.drop{border:2px dashed #c9a227;border-radius:12px;padding:26px 16px;text-align:center;background:#fdfaf1;cursor:pointer}
+.drop.drag{background:#f5eeda;border-color:#0b3a42}
+.result-box{background:#f5f3ff;border:1px solid #e6e1f5;border-radius:10px;padding:14px;text-align:left;word-break:break-word}
+.result-box pre{white-space:pre-wrap;word-break:break-word;background:#fff;border:1px solid #e6e1f5;border-radius:8px;padding:10px;font-size:.92rem;max-height:220px;overflow:auto}
+.hist{list-style:none;padding:0;margin:10px 0;text-align:left}
+.hist li{border-bottom:1px solid #eee;padding:8px 2px;font-size:.92rem;word-break:break-word}
+.mode-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px}@media(max-width:800px){.mode-grid{grid-template-columns:1fr}}
+</style>
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "二維碼和條形碼掃描器 – 免費線上掃描器",
+  "url": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/qr-code-scanner/",
+  "applicationCategory": "UtilitiesApplication",
+  "operatingSystem": "Any (Web Browser)",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Loona Automation",
+    "url": "https://loonaautomation.github.io/"
+  }
+}</script>
+<link rel="icon" type="image/svg+xml" href="../../assets/favicon.svg"><meta name="theme-color" content="#07272e"><meta property="og:image" content="https://loonaautomation.github.io/loona-qr-codes/assets/og-image.png"><link rel="icon" type="image/png" sizes="32x32" href="../../assets/favicon-32.png"><link rel="apple-touch-icon" href="../../assets/apple-touch-icon.png"><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-5L43M13ZYT');
+</script>
+<script type="text/javascript">
+(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window, document, "clarity", "script", "z599jkwoy9");
+</script>
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Loona Automation",
+      "item": "https://loonaautomation.github.io/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Loona 二維碼",
+      "item": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "二維碼和條形碼掃描器 – 免費線上掃描器",
+      "item": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/qr-code-scanner/"
+    }
+  ]
+}</script>
+<link rel="manifest" href="manifest.webmanifest">
+</head>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"此二維碼和條形碼掃描器是免費的嗎？","acceptedAnswer":{"@type":"Answer","text":"是的。Loona 的掃描器是完全免費的，無需註冊，無水印，無您掃描條碼數量的限制，用於個人或商業用途。"}},{"@type":"Question","name":"我的攝像頭影片或照片在此掃描器頁面上私密嗎？","acceptedAnswer":{"@type":"Answer","text":"是的。一切都在您自己的裝置上、在瀏覽器內解碼。攝像頭幀從不傳送到任何地方，上傳的圖片從不傳送到伺服器 — 檔案在本地讀取、本地解碼，您的掃描歷史僅儲存在此頁面的記憶體中，關閉標籤頁時消失。"}},{"@type":"Question","name":"為什麼攝像頭掃描在我的瀏覽器中不起作用？","acceptedAnswer":{"@type":"Answer","text":"實時攝像頭掃描使用內建於 Chrome、Edge 和大多數 Android 瀏覽器的 BarcodeDetector 技術。Safari 和 Firefox 尚未包含它，因此在這些瀏覽器上，攝像頭按鈕會被一條訊息取代，要求您改用圖片上傳 — 上傳照片或截圖在每個現代瀏覽器中都可以。"}},{"@type":"Question","name":"此掃描器可以從照片中讀取條形碼嗎？","acceptedAnswer":{"@type":"Answer","text":"是的。上傳模式用 jsQR 庫從圖片解碼二維碼，用 ZXing 庫從圖片解碼條形碼 — 包括 EAN-13、UPC-A、Code 128 和 Code 39 — 以及 ZXing 找到而 jsQR 遺漏的二維碼。照片中非常小、模糊、損壞或低對比度的二維碼仍可能失敗；更清晰、更近的照片通常可以修復它。"}},{"@type":"Question","name":"此掃描器可以讀取什麼型別的條碼？","acceptedAnswer":{"@type":"Answer","text":"攝像頭掃描（在受支援的情況下）讀取二維碼以及您瀏覽器的 BarcodeDetector 提供的條形碼格式，通常是 EAN-13、EAN-8、UPC-A、UPC-E、Code 128、Code 39、Code 93、Codabar 和 ITF。圖片上傳讀取二維碼和 EAN-13、UPC-A、Code 128、Code 39 條形碼，並向您顯示解碼後的型別、原始內容和智慧操作，如開啟連結或儲存聯絡人。"}}]}</script>
+<body><header class="site"><div class="wrap nav"><a class="logo" href="../"><img class="logo-img" src="../../assets/logo.jpg" alt="Loona Automation 標誌" width="44" height="44">Loona <span>二維碼</span></a>
+<nav><a href="../">首頁</a><a href="../#all-tools">全部工具</a><a href="../about.html">關於</a><a href="../contact.html">聯絡</a></nav></div></header>
+<main class="wrap"><div class="hero"><h1>免費二維碼 &amp; 條形碼掃描器</h1><p>將攝像頭對準二維碼或條形碼，或放入照片或截圖 — 條碼就在此裝置上解碼。無需註冊，無需安裝應用，您掃描的任何東西從不上傳。您還可以一次批次解碼許多條碼圖片，並將結果匯出為 CSV 檔案。</p></div>
+<div class="card"><div class="mode-grid"><div>
+<h2 style="margin-top:0">用攝像頭掃描</h2>
+<p class="small">實時攝像頭掃描使用內建於 Chrome、Edge 和大多數 Android 瀏覽器的快速 BarcodeDetector，並讀取二維碼和常見條形碼（EAN-13、UPC-A、Code 128、Code 39 等，具體取決於您的瀏覽器）。</p>
+<p><button class="btn" id="camStartBtn" type="button">開始攝像頭掃描</button> <button class="btn secondary" id="camStopBtn" type="button" style="display:none">停止攝像頭</button></p>
+<video id="camVideo" class="scan-video" playsinline muted></video>
+<p id="camStatus" class="small" role="status"></p>
+<p class="note">隱私：攝像頭幀僅在此裝置上處理，從不離開您的瀏覽器。沒有影片被記錄、傳送或儲存。</p>
+</div>
+<div>
+<h2 style="margin-top:0">從圖片掃描</h2>
+<p class="small">上傳照片，在此處放入圖片檔案，或貼上截圖 (Ctrl+V / Cmd+V)。圖片中的二維碼用 jsQR 解碼，圖片中的條形碼用 ZXing 解碼 — 包括 EAN-13、UPC-A、Code 128 和 Code 39。</p>
+<div class="drop" id="dropZone" tabindex="0" role="button" aria-label="上傳包含二維碼或條形碼的圖片">
+<p style="margin:0"><strong>將圖片拖放到此處</strong> 或點選選擇檔案</p>
+<p class="small" style="margin:6px 0 0">PNG、JPG、WebP 和其他瀏覽器可讀圖片</p>
+</div>
+<input type="file" id="fileInput" accept="image/*" style="display:none">
+<p id="uploadStatus" class="small" role="status"></p>
+<p class="note">100% 私密：圖片在您的瀏覽器內讀取和解碼，絕不會上傳到任何伺服器。</p>
+</div></div></div>
+
+<div class="card" id="resultCard" style="display:none"><h2 style="margin-top:0">掃描結果</h2>
+<div class="result-box">
+<p style="margin:0 0 6px"><strong>型別：</strong> <span id="resType"></span> &nbsp; <strong>格式：</strong> <span id="resFormat"></span></p>
+<p style="margin:0 0 6px"><strong>解碼器詳情：</strong> <span id="resDetails"></span> <span class="small">（當解碼器報告時，會顯示二維碼版本和資料模式；糾錯等級和掩模圖案不會被這些解碼器公開，也絕不會憑猜測給出。）</span></p>
+<div id="resParsed"></div>
+<p style="margin:10px 0 4px"><strong>原始內容：</strong></p>
+<pre id="resRaw"></pre>
+<p id="resActions" style="margin:10px 0 0"></p>
+</div>
+<h3>掃描歷史（僅此會話）</h3>
+<ul class="hist" id="historyList"></ul>
+<p><button class="btn secondary" id="clearHistoryBtn" type="button">清除歷史記錄</button></p>
+<p class="small">歷史記錄僅存在於此頁面的記憶體中 — 關閉標籤頁，它就會消失。沒有任何內容被儲存或傳送到任何地方。</p>
+</div>
+
+<div class="card" id="batchCard"><h2 style="margin-top:0">批次解碼 — 一次多張條碼圖片</h2>
+<p class="small">有一整套條碼照片要檢查 — 一張列印表、一個產品照片資料夾、一套課堂截圖？一次選擇或拖放多張圖片：每一張都用與上面相同的 jsQR 和 ZXing 解碼器解碼，結果彙總在一張表格中，您可以將表格匯出為 CSV 檔案。不包含可讀條碼的檔案會被誠實地列為“未解碼”。</p>
+<div class="drop" id="batchDrop" tabindex="0" role="button" aria-label="上傳多張包含二維碼或條形碼的圖片">
+<p style="margin:0"><strong>將多張圖片拖放到此處</strong> 或點選選擇檔案</p>
+<p class="small" style="margin:6px 0 0">PNG、JPG、WebP 和其他瀏覽器可讀圖片 — 在此裝置上逐個解碼</p>
+</div>
+<input type="file" id="batchInput" accept="image/*" multiple style="display:none">
+<p id="batchStatus" class="small" role="status"></p>
+<div id="batchWrap" style="display:none;overflow-x:auto">
+<table style="width:100%;border-collapse:collapse;font-size:.92rem">
+<thead><tr><th style="text-align:left;border-bottom:2px solid #e6e1f5;padding:6px">檔名</th><th style="text-align:left;border-bottom:2px solid #e6e1f5;padding:6px">格式</th><th style="text-align:left;border-bottom:2px solid #e6e1f5;padding:6px">型別</th><th style="text-align:left;border-bottom:2px solid #e6e1f5;padding:6px">解碼後的文字</th></tr></thead>
+<tbody id="batchBody"></tbody>
+</table>
+</div>
+<p><button class="btn" id="batchCsvBtn" type="button" style="display:none">將結果匯出為 CSV</button> <button class="btn secondary" id="batchClearBtn" type="button" style="display:none">清除批次</button></p>
+<p class="note">100% 私密：批次解碼同樣完全在您的瀏覽器內進行。批次中的任何圖片都不會被上傳，點選匯出時，CSV 會在您的裝置上建立。</p>
+</div>
+
+<section class="content">
+<h2>如何分 3 步掃描二維碼或條形碼</h2>
+<ol><li><strong>選擇攝像頭或圖片。</strong> 在 Chrome、Edge 或 Android 上，點選“開始攝像頭掃描”，允許攝像頭訪問，並將二維碼保持在框內。在任何瀏覽器上 — 包括 Safari 和 Firefox — 您可以改為上傳照片、拖入圖片或貼上截圖。</li>
+<li><strong>等待片刻進行解碼。</strong> 掃描器讀取您裝置上的圖案，並顯示解碼的型別、格式和原始內容。對於照片，條碼的清晰、近距離、光線良好的圖片掃描最快。</li><li><strong>使用智慧操作。</strong> 開啟解碼的連結，顯示 WiFi 網路名稱和密碼，從 vCard 條碼下載聯絡人卡片 (.vcf)，撥打號碼，或一鍵複製原始文字。每次掃描都會新增到您此會話的頁面歷史記錄中。</li></ol>
+<h2>關於此二維碼和條形碼掃描器</h2>
+<p>大多數二維碼網站只 <em>製作</em> 二維碼。此頁面做相反的工作：它讀取它們。當列印的二維碼沒有可讀標籤時，當同事向您傳送二維碼的截圖而不是其中的連結時，當您想在大批次列印之前檢查您自己的列印二維碼實際包含什麼時，或當產品條形碼號碼必須從照片中讀取時，這正是您需要的。</p>
+<p>它以兩種方式工作。攝像頭模式使用內建於現代 Chromium 瀏覽器的 BarcodeDetector 介面 — 與您的手機系統使用的快速、硬體友好的檢測相同 — 並報告二維碼和常見的一維條形碼。圖片模式完全自包含：開源 jsQR 庫從您的圖片畫素中解碼二維碼，開源 ZXing 庫從相同的畫素中解碼條形碼（以及 jsQR 遺漏的任何二維碼）。兩者都完全在您的瀏覽器中執行，這就是為什麼此掃描器可以繼續處理敏感條碼 — WiFi 密碼、付款碼、私人連結 — 這些您永遠不想上傳到陌生人伺服器的東西。</p>
+<h2>此掃描器的最佳用途</h2><ul><li>在批次列印前檢查您自己列印的二維碼</li><li>開啟別人傳送給您的截圖或照片中隱藏在二維碼內的連結</li><li>從 WiFi 二維碼圖片中恢復 WiFi 網路名稱和密碼</li><li>將名片二維碼中的 vCard 聯絡人儲存為 .vcf 檔案</li><li>從產品和標籤照片中讀取 EAN-13、UPC-A、Code 128 和 Code 39 條形碼號碼</li><li>驗證您生成的條形碼掃回確切是您想要的數字</li><li>批次檢查整張列印紙或整個資料夾的條碼照片，並將每個結果匯出為 CSV</li><li>在採取行動之前，檢視 geo: 位置碼背後的座標，或 Bitcoin 或以太坊付款碼背後的地址</li></ul>
+<p>誠實的限制，讓您不會感到意外：攝像頭掃描依賴於 Safari 和 Firefox 尚未推出的瀏覽器功能，因此在這些瀏覽器上只能使用圖片模式 — 頁面會檢測到這一點並直白地告訴您，而不是靜默失敗。而且，沒有解碼器可以讀取照片中太小、模糊、撕裂或對比度太低的條碼；更近、正面、在良好光線下重拍照片可以修復大多數失敗的掃描。</p>
+<h2>常見問題解答</h2><h3>此二維碼和條形碼掃描器是免費的嗎？</h3><p>是的。Loona 的掃描器是完全免費的，無需註冊，無水印，無您掃描條碼數量的限制，用於個人或商業用途。</p><h3>我的攝像頭影片或照片在此掃描器頁面上私密嗎？</h3><p>是的。一切都在您自己的裝置上、在瀏覽器內解碼。攝像頭幀從不傳送到任何地方，上傳的圖片從不傳送到伺服器 — 檔案在本地讀取、本地解碼，您的掃描歷史僅儲存在此頁面的記憶體中，關閉標籤頁時消失。</p><h3>為什麼攝像頭掃描在我的瀏覽器中不起作用？</h3><p>實時攝像頭掃描使用內建於 Chrome、Edge 和大多數 Android 瀏覽器的 BarcodeDetector 技術。Safari 和 Firefox 尚未包含它，因此在這些瀏覽器上，攝像頭按鈕會被一條訊息取代，要求您改用圖片上傳 — 上傳照片或截圖在每個現代瀏覽器中都可以。</p><h3>此掃描器可以從照片中讀取條形碼嗎？</h3><p>是的。上傳模式用 jsQR 庫從圖片解碼二維碼，用 ZXing 庫從圖片解碼條形碼 — 包括 EAN-13、UPC-A、Code 128 和 Code 39 — 以及 ZXing 找到而 jsQR 遺漏的二維碼。照片中非常小、模糊、損壞或低對比度的二維碼仍可能失敗；更清晰、更近的照片通常可以修復它。</p><h3>此掃描器可以讀取什麼型別的條碼？</h3><p>攝像頭掃描（在受支援的情況下）讀取二維碼以及您瀏覽器的 BarcodeDetector 提供的條形碼格式，通常是 EAN-13、EAN-8、UPC-A、UPC-E、Code 128、Code 39、Code 93、Codabar 和 ITF。圖片上傳讀取二維碼和 EAN-13、UPC-A、Code 128、Code 39 條形碼，並向您顯示解碼後的型別、原始內容和智慧操作，如開啟連結或儲存聯絡人。</p>
+<h2>相關二維碼生成器</h2><div class="grid"><div class="tool-card"><a href="../barcode-generator/">條形碼生成器</a><p>建立產品條形碼 — Code 128、EAN-13、UPC 等。然後在這裡將它們掃描回來進行驗證。</p></div><div class="tool-card"><a href="../url-qr-code-generator/">URL / 網站二維碼生成器</a><p>將任何網站連結轉化為二維碼。</p></div><div class="tool-card"><a href="../text-qr-code-generator/">純文字二維碼生成器</a><p>將任何文字、程式碼或訊息放在二維碼內。</p></div><div class="tool-card"><a href="../wifi-qr-code-generator/">WiFi 二維碼生成器</a><p>客人一次掃碼連線 WiFi，無需輸入密碼。</p></div><div class="tool-card"><a href="../vcard-qr-code-generator/">vCard 聯絡人二維碼生成器</a><p>掃碼將您的完整聯絡人卡片儲存到手機。</p></div></div>
+<h2>工作原理</h2>
+<p>二維碼或條形碼只是一個將文字編碼為淺色和深色模組的圖案。解碼是生成的逆過程：在圖片中找到圖案，測量模組，使用條碼內建的冗餘糾正錯誤，並將位元轉化回字元。jsQR 透過定位三個定位方塊並取樣網格來為二維碼做這件事；ZXing 透過掃描條紋上的畫素行並將寬度與 EAN、UPC、Code 128 或 Code 39 規則匹配來為條形碼做這件事，包括驗證零售條形碼的最後校驗位。在攝像頭模式下，您的瀏覽器自己的 BarcodeDetector 在實時影片幀上持續執行相同的工作，直到找到條碼。在批次模式下，相同的兩個圖片解碼器對每個檔案執行一次，每個結果 — 檔名、格式、型別和解碼文字 — 都被收集到一個您可以匯出為 CSV 的表中。</p>
+<p><strong>方法：</strong> 選擇攝像頭或圖片 &rarr; 讓裝置上的解碼器讀取圖案 &rarr; 檢查型別、格式和原始內容 &rarr; 使用智慧操作（開啟、複製、儲存聯絡人）&rarr; 隨時在會話歷史中找到該掃描。</p>
+<h3>例項</h3>
+<p>一位店主用 Loona 的條形碼生成器為新產品生成 EAN-13 條形碼並列印校樣。在訂購一千個標籤之前，她用手機拍下校樣，將照片上傳到此處，掃描器用 ZXing 將條形碼讀回：格式 EAN-13，數字正是她輸入的那個，包含校驗位。她還從聊天中截圖了一位供應商的 WiFi 二維碼，將其貼上到此頁面，jsQR 以純文字形式揭示網路名稱和密碼，她可以將其輸入到沒有攝像頭的膝上型電腦中。</p>
+<h3>常見問題</h3>
+<p><strong>我可以從同一手機上的截圖掃描二維碼嗎？</strong></p>
+<p>是的。將截圖儲存或分享到您的照片應用，然後使用此處的圖片上傳並選擇該截圖。在計算機上，只需複製圖片並用 Ctrl+V（或 Mac 上的 Cmd+V）貼上到此頁面 — 無需儲存檔案。</p>
+<p><strong>結果看起來像 WIFI:T:WPA;S:… — 那是什麼意思？</strong></p>
+<p>那是 WiFi 二維碼內部的標準原始格式：T 是安全型別，S 是網路名稱 (SSID)，P 是密碼。此頁面還在原始內容上方單獨顯示這三個值，因此您不必自己挑選它們。</p>
+<p><strong>我如何將掃描的聯絡人新增到我的手機？</strong></p>
+<p>當掃描是 vCard 時，出現“下載聯絡人 (.vcf)”操作。下載檔案並開啟它 — 手機和電腦提供將其儲存為聯絡人，姓名、組織、電話、電子郵件和網站已填寫。</p>
+<p><strong>為什麼我的照片沒有解碼？</strong></p>
+<p>通常的原因是二維碼在一張大照片中很小、模糊、眩光、撕裂或低對比度的列印件，或截圖在二維碼周圍裁剪得太緊（解碼器需要二維碼周圍的白色靜區）。寬鬆裁剪，近距離、正面重新拍照，然後再試一次。</p>
+<p><strong>我應該信任在公共場合找到的二維碼嗎？</strong></p>
+<p>先在這裡掃描，而不是用自動開啟結果的應用：此頁面只 <em>顯示</em> 向您展示解碼的內容，從不自己開啟任何東西。在點選“開啟連結”之前，檢查連結是否真的指向其標籤承諾的地方 — 這一個習慣可以擊敗大多數貼紙覆蓋真實二維碼的詐騙。</p>
+<div id="loona-embed" style="max-width:780px;margin:30px auto;padding:24px;background:#fdfaf1;border:1px solid #d9c98a;border-radius:14px;text-align:left">
+<h2 style="margin:0 0 10px;color:#062e2a;font-size:1.35rem;line-height:1.3">將此工具嵌入您的網站 — 免費</h2>
+<p style="margin:0 0 12px;line-height:1.6">將此工具新增到您自己的網站或部落格 — 它完全免費，無需註冊，並且始終顯示最新版本。複製下面的程式碼，並將其貼上到您希望工具出現的頁面位置。保留嵌入下方小小的&ldquo;Powered by Loona Automation&rdquo;署名行有助於保持此工具免費 &mdash; 但您可以自由地設定樣式或將其刪除；無論哪種方式，工具都能工作。</p>
+<textarea id="loonaEmbedCode" readonly rows="4" style="width:100%;box-sizing:border-box;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.8rem;line-height:1.45;padding:12px;border:1px solid #e4ddc8;border-radius:10px;background:#fff;color:#1c2422;resize:vertical">&lt;iframe src="https://loonaautomation.github.io/loona-qr-codes/zh-hant/qr-code-scanner/" width="100%" height="720" style="border:1px solid #e5e7eb;border-radius:12px;max-width:760px" loading="lazy" title="QR Code & Barcode Scanner by Loona"&gt;&lt;/iframe&gt;
+&lt;p style="font-size:13px;font-family:Arial,sans-serif"&gt;由 &lt;a href="https://loonaautomation.github.io/loona-qr-codes/zh-hant/qr-code-scanner/" target="_blank" rel="noopener"&gt;Loona Automation&lt;/a&gt; &mdash; 免費 二維碼和條形碼掃描器&lt;/p&gt;</textarea>
+<p style="margin:10px 0 0"><button type="button" id="loonaEmbedBtn" style="background:#062e2a;color:#fff;border:0;border-radius:8px;padding:10px 18px;font-size:.95rem;font-weight:700;cursor:pointer">複製嵌入程式碼</button></p>
+</div>
+<script>
+(function(){var b=document.getElementById('loonaEmbedBtn'),t=document.getElementById('loonaEmbedCode');if(!b||!t)return;b.addEventListener('click',function(){var done=function(){b.textContent='已複製！';setTimeout(function(){b.textContent='複製嵌入程式碼';},2000);};var fallback=function(){t.removeAttribute('readonly');t.select();try{document.execCommand('copy');}catch(e){}t.setAttribute('readonly','');done();};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t.value).then(done,fallback);}else{fallback();}});})();
+</script>
+</section></main><footer class="site"><div class="wrap"><p><strong>Loona 二維碼</strong> — 免費二維碼生成器 — 無過期、無註冊、無水印。每個二維碼都在您的瀏覽器中私密生成；沒有上傳到伺服器，二維碼永不過期，沒有水印。</p>
+<p><a href="../url-qr-code-generator/">URL / 網站二維碼</a> <a href="../text-qr-code-generator/">純文字二維碼</a> <a href="../wifi-qr-code-generator/">WiFi 二維碼</a> <a href="../whatsapp-qr-code-generator/">WhatsApp 二維碼</a> <a href="../vcard-qr-code-generator/">vCard 聯絡人二維碼</a> <a href="../email-qr-code-generator/">電子郵件二維碼</a> <a href="../sms-qr-code-generator/">SMS 二維碼</a> <a href="../phone-qr-code-generator/">電話二維碼</a> <a href="../instagram-qr-code-generator/">Instagram 二維碼</a> <a href="../facebook-qr-code-generator/">Facebook 二維碼</a></p>
+<p><a href="../about.html">關於</a><a href="../privacy-policy.html">隱私政策</a><a href="../terms.html">條款</a><a href="../disclaimer.html">免責宣告</a><a href="../contact.html">聯絡</a></p>
+<p class="small">聯絡方式： <a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></p>
+<p class="small">掃描器庫：jsQR 和 ZXing (Apache License 2.0)，在您的瀏覽器中本地執行。製作方 <a href="https://github.com/loonaautomation">Loona Automation</a> · © 2026 Loona 二維碼。免費用於個人和商業目的。</p></div></footer>
+<script src="../../assets/jsQR.js"></script>
+<script src="../../assets/zxing.min.js"></script>
+<script>
+/*LOONA-SCAN-CORE-START*/
+function classifyResult(raw){
+  var t=String(raw===null||raw===undefined?'':raw).trim();
+  if(/^BEGIN:VCARD/i.test(t))return 'vCard 聯絡人';
+  if(/^WIFI:/i.test(t))return 'WiFi 網路';
+  if(/^https?:\/\//i.test(t))return '網路連結 (URL)';
+  if(/^mailto:/i.test(t))return 'Email';
+  if(/^tel:/i.test(t))return '電話號碼';
+  if(/^(SMSTO:|sms:)/i.test(t))return 'SMS 訊息';
+  if(/^geo:/i.test(t))return 'Location';
+  if(/^upi:\/\//i.test(t))return 'UPI 付款';
+  if(/^bitcoin:/i.test(t))return 'Bitcoin 地址';
+  if(/^ethereum:/i.test(t))return '加密貨幣付款（以太坊）';
+  if(/^BEGIN:VEVENT/i.test(t))return '日曆活動';
+  if(/^\d{13}$/.test(t))return '條形碼號碼（EAN-13 長度）';
+  if(/^\d{12}$/.test(t))return '條形碼號碼（UPC-A 長度）';
+  if(/^\d{8}$/.test(t))return '條形碼號碼（EAN-8 長度）';
+  if(/^\d+$/.test(t))return '條形碼 / 數字程式碼';
+  return '純文字';
+}
+function splitUnescaped(s,sep){
+  var parts=[],cur='',esc=false;
+  for(var i=0;i<s.length;i++){var ch=s[i];
+    if(esc){cur+=ch;esc=false;continue;}
+    if(ch==='\\'){esc=true;continue;}
+    if(ch===sep){parts.push(cur);cur='';continue;}
+    cur+=ch;}
+  parts.push(cur);return parts;
+}
+function parseWifi(raw){
+  var body=String(raw||'').replace(/^WIFI:/i,'');
+  var out={},parts=splitUnescaped(body,';');
+  for(var i=0;i<parts.length;i++){var idx=parts[i].indexOf(':');if(idx>0){out[parts[i].slice(0,idx).toUpperCase()]=parts[i].slice(idx+1);}}
+  return {ssid:out.S||'',password:out.P||'',encryption:out.T||'',hidden:/^true$/i.test(out.H||'')};
+}
+function parseVCard(raw){
+  var out={phones:[],emails:[]},lines=String(raw||'').split(/\r?\n/);
+  for(var i=0;i<lines.length;i++){var line=lines[i];var idx=line.indexOf(':');if(idx<0)continue;
+    var key=line.slice(0,idx).split(';')[0].toUpperCase(),val=line.slice(idx+1).replace(/\\,/g,',').replace(/\\;/g,';').replace(/\\n/gi,' ');
+    if(key==='FN')out.name=val;else if(key==='ORG')out.org=val;else if(key==='TITLE')out.title=val;
+    else if(key==='TEL')out.phones.push(val);else if(key==='EMAIL')out.emails.push(val);
+    else if(key==='URL')out.url=val;else if(key==='ADR')out.address=val.replace(/;+/g,' ').trim();}
+  return out;
+}
+function prettyFormat(fmt){
+  var map={qr_code:'QR Code',ean_13:'EAN-13',ean_8:'EAN-8',upc_a:'UPC-A',upc_e:'UPC-E',code_128:'Code 128',code_39:'Code 39',code_93:'Code 93',codabar:'Codabar',itf:'ITF',data_matrix:'Data Matrix',aztec:'Aztec',pdf417:'PDF417',QR_CODE:'QR Code',EAN_13:'EAN-13',EAN_8:'EAN-8',UPC_A:'UPC-A',UPC_E:'UPC-E',CODE_128:'Code 128',CODE_39:'Code 39',CODE_93:'Code 93',CODABAR:'Codabar',ITF:'ITF',DATA_MATRIX:'Data Matrix',AZTEC:'Aztec',PDF_417:'PDF417'};
+  return map[fmt]||String(fmt||'QR Code');
+}
+
+function parseQuery(q){
+  var out={};if(!q)return out;
+  var pairs=String(q).split('&');
+  for(var i=0;i<pairs.length;i++){var idx=pairs[i].indexOf('=');if(idx>0){var k=pairs[i].slice(0,idx).toLowerCase(),v=pairs[i].slice(idx+1);try{v=decodeURIComponent(v);}catch(e){}out[k]=v;}else if(pairs[i]){out[pairs[i].toLowerCase()]='';}}
+  return out;
+}
+function parseGeo(raw){
+  var m=String(raw||'').trim().match(/^geo:(-?\d+(?:\.\d+)?),(-?\d+(?:\.\d+)?)(?:,(-?\d+(?:\.\d+)?))?(?:\?(.*))?$/i);
+  if(!m)return null;
+  var q=parseQuery(m[4]||'');
+  return {lat:parseFloat(m[1]),lng:parseFloat(m[2]),altitude:(m[3]!==undefined&&m[3]!=='')?parseFloat(m[3]):null,query:q.q||'',zoom:q.z||''};
+}
+function parseMailto(raw){
+  var body=String(raw||'').trim().replace(/^mailto:/i,'');
+  var qi=body.indexOf('?');var addr=qi>=0?body.slice(0,qi):body;
+  try{addr=decodeURIComponent(addr);}catch(e){}
+  var q=parseQuery(qi>=0?body.slice(qi+1):'');
+  return {address:addr,subject:q.subject||'',body:q.body||'',cc:q.cc||''};
+}
+function parseCrypto(raw){
+  var m=String(raw||'').trim().match(/^(bitcoin|ethereum):([^?]+)(?:\?(.*))?$/i);
+  if(!m)return null;
+  var q=parseQuery(m[3]||'');
+  return {currency:m[1].toLowerCase()==='bitcoin'?'Bitcoin':'Ethereum',address:m[2],amount:q.amount||q.value||'',label:q.label||q.message||''};
+}
+function csvEscape(v){
+  var s=String(v===null||v===undefined?'':v);
+  if(/[",\n\r]/.test(s))return '"'+s.replace(/"/g,'""')+'"';
+  return s;
+}
+function buildBatchCsv(rows){
+  var lines=['filename,format,type,decoded text'];
+  (rows||[]).forEach(function(r){lines.push([csvEscape(r.filename),csvEscape(r.format),csvEscape(r.type),csvEscape(r.text)].join(','));});
+  return lines.join('\r\n')+'\r\n';
+}
+/*LOONA-SCAN-CORE-END*/
+</script>
+<script>
+var $=function(id){return document.getElementById(id);};
+var history=[];
+function escHtml(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+function showResult(res){
+  var raw=String(res.text||'');
+  $('resultCard').style.display='';
+  $('resType').textContent=classifyResult(raw);
+  $('resFormat').textContent=prettyFormat(res.format)+(res.engine?' · 解碼者 '+res.engine:'');
+  var details=[];
+  details.push(raw.length+' 個字元');
+  try{details.push(new Blob([raw]).size+' 位元組 (UTF-8)');}catch(e){}
+  if(res.version){details.push('二維碼版本 '+res.version);}
+  if(res.chunks&&res.chunks.length){details.push('資料模式：'+res.chunks.map(function(c){return c.type;}).join(', '));}
+  var detEl=$('resDetails'); if(detEl)detEl.textContent=details.join(' · ')+((res.version)?'':'');
+  var parsed='';
+  var type=classifyResult(raw);
+  if(type==='WiFi 網路'){var w=parseWifi(raw);parsed='<p style="margin:6px 0"><strong>WiFi 詳情：</strong> 網路 (SSID)：<strong>'+escHtml(w.ssid)+'</strong>'+(w.password?' · 密碼：<strong>'+escHtml(w.password)+'</strong>':' · 無密碼（開放網路）')+' · 安全：'+escHtml(w.encryption||'未註明')+(w.hidden?' · 隱藏網路':'')+'<br><span class="small">網頁無法為您加入 WiFi 網路 — 複製上面的密碼，或用手機相機應用掃描原始二維碼以自動加入。</span></p>';}
+  else if(type==='vCard 聯絡人'){var v=parseVCard(raw);var rows=[];if(v.name)rows.push('姓名：<strong>'+escHtml(v.name)+'</strong>');if(v.org)rows.push('組織：'+escHtml(v.org));if(v.title)rows.push('標題：'+escHtml(v.title));if(v.phones.length)rows.push('電話：'+escHtml(v.phones.join(', ')));if(v.emails.length)rows.push('電子郵件：'+escHtml(v.emails.join(', ')));if(v.url)rows.push('網站：'+escHtml(v.url));if(v.address)rows.push('地址：'+escHtml(v.address));parsed='<p style="margin:6px 0"><strong>聯絡人詳情：</strong><br>'+rows.join('<br>')+'</p>';}
+  if(type==='Location'){
+    var g=parseGeo(raw);
+    if(g){parsed='<p style="margin:6px 0"><strong>位置詳情：</strong> 緯度：<strong>'+g.lat+'</strong> · 經度：<strong>'+g.lng+'</strong>'+(g.altitude!==null?' · 海拔：'+g.altitude+' m':'')+(g.query?' · 標籤：'+escHtml(g.query):'')+'<br><a href="https://www.google.com/maps/search/?api=1&query='+g.lat+','+g.lng+'" target="_blank" rel="noopener"><strong>在地圖中開啟</strong></a></p>';}
+    else{parsed='<p style="margin:6px 0"><strong>位置詳情：</strong> 此載荷以 geo: 開頭，但不是標準 geo:latitude,longitude 形式，因此不猜測座標 — 請參閱下面的原始內容。</p>';}
+  }
+  if(type==='Email'){
+    var mm=parseMailto(raw);var mrows=[];
+    if(mm.address)mrows.push('收件人：<strong>'+escHtml(mm.address)+'</strong>');
+    if(mm.cc)mrows.push('抄送：'+escHtml(mm.cc));
+    if(mm.subject)mrows.push('主題：'+escHtml(mm.subject));
+    if(mm.body)mrows.push('正文：'+escHtml(mm.body));
+    parsed='<p style="margin:6px 0"><strong>電子郵件詳情：</strong><br>'+mrows.join('<br>')+'</p>';
+  }
+  if(type==='Bitcoin 地址'||type==='加密貨幣付款（以太坊）'){
+    var cp=parseCrypto(raw);
+    if(cp){parsed='<p style="margin:6px 0"><strong>'+escHtml(cp.currency)+' 付款詳情：</strong><br>地址：<strong style="word-break:break-all">'+escHtml(cp.address)+'</strong>'+(cp.amount?'<br>金額：'+escHtml(cp.amount):'')+(cp.label?'<br>標籤 / 訊息：'+escHtml(cp.label):'')+'<br><span class="small">在傳送任何付款前逐字檢查地址 — 加密貨幣付款無法撤銷。</span></p>';}
+  }
+  $('resParsed').innerHTML=parsed;
+  $('resRaw').textContent=raw;
+  var acts=[];
+  if(/^https?:\/\//i.test(raw.trim())){acts.push('<a class="btn" href="'+escHtml(raw.trim())+'" target="_blank" rel="noopener">開啟連結</a>');}
+  else if(/^mailto:/i.test(raw.trim())){acts.push('<a class="btn" href="'+escHtml(raw.trim())+'">寫電子郵件</a>');}
+  else if(/^tel:/i.test(raw.trim())){acts.push('<a class="btn" href="'+escHtml(raw.trim())+'">撥打號碼</a>');}
+  else if(/^(SMSTO:)/i.test(raw.trim())){var sm=raw.trim().slice(6);var p=sm.split(':');acts.push('<a class="btn" href="sms:'+escHtml(p[0])+(p[1]?('?body='+encodeURIComponent(p.slice(1).join(':'))):'')+'">傳送 SMS</a>');}
+  if(type==='vCard 聯絡人'){acts.push('<button class="btn" id="vcardBtn" type="button">下載聯絡人 (.vcf)</button>');}
+  if(type==='Location'){var gg=parseGeo(raw);if(gg){acts.push('<a class="btn" href="https://www.google.com/maps/search/?api=1&query='+gg.lat+','+gg.lng+'" target="_blank" rel="noopener">在地圖中開啟</a>');}}
+  var cryptoParsed=parseCrypto(raw);
+  if(cryptoParsed){acts.push('<button class="btn" id="cryptoCopyBtn" type="button">複製 '+escHtml(cryptoParsed.currency)+' 地址</button>');}
+  acts.push('<button class="btn secondary" id="copyBtn" type="button">複製結果</button>');
+  acts.push('<button class="btn secondary" id="shareBtn" type="button">分享</button>');
+  $('resActions').innerHTML=acts.join(' ');
+  var cb=$('copyBtn'); if(cb)cb.addEventListener('click',function(){var done=function(){cb.textContent='已複製！';setTimeout(function(){cb.textContent='複製結果';},2000);};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(raw).then(done,done);}else{var ta=document.createElement('textarea');ta.value=raw;document.body.appendChild(ta);ta.select();try{document.execCommand('copy');}catch(e){}ta.remove();done();}});
+  var sb=$('shareBtn'); if(sb)sb.addEventListener('click',function(){var val=raw.trim();var isUrl=/^https?:\/\//i.test(val);function copyFallback(){var done=function(){sb.textContent='已複製！';setTimeout(function(){sb.textContent='Share';},2000);};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(raw).then(done,done);}else{var ta=document.createElement('textarea');ta.value=raw;document.body.appendChild(ta);ta.select();try{document.execCommand('copy');}catch(e){}ta.remove();done();}}if(navigator.share){var payload=isUrl?{title:'Loona QR Code Scanner',text:'用免費的 Loona 二維碼掃描器掃描：',url:val}:{title:'Loona QR Code Scanner',text:raw};navigator.share(payload).catch(function(err){if(err&&err.name!=='AbortError'){copyFallback();}});}else{copyFallback();}});
+  var vb=$('vcardBtn'); if(vb)vb.addEventListener('click',function(){var blob=new Blob([raw],{type:'text/vcard'});var u=URL.createObjectURL(blob);var a=document.createElement('a');a.href=u;a.download='contact.vcf';document.body.appendChild(a);a.click();a.remove();setTimeout(function(){URL.revokeObjectURL(u);},5000);});
+  var xb=$('cryptoCopyBtn'); if(xb&&cryptoParsed)xb.addEventListener('click',function(){var addr=cryptoParsed.address;var done=function(){xb.textContent='地址已複製！';setTimeout(function(){xb.textContent='複製 '+cryptoParsed.currency+' 地址';},2000);};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(addr).then(done,done);}else{var ta=document.createElement('textarea');ta.value=addr;document.body.appendChild(ta);ta.select();try{document.execCommand('copy');}catch(e){}ta.remove();done();}});
+  history.unshift({time:new Date(),format:prettyFormat(res.format),type:type,text:raw});
+  if(history.length>20)history.length=20;
+  renderHistory();
+  $('resultCard').scrollIntoView({behavior:'smooth',block:'nearest'});
+}
+function renderHistory(){
+  $('historyList').innerHTML=history.map(function(h){return '<li><strong>'+escHtml(h.format)+'</strong> · '+escHtml(h.type)+' · '+h.time.toLocaleTimeString()+'<br>'+escHtml(h.text.length>140?h.text.slice(0,140)+'…':h.text)+'</li>';}).join('');
+}
+$('clearHistoryBtn').addEventListener('click',function(){history=[];renderHistory();});
+
+/* ---------- Image upload decoding ---------- */
+function zxingDecode(imageData){
+  if(typeof ZXing==='undefined')return null;
+  var w=imageData.width,h=imageData.height,d=imageData.data;
+  var lum=new Uint8ClampedArray(w*h);
+  for(var i=0,j=0;i<d.length;i+=4,j++){lum[j]=Math.round(0.299*d[i]+0.587*d[i+1]+0.114*d[i+2]);}
+  var source=new ZXing.RGBLuminanceSource(lum,w,h);
+  var bitmap=new ZXing.BinaryBitmap(new ZXing.HybridBinarizer(source));
+  var reader=new ZXing.MultiFormatReader();
+  try{var hints=new Map();hints.set(ZXing.DecodeHintType.TRY_HARDER,true);reader.setHints(hints);}catch(e){}
+  var res=reader.decode(bitmap);
+  return {text:res.getText(),format:(ZXing.BarcodeFormat[res.getBarcodeFormat()]||'Barcode'),engine:'ZXing'};
+}
+function decodeCanvas(canvas){
+  var ctx=canvas.getContext('2d',{willReadFrequently:true});
+  var img=ctx.getImageData(0,0,canvas.width,canvas.height);
+  if(typeof jsQR!=='undefined'){
+    try{var r=jsQR(img.data,img.width,img.height);if(r&&r.data)return {text:r.data,format:'QR Code',engine:'jsQR',version:r.version,chunks:r.chunks};}catch(e){}
+  }
+  try{var z=zxingDecode(img);if(z&&z.text)return z;}catch(e){}
+  return null;
+}
+function decodeImageElement(image){
+  var attempts=[];
+  var nw=image.naturalWidth||image.width,nh=image.naturalHeight||image.height;
+  function make(w,h){var c=document.createElement('canvas');c.width=w;c.height=h;var x=c.getContext('2d',{willReadFrequently:true});x.fillStyle='#fff';x.fillRect(0,0,w,h);x.drawImage(image,0,0,w,h);return c;}
+  attempts.push(make(nw,nh));
+  var maxDim=Math.max(nw,nh);
+  if(maxDim>1400){var s=1400/maxDim;attempts.push(make(Math.round(nw*s),Math.round(nh*s)));}
+  if(maxDim<700){attempts.push(make(nw*2,nh*2));}
+  for(var i=0;i<attempts.length;i++){var r=decodeCanvas(attempts[i]);if(r)return r;}
+  return null;
+}
+function handleFile(file){
+  if(!file)return;
+  if(!/^image\//.test(file.type||'')){$('uploadStatus').textContent='該檔案不是圖片。請選擇 PNG、JPG 或其他圖片檔案。';$('uploadStatus').style.color='#b3261e';return;}
+  $('uploadStatus').textContent='正在您的裝置上解碼圖片…';$('uploadStatus').style.color='';
+  var url=URL.createObjectURL(file);
+  var image=new Image();
+  image.onload=function(){
+    var res=null;
+    try{res=decodeImageElement(image);}catch(e){}
+    URL.revokeObjectURL(url);
+    if(res){$('uploadStatus').textContent='解碼者 '+res.engine+': '+prettyFormat(res.format)+'.';showResult(res);}
+    else{$('uploadStatus').textContent='在該圖片中無法讀取二維碼或受支援的條形碼。試試更清晰、更近的照片，包含二維碼周圍的白色邊框。';$('uploadStatus').style.color='#b3261e';}
+  };
+  image.onerror=function(){URL.revokeObjectURL(url);$('uploadStatus').textContent='該圖片無法被您的瀏覽器開啟。';$('uploadStatus').style.color='#b3261e';};
+  image.src=url;
+}
+var drop=$('dropZone'),fileInput=$('fileInput');
+drop.addEventListener('click',function(){fileInput.click();});
+drop.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();fileInput.click();}});
+fileInput.addEventListener('change',function(){handleFile(fileInput.files&&fileInput.files[0]);fileInput.value='';});
+['dragenter','dragover'].forEach(function(ev){drop.addEventListener(ev,function(e){e.preventDefault();drop.classList.add('drag');});});
+['dragleave','drop'].forEach(function(ev){drop.addEventListener(ev,function(e){e.preventDefault();drop.classList.remove('drag');});});
+drop.addEventListener('drop',function(e){var f=e.dataTransfer&&e.dataTransfer.files&&e.dataTransfer.files[0];handleFile(f);});
+document.addEventListener('paste',function(e){
+  if(e.target&&(e.target.tagName==='INPUT'||e.target.tagName==='TEXTAREA'))return;
+  var items=(e.clipboardData&&e.clipboardData.items)||[];
+  for(var i=0;i<items.length;i++){if(items[i].type&&items[i].type.indexOf('image/')===0){var f=items[i].getAsFile();if(f){e.preventDefault();handleFile(f);return;}}}
+});
+
+/* ---------- Batch decode (multiple images + CSV export) ---------- */
+var batchRows=[];
+function decodeFilePromise(file){
+  return new Promise(function(resolve){
+    if(!file||!/^image\//.test(file.type||'')){resolve(null);return;}
+    var url=URL.createObjectURL(file);
+    var image=new Image();
+    image.onload=function(){var r=null;try{r=decodeImageElement(image);}catch(e){}URL.revokeObjectURL(url);resolve(r);};
+    image.onerror=function(){URL.revokeObjectURL(url);resolve(null);};
+    image.src=url;
+  });
+}
+function renderBatch(){
+  var body=$('batchBody');
+  body.innerHTML=batchRows.map(function(r){
+    return '<tr><td style="border-bottom:1px solid #eee;padding:6px;word-break:break-all">'+escHtml(r.filename)+'</td><td style="border-bottom:1px solid #eee;padding:6px">'+escHtml(r.format)+'</td><td style="border-bottom:1px solid #eee;padding:6px">'+escHtml(r.type)+'</td><td style="border-bottom:1px solid #eee;padding:6px;word-break:break-word">'+escHtml(r.text)+'</td></tr>';
+  }).join('');
+  var has=batchRows.length>0;
+  $('batchWrap').style.display=has?'':'none';
+  $('batchCsvBtn').style.display=has?'':'none';
+  $('batchClearBtn').style.display=has?'':'none';
+  if(has){
+    var ok=batchRows.filter(function(r){return r.type!=='未解碼';}).length;
+    $('batchStatus').textContent='批次已完成：'+ok+' 的 '+batchRows.length+' image'+(batchRows.length===1?'':'s')+' decoded.';
+    $('batchStatus').style.color='';
+  }
+}
+async function handleBatchFiles(list){
+  var files=Array.prototype.slice.call(list||[]).filter(function(f){return /^image\//.test(f.type||'');});
+  if(!files.length){$('batchStatus').textContent='在該選擇中未找到圖片檔案。選擇 PNG、JPG 或其他圖片檔案。';$('batchStatus').style.color='#b3261e';return;}
+  batchRows=[];renderBatch();
+  for(var i=0;i<files.length;i++){
+    $('batchStatus').textContent='正在解碼圖片 '+(i+1)+' 的 '+files.length+' 在您的裝置上…';$('batchStatus').style.color='';
+    var r=await decodeFilePromise(files[i]);
+    if(r&&r.text){batchRows.push({filename:files[i].name,format:prettyFormat(r.format),type:classifyResult(r.text),text:r.text});}
+    else{batchRows.push({filename:files[i].name,format:'',type:'未解碼',text:''});}
+    renderBatch();
+  }
+}
+var batchDrop=$('batchDrop'),batchInput=$('batchInput');
+batchDrop.addEventListener('click',function(){batchInput.click();});
+batchDrop.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();batchInput.click();}});
+batchInput.addEventListener('change',function(){handleBatchFiles(batchInput.files);batchInput.value='';});
+['dragenter','dragover'].forEach(function(ev){batchDrop.addEventListener(ev,function(e){e.preventDefault();batchDrop.classList.add('drag');});});
+['dragleave','drop'].forEach(function(ev){batchDrop.addEventListener(ev,function(e){e.preventDefault();batchDrop.classList.remove('drag');});});
+batchDrop.addEventListener('drop',function(e){handleBatchFiles(e.dataTransfer&&e.dataTransfer.files);});
+$('batchCsvBtn').addEventListener('click',function(){
+  if(!batchRows.length)return;
+  var blob=new Blob([buildBatchCsv(batchRows)],{type:'text/csv'});
+  var u=URL.createObjectURL(blob);var a=document.createElement('a');a.href=u;a.download='loona-scan-batch.csv';document.body.appendChild(a);a.click();a.remove();setTimeout(function(){URL.revokeObjectURL(u);},5000);
+});
+$('batchClearBtn').addEventListener('click',function(){batchRows=[];renderBatch();$('batchStatus').textContent='批次已清除。';});
+
+/* ---------- Camera scanning (BarcodeDetector) ---------- */
+var stream=null,detector=null,detectTimer=null,scanning=false;
+var CAM_FALLBACK='此瀏覽器不支援實時攝像頭掃描：它需要內建於 Chrome、Edge 和大多數 Android 瀏覽器的 BarcodeDetector 功能（Safari 和 Firefox 尚未包含它）。請改用“從圖片掃描” — 拍攝條碼的照片或截圖並在此處上傳或貼上；這在每個現代瀏覽器中都有效。';
+function stopCamera(){
+  scanning=false;
+  if(detectTimer){clearInterval(detectTimer);detectTimer=null;}
+  if(stream){stream.getTracks().forEach(function(t){t.stop();});stream=null;}
+  $('camVideo').style.display='none';
+  $('camStartBtn').style.display='';$('camStopBtn').style.display='none';
+}
+async function startCamera(){
+  if(!('BarcodeDetector' in window)){$('camStatus').textContent=CAM_FALLBACK;$('camStatus').style.color='#b3261e';return;}
+  if(!navigator.mediaDevices||!navigator.mediaDevices.getUserMedia){$('camStatus').textContent='此瀏覽器無法從網頁開啟攝像頭。'+CAM_FALLBACK;$('camStatus').style.color='#b3261e';return;}
+  try{
+    var wanted=['qr_code','ean_13','ean_8','upc_a','upc_e','code_128','code_39','code_93','codabar','itf','data_matrix','aztec','pdf417'];
+    var formats=wanted;
+    try{var supported=await BarcodeDetector.getSupportedFormats();formats=wanted.filter(function(f){return supported.indexOf(f)>=0;});if(!formats.length)formats=undefined;}catch(e){}
+    detector=formats?new BarcodeDetector({formats:formats}):new BarcodeDetector();
+  }catch(e){$('camStatus').textContent=CAM_FALLBACK;$('camStatus').style.color='#b3261e';return;}
+  try{
+    stream=await navigator.mediaDevices.getUserMedia({video:{facingMode:'environment'},audio:false});
+  }catch(e){
+    $('camStatus').textContent='攝像頭訪問被阻止或未找到攝像頭。允許此網站的攝像頭許可權並重試 — 或改用“從圖片掃描”。';$('camStatus').style.color='#b3261e';return;
+  }
+  var video=$('camVideo');
+  video.srcObject=stream;video.style.display='block';
+  try{await video.play();}catch(e){}
+  $('camStartBtn').style.display='none';$('camStopBtn').style.display='';
+  $('camStatus').textContent='攝像頭已開啟 — 將二維碼或條形碼穩定地保持在框內。幀僅在此裝置上處理。';$('camStatus').style.color='';
+  scanning=true;
+  detectTimer=setInterval(async function(){
+    if(!scanning||!detector||video.readyState<2)return;
+    try{
+      var codes=await detector.detect(video);
+      if(codes&&codes.length&&codes[0].rawValue){
+        var c=codes[0];
+        stopCamera();
+        $('camStatus').textContent='找到程式碼：'+prettyFormat(c.format)+'.';
+        showResult({text:c.rawValue,format:c.format,engine:'BarcodeDetector (camera)'});
+      }
+    }catch(e){/* a frame that fails to detect is normal; keep scanning */}
+  },350);
+}
+$('camStartBtn').addEventListener('click',startCamera);
+$('camStopBtn').addEventListener('click',function(){stopCamera();$('camStatus').textContent='攝像頭已停止。';$('camStatus').style.color='';});
+window.addEventListener('pagehide',stopCamera);
+(function initCameraSupport(){
+  if(!('BarcodeDetector' in window)){
+    $('camStartBtn').style.display='none';
+    $('camStatus').textContent=CAM_FALLBACK;
+  }
+})();
+</script>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Install App';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Install this app: tap the Share button, then choose "Add to Home Screen".');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
+</body></html>
