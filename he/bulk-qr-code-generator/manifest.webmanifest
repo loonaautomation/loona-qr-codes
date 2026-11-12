@@ -1,0 +1,29 @@
+{
+  "name": "מחולל קודי QR בכמות של Loona",
+  "short_name": "מחולל קוד QR קבוצתי",
+  "description": "צרו עד 100 קודי QR בבת אחת, חינם: הדביקו רשימה או העלו CSV של קישורים וטקסטים, קבלו גיליון מודפס מתויג של קודי QR. ללא הרשמה, ללא סימן מים, לעולם אינו פג, 100% פרטי בדפדפן שלכם.",
+  "id": "/loona-qr-codes/he/bulk-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

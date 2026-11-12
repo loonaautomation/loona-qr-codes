@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR Codes לכל כלי Loona",
+  "short_name": "קודי QR לכל כלי Loona",
+  "description": "קבלו קוד QR מוכן וחינמי לכל כלי של Loona — 955 מחשבונים, כלי PDF, כלי תמונה, כלי לימוד ואפליקציות. בחרו כלי, הורידו את קוד ה-QR שלו כקובץ PNG ברזולוציה גבוהה והדפיסו. ללא הרשמה, ללא סימן מים, לא פג תוקף לעולם.",
+  "id": "/loona-qr-codes/he/tool-qr-codes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

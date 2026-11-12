@@ -1,0 +1,29 @@
+{
+  "name": "מחולל קוד QR של Loona לאירוע Google Calendar",
+  "short_name": "קוד QR לאירוע ב-Google Calendar",
+  "description": "צרו קוד QR חינמי של אירוע Google Calendar מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
+  "id": "/loona-qr-codes/he/google-calendar-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "סורק קודי QR וברקוד של Loona",
+  "short_name": "סורק קודי QR וברקוד",
+  "description": "סרקו קודי QR וברקודים בחינם באינטרנט עם Loona: השתמשו במצלמה שלכם או העלו תמונה או צילום מסך. מפענח כתובות, WiFi, אנשי קשר vCard, EAN-13, UPC-A, Code 128 ו-Code 39. 100% פרטי — הכל מפוענח במכשיר שלכם, שום דבר לא מועלה.",
+  "id": "/loona-qr-codes/he/qr-code-scanner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
