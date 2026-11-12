@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR-kodegenerator for Telegram",
+  "short_name": "QR-kodegenerator for Telegram",
+  "description": "Lag en gratis Telegram-QR-kode med en gang med Loona. Ingen registrering, ingen vannmerke, utløper aldri. Skann for å bli med i Telegram-profilen, -gruppen eller -kanalen din. Tilpassede farger, nedlasting av PNG i høy oppløsning.",
+  "id": "/loona-qr-codes/nb/telegram-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

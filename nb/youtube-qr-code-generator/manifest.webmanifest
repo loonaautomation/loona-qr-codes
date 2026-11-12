@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR-kodegenerator for YouTube",
+  "short_name": "QR-kodegenerator for YouTube",
+  "description": "Lag en gratis YouTube-QR-kode med en gang med Loona. Ingen registrering, ingen vannmerke, utløper aldri. Skann for å åpne en video eller kanal med en gang. Tilpassede farger, nedlasting av PNG i høy oppløsning.",
+  "id": "/loona-qr-codes/nb/youtube-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
