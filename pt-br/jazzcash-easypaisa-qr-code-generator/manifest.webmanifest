@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gerador de Códigos QR JazzCash / EasyPaisa (Paquistão)",
+  "short_name": "Código QR JazzCash / EasyPaisa",
+  "description": "Crie um código QR JazzCash ou EasyPaisa grátis para o Paquistão — sem registro, sem marca de água, nunca expira. Cores personalizadas e transferência PNG em alta resolução.",
+  "id": "/loona-qr-codes/pt-br/jazzcash-easypaisa-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
