@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR-kode til JazzCash / EasyPaisa (Pakistan)",
+  "short_name": "QR-kode til JazzCash / EasyPaisa",
+  "description": "Opret en gratis JazzCash- eller EasyPaisa-QR-kode til Pakistan — ingen tilmelding, intet vandmærke, udløber aldrig. Brugertilpassede farver og download af PNG i høj opløsning.",
+  "id": "/loona-qr-codes/da/jazzcash-easypaisa-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

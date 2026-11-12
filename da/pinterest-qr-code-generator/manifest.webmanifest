@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR-kodegenerator til Pinterest",
+  "short_name": "QR-kodegenerator til Pinterest",
+  "description": "Opret en gratis Pinterest-QR-kode øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Scan for at åbne en Pinterest-profil eller et board. Brugertilpassede farver, download af PNG i høj opløsning.",
+  "id": "/loona-qr-codes/da/pinterest-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

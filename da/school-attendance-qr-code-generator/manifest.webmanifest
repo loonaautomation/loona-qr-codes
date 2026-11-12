@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR-kode til skolemøde og formularer",
+  "short_name": "Skolefremmøde og formularer-QR",
+  "description": "Opret en gratis QR-kode til skolefremmøde og formularer øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Brugertilpassede farver, download af PNG i høj opløsning.",
+  "id": "/loona-qr-codes/da/school-attendance-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

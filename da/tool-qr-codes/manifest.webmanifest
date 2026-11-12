@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR Codes til alle Loona værktøjer",
+  "short_name": "QR-koder til alle Loona-værktøjer",
+  "description": "Få en gratis færdig QR-kode til ethvert Loona-værktøj — 955 beregnere, PDF-værktøjer, billedværktøjer, studieværktøjer og apps. Vælg et værktøj, download dets QR-kode som en PNG i høj opløsning, og tryk den. Ingen tilmelding, intet vandmærke, udløber aldrig.",
+  "id": "/loona-qr-codes/da/tool-qr-codes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

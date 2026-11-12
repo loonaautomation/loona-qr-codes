@@ -1,0 +1,29 @@
+{
+  "name": "Loona Codabar-stregkodegenerator",
+  "short_name": "Codabar-stregkodegenerator",
+  "description": "Gratis Codabar-stregkodegenerator. Korrekte kontrolcifre, hvor standarden har dem, download af PNG og SVG, ingen tilmelding, intet vandmærke.",
+  "id": "/loona-qr-codes/da/codabar-barcode-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
