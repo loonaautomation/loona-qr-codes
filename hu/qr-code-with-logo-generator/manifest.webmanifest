@@ -1,0 +1,29 @@
+{
+  "name": "Loona Logós QR-kód generátor",
+  "short_name": "Logós QR-kód generátor",
+  "description": "Ingyenes QR-kód logóval generátor: adja hozzá logóját egy QR-kód közepéhez H hibajavítási szinten, egyéni színek, 1024px PNG-letöltés, nincs vízjel.",
+  "id": "/loona-qr-codes/hu/qr-code-with-logo-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

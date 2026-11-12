@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR-kód és Vonalkódolvasó",
+  "short_name": "QR-kód és Vonalkódolvasó",
+  "description": "Olvasson be QR-kódokat és vonalkódokat ingyen online a Loonával: használja a kameráját, vagy töltsön fel egy fényképet vagy képernyőképet. Dekódolja az URL-eket, WiFi-t, vCard névjegyeket, EAN-13-at, UPC-A-t, Code 128-at és Code 39-et. 100% privát — minden az Ön eszközén dekódolódik, semmi sem töltődik fel.",
+  "id": "/loona-qr-codes/hu/qr-code-scanner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR Codes",
+  "short_name": "Loona QR Codes",
+  "description": "Hozzon létre ingyenes QR-kódokat URL-hez, WiFihez, WhatsApphoz, vCardhoz és fizetésekhez — 37 QR-kódtípus plusz ingyenes QR- és vonalkódszkenner és tömeges generátor, lejárat, regisztráció és vízjel nélkül.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-qr-codes/hu/"
+}

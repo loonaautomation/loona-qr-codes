@@ -1,0 +1,29 @@
+{
+  "name": "Loona Szálloda és Vendég Szálloda és Vendég WiFi QR-kód",
+  "short_name": "Szálloda és vendég Szálloda és vendég",
+  "description": "Hozzon létre ingyenes szállodai és vendég WiFi QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
+  "id": "/loona-qr-codes/hu/hotel-wifi-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
