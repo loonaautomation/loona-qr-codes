@@ -1,0 +1,29 @@
+{
+  "name": "Loona Restaurant Menu QR Code Generator",
+  "short_name": "Restaurant Menu QR Code",
+  "description": "Create a free Restaurant Menu QR Code instantly with Loona. No signup, no watermark, never expires. Contactless menu on every table. Custom colours, high-resolution PNG download.",
+  "id": "/loona-qr-codes/en-gb/restaurant-menu-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
