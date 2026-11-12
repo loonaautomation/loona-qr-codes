@@ -1,0 +1,29 @@
+{
+  "name": "Loona Leitor de Códigos QR e de Códigos de Barras",
+  "short_name": "Leitor de Códigos QR e de Barras",
+  "description": "Leia códigos QR e códigos de barras grátis online com a Loona: utilize a sua câmara ou carregue uma fotografia ou captura de ecrã. Descodifica URLs, WiFi, contactos vCard, EAN-13, UPC-A, Code 128 e Code 39. 100% privado — tudo é descodificado no seu dispositivo, nada é carregado.",
+  "id": "/loona-qr-codes/pt-pt/qr-code-scanner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
