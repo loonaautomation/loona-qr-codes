@@ -1,0 +1,29 @@
+{
+  "name": "Kizalishaji cha Msimbo wa QR wa Malipo ya Dogecoin cha Loona",
+  "short_name": "Msimbo wa QR wa Malipo ya Dogecoin",
+  "description": "Tengeneza msimbo wa QR wa Malipo ya Dogecoin wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
+  "id": "/loona-qr-codes/sw/dogecoin-payment-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

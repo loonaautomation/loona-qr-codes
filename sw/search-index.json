@@ -1,0 +1,344 @@
+[
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa URL / Tovuti",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/url-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Geuza kiungo chochote cha tovuti kuwa msimbo wa QR.",
+  "k": "url website qr code generator url qr code generator geuza kiungo chochote cha tovuti kuwa msimbo wa qr",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa Maandishi ya Kawaida",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/text-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Weka maandishi, msimbo au ujumbe wowote ndani ya msimbo wa QR.",
+  "k": "plain text qr code generator text qr code generator weka maandishi msimbo au ujumbe wowote ndani ya msimbo wa qr",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa WiFi",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/wifi-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Wageni huunganishwa na WiFi kwa kuchanganua mara moja, bila kuandika nenosiri.",
+  "k": "wifi qr code generator wifi qr code generator wageni huunganishwa na wifi kwa kuchanganua mara moja bila kuandika nenosiri",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa WhatsApp",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/whatsapp-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Anzisha mazungumzo ya WhatsApp kwa kuchanganua mara moja, bila kuhifadhi namba.",
+  "k": "whatsapp qr code generator whatsapp qr code generator anzisha mazungumzo ya whatsapp kwa kuchanganua mara moja bila kuhifadhi namba",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa Anwani ya vCard",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/vcard-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Changanua ili kuhifadhi kadi yako kamili ya anwani kwenye simu.",
+  "k": "vcard contact qr code generator vcard qr code generator changanua ili kuhifadhi kadi yako kamili ya anwani kwenye simu",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa Barua Pepe",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/email-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Changanua ili kufungua barua pepe iliyoelekezwa mapema, tayari kutumwa.",
+  "k": "email qr code generator email qr code generator changanua ili kufungua barua pepe iliyoelekezwa mapema tayari kutumwa",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa SMS",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/sms-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Changanua ili kufungua ujumbe wa maandishi ulioandikwa mapema.",
+  "k": "sms qr code generator sms qr code generator changanua ili kufungua ujumbe wa maandishi ulioandikwa mapema",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa Simu ya Kupiga",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/phone-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Changanua ili kupiga namba yako papo hapo.",
+  "k": "phone call qr code generator phone qr code generator changanua ili kupiga namba yako papo hapo",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa Instagram",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/instagram-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Kuza wafuasi kwa QR ya Instagram ya kuchanganua ili kufuata.",
+  "k": "instagram qr code generator instagram qr code generator kuza wafuasi kwa qr ya instagram ya kuchanganua ili kufuata",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa Facebook",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/facebook-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Wapeleke watu moja kwa moja kwenye ukurasa wako wa Facebook.",
+  "k": "facebook qr code generator facebook qr code generator wapeleke watu moja kwa moja kwenye ukurasa wako wa facebook",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa YouTube",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/youtube-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Changanua ili kufungua video au kituo papo hapo.",
+  "k": "youtube qr code generator youtube qr code generator changanua ili kufungua video au kituo papo hapo",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa TikTok",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/tiktok-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Changanua ili kufungua wasifu wako wa TikTok.",
+  "k": "tiktok qr code generator tiktok qr code generator changanua ili kufungua wasifu wako wa tiktok",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa X (Twitter)",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/x-twitter-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Changanua ili kufungua wasifu wako wa X.",
+  "k": "x twitter qr code generator x twitter qr code generator changanua ili kufungua wasifu wako wa x",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa LinkedIn",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/linkedin-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Ungana kitaalamu kwa kuchanganua mara moja.",
+  "k": "linkedin qr code generator linkedin qr code generator ungana kitaalamu kwa kuchanganua mara moja",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa Telegram",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/telegram-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Changanua ili kujiunga na wasifu, kikundi au kituo chako cha Telegram.",
+  "k": "telegram qr code generator telegram qr code generator changanua ili kujiunga na wasifu kikundi au kituo chako cha telegram",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa Snapchat",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/snapchat-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Changanua ili kukuongeza kwenye Snapchat.",
+  "k": "snapchat qr code generator snapchat qr code generator changanua ili kukuongeza kwenye snapchat",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa Mahali pa Ramani za Google",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/google-maps-location-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Changanua ili kupata maelekezo ya kufika mahali pako.",
+  "k": "google maps location qr code generator google maps location qr code generator changanua ili kupata maelekezo ya kufika mahali pako",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa Ukaguzi wa Google",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/google-review-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Wateja wenye furaha huacha ukaguzi wa Google kwa sekunde chache.",
+  "k": "google review qr code generator google review qr code generator wateja wenye furaha huacha ukaguzi wa google kwa sekunde chache",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa Menyu ya Mgahawa",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/restaurant-menu-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Menyu isiyo na mgusano kwenye kila meza.",
+  "k": "restaurant menu qr code generator restaurant menu qr code generator menyu isiyo na mgusano kwenye kila meza",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa PDF",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/pdf-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Changanua ili kufungua au kupakua faili ya PDF.",
+  "k": "pdf qr code generator pdf qr code generator changanua ili kufungua au kupakua faili ya pdf",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa App Store / Google Play",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/app-store-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Changanua ili kusakinisha programu yako.",
+  "k": "app store google play qr code generator app store qr code generator changanua ili kusakinisha programu yako",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa Fomu ya Google",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/google-form-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Changanua ili kufungua na kujaza Fomu ya Google.",
+  "k": "google form qr code generator google form qr code generator changanua ili kufungua na kujaza fomu ya google",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa Zoom / Mkutano",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/zoom-meeting-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Changanua ili kujiunga na mkutano au darasa.",
+  "k": "zoom meeting qr code generator zoom meeting qr code generator changanua ili kujiunga na mkutano au darasa",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa Tukio / Kalenda",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/event-calendar-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Changanua ili kuhifadhi tukio kwenye kalenda.",
+  "k": "event calendar qr code generator event calendar qr code generator changanua ili kuhifadhi tukio kwenye kalenda",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa PayPal",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/paypal-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Lipwa: changanua ili kufungua ukurasa wako wa PayPal.me.",
+  "k": "paypal qr code generator paypal qr code generator lipwa changanua ili kufungua ukurasa wako wa paypal me",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa Malipo ya UPI",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/upi-payment-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "QR ya malipo ya UPI kwa maduka nchini India na maeneo ya UPI.",
+  "k": "upi payment qr code generator upi payment qr code generator qr ya malipo ya upi kwa maduka nchini india na maeneo ya upi",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa JazzCash / EasyPaisa (Pakistan)",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/jazzcash-easypaisa-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Shiriki maelezo ya akaunti yako ya JazzCash au EasyPaisa kama QR.",
+  "k": "jazzcash easypaisa qr code pakistan generator jazzcash easypaisa qr code generator shiriki maelezo ya akaunti yako ya jazzcash au easypaisa kama qr",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa Bitcoin / Crypto",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/bitcoin-crypto-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Shiriki anwani ya pochi ya Bitcoin kama QR.",
+  "k": "bitcoin crypto qr code generator bitcoin crypto qr code generator shiriki anwani ya pochi ya bitcoin kama qr",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa Spotify / Muziki",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/spotify-music-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Changanua ili kucheza wimbo, orodha ya nyimbo au podikasti.",
+  "k": "spotify music qr code generator spotify music qr code generator changanua ili kucheza wimbo orodha ya nyimbo au podikasti",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa Wasifu / Jalada",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/resume-portfolio-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Weka wasifu au jalada lako umbali wa kuchanganua mara moja.",
+  "k": "resume portfolio qr code generator resume portfolio qr code generator weka wasifu au jalada lako umbali wa kuchanganua mara moja",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa Picha",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/image-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Changanua ili kufungua au kushiriki kiungo cha picha.",
+  "k": "image qr code generator image qr code generator changanua ili kufungua au kushiriki kiungo cha picha",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa Sauti",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/audio-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Changanua ili kucheza wimbo, noti ya sauti au faili ya sauti.",
+  "k": "audio qr code generator audio qr code generator changanua ili kucheza wimbo noti ya sauti au faili ya sauti",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa Mitandao ya Kijamii",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/social-media-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "QR moja kwa viungo vyako vya wasifu wa mitandao ya kijamii.",
+  "k": "social media qr code generator social media qr code generator qr moja kwa viungo vyako vya wasifu wa mitandao ya kijamii",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa Pinterest",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/pinterest-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Changanua ili kufungua wasifu au ubao wako wa Pinterest.",
+  "k": "pinterest qr code generator pinterest qr code generator changanua ili kufungua wasifu au ubao wako wa pinterest",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa Discord",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/discord-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Changanua ili kujiunga na seva au wasifu wako wa Discord.",
+  "k": "discord qr code generator discord qr code generator changanua ili kujiunga na seva au wasifu wako wa discord",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa GitHub",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/github-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Changanua ili kufungua wasifu au hazina yako ya GitHub.",
+  "k": "github qr code generator github qr code generator changanua ili kufungua wasifu au hazina yako ya github",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Kichanganuzi cha Msimbo wa QR na Msimbo Pau",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/qr-code-scanner/",
+  "s": "Loona QR Codes",
+  "d": "Changanua misimbo kwa kamera yako, au usome misimbo ya QR na misimbo pau kutoka kwenye picha au picha ya skrini.",
+  "k": "qr code barcode scanner qr code scanner changanua misimbo kwa kamera yako au usome misimbo ya qr na misimbo pau kutoka kwenye picha au picha ya skrini",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Msimbo wa QR wa Makundi",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sw/bulk-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Tengeneza hadi misimbo 100 ya QR yenye lebo kwa wakati mmoja katika karatasi inayochapishika.",
+  "k": "bulk qr code generator bulk qr code generator tengeneza hadi misimbo 100 ya qr yenye lebo kwa wakati mmoja katika karatasi inayochapishika",
+  "p": 137,
+  "c": "Tool"
+ }
+]

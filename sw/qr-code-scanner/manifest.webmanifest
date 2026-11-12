@@ -1,0 +1,29 @@
+{
+  "name": "Kichanganuzi cha Msimbo wa QR na Msimbo Pau cha Loona",
+  "short_name": "Kichanganuzi cha Msimbo wa QR na Msimbo Pau",
+  "description": "Changanua misimbo ya QR na misimbo pau bure mtandaoni kwa Loona: tumia kamera yako au pakia picha au picha ya skrini. Husoma URL, WiFi, anwani za vCard, EAN-13, UPC-A, Code 128 na Code 39. Faragha 100% — kila kitu husomwa kwenye kifaa chako, hakuna kinachopakiwa.",
+  "id": "/loona-qr-codes/sw/qr-code-scanner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

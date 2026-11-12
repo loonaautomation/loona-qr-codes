@@ -1,0 +1,29 @@
+{
+  "name": "Kizalishaji cha Msimbo wa QR wenye Nembo cha Loona",
+  "short_name": "Kizalishaji cha Msimbo wa QR wenye Nembo",
+  "description": "Kizalishaji cha bure cha msimbo wa QR wenye nembo: ongeza nembo yako katikati ya msimbo wa QR katika kiwango cha kurekebisha makosa H, rangi maalum, upakuaji wa PNG wa 1024px, hakuna alama ya maji.",
+  "id": "/loona-qr-codes/sw/qr-code-with-logo-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Kizalishaji cha Msimbo wa QR wa Makundi cha Loona",
+  "short_name": "Kizalishaji cha Msimbo wa QR wa Makundi",
+  "description": "Tengeneza hadi misimbo 100 ya QR kwa wakati mmoja, bure: bandika orodha au pakia CSV ya viungo na maandishi, pata karatasi inayochapishika yenye lebo ya misimbo ya QR. Hakuna kujisajili, hakuna alama ya maji, haiishi muda kamwe, faragha 100% katika kivinjari chako.",
+  "id": "/loona-qr-codes/sw/bulk-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

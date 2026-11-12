@@ -1,0 +1,29 @@
+{
+  "name": "Kizalishaji cha Msimbo Pau wa Aztec Code cha Loona",
+  "short_name": "Kizalishaji cha Msimbo Pau wa Aztec",
+  "description": "Kizalishaji cha bure cha msimbo pau wa Aztec Code. Rakamu sahihi za ukaguzi pale kiwango kinazo, upakuaji wa PNG na SVG, hakuna kujisajili, hakuna alama ya maji.",
+  "id": "/loona-qr-codes/sw/aztec-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
