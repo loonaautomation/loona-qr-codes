@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR Codes за всички инструменти на Loona",
+  "short_name": "QR кодове за всички инструменти на Loona",
+  "description": "Вземете безплатен готов QR код за всеки инструмент на Loona — 955 калкулатора, PDF инструменти, инструменти за изображения, инструменти за обучение и приложения. Изберете инструмент, изтеглете QR кода му като PNG с висока разделителна способност и го отпечатайте. Без регистрация, без воден знак, никога не изтича.",
+  "id": "/loona-qr-codes/bg/tool-qr-codes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

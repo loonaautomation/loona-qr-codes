@@ -1,0 +1,29 @@
+{
+  "name": "Генератор на баркодове ITF-14 на Loona",
+  "short_name": "Генератор на баркодове ITF-14",
+  "description": "Безплатен генератор на баркодове ITF-14. Правилните контролни цифри, където стандартът ги има, изтегляне на PNG и SVG, без регистрация, без воден знак.",
+  "id": "/loona-qr-codes/bg/itf-14-barcode-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
