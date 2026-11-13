@@ -1,0 +1,29 @@
+{
+  "name": "Loona WiFi-QR-koodigeneraattori",
+  "short_name": "WiFi-QR-koodigeneraattori",
+  "description": "Luo ilmainen WiFi-QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Vieraat yhdistävät WiFiin yhdellä skannauksella, ilman salasanan kirjoittamista. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
+  "id": "/loona-qr-codes/fi/wifi-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

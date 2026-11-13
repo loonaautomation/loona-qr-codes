@@ -1,0 +1,344 @@
+[
+ {
+  "n": "URL- / verkkosivusto-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/url-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Muuta mikä tahansa verkkosivustolinkki QR-koodiksi.",
+  "k": "url website qr code generator url qr code generator muuta mika tahansa verkkosivustolinkki qr koodiksi",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Pelkkä teksti -QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/text-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Laita mikä tahansa teksti, koodi tai viesti QR-koodin sisään.",
+  "k": "plain text qr code generator text qr code generator laita mika tahansa teksti koodi tai viesti qr koodin sisaan",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "WiFi-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/wifi-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Vieraat yhdistävät WiFiin yhdellä skannauksella, ilman salasanan kirjoittamista.",
+  "k": "wifi qr code generator wifi qr code generator vieraat yhdistavat wifiin yhdella skannauksella ilman salasanan kirjoittamista",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "WhatsApp-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/whatsapp-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Aloita WhatsApp-keskustelu yhdellä skannauksella, ilman numeron tallentamista.",
+  "k": "whatsapp qr code generator whatsapp qr code generator aloita whatsapp keskustelu yhdella skannauksella ilman numeron tallentamista",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "vCard-yhteystieto-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/vcard-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skannaa tallentaaksesi koko yhteystietokorttisi puhelimeen.",
+  "k": "vcard contact qr code generator vcard qr code generator skannaa tallentaaksesi koko yhteystietokorttisi puhelimeen",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Sähköposti-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/email-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skannaa avataksesi esiosoitettu sähköposti, valmis lähetettäväksi.",
+  "k": "email qr code generator email qr code generator skannaa avataksesi esiosoitettu sahkoposti valmis lahetettavaksi",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "SMS-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/sms-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skannaa avataksesi esikirjoitettu tekstiviesti.",
+  "k": "sms qr code generator sms qr code generator skannaa avataksesi esikirjoitettu tekstiviesti",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "Puhelu-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/phone-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skannaa valitaksesi numerosi heti.",
+  "k": "phone call qr code generator phone qr code generator skannaa valitaksesi numerosi heti",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "Instagram-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/instagram-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Kasvata seuraajia skannaa-ja-seuraa-Instagram-QR:llä.",
+  "k": "instagram qr code generator instagram qr code generator kasvata seuraajia skannaa ja seuraa instagram qr lla",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Facebook-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/facebook-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Lähetä ihmiset suoraan Facebook-sivullesi.",
+  "k": "facebook qr code generator facebook qr code generator laheta ihmiset suoraan facebook sivullesi",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "YouTube-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/youtube-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skannaa avataksesi video tai kanava heti.",
+  "k": "youtube qr code generator youtube qr code generator skannaa avataksesi video tai kanava heti",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "TikTok-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/tiktok-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skannaa avataksesi TikTok-profiilisi.",
+  "k": "tiktok qr code generator tiktok qr code generator skannaa avataksesi tiktok profiilisi",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "X (Twitter) -QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/x-twitter-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skannaa avataksesi X-profiilisi.",
+  "k": "x twitter qr code generator x twitter qr code generator skannaa avataksesi x profiilisi",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "LinkedIn-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/linkedin-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Muodosta ammattiyhteys yhdellä skannauksella.",
+  "k": "linkedin qr code generator linkedin qr code generator muodosta ammattiyhteys yhdella skannauksella",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Telegram-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/telegram-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skannaa liittyäksesi Telegram-profiiliisi, -ryhmääsi tai -kanavaasi.",
+  "k": "telegram qr code generator telegram qr code generator skannaa liittyaksesi telegram profiiliisi ryhmaasi tai kanavaasi",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Snapchat-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/snapchat-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skannaa lisätäksesi sinut Snapchatissa.",
+  "k": "snapchat qr code generator snapchat qr code generator skannaa lisataksesi sinut snapchatissa",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Google Maps -sijainti-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/google-maps-location-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skannaa saadaksesi reittiohjeet paikkaasi.",
+  "k": "google maps location qr code generator google maps location qr code generator skannaa saadaksesi reittiohjeet paikkaasi",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Google-arvio-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/google-review-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Tyytyväiset asiakkaat jättävät Google-arvion sekunneissa.",
+  "k": "google review qr code generator google review qr code generator tyytyvaiset asiakkaat jattavat google arvion sekunneissa",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Ravintolan ruokalista-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/restaurant-menu-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Kosketusvapaa ruokalista jokaisessa pöydässä.",
+  "k": "restaurant menu qr code generator restaurant menu qr code generator kosketusvapaa ruokalista jokaisessa poydassa",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "PDF-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/pdf-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skannaa avataksesi tai ladataksesi PDF-tiedoston.",
+  "k": "pdf qr code generator pdf qr code generator skannaa avataksesi tai ladataksesi pdf tiedoston",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "App Store- / Google Play -QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/app-store-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skannaa asentaaksesi sovelluksesi.",
+  "k": "app store google play qr code generator app store qr code generator skannaa asentaaksesi sovelluksesi",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Google Forms -QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/google-form-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skannaa avataksesi ja täyttääksesi Google-lomakkeen.",
+  "k": "google form qr code generator google form qr code generator skannaa avataksesi ja tayttaaksesi google lomakkeen",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Zoom- / kokous-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/zoom-meeting-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skannaa liittyäksesi kokoukseen tai kurssiin.",
+  "k": "zoom meeting qr code generator zoom meeting qr code generator skannaa liittyaksesi kokoukseen tai kurssiin",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Tapahtuma- / kalenteri-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/event-calendar-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skannaa tallentaaksesi tapahtuman kalenteriin.",
+  "k": "event calendar qr code generator event calendar qr code generator skannaa tallentaaksesi tapahtuman kalenteriin",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "PayPal-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/paypal-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Saa maksusi: skannaa avataksesi PayPal.me-sivusi.",
+  "k": "paypal qr code generator paypal qr code generator saa maksusi skannaa avataksesi paypal me sivusi",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "UPI-maksu-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/upi-payment-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "UPI-maksu-QR kaupoille Intiassa ja UPI-alueilla.",
+  "k": "upi payment qr code generator upi payment qr code generator upi maksu qr kaupoille intiassa ja upi alueilla",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "JazzCash- / EasyPaisa-QR-koodi (Pakistan) -generaattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/jazzcash-easypaisa-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Jaa JazzCash- tai EasyPaisa-tilitietosi QR:nä.",
+  "k": "jazzcash easypaisa qr code pakistan generator jazzcash easypaisa qr code generator jaa jazzcash tai easypaisa tilitietosi qr na",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Bitcoin- / krypto-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/bitcoin-crypto-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Jaa Bitcoin-lompakon osoite QR:nä.",
+  "k": "bitcoin crypto qr code generator bitcoin crypto qr code generator jaa bitcoin lompakon osoite qr na",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Spotify- / musiikki-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/spotify-music-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skannaa toistaaksesi kappaleen, soittolistan tai podcastin.",
+  "k": "spotify music qr code generator spotify music qr code generator skannaa toistaaksesi kappaleen soittolistan tai podcastin",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "CV- / portfolio-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/resume-portfolio-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Aseta CV:si tai portfoliosi yhden skannauksen päähän.",
+  "k": "resume portfolio qr code generator resume portfolio qr code generator aseta cv si tai portfoliosi yhden skannauksen paahan",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Kuva-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/image-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skannaa avataksesi tai jakaaksesi valokuva- tai kuvalinkin.",
+  "k": "image qr code generator image qr code generator skannaa avataksesi tai jakaaksesi valokuva tai kuvalinkin",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Ääni-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/audio-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skannaa toistaaksesi kappaleen, ääniviestin tai äänitiedoston.",
+  "k": "audio qr code generator audio qr code generator skannaa toistaaksesi kappaleen aaniviestin tai aanitiedoston",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Sosiaalisen median QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/social-media-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Yksi QR sosiaalisen median profiililinkeillesi.",
+  "k": "social media qr code generator social media qr code generator yksi qr sosiaalisen median profiililinkeillesi",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Pinterest-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/pinterest-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skannaa avataksesi Pinterest-profiilisi tai taulusi.",
+  "k": "pinterest qr code generator pinterest qr code generator skannaa avataksesi pinterest profiilisi tai taulusi",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Discord-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/discord-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skannaa liittyäksesi Discord-palvelimeesi tai profiiliisi.",
+  "k": "discord qr code generator discord qr code generator skannaa liittyaksesi discord palvelimeesi tai profiiliisi",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "GitHub-QR-koodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/github-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skannaa avataksesi GitHub-profiilisi tai tietovarastosi.",
+  "k": "github qr code generator github qr code generator skannaa avataksesi github profiilisi tai tietovarastosi",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "QR-koodi- ja viivakoodiskanneri",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/qr-code-scanner/",
+  "s": "Loona QR Codes",
+  "d": "Skannaa koodeja kamerallasi tai dekoodaa QR-koodeja ja viivakoodeja valokuvasta tai kuvakaappauksesta.",
+  "k": "qr code barcode scanner qr code scanner skannaa koodeja kamerallasi tai dekoodaa qr koodeja ja viivakoodeja valokuvasta tai kuvakaappauksesta",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "QR-koodien erägeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/bulk-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Luo jopa 100 nimettyä QR-koodia kerralla tulostettavaan arkkiin.",
+  "k": "bulk qr code generator bulk qr code generator luo jopa 100 nimettya qr koodia kerralla tulostettavaan arkkiin",
+  "p": 137,
+  "c": "Tool"
+ }
+]

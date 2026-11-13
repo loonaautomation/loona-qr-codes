@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR-koodien erägeneraattori",
+  "short_name": "QR-koodien erägeneraattori",
+  "description": "Luo jopa 100 QR-koodia kerralla, ilmaiseksi: liitä luettelo tai lataa CSV linkeistä ja teksteistä, saa nimetty tulostettava QR-koodien arkki. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan, 100% yksityinen selaimessasi.",
+  "id": "/loona-qr-codes/fi/bulk-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
