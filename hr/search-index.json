@@ -1,0 +1,344 @@
+[
+ {
+  "n": "Generator QR kodova za URL / web-mjesto",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/url-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Svaku poveznicu na web-mjesto pretvorite u QR kod.",
+  "k": "url website qr code generator url qr code generator svaku poveznicu na web mjesto pretvorite u qr kod",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za običan tekst",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/text-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Stavite bilo koji tekst, kod ili poruku unutar QR koda.",
+  "k": "plain text qr code generator text qr code generator stavite bilo koji tekst kod ili poruku unutar qr koda",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator WiFi QR kodova",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/wifi-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Gosti se povezuju na WiFi jednim skeniranjem, bez upisivanja lozinke.",
+  "k": "wifi qr code generator wifi qr code generator gosti se povezuju na wifi jednim skeniranjem bez upisivanja lozinke",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za WhatsApp",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/whatsapp-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Započnite WhatsApp razgovor jednim skeniranjem, bez spremanja broja.",
+  "k": "whatsapp qr code generator whatsapp qr code generator zapocnite whatsapp razgovor jednim skeniranjem bez spremanja broja",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za vCard kontakt",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/vcard-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skenirajte za spremanje svoje potpune kontaktne kartice na telefon.",
+  "k": "vcard contact qr code generator vcard qr code generator skenirajte za spremanje svoje potpune kontaktne kartice na telefon",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za e-poštu",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/email-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skenirajte za otvaranje unaprijed adresirane e-pošte, spremne za slanje.",
+  "k": "email qr code generator email qr code generator skenirajte za otvaranje unaprijed adresirane e poste spremne za slanje",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator SMS QR kodova",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/sms-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skenirajte za otvaranje unaprijed napisane tekstualne poruke.",
+  "k": "sms qr code generator sms qr code generator skenirajte za otvaranje unaprijed napisane tekstualne poruke",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za telefonski poziv",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/phone-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skenirajte za trenutno biranje svog broja.",
+  "k": "phone call qr code generator phone qr code generator skenirajte za trenutno biranje svog broja",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za Instagram",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/instagram-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Povećajte pratitelje Instagram QR-om skeniraj-i-prati.",
+  "k": "instagram qr code generator instagram qr code generator povecajte pratitelje instagram qr om skeniraj i prati",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za Facebook",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/facebook-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Ljude šaljite izravno na svoju Facebook stranicu.",
+  "k": "facebook qr code generator facebook qr code generator ljude saljite izravno na svoju facebook stranicu",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za YouTube",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/youtube-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skenirajte za trenutno otvaranje videozapisa ili kanala.",
+  "k": "youtube qr code generator youtube qr code generator skenirajte za trenutno otvaranje videozapisa ili kanala",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za TikTok",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/tiktok-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skenirajte za otvaranje svog profila na TikToku.",
+  "k": "tiktok qr code generator tiktok qr code generator skenirajte za otvaranje svog profila na tiktoku",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za X (Twitter)",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/x-twitter-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skenirajte za otvaranje svog profila na X-u.",
+  "k": "x twitter qr code generator x twitter qr code generator skenirajte za otvaranje svog profila na x u",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za LinkedIn",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/linkedin-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Povežite se profesionalno jednim skeniranjem.",
+  "k": "linkedin qr code generator linkedin qr code generator povezite se profesionalno jednim skeniranjem",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za Telegram",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/telegram-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skenirajte za pridruživanje svom profilu, grupi ili kanalu na Telegramu.",
+  "k": "telegram qr code generator telegram qr code generator skenirajte za pridruzivanje svom profilu grupi ili kanalu na telegramu",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za Snapchat",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/snapchat-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skenirajte za dodavanje na Snapchatu.",
+  "k": "snapchat qr code generator snapchat qr code generator skenirajte za dodavanje na snapchatu",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za lokaciju na Google kartama",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/google-maps-location-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skenirajte za upute do svog mjesta.",
+  "k": "google maps location qr code generator google maps location qr code generator skenirajte za upute do svog mjesta",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za Google recenziju",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/google-review-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Zadovoljni kupci ostavljaju Google recenziju u nekoliko sekundi.",
+  "k": "google review qr code generator google review qr code generator zadovoljni kupci ostavljaju google recenziju u nekoliko sekundi",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za jelovnik restorana",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/restaurant-menu-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Beskontaktni jelovnik na svakom stolu.",
+  "k": "restaurant menu qr code generator restaurant menu qr code generator beskontaktni jelovnik na svakom stolu",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za PDF",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/pdf-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skenirajte za otvaranje ili preuzimanje PDF datoteke.",
+  "k": "pdf qr code generator pdf qr code generator skenirajte za otvaranje ili preuzimanje pdf datoteke",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za App Store / Google Play",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/app-store-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skenirajte za instalaciju svoje aplikacije.",
+  "k": "app store google play qr code generator app store qr code generator skenirajte za instalaciju svoje aplikacije",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za Google obrazac",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/google-form-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skenirajte za otvaranje i ispunjavanje Google obrasca.",
+  "k": "google form qr code generator google form qr code generator skenirajte za otvaranje i ispunjavanje google obrasca",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za Zoom / sastanak",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/zoom-meeting-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skenirajte za pridruživanje sastanku ili satu.",
+  "k": "zoom meeting qr code generator zoom meeting qr code generator skenirajte za pridruzivanje sastanku ili satu",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za događaj / kalendar",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/event-calendar-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skenirajte za spremanje događaja u kalendar.",
+  "k": "event calendar qr code generator event calendar qr code generator skenirajte za spremanje doga aja u kalendar",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za PayPal",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/paypal-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Primite plaćanje: skenirajte za otvaranje svoje PayPal.me stranice.",
+  "k": "paypal qr code generator paypal qr code generator primite placanje skenirajte za otvaranje svoje paypal me stranice",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za UPI plaćanje",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/upi-payment-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "UPI QR za plaćanje za trgovine u Indiji i UPI regijama.",
+  "k": "upi payment qr code generator upi payment qr code generator upi qr za placanje za trgovine u indiji i upi regijama",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za JazzCash / EasyPaisa (Pakistan)",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/jazzcash-easypaisa-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Podijelite podatke svog JazzCash ili EasyPaisa računa kao QR.",
+  "k": "jazzcash easypaisa qr code pakistan generator jazzcash easypaisa qr code generator podijelite podatke svog jazzcash ili easypaisa racuna kao qr",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za Bitcoin / kripto",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/bitcoin-crypto-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Podijelite adresu Bitcoin novčanika kao QR.",
+  "k": "bitcoin crypto qr code generator bitcoin crypto qr code generator podijelite adresu bitcoin novcanika kao qr",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za Spotify / glazbu",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/spotify-music-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skenirajte za reprodukciju pjesme, popisa za reprodukciju ili podcasta.",
+  "k": "spotify music qr code generator spotify music qr code generator skenirajte za reprodukciju pjesme popisa za reprodukciju ili podcasta",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za životopis / portfelj",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/resume-portfolio-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Stavite svoj životopis ili portfelj na jedno skeniranje udaljenosti.",
+  "k": "resume portfolio qr code generator resume portfolio qr code generator stavite svoj zivotopis ili portfelj na jedno skeniranje udaljenosti",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za slike",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/image-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skenirajte za otvaranje ili dijeljenje fotografije ili poveznice na sliku.",
+  "k": "image qr code generator image qr code generator skenirajte za otvaranje ili dijeljenje fotografije ili poveznice na sliku",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za audio",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/audio-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skenirajte za reprodukciju pjesme, glasovne bilješke ili audiodatoteke.",
+  "k": "audio qr code generator audio qr code generator skenirajte za reprodukciju pjesme glasovne biljeske ili audiodatoteke",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za društvene mreže",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/social-media-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Jedan QR za poveznice vaših profila na društvenim mrežama.",
+  "k": "social media qr code generator social media qr code generator jedan qr za poveznice vasih profila na drustvenim mrezama",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za Pinterest",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/pinterest-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skenirajte za otvaranje svog profila ili ploče na Pinterestu.",
+  "k": "pinterest qr code generator pinterest qr code generator skenirajte za otvaranje svog profila ili ploce na pinterestu",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za Discord",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/discord-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skenirajte za pridruživanje svom Discord poslužitelju ili profilu.",
+  "k": "discord qr code generator discord qr code generator skenirajte za pridruzivanje svom discord posluzitelju ili profilu",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator QR kodova za GitHub",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/github-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skenirajte za otvaranje svog GitHub profila ili repozitorija.",
+  "k": "github qr code generator github qr code generator skenirajte za otvaranje svog github profila ili repozitorija",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Skener QR kodova i crtičnih kodova",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/qr-code-scanner/",
+  "s": "Loona QR Codes",
+  "d": "Skenirajte kodove kamerom ili dekodirajte QR kodove i crtične kodove s fotografije ili snimke zaslona.",
+  "k": "qr code barcode scanner qr code scanner skenirajte kodove kamerom ili dekodirajte qr kodove i crticne kodove s fotografije ili snimke zaslona",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Skupni generator QR kodova",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hr/bulk-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Stvorite do 100 označenih QR kodova odjednom na ispisivom listu.",
+  "k": "bulk qr code generator bulk qr code generator stvorite do 100 oznacenih qr kodova odjednom na ispisivom listu",
+  "p": 137,
+  "c": "Tool"
+ }
+]

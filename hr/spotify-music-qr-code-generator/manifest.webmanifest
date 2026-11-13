@@ -1,0 +1,29 @@
+{
+  "name": "Loona generator QR kodova za Spotify / glazbu",
+  "short_name": "QR kod za Spotify / glazbu",
+  "description": "Stvorite besplatni QR kod za Spotify / glazbu trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Skenirajte za reprodukciju pjesme, popisa za reprodukciju ili podcasta. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
+  "id": "/loona-qr-codes/hr/spotify-music-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

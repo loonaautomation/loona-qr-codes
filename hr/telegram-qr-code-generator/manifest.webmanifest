@@ -1,0 +1,29 @@
+{
+  "name": "Loona generator QR kodova za Telegram",
+  "short_name": "Generator QR kodova za Telegram",
+  "description": "Stvorite besplatni QR kod za Telegram trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Skenirajte za pridruživanje svom Telegram profilu, grupi ili kanalu. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
+  "id": "/loona-qr-codes/hr/telegram-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

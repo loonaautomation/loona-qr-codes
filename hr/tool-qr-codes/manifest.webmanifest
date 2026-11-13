@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR Codes za sve Loona alate",
+  "short_name": "QR kodovi za sve Loona alate",
+  "description": "Dobijte besplatni gotovi QR kod za bilo koji Loona alat — 955 kalkulatora, PDF alata, alata za slike, alata za učenje i aplikacija. Odaberite alat, preuzmite njegov QR kod kao PNG visoke razlučivosti i ispišite ga. Bez registracije, bez vodenog žiga, nikada ne istječe.",
+  "id": "/loona-qr-codes/hr/tool-qr-codes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

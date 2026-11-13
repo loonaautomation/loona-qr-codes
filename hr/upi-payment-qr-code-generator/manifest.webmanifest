@@ -1,0 +1,29 @@
+{
+  "name": "Loona generator QR kodova za UPI plaćanje",
+  "short_name": "Generator QR kodova za UPI plaćanje",
+  "description": "Stvorite besplatni QR kod za UPI plaćanje trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. UPI QR za plaćanje za trgovine u Indiji i UPI regijama. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
+  "id": "/loona-qr-codes/hr/upi-payment-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

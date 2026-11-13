@@ -1,0 +1,29 @@
+{
+  "name": "Loona generator QR kodova s logotipom",
+  "short_name": "Generator QR kodova s logotipom",
+  "description": "Besplatni generator QR kodova s logotipom: dodajte svoj logotip u središte QR koda na razini ispravljanja pogrešaka H, prilagođene boje, preuzimanje PNG-a od 1024px, bez vodenog žiga.",
+  "id": "/loona-qr-codes/hr/qr-code-with-logo-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

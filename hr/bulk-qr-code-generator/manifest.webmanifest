@@ -1,0 +1,29 @@
+{
+  "name": "Loona skupni generator QR kodova",
+  "short_name": "Skupni generator QR kodova",
+  "description": "Stvorite do 100 QR kodova odjednom, besplatno: zalijepite popis ili prenesite CSV poveznica i tekstova, dobijte označeni ispisivi list QR kodova. Bez registracije, bez vodenog žiga, nikada ne istječe, 100% privatno u vašem pregledniku.",
+  "id": "/loona-qr-codes/hr/bulk-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

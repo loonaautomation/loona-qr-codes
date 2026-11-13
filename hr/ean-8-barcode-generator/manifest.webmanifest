@@ -1,0 +1,29 @@
+{
+  "name": "Loona generator crtičnih kodova EAN-8",
+  "short_name": "Generator crtičnih kodova EAN-8",
+  "description": "Besplatni generator crtičnih kodova EAN-8. Ispravne kontrolne znamenke gdje ih standard ima, preuzimanje PNG-a i SVG-a, bez registracije, bez vodenog žiga.",
+  "id": "/loona-qr-codes/hr/ean-8-barcode-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
