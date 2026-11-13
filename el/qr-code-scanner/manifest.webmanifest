@@ -1,0 +1,29 @@
+{
+  "name": "Loona — Σαρωτής Κωδικών QR & Barcode",
+  "short_name": "Σαρωτής Κωδικών QR & Barcode",
+  "description": "Σαρώστε κωδικούς QR και barcode δωρεάν διαδικτυακά με το Loona: χρησιμοποιήστε την κάμερά σας ή ανεβάστε μια φωτογραφία ή στιγμιότυπο οθόνης. Αποκωδικοποιεί URL, WiFi, επαφές vCard, EAN-13, UPC-A, Code 128 και Code 39. 100% ιδιωτικό — τα πάντα αποκωδικοποιούνται στη συσκευή σας, τίποτα δεν ανεβαίνει.",
+  "id": "/loona-qr-codes/el/qr-code-scanner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

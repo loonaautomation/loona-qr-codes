@@ -1,0 +1,29 @@
+{
+  "name": "Loona — Γεννήτρια Barcode ITF-14",
+  "short_name": "Γεννήτρια Γραμμωτού Κωδικού ITF-14",
+  "description": "Δωρεάν γεννήτρια γραμμωτού κωδικού ITF-14. Σωστά ψηφία ελέγχου όπου το πρότυπο τα έχει, λήψη PNG και SVG, χωρίς εγγραφή, χωρίς υδατογράφημα.",
+  "id": "/loona-qr-codes/el/itf-14-barcode-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

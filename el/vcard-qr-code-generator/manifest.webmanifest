@@ -1,0 +1,29 @@
+{
+  "name": "Loona — Γεννήτρια Κωδικού QR Επαφής vCard",
+  "short_name": "Κωδικός QR Επαφής vCard",
+  "description": "Δημιουργήστε έναν δωρεάν Κωδικό QR Επαφής vCard αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Σαρώστε για να αποθηκεύσετε την πλήρη κάρτα επαφής σας σε ένα τηλέφωνο. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
+  "id": "/loona-qr-codes/el/vcard-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

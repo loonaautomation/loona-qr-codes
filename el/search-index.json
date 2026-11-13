@@ -1,0 +1,344 @@
+[
+ {
+  "n": "Γεννήτρια Κωδικού QR URL / Ιστότοπου",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/url-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Μετατρέψτε οποιονδήποτε σύνδεσμο ιστότοπου σε κωδικό QR.",
+  "k": "url website qr code generator url qr code generator qr",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR Απλού Κειμένου",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/text-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Βάλτε οποιοδήποτε κείμενο, κωδικό ή μήνυμα μέσα σε έναν κωδικό QR.",
+  "k": "plain text qr code generator text qr code generator qr",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR WiFi",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/wifi-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Οι επισκέπτες συνδέονται στο WiFi με μία σάρωση, χωρίς πληκτρολόγηση κωδικού πρόσβασης.",
+  "k": "wifi qr code generator wifi qr code generator wifi",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR WhatsApp",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/whatsapp-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Ξεκινήστε μια συνομιλία WhatsApp με μία σάρωση, χωρίς αποθήκευση αριθμού.",
+  "k": "whatsapp qr code generator whatsapp qr code generator whatsapp",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR Επαφής vCard",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/vcard-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Σαρώστε για να αποθηκεύσετε την πλήρη κάρτα επαφής σας σε ένα τηλέφωνο.",
+  "k": "vcard contact qr code generator vcard qr code generator",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR Email",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/email-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Σαρώστε για να ανοίξετε ένα προσυμπληρωμένο email, έτοιμο για αποστολή.",
+  "k": "email qr code generator email qr code generator email",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR SMS",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/sms-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Σαρώστε για να ανοίξετε ένα προσυμπληρωμένο μήνυμα κειμένου.",
+  "k": "sms qr code generator sms qr code generator",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR Τηλεφωνικής Κλήσης",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/phone-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Σαρώστε για να καλέσετε τον αριθμό σας αμέσως.",
+  "k": "phone call qr code generator phone qr code generator",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR Instagram",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/instagram-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Αυξήστε ακόλουθους με ένα QR σάρωσης-για-ακολούθηση του Instagram.",
+  "k": "instagram qr code generator instagram qr code generator qr instagram",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR Facebook",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/facebook-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Στείλτε τους ανθρώπους κατευθείαν στη σελίδα σας στο Facebook.",
+  "k": "facebook qr code generator facebook qr code generator facebook",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR YouTube",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/youtube-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Σαρώστε για να ανοίξετε ένα βίντεο ή κανάλι αμέσως.",
+  "k": "youtube qr code generator youtube qr code generator",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR TikTok",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/tiktok-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Σαρώστε για να ανοίξετε το προφίλ σας στο TikTok.",
+  "k": "tiktok qr code generator tiktok qr code generator tiktok",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR X (Twitter)",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/x-twitter-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Σαρώστε για να ανοίξετε το προφίλ σας στο X.",
+  "k": "x twitter qr code generator x twitter qr code generator x",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR LinkedIn",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/linkedin-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Συνδεθείτε επαγγελματικά με μία σάρωση.",
+  "k": "linkedin qr code generator linkedin qr code generator",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR Telegram",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/telegram-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Σαρώστε για να μπείτε στο προφίλ, την ομάδα ή το κανάλι σας στο Telegram.",
+  "k": "telegram qr code generator telegram qr code generator telegram",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR Snapchat",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/snapchat-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Σαρώστε για να σας προσθέσουν στο Snapchat.",
+  "k": "snapchat qr code generator snapchat qr code generator snapchat",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR Τοποθεσίας Χαρτών Google",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/google-maps-location-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Σαρώστε για να λάβετε οδηγίες προς τον χώρο σας.",
+  "k": "google maps location qr code generator google maps location qr code generator",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR Κριτικής Google",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/google-review-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Οι ευχαριστημένοι πελάτες αφήνουν μια κριτική Google σε δευτερόλεπτα.",
+  "k": "google review qr code generator google review qr code generator google",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR Μενού Εστιατορίου",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/restaurant-menu-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Μενού χωρίς επαφή σε κάθε τραπέζι.",
+  "k": "restaurant menu qr code generator restaurant menu qr code generator",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR PDF",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/pdf-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Σαρώστε για να ανοίξετε ή να κατεβάσετε ένα αρχείο PDF.",
+  "k": "pdf qr code generator pdf qr code generator pdf",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR App Store / Google Play",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/app-store-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Σαρώστε για να εγκαταστήσετε την εφαρμογή σας.",
+  "k": "app store google play qr code generator app store qr code generator",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR Φόρμας Google",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/google-form-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Σαρώστε για να ανοίξετε και να συμπληρώσετε μια Φόρμα Google.",
+  "k": "google form qr code generator google form qr code generator google",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR Zoom / Συνάντησης",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/zoom-meeting-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Σαρώστε για να μπείτε σε μια συνάντηση ή ένα μάθημα.",
+  "k": "zoom meeting qr code generator zoom meeting qr code generator",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR Εκδήλωσης / Ημερολογίου",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/event-calendar-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Σαρώστε για να αποθηκεύσετε μια εκδήλωση στο ημερολόγιο.",
+  "k": "event calendar qr code generator event calendar qr code generator",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR PayPal",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/paypal-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Πληρωθείτε: σαρώστε για να ανοίξετε τη σελίδα PayPal.me σας.",
+  "k": "paypal qr code generator paypal qr code generator paypal me",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR Πληρωμής UPI",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/upi-payment-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Κωδικός QR πληρωμής UPI για καταστήματα στην Ινδία και τις περιοχές UPI.",
+  "k": "upi payment qr code generator upi payment qr code generator qr upi upi",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR JazzCash / EasyPaisa (Πακιστάν)",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/jazzcash-easypaisa-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Μοιραστείτε τα στοιχεία του λογαριασμού σας JazzCash ή EasyPaisa ως QR.",
+  "k": "jazzcash easypaisa qr code pakistan generator jazzcash easypaisa qr code generator jazzcash easypaisa qr",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR Bitcoin / Κρυπτονομισμάτων",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/bitcoin-crypto-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Μοιραστείτε μια διεύθυνση πορτοφολιού Bitcoin ως QR.",
+  "k": "bitcoin crypto qr code generator bitcoin crypto qr code generator bitcoin qr",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR Spotify / Μουσικής",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/spotify-music-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Σαρώστε για να παίξετε ένα τραγούδι, λίστα αναπαραγωγής ή podcast.",
+  "k": "spotify music qr code generator spotify music qr code generator podcast",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR Βιογραφικού / Χαρτοφυλακίου",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/resume-portfolio-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Βάλτε το βιογραφικό ή το χαρτοφυλάκιό σας ένα σάρωμα μακριά.",
+  "k": "resume portfolio qr code generator resume portfolio qr code generator",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR Εικόνας",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/image-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Σαρώστε για να ανοίξετε ή να μοιραστείτε έναν σύνδεσμο φωτογραφίας ή εικόνας.",
+  "k": "image qr code generator image qr code generator",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR Ήχου",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/audio-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Σαρώστε για να παίξετε ένα τραγούδι, φωνητικό σημείωμα ή αρχείο ήχου.",
+  "k": "audio qr code generator audio qr code generator",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR Κοινωνικών Δικτύων",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/social-media-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Ένας κωδικός QR για τους συνδέσμους των προφίλ σας στα κοινωνικά δίκτυα.",
+  "k": "social media qr code generator social media qr code generator qr",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR Pinterest",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/pinterest-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Σαρώστε για να ανοίξετε το προφίλ ή τον πίνακά σας στο Pinterest.",
+  "k": "pinterest qr code generator pinterest qr code generator pinterest",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR Discord",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/discord-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Σαρώστε για να μπείτε στον διακομιστή ή το προφίλ σας στο Discord.",
+  "k": "discord qr code generator discord qr code generator discord",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Κωδικού QR GitHub",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/github-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Σαρώστε για να ανοίξετε το προφίλ ή το αποθετήριό σας στο GitHub.",
+  "k": "github qr code generator github qr code generator github",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Σαρωτής Κωδικών QR & Barcode",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/qr-code-scanner/",
+  "s": "Loona QR Codes",
+  "d": "Σαρώστε κωδικούς με την κάμερά σας, ή αποκωδικοποιήστε κωδικούς QR και barcode από μια φωτογραφία ή στιγμιότυπο οθόνης.",
+  "k": "qr code barcode scanner qr code scanner qr barcode",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Μαζική Γεννήτρια Κωδικών QR",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/el/bulk-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Δημιουργήστε έως 100 κωδικούς QR με ετικέτες ταυτόχρονα σε ένα εκτυπώσιμο φύλλο.",
+  "k": "bulk qr code generator bulk qr code generator 100 qr",
+  "p": 137,
+  "c": "Tool"
+ }
+]

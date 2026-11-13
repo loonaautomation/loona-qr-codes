@@ -1,0 +1,29 @@
+{
+  "name": "Loona — Γεννήτρια Κωδικού QR με Λογότυπο",
+  "short_name": "Γεννήτρια Κωδικού QR με Λογότυπο",
+  "description": "Δωρεάν γεννήτρια κωδικού QR με λογότυπο: προσθέστε το λογότυπό σας στο κέντρο ενός κωδικού QR σε επίπεδο διόρθωσης σφαλμάτων H, προσαρμοσμένα χρώματα, λήψη PNG 1024px, χωρίς υδατογράφημα.",
+  "id": "/loona-qr-codes/el/qr-code-with-logo-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

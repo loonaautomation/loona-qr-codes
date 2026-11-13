@@ -1,0 +1,29 @@
+{
+  "name": "Loona — Γεννήτρια Κωδικού QR Πληρωμής UPI",
+  "short_name": "Γεννήτρια Κωδικού QR Πληρωμής UPI",
+  "description": "Δημιουργήστε έναν δωρεάν Κωδικό QR Πληρωμής UPI αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Κωδικός QR πληρωμής UPI για καταστήματα στην Ινδία και τις περιοχές UPI. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
+  "id": "/loona-qr-codes/el/upi-payment-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

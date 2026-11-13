@@ -1,0 +1,29 @@
+{
+  "name": "Loona — Υπολογιστής Μεγέθους Κωδικού QR",
+  "short_name": "Υπολογιστής Μεγέθους Κωδικού QR",
+  "description": "Δωρεάν υπολογιστής μεγέθους κωδικού QR: εισαγάγετε την απόσταση σάρωσης και τον τύπο περιεχομένου για να πάρετε το ελάχιστο μέγεθος εκτύπωσης σε cm, τη συνιστώμενη ανάλυση PNG και το πλάτος της ζώνης ησυχίας.",
+  "id": "/loona-qr-codes/el/qr-code-size-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

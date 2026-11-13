@@ -1,0 +1,29 @@
+{
+  "name": "Loona — Γεννήτρια Κωδικού QR Bitcoin / Κρυπτονομισμάτων",
+  "short_name": "Κωδικός QR Bitcoin / Κρυπτονομισμάτων",
+  "description": "Δημιουργήστε έναν δωρεάν Κωδικό QR Bitcoin / Κρυπτονομισμάτων αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Μοιραστείτε μια διεύθυνση πορτοφολιού Bitcoin ως QR. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
+  "id": "/loona-qr-codes/el/bitcoin-crypto-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

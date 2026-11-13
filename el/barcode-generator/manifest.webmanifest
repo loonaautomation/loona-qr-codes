@@ -1,0 +1,29 @@
+{
+  "name": "Loona — Γεννήτρια Barcode",
+  "short_name": "Γεννήτρια Γραμμωτών Κωδικών",
+  "description": "Δημιουργήστε δωρεάν γραμμωτούς κωδικούς διαδικτυακά με τη Loona: Code 128, Code 39, EAN-13, UPC-A και ITF-14. Τα ψηφία ελέγχου προστίθενται αυτόματα, ζωντανή προεπισκόπηση, λήψη ως PNG ή SVG. Χωρίς εγγραφή, χωρίς υδατογράφημα, 100% ιδιωτικά στο πρόγραμμα περιήγησής σας.",
+  "id": "/loona-qr-codes/el/barcode-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR Codes για Όλα τα Εργαλεία Loona",
+  "short_name": "Κωδικοί QR για Όλα τα Εργαλεία Loona",
+  "description": "Πάρτε έναν δωρεάν έτοιμο κωδικό QR για οποιοδήποτε εργαλείο της Loona — 955 υπολογιστές, εργαλεία PDF, εργαλεία εικόνας, εργαλεία μελέτης και εφαρμογές. Διαλέξτε ένα εργαλείο, κατεβάστε τον κωδικό QR του ως PNG υψηλής ανάλυσης και εκτυπώστε τον. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ.",
+  "id": "/loona-qr-codes/el/tool-qr-codes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
