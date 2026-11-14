@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR-коди для всіх інструментів Loona",
+  "short_name": "QR-коди для всіх інструментів Loona",
+  "description": "Отримайте безкоштовний готовий QR-код для будь-якого інструмента Loona — 955 калькуляторів, інструменти PDF, інструменти зображень, навчальні інструменти й застосунки. Виберіть інструмент, завантажте його QR-код як PNG у високій роздільній здатності й надрукуйте. Без реєстрації, без водяного знака, строк дії ніколи не закінчується.",
+  "id": "/loona-qr-codes/uk/tool-qr-codes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

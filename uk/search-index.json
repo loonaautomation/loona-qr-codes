@@ -1,0 +1,344 @@
+[
+ {
+  "n": "Генератор QR-кодів URL / вебсайту",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/url-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Перетворіть будь-яке посилання на вебсайт на QR-код.",
+  "k": "url website qr code generator url qr code generator qr",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів звичайного тексту",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/text-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Вмістіть будь-який текст, код або повідомлення в QR-код.",
+  "k": "plain text qr code generator text qr code generator qr",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів WiFi",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/wifi-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Гості під’єднуються до WiFi одним скануванням, без введення пароля.",
+  "k": "wifi qr code generator wifi qr code generator wifi",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів WhatsApp",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/whatsapp-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Почніть чат WhatsApp одним скануванням, без збереження номера.",
+  "k": "whatsapp qr code generator whatsapp qr code generator whatsapp",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів контактів vCard",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/vcard-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Скануйте, щоб зберегти вашу повну контактну картку в телефон.",
+  "k": "vcard contact qr code generator vcard qr code generator",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів електронної пошти",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/email-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Скануйте, щоб відкрити попередньо адресовану електронну пошту, готову до надсилання.",
+  "k": "email qr code generator email qr code generator",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів SMS",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/sms-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Скануйте, щоб відкрити попередньо написане текстове повідомлення.",
+  "k": "sms qr code generator sms qr code generator",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів телефонних дзвінків",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/phone-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Скануйте, щоб набрати ваш номер миттєво.",
+  "k": "phone call qr code generator phone qr code generator",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів Instagram",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/instagram-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Нарощуйте підписників за допомогою QR-коду Instagram для підписки одним скануванням.",
+  "k": "instagram qr code generator instagram qr code generator qr instagram",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів Facebook",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/facebook-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Надсилайте людей просто на вашу сторінку Facebook.",
+  "k": "facebook qr code generator facebook qr code generator facebook",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів YouTube",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/youtube-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Скануйте, щоб відкрити відео або канал миттєво.",
+  "k": "youtube qr code generator youtube qr code generator",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів TikTok",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/tiktok-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Скануйте, щоб відкрити ваш профіль TikTok.",
+  "k": "tiktok qr code generator tiktok qr code generator tiktok",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів X (Twitter)",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/x-twitter-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Скануйте, щоб відкрити ваш профіль X.",
+  "k": "x twitter qr code generator x twitter qr code generator x",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів LinkedIn",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/linkedin-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Налагоджуйте професійні зв’язки одним скануванням.",
+  "k": "linkedin qr code generator linkedin qr code generator",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів Telegram",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/telegram-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Скануйте, щоб приєднатися до вашого профілю, групи або каналу Telegram.",
+  "k": "telegram qr code generator telegram qr code generator telegram",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів Snapchat",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/snapchat-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Скануйте, щоб додати вас у Snapchat.",
+  "k": "snapchat qr code generator snapchat qr code generator snapchat",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів місця в Google Картах",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/google-maps-location-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Скануйте, щоб отримати маршрути до вашого місця.",
+  "k": "google maps location qr code generator google maps location qr code generator",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів відгуків Google",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/google-review-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Щасливі клієнти залишають відгук у Google за секунди.",
+  "k": "google review qr code generator google review qr code generator google",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів меню ресторанів",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/restaurant-menu-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Безконтактне меню на кожному столику.",
+  "k": "restaurant menu qr code generator restaurant menu qr code generator",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів PDF",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/pdf-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Скануйте, щоб відкрити або завантажити файл PDF.",
+  "k": "pdf qr code generator pdf qr code generator pdf",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів App Store / Google Play",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/app-store-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Скануйте, щоб встановити ваш застосунок.",
+  "k": "app store google play qr code generator app store qr code generator",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів Google Форм",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/google-form-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Скануйте, щоб відкрити й заповнити Google Форму.",
+  "k": "google form qr code generator google form qr code generator google",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів Zoom / зустрічі",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/zoom-meeting-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Скануйте, щоб приєднатися до зустрічі або класу.",
+  "k": "zoom meeting qr code generator zoom meeting qr code generator",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів події / календаря",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/event-calendar-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Скануйте, щоб зберегти подію до календаря.",
+  "k": "event calendar qr code generator event calendar qr code generator",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів PayPal",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/paypal-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Отримуйте оплату: скануйте, щоб відкрити свою сторінку PayPal.me.",
+  "k": "paypal qr code generator paypal qr code generator paypal me",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор платіжних QR-кодів UPI",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/upi-payment-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Платіжний QR-код UPI для крамниць в Індії та регіонах UPI.",
+  "k": "upi payment qr code generator upi payment qr code generator qr upi upi",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів JazzCash / EasyPaisa (Пакистан)",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/jazzcash-easypaisa-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Діліться реквізитами вашого рахунку JazzCash або EasyPaisa як QR-кодом.",
+  "k": "jazzcash easypaisa qr code pakistan generator jazzcash easypaisa qr code generator jazzcash easypaisa qr",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів Bitcoin / Crypto",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/bitcoin-crypto-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Діліться адресою гаманця Bitcoin як QR-кодом.",
+  "k": "bitcoin crypto qr code generator bitcoin crypto qr code generator bitcoin qr",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів Spotify / музики",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/spotify-music-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Скануйте, щоб грати пісню, плейліст або подкаст.",
+  "k": "spotify music qr code generator spotify music qr code generator",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів резюме / портфоліо",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/resume-portfolio-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Поставте ваше резюме або портфоліо на відстані одного сканування.",
+  "k": "resume portfolio qr code generator resume portfolio qr code generator",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів зображень",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/image-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Скануйте, щоб відкрити або поділитися посиланням на фото чи зображення.",
+  "k": "image qr code generator image qr code generator",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор аудіо QR-кодів",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/audio-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Скануйте, щоб грати пісню, голосову нотатку або аудіофайл.",
+  "k": "audio qr code generator audio qr code generator",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів для соціальних мереж",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/social-media-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Один QR для посилань на ваші профілі в соціальних мережах.",
+  "k": "social media qr code generator social media qr code generator qr",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів Pinterest",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/pinterest-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Скануйте, щоб відкрити ваш профіль або дошку Pinterest.",
+  "k": "pinterest qr code generator pinterest qr code generator pinterest",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів Discord",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/discord-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Скануйте, щоб приєднатися до вашого сервера або профілю Discord.",
+  "k": "discord qr code generator discord qr code generator discord",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор QR-кодів GitHub",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/github-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Скануйте, щоб відкрити ваш профіль або репозиторій GitHub.",
+  "k": "github qr code generator github qr code generator github",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Сканер QR-кодів і штрих-кодів",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/qr-code-scanner/",
+  "s": "Loona QR Codes",
+  "d": "Скануйте коди камерою, або декодуйте QR-коди й штрих-коди з фото чи знімка екрана.",
+  "k": "qr code barcode scanner qr code scanner qr",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Пакетний генератор QR-кодів",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/uk/bulk-qr-code-generator/",
+  "s": "Loona QR Codes",
+  "d": "Створюйте до 100 підписаних QR-кодів одночасно на аркуші для друку.",
+  "k": "bulk qr code generator bulk qr code generator 100 qr",
+  "p": 137,
+  "c": "Tool"
+ }
+]

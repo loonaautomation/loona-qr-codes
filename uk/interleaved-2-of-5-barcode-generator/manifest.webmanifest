@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор штрих-кодів Interleaved 2 of 5",
+  "short_name": "Штрих-код Interleaved 2 of 5",
+  "description": "Безкоштовний генератор штрих-кодів Interleaved 2 of 5. Правильні контрольні цифри там, де їх має стандарт, завантаження PNG і SVG, без реєстрації, без водяного знака.",
+  "id": "/loona-qr-codes/uk/interleaved-2-of-5-barcode-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

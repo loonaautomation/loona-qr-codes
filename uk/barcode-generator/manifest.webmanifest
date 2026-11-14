@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор штрих-кодів",
+  "short_name": "Генератор штрих-кодів",
+  "description": "Створюйте безкоштовні штрих-коди онлайн з Loona: Code 128, Code 39, EAN-13, UPC-A та ITF-14. Контрольні цифри додаються автоматично, живий попередній перегляд, завантаження як PNG або SVG. Без реєстрації, без водяного знака, 100% приватно у вашому браузері.",
+  "id": "/loona-qr-codes/uk/barcode-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

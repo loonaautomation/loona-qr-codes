@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор QR-кодів TikTok",
+  "short_name": "Генератор QR-кодів TikTok",
+  "description": "Створіть безкоштовний QR-код TikTok миттєво з Loona. Без реєстрації, без водяного знака, строк дії ніколи не закінчується. Скануйте, щоб відкрити свій профіль TikTok. Користувацькі кольори, завантаження PNG у високій роздільній здатності.",
+  "id": "/loona-qr-codes/uk/tiktok-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

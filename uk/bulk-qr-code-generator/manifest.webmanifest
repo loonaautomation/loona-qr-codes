@@ -1,0 +1,29 @@
+{
+  "name": "Loona Пакетний генератор QR-кодів",
+  "short_name": "Пакетний генератор QR-кодів",
+  "description": "Створюйте до 100 QR-кодів одночасно, безкоштовно: вставте список або завантажте CSV посилань і текстів, отримайте підписаний аркуш QR-кодів для друку. Без реєстрації, без водяного знака, строк дії ніколи не закінчується, 100% приватно у вашому браузері.",
+  "id": "/loona-qr-codes/uk/bulk-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

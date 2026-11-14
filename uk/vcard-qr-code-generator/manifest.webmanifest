@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор QR-кодів контактів vCard",
+  "short_name": "QR-код контакту vCard",
+  "description": "Створіть безкоштовний QR-код контакту vCard миттєво з Loona. Без реєстрації, без водяного знака, строк дії ніколи не закінчується. Скануйте, щоб зберегти свою повну візитку в телефон. Користувацькі кольори, завантаження PNG у високій роздільній здатності.",
+  "id": "/loona-qr-codes/uk/vcard-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
