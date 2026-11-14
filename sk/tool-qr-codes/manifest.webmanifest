@@ -1,0 +1,29 @@
+{
+  "name": "Loona QR kódy pre všetky nástroje Loona",
+  "short_name": "QR kódy pre všetky nástroje Loona",
+  "description": "Získajte zadarmo hotový QR kód pre ľubovoľný nástroj Loona — 955 kalkulačiek, nástrojov PDF, obrázkových nástrojov, študijných nástrojov a aplikácií. Vyberte nástroj, stiahnite si jeho QR kód ako PNG vo vysokom rozlíšení a vytlačte ho. Bez registrácie, bez vodoznaku, nikdy neexspiruje.",
+  "id": "/loona-qr-codes/sk/tool-qr-codes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

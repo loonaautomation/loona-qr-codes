@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generátor QR kódov pre obrázky",
+  "short_name": "Generátor obrázkových QR kódov",
+  "description": "Vytvorte si zadarmo QR kód pre obrázok okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Naskenujte a otvorte fotografiu, plagát, obrázok jedálneho lístka alebo obrázok produktu. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
+  "id": "/loona-qr-codes/sk/image-qr-code-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Code 39 Barcode Generator",
+  "short_name": "Generátor čiarových kódov Code 39",
+  "description": "Bezplatný generátor čiarových kódov Code 39. Správne kontrolné číslice tam, kde ich norma má, stiahnutie PNG a SVG, bez registrácie, bez vodoznaku.",
+  "id": "/loona-qr-codes/sk/code-39-barcode-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-qr-codes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-qr-codes/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
