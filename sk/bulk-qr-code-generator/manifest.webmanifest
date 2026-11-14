@@ -1,5 +1,5 @@
 {
-  "name": "Loona Bulk QR Code Generator",
+  "name": "Hromadný generátor QR kódov Loona",
   "short_name": "Hromadný generátor QR kódov",
   "description": "Vytvorte naraz až 100 QR kódov zadarmo: vložte zoznam alebo nahrajte CSV odkazov a textov a získajte označený tlačiteľný hárok QR kódov. Bez registrácie, bez vodoznaku, nikdy neexspiruje, 100% súkromné vo vašom prehliadači.",
   "id": "/loona-qr-codes/sk/bulk-qr-code-generator/",

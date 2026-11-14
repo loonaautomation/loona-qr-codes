@@ -1,5 +1,5 @@
 {
-  "name": "Loona ITF-14 Barcode Generator",
+  "name": "Generátor čiarových kódov ITF-14 Loona",
   "short_name": "Generátor čiarových kódov ITF-14",
   "description": "Bezplatný generátor čiarových kódov ITF-14. Správne kontrolné číslice tam, kde ich norma má, stiahnutie PNG a SVG, bez registrácie, bez vodoznaku.",
   "id": "/loona-qr-codes/sk/itf-14-barcode-generator/",

@@ -1,5 +1,5 @@
 {
-  "name": "Loona Codabar Barcode Generator",
+  "name": "Generátor čiarových kódov Codabar Loona",
   "short_name": "Generátor čiarových kódov Codabar",
   "description": "Bezplatný generátor čiarových kódov Codabar. Správne kontrolné číslice tam, kde ich norma má, stiahnutie PNG a SVG, bez registrácie, bez vodoznaku.",
   "id": "/loona-qr-codes/sk/codabar-barcode-generator/",

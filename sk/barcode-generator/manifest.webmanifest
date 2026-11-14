@@ -1,5 +1,5 @@
 {
-  "name": "Loona Barcode Generator",
+  "name": "Generátor čiarových kódov Loona",
   "short_name": "Generátor čiarových kódov",
   "description": "Vytvárajte čiarové kódy online zadarmo s Loonou: Code 128, Code 39, EAN-13, UPC-A a ITF-14. Kontrolné číslice sa pridávajú automaticky, živý náhľad, stiahnutie ako PNG alebo SVG. Bez registrácie, bez vodoznaku, 100% súkromné vo vašom prehliadači.",
   "id": "/loona-qr-codes/sk/barcode-generator/",

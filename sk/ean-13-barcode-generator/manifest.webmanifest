@@ -1,5 +1,5 @@
 {
-  "name": "Loona EAN-13 Barcode Generator",
+  "name": "Generátor čiarových kódov EAN-13 Loona",
   "short_name": "Generátor čiarových kódov EAN-13",
   "description": "Bezplatný generátor čiarových kódov EAN-13. Správne kontrolné číslice tam, kde ich norma má, stiahnutie PNG a SVG, bez registrácie, bez vodoznaku.",
   "id": "/loona-qr-codes/sk/ean-13-barcode-generator/",

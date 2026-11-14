@@ -1,5 +1,5 @@
 {
-  "name": "Loona EAN-8 Barcode Generator",
+  "name": "Generátor čiarových kódov EAN-8 Loona",
   "short_name": "Generátor čiarových kódov EAN-8",
   "description": "Bezplatný generátor čiarových kódov EAN-8. Správne kontrolné číslice tam, kde ich norma má, stiahnutie PNG a SVG, bez registrácie, bez vodoznaku.",
   "id": "/loona-qr-codes/sk/ean-8-barcode-generator/",
