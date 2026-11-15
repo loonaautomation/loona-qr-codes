@@ -340,5 +340,23 @@
   "k": "bulk qr code generator bulk qr code generator צרו עד 100 קודי qr מתויגים בבת אחת בגיליון ניתן להדפסה",
   "p": 137,
   "c": "Tool"
+ },
+ {
+  "n": "מחולל ברקוד",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/he/barcode-generator/",
+  "s": "Loona QR Codes",
+  "d": "צרו ברקודי מוצרים — Code 128, EAN-13, UPC ועוד.",
+  "k": "barcode generator barcode generator צרו ברקודי מוצרים code 128 ean 13 upc ועוד",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "כל כלי Loona — קודי QR",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/he/tool-qr-codes/",
+  "s": "Loona QR Codes",
+  "d": "קבלו קוד QR מוכן לכל כלי של Loona — מחשבונים, כלי PDF, כלי תמונה ועוד. חפשו בכל 850+ הכלים והאפליקציות של Loona, הורידו את קוד ה-QR והדפיסו.",
+  "k": "qr codes for all loona tools tool qr codes קבלו קוד qr מוכן לכל כלי של loona מחשבונים כלי pdf כלי תמונה ועוד חפשו בכל 850 הכלים והאפליקציות של loona הורידו את קוד ה qr והדפיסו",
+  "p": 139,
+  "c": "Tool"
  }
 ]

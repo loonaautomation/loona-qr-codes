@@ -340,5 +340,23 @@
   "k": "bulk qr code generator bulk qr code generator skapa upp till 100 markta qr koder pa en gang i ett utskrivbart ark",
   "p": 137,
   "c": "Tool"
+ },
+ {
+  "n": "Streckkodgenerator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/barcode-generator/",
+  "s": "Loona QR Codes",
+  "d": "Skapa produktstreckkoder — Code 128, EAN-13, UPC och mer.",
+  "k": "barcode generator barcode generator skapa produktstreckkoder code 128 ean 13 upc och mer",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Alla Loona-verktyg — QR-koder",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/tool-qr-codes/",
+  "s": "Loona QR Codes",
+  "d": "Få en färdig QR-kod för vilket Loona-verktyg som helst — kalkylatorer, PDF-verktyg, bildverktyg och mer. Sök bland alla 850+ Loona-verktyg och appar, ladda ner QR-koden och skriv ut den.",
+  "k": "qr codes for all loona tools tool qr codes fa en fardig qr kod for vilket loona verktyg som helst kalkylatorer pdf verktyg bildverktyg och mer sok bland alla 850 loona verktyg och appar ladda ner qr koden och skriv ut den",
+  "p": 139,
+  "c": "Tool"
  }
 ]

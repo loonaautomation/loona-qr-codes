@@ -340,5 +340,23 @@
   "k": "bulk qr code generator bulk qr code generator 100",
   "p": 137,
   "c": "Tool"
+ },
+ {
+  "n": "條形碼生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/barcode-generator/",
+  "s": "Loona QR Codes",
+  "d": "建立產品條形碼 — Code 128、EAN-13、UPC 等。",
+  "k": "barcode generator barcode generator 建立產品條形碼 code 128 ean 13 upc 等",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "全部 Loona 工具 — 二維碼",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh-hant/tool-qr-codes/",
+  "s": "Loona QR Codes",
+  "d": "為任何 Loona 工具獲取現成二維碼 — 計算器、PDF 工具、圖片工具等等。搜尋全部 850+ 個 Loona 工具和應用，下載二維碼並列印。",
+  "k": "qr codes for all loona tools tool qr codes 為任何 loona 工具獲取現成二維碼 計算器 pdf 工具 圖片工具等等 搜尋全部 850 個 loona 工具和應用 下載二維碼並列印",
+  "p": 139,
+  "c": "Tool"
  }
 ]

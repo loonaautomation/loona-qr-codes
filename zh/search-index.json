@@ -340,5 +340,23 @@
   "k": "bulk qr code generator bulk qr code generator 100",
   "p": 137,
   "c": "Tool"
+ },
+ {
+  "n": "条形码生成器",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/barcode-generator/",
+  "s": "Loona QR Codes",
+  "d": "创建产品条形码 — Code 128、EAN-13、UPC 等。",
+  "k": "barcode generator barcode generator 创建产品条形码 code 128 ean 13 upc 等",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "全部 Loona 工具 — 二维码",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/tool-qr-codes/",
+  "s": "Loona QR Codes",
+  "d": "为任何 Loona 工具获取现成二维码 — 计算器、PDF 工具、图片工具等等。搜索全部 850+ 个 Loona 工具和应用，下载二维码并打印。",
+  "k": "qr codes for all loona tools tool qr codes 为任何 loona 工具获取现成二维码 计算器 pdf 工具 图片工具等等 搜索全部 850 个 loona 工具和应用 下载二维码并打印",
+  "p": 139,
+  "c": "Tool"
  }
 ]

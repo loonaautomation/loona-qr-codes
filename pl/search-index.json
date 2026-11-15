@@ -340,5 +340,23 @@
   "k": "bulk qr code generator bulk qr code generator tworz do 100 oznaczonych kodow qr naraz w arkuszu do druku",
   "p": 137,
   "c": "Tool"
+ },
+ {
+  "n": "Generator kodów kreskowych",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/barcode-generator/",
+  "s": "Loona QR Codes",
+  "d": "Twórz kody kreskowe produktów — Code 128, EAN-13, UPC i więcej.",
+  "k": "barcode generator barcode generator tworz kody kreskowe produktow code 128 ean 13 upc i wiecej",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Wszystkie narzędzia Loona — kody QR",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/tool-qr-codes/",
+  "s": "Loona QR Codes",
+  "d": "Zdobądź gotowy kod QR dla dowolnego narzędzia Loona — kalkulatorów, narzędzi PDF, narzędzi obrazów i więcej. Przeszukaj wszystkie 850+ narzędzi i aplikacji Loona, pobierz kod QR i wydrukuj.",
+  "k": "qr codes for all loona tools tool qr codes zdobadz gotowy kod qr dla dowolnego narzedzia loona kalkulatorow narzedzi pdf narzedzi obrazow i wiecej przeszukaj wszystkie 850 narzedzi i aplikacji loona pobierz kod qr i wydrukuj",
+  "p": 139,
+  "c": "Tool"
  }
 ]

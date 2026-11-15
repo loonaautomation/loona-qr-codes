@@ -340,5 +340,23 @@
   "k": "bulk qr code generator bulk qr code generator 100",
   "p": 137,
   "c": "Tool"
+ },
+ {
+  "n": "เครื่องสร้างบาร์โค้ด",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/th/barcode-generator/",
+  "s": "Loona QR Codes",
+  "d": "สร้างบาร์โค้ดผลิตภัณฑ์ — Code 128, EAN-13, UPC และอื่น ๆ",
+  "k": "barcode generator barcode generator สรางบารโคดผลตภณฑ code 128 ean 13 upc และอน ๆ",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "เครื่องมือ Loona ทั้งหมด — คิวอาร์โค้ด",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/th/tool-qr-codes/",
+  "s": "Loona QR Codes",
+  "d": "รับคิวอาร์โค้ดสำเร็จรูปสำหรับเครื่องมือ Loona ใดก็ตาม — เครื่องคำนวณ เครื่องมือ PDF เครื่องมือรูปภาพ และอื่น ๆ ค้นหาเครื่องมือและแอป Loona ทั้งหมด 850+ รายการ ดาวน์โหลดคิวอาร์โค้ด และพิมพ์มัน",
+  "k": "qr codes for all loona tools tool qr codes รบควอารโคดสำเรจรปสำหรบเครองมอ loona ใดกตาม เครองคำนวณ เครองมอ pdf เครองมอรปภาพ และอน ๆ คนหาเครองมอและแอป loona ทงหมด 850 รายการ ดาวนโหลดควอารโคด และพมพมน",
+  "p": 139,
+  "c": "Tool"
  }
 ]

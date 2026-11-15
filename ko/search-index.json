@@ -340,5 +340,23 @@
   "k": "bulk qr code generator bulk qr code generator qr 100",
   "p": 137,
   "c": "Tool"
+ },
+ {
+  "n": "바코드 생성기",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/barcode-generator/",
+  "s": "Loona QR Codes",
+  "d": "제품 바코드를 만드세요 — Code 128, EAN-13, UPC 등.",
+  "k": "barcode generator barcode generator 제품 바코드를 만드세요 code 128 ean 13 upc 등",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "모든 Loona 도구 — QR 코드",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ko/tool-qr-codes/",
+  "s": "Loona QR Codes",
+  "d": "모든 Loona 도구의 완성 QR 코드를 받으세요 — 계산기, PDF 도구, 이미지 도구 등이에요. Loona 도구와 앱 850+개 전체를 검색하고, QR 코드를 다운로드하고, 인쇄하세요.",
+  "k": "qr codes for all loona tools tool qr codes 모든 loona 도구의 완성 qr 코드를 받으세요 계산기 pdf 도구 이미지 도구 등이에요 loona 도구와 앱 850 개 전체를 검색하고 qr 코드를 다운로드하고 인쇄하세요",
+  "p": 139,
+  "c": "Tool"
  }
 ]

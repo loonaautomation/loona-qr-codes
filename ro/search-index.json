@@ -340,5 +340,23 @@
   "k": "bulk qr code generator bulk qr code generator creeaza pana la 100 de coduri qr etichetate deodata intr o foaie tiparibila",
   "p": 137,
   "c": "Tool"
+ },
+ {
+  "n": "Generator de coduri de bare",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/barcode-generator/",
+  "s": "Loona QR Codes",
+  "d": "Creează coduri de bare pentru produse — Code 128, EAN-13, UPC și altele.",
+  "k": "barcode generator barcode generator creeaza coduri de bare pentru produse code 128 ean 13 upc si altele",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Toate instrumentele Loona — Coduri QR",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ro/tool-qr-codes/",
+  "s": "Loona QR Codes",
+  "d": "Primește un cod QR gata făcut pentru orice instrument Loona — calculatoare, instrumente PDF, instrumente pentru imagini și altele. Caută toate cele 850+ de instrumente și aplicații Loona, descarcă codul QR și tipărește-l.",
+  "k": "qr codes for all loona tools tool qr codes primeste un cod qr gata facut pentru orice instrument loona calculatoare instrumente pdf instrumente pentru imagini si altele cauta toate cele 850 de instrumente si aplicatii loona descarca codul qr si tipareste l",
+  "p": 139,
+  "c": "Tool"
  }
 ]

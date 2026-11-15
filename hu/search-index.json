@@ -340,5 +340,23 @@
   "k": "bulk qr code generator bulk qr code generator hozzon letre legfeljebb 100 cimkezett qr kodot egyszerre nyomtathato lapon",
   "p": 137,
   "c": "Tool"
+ },
+ {
+  "n": "Vonalkód generátor",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hu/barcode-generator/",
+  "s": "Loona QR Codes",
+  "d": "Hozzon létre termékvonalkódokat — Code 128, EAN-13, UPC és még több.",
+  "k": "barcode generator barcode generator hozzon letre termekvonalkodokat code 128 ean 13 upc es meg tobb",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Minden Loona eszköz — QR-kódok",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/hu/tool-qr-codes/",
+  "s": "Loona QR Codes",
+  "d": "Kapjon kész QR-kódot bármely Loona-eszközhöz — számológépek, PDF-eszközök, képeszközök és még több. Keressen mind a 850+ Loona-eszköz és alkalmazás között, töltse le a QR-kódot, és nyomtassa ki.",
+  "k": "qr codes for all loona tools tool qr codes kapjon kesz qr kodot barmely loona eszkozhoz szamologepek pdf eszkozok kepeszkozok es meg tobb keressen mind a 850 loona eszkoz es alkalmazas kozott toltse le a qr kodot es nyomtassa ki",
+  "p": 139,
+  "c": "Tool"
  }
 ]

@@ -340,5 +340,23 @@
   "k": "bulk qr code generator bulk qr code generator 100 qr",
   "p": 137,
   "c": "Tool"
+ },
+ {
+  "n": "Генератор на баркодове",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/barcode-generator/",
+  "s": "Loona QR Codes",
+  "d": "Създайте продуктови баркодове — Code 128, EAN-13, UPC и още.",
+  "k": "barcode generator barcode generator създаите продуктови баркодове code 128 ean 13 upc и още",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Всички инструменти на Loona — QR кодове",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/tool-qr-codes/",
+  "s": "Loona QR Codes",
+  "d": "Вземете готов QR код за всеки инструмент на Loona — калкулатори, PDF инструменти, инструменти за изображения и още. Търсете във всички 850+ инструмента и приложения на Loona, изтеглете QR кода и го отпечатайте.",
+  "k": "qr codes for all loona tools tool qr codes вземете готов qr код за всеки инструмент на loona калкулатори pdf инструменти инструменти за изображения и още търсете във всички 850 инструмента и приложения на loona изтеглете qr кода и го отпечатаите",
+  "p": 139,
+  "c": "Tool"
  }
 ]

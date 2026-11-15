@@ -340,5 +340,23 @@
   "k": "bulk qr code generator bulk qr code generator vytvorte az 100 oznacenych qr kodu najednou v tisknutelnem archu",
   "p": 137,
   "c": "Tool"
+ },
+ {
+  "n": "Generátor čárových kódů",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/barcode-generator/",
+  "s": "Loona QR Codes",
+  "d": "Vytvářejte čárové kódy produktů — Code 128, EAN-13, UPC a další.",
+  "k": "barcode generator barcode generator vytvarejte carove kody produktu code 128 ean 13 upc a dalsi",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Všechny nástroje Loona — QR kódy",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/cs/tool-qr-codes/",
+  "s": "Loona QR Codes",
+  "d": "Získejte hotový QR kód pro jakýkoli nástroj Loona — kalkulačky, nástroje pro PDF, nástroje pro obrázky a další. Prohledejte všech 850+ nástrojů a aplikací Loona, stáhněte si QR kód a vytiskněte ho.",
+  "k": "qr codes for all loona tools tool qr codes ziskejte hotovy qr kod pro jakykoli nastroj loona kalkulacky nastroje pro pdf nastroje pro obrazky a dalsi prohledejte vsech 850 nastroju a aplikaci loona stahnete si qr kod a vytisknete ho",
+  "p": 139,
+  "c": "Tool"
  }
 ]

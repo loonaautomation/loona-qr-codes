@@ -340,5 +340,23 @@
   "k": "bulk qr code generator bulk qr code generator create up to 100 labelled qr codes at once in a printable sheet ایک ساتھ تک لیبل شدہ کوڈز پرنٹ کے قابل شیٹ میں بنائیں۔",
   "p": 137,
   "c": "Tool"
+ },
+ {
+  "n": "Barcode Generator",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/barcode-generator/",
+  "s": "Loona QR Codes",
+  "d": "پروڈکٹ بارکوڈز بنائیں — Code 128، EAN-13، UPC اور مزید۔",
+  "k": "barcode generator barcode generator پروڈکٹ بارکوڈز بنايیں code 128 ean 13 upc اور مزید",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "تمام Loona Tools — QR Codes",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/ur/tool-qr-codes/",
+  "s": "Loona QR Codes",
+  "d": "کسی بھی Loona ٹول کے لیے تیار QR کوڈ حاصل کریں — کیلکولیٹرز، PDF ٹولز، امیج ٹولز اور مزید۔ تمام 850+ Loona ٹولز اور ایپس تلاش کریں، QR کوڈ ڈاؤن لوڈ کریں اور اسے پرنٹ کریں۔",
+  "k": "qr codes for all loona tools tool qr codes کسی بھی loona ٹول کے لیے تیار qr کوڈ حاصل کریں کیلکولیٹرز pdf ٹولز امیج ٹولز اور مزید تمام 850 loona ٹولز اور ایپس تلاش کریں qr کوڈ ڈاون لوڈ کریں اور اسے پرنٹ کریں",
+  "p": 139,
+  "c": "Tool"
  }
 ]

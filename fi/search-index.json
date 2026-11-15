@@ -340,5 +340,23 @@
   "k": "bulk qr code generator bulk qr code generator luo jopa 100 nimettya qr koodia kerralla tulostettavaan arkkiin",
   "p": 137,
   "c": "Tool"
+ },
+ {
+  "n": "Viivakoodigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/barcode-generator/",
+  "s": "Loona QR Codes",
+  "d": "Luo tuoteviivakoodeja — Code 128, EAN-13, UPC ja muuta.",
+  "k": "barcode generator barcode generator luo tuoteviivakoodeja code 128 ean 13 upc ja muuta",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Kaikki Loona-työkalut — QR-koodit",
+  "u": "https://loonaautomation.github.io/loona-qr-codes/fi/tool-qr-codes/",
+  "s": "Loona QR Codes",
+  "d": "Hae valmis QR-koodi mille tahansa Loona-työkalulle — laskurit, PDF-työkalut, kuvatyökalut ja muuta. Hae kaikki 850+ Loona-työkalua ja sovellusta, lataa QR-koodi ja tulosta se.",
+  "k": "qr codes for all loona tools tool qr codes hae valmis qr koodi mille tahansa loona tyokalulle laskurit pdf tyokalut kuvatyokalut ja muuta hae kaikki 850 loona tyokalua ja sovellusta lataa qr koodi ja tulosta se",
+  "p": 139,
+  "c": "Tool"
  }
 ]

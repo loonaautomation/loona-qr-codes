@@ -340,5 +340,23 @@
 "k": "bulk qr code generator bulk qr code generator انشي حتى 100 رمز qr معنون دفعة واحدة في ورقة قابلة للطباعة",
 "p": 137,
 "c": "Tool"
+},
+{
+"n": "منشئ الباركود",
+"u": "https://loonaautomation.github.io/loona-qr-codes/ar/barcode-generator/",
+"s": "Loona QR Codes",
+"d": "أنشئ باركود للمنتجات — Code 128 وEAN-13 وUPC والمزيد.",
+"k": "barcode generator barcode generator انشي باركود للمنتجات code 128 وean 13 وupc والمزيد",
+"p": 138,
+"c": "Tool"
+},
+{
+"n": "جميع أدوات Loona — رموز QR",
+"u": "https://loonaautomation.github.io/loona-qr-codes/ar/tool-qr-codes/",
+"s": "Loona QR Codes",
+"d": "احصل على رمز QR جاهز لأي أداة Loona — حاسبات، وأدوات PDF، وأدوات صور والمزيد. ابحث في جميع أدوات وتطبيقات Loona الـ 850+، نزّل رمز QR واطبعه.",
+"k": "qr codes for all loona tools tool qr codes احصل على رمز qr جاهز لاي اداة loona حاسبات وادوات pdf وادوات صور والمزيد ابحث في جميع ادوات وتطبيقات loona الـ 850 نزل رمز qr واطبعه",
+"p": 139,
+"c": "Tool"
 }
 ]
