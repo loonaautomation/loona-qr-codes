@@ -1,7 +1,7 @@
 {
   "name": "Loona QR-koder for alle Loona-verktøy",
   "short_name": "QR-koder for alle Loona-verktøy",
-  "description": "Få en gratis ferdig QR-kode for ethvert Loona-verktøy — 955 kalkulatorer, PDF-verktøy, bildeverktøy, studieverktøy og apper. Velg et verktøy, last ned QR-koden som en PNG i høy oppløsning og skriv den ut. Ingen registrering, ingen vannmerke, utløper aldri.",
+  "description": "Få en gratis ferdig QR-kode for ethvert Loona-verktøy — 872 kalkulatorer, PDF-verktøy, bildeverktøy, studieverktøy og apper. Velg et verktøy, last ned QR-koden som en PNG i høy oppløsning og skriv den ut. Ingen registrering, ingen vannmerke, utløper aldri.",
   "id": "/loona-qr-codes/nb/tool-qr-codes/",
   "start_url": ".",
   "scope": ".",
