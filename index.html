@@ -101,7 +101,7 @@ header.site nav a{cursor:pointer}
    "name": "Do Loona QR codes expire?",
    "acceptedAnswer": {
     "@type": "Answer",
-    "text": "No. The QR codes are static, which means they keep working forever. A WiFi, link or contact QR code you create today will still scan years from now."
+    "text": "No. The QR codes are static, so the code itself does not expire. A printed code keeps working as long as the destination it points to — a link, file or page — remains available."
    }
   },
   {
@@ -109,7 +109,7 @@ header.site nav a{cursor:pointer}
    "name": "What types of QR codes can I create?",
    "acceptedAnswer": {
     "@type": "Answer",
-    "text": "More than 30 types, including website links, WiFi, WhatsApp, vCard contacts, email, SMS, phone, social profiles (Instagram, Facebook, YouTube, TikTok, LinkedIn, Telegram, Snapchat, X), Google Maps locations, Google reviews, restaurant menus, PDF files, app store links, Google Forms, Zoom meetings, calendar events, and payments \u2014 PayPal, UPI, JazzCash and EasyPaisa, Bitcoin, Spotify and resume or portfolio links."
+    "text": "36 types, including website links, WiFi, WhatsApp, vCard contacts, email, SMS, phone, social profiles (Instagram, Facebook, YouTube, TikTok, LinkedIn, Telegram, Snapchat, X), Google Maps locations, Google reviews, restaurant menus, PDF files, app store links, Google Forms, Zoom meetings, calendar events, and payments \u2014 PayPal, UPI, JazzCash and EasyPaisa, Bitcoin, Spotify and resume or portfolio links."
    }
   },
   {
@@ -180,6 +180,7 @@ header.site nav a{cursor:pointer}
 <div><label for="url-qrSize">Size</label><select id="url-qrSize"><option value="256">256 px</option><option value="512" selected>512 px</option><option value="1024">1024 px</option></select></div>
 </div>
 <p><button class="btn" id="url-generateBtn" type="button">Generate QR Code</button></p>
+<p class="note">Free · No sign-up · No watermark · Generated in your browser — your data never leaves your device.</p>
 </div>
 <div class="preview"><h3>Your QR Code</h3><div id="url-qrcode"><p class="small">Fill the form and your QR code will appear here.</p></div>
 <p id="url-qr-msg" class="small"></p>
@@ -1119,9 +1120,9 @@ header.site nav a{cursor:pointer}
 <h3>Is Loona QR Codes free to use?</h3>
 <p>Yes. Loona QR Codes is completely free — no signup, no watermark and no hidden fees. Just pick a type, enter your details and download your QR code.</p>
 <h3>Do Loona QR codes expire?</h3>
-<p>No. The QR codes are static, which means they keep working forever. A WiFi, link or contact QR code you create today will still scan years from now.</p>
+<p>No. The QR codes are static, so the code itself does not expire. A printed code keeps working as long as the destination it points to — a link, file or page — remains available.</p>
 <h3>What types of QR codes can I create?</h3>
-<p>More than 30 types, including website links, WiFi, WhatsApp, vCard contacts, email, SMS, phone, social profiles (Instagram, Facebook, YouTube, TikTok, LinkedIn, Telegram, Snapchat, X), Google Maps locations, Google reviews, restaurant menus, PDF files, app store links, Google Forms, Zoom meetings, calendar events, and payments — PayPal, UPI, JazzCash and EasyPaisa, Bitcoin, Spotify and resume or portfolio links.</p>
+<p>36 types, including website links, WiFi, WhatsApp, vCard contacts, email, SMS, phone, social profiles (Instagram, Facebook, YouTube, TikTok, LinkedIn, Telegram, Snapchat, X), Google Maps locations, Google reviews, restaurant menus, PDF files, app store links, Google Forms, Zoom meetings, calendar events, and payments — PayPal, UPI, JazzCash and EasyPaisa, Bitcoin, Spotify and resume or portfolio links.</p>
 <h3>Is my data uploaded to a server?</h3>
 <p>No. Your QR codes are generated right in your browser on your own device, so the information inside your code is never uploaded anywhere.</p>
 <h3>Can I use these QR codes for my shop or business?</h3>
@@ -1193,7 +1194,7 @@ function generate(section, initial){
     } else if(msg){ msg.textContent='Please fill the required field above first.'; }
     return;
   }
-  if(msg) msg.textContent='';
+  if(msg) msg.textContent='Your QR code is ready — please test-scan it with your phone before printing.';
   box.innerHTML='';
   var sizeEl=secEl(section,'qrSize'); var size=sizeEl?parseInt(sizeEl.value,10)||512:512;
   var cEl=secEl(section,'qrColor'); var bEl=secEl(section,'bgColor');
