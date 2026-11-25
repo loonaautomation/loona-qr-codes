@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR GitHub",
   "short_name": "Γεννήτρια Κωδικού QR GitHub",
   "description": "Δημιουργήστε έναν δωρεάν Κωδικό QR GitHub αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Σαρώστε για να ανοίξετε ένα προφίλ, αποθετήριο ή σελίδα έργου GitHub. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/github-qr-code-generator/",
+  "id": "/el/github-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

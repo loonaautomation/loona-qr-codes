@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona לקורות חיים / תיק עבודות",
   "short_name": "קוד QR לקורות חיים / תיק עבודות",
   "description": "צרו קוד QR חינמי של קורות חיים / תיק עבודות מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. שימו את קורות החיים או תיק העבודות שלכם במרחק סריקה אחת. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/resume-portfolio-qr-code-generator/",
+  "id": "/he/resume-portfolio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

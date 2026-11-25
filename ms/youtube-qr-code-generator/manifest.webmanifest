@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR YouTube Loona",
   "short_name": "Penjana Kod QR YouTube",
   "description": "Cipta kod QR YouTube percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Imbas untuk membuka video atau saluran serta-merta. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/youtube-qr-code-generator/",
+  "id": "/ms/youtube-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

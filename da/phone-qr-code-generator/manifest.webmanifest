@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til telefonopkald",
   "short_name": "QR-kodegenerator til telefonopkald",
   "description": "Opret en gratis telefonopkalds-QR-kode øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Scan for at ringe dit nummer op med det samme. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/phone-qr-code-generator/",
+  "id": "/da/phone-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

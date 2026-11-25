@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator for e-post",
   "short_name": "QR-kodegenerator for e-post",
   "description": "Lag en gratis e-post-QR-kode med en gang med Loona. Ingen registrering, ingen vannmerke, utløper aldri. Skann for å åpne en ferdig adressert e-post, klar til å sendes. Tilpassede farger, nedlasting av PNG i høy oppløsning.",
-  "id": "/loona-qr-codes/nb/email-qr-code-generator/",
+  "id": "/nb/email-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Trình tạo mã vạch Loona",
   "short_name": "Trình tạo mã vạch",
   "description": "Tạo mã vạch miễn phí trực tuyến với Loona: Code 128, Code 39, EAN-13, UPC-A và ITF-14. Chữ số kiểm tra được thêm tự động, xem trước trực tiếp, tải xuống dưới dạng PNG hoặc SVG. Không đăng ký, không hình mờ, 100% riêng tư trong trình duyệt của bạn.",
-  "id": "/loona-qr-codes/vi/barcode-generator/",
+  "id": "/vi/barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

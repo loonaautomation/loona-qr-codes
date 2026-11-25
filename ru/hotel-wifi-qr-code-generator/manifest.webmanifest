@@ -2,7 +2,7 @@
   "name": "Loona QR-код WiFi отеля &amp; гостевого отеля &amp; гостевого WiFi",
   "short_name": "Отель &amp; гости Отель &amp; гости",
   "description": "Создайте бесплатный QR-код WiFi отеля &amp; гостей мгновенно с Loona. Без регистрации, без водяного знака, никогда не истекает. Настраиваемые цвета, скачивание PNG в высоком разрешении.",
-  "id": "/loona-qr-codes/ru/hotel-wifi-qr-code-generator/",
+  "id": "/ru/hotel-wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

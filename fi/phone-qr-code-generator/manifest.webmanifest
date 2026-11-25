@@ -2,7 +2,7 @@
   "name": "Loona Puhelu-QR-koodigeneraattori",
   "short_name": "Puhelu-QR-koodigeneraattori",
   "description": "Luo ilmainen puhelu-QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Skannaa soittaaksesi numeroosi heti. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/phone-qr-code-generator/",
+  "id": "/fi/phone-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

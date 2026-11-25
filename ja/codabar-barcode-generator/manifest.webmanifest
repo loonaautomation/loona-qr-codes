@@ -2,7 +2,7 @@
   "name": "Loona Codabar バーコード生成ツール",
   "short_name": "Codabar バーコード生成ツール",
   "description": "無料の Codabar バーコード生成ツール。標準にチェックデジットがある場合は正しいものを作成し、PNG と SVG のダウンロードが可能、登録不要、透かしなし。",
-  "id": "/loona-qr-codes/ja/codabar-barcode-generator/",
+  "id": "/ja/codabar-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

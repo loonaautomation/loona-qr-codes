@@ -2,7 +2,7 @@
   "name": "Generator kodów QR Venmo Loona",
   "short_name": "Generator kodów QR Venmo",
   "description": "Utwórz darmowy kod QR Venmo błyskawicznie z Loona. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa. Kolory niestandardowe, pobieranie PNG w wysokiej rozdzielczości.",
-  "id": "/loona-qr-codes/pl/venmo-qr-code-generator/",
+  "id": "/pl/venmo-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

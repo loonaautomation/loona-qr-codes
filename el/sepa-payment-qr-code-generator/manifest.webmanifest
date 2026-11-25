@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Πληρωμής SEPA (EPC)",
   "short_name": "Κωδικός QR Πληρωμής SEPA (EPC)",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Πληρωμής SEPA (EPC) αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/sepa-payment-qr-code-generator/",
+  "id": "/el/sepa-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

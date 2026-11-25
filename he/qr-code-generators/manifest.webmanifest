@@ -2,7 +2,7 @@
   "name": "כל מחוללי קודי QR וברקוד של Loona",
   "short_name": "כל QR וברקוד",
   "description": "ספריית ה-QR המלאה של Loona: מחוללי ברקוד (Code 128, EAN-13, UPC, Data Matrix, PDF417), קודי QR לתשלום (SEPA, UPI, קריפטו, Venmo), מקרי שימוש תעשייתיים וכלי הדפסה.",
-  "id": "/loona-qr-codes/he/qr-code-generators/",
+  "id": "/he/qr-code-generators/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

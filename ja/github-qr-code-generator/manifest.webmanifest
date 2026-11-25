@@ -2,7 +2,7 @@
   "name": "Loona GitHub QRコード生成ツール",
   "short_name": "GitHub QRコード生成ツール",
   "description": "Loona で無料の GitHub QRコードを即座に作成。登録不要、透かしなし、無期限。スキャンして GitHub のプロフィール、リポジトリ、プロジェクトページを開きます。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/github-qr-code-generator/",
+  "id": "/ja/github-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

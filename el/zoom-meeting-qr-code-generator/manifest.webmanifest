@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Zoom / Συνάντησης",
   "short_name": "Κωδικός QR Zoom / Συνάντησης",
   "description": "Δημιουργήστε έναν δωρεάν Κωδικό QR Zoom / Συνάντησης αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Σαρώστε για να μπείτε σε μια συνάντηση ή μάθημα. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/zoom-meeting-qr-code-generator/",
+  "id": "/el/zoom-meeting-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

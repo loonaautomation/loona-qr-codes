@@ -2,7 +2,7 @@
   "name": "Loona Codabar-stregkodegenerator",
   "short_name": "Codabar-stregkodegenerator",
   "description": "Gratis Codabar-stregkodegenerator. Korrekte kontrolcifre, hvor standarden har dem, download af PNG og SVG, ingen tilmelding, intet vandmærke.",
-  "id": "/loona-qr-codes/da/codabar-barcode-generator/",
+  "id": "/da/codabar-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

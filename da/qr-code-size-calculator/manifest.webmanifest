@@ -2,7 +2,7 @@
   "name": "Loona størrelsesberegner til QR-koder",
   "short_name": "Størrelsesberegner til QR-koder",
   "description": "Gratis beregner til QR-kodestørrelse: indtast scanningsafstanden og indholdstypen for at få den mindste trykstørrelse i cm, den anbefalede PNG-opløsning og stillezonens bredde.",
-  "id": "/loona-qr-codes/da/qr-code-size-calculator/",
+  "id": "/da/qr-code-size-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

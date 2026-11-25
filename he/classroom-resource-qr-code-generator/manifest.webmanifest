@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona למשאבי כיתה",
   "short_name": "קוד QR של משאב כיתה",
   "description": "צרו קוד QR חינמי של משאב כיתה מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/classroom-resource-qr-code-generator/",
+  "id": "/he/classroom-resource-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

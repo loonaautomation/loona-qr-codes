@@ -2,7 +2,7 @@
   "name": "Loona Interleaved 2 of 5 -viivakoodigeneraattori",
   "short_name": "Interleaved 2 of 5 -viivakoodi",
   "description": "Ilmainen Interleaved 2 of 5 -viivakoodigeneraattori. Oikeat tarkistusnumerot siellä, missä standardissa ne on, PNG- ja SVG-lataus, ei rekisteröitymistä, ei vesileimaa.",
-  "id": "/loona-qr-codes/fi/interleaved-2-of-5-barcode-generator/",
+  "id": "/fi/interleaved-2-of-5-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

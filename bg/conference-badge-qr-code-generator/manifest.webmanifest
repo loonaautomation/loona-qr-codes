@@ -2,7 +2,7 @@
   "name": "Генератор на QR кодове за баджове за конференции на Loona",
   "short_name": "QR код за бадж за конференция",
   "description": "Създайте безплатен QR код за бадж за конференция мигновено с Loona. Без регистрация, без воден знак, никога не изтича. Персонализирани цветове, изтегляне на PNG с висока разделителна способност.",
-  "id": "/loona-qr-codes/bg/conference-badge-qr-code-generator/",
+  "id": "/bg/conference-badge-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

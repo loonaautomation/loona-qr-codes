@@ -2,7 +2,7 @@
   "name": "Loona MSI Plessey vonalkódgenerátor",
   "short_name": "MSI Plessey vonalkódgenerátor",
   "description": "Ingyenes MSI Plessey vonalkód generátor. Helyes ellenőrző számjegyek, ahol a szabványnak vannak, PNG- és SVG-letöltés, nincs regisztráció, nincs vízjel.",
-  "id": "/loona-qr-codes/hu/msi-barcode-generator/",
+  "id": "/hu/msi-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

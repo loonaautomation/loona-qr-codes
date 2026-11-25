@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za potpis e-pošte",
   "short_name": "QR kod za potpis e-pošte",
   "description": "Stvorite besplatni QR kod za potpis e-pošte trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/email-signature-qr-code-generator/",
+  "id": "/hr/email-signature-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

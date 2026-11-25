@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Κριτικής Google",
   "short_name": "Κωδικός QR Κριτικής Google",
   "description": "Δημιουργήστε έναν δωρεάν Κωδικό QR Κριτικής Google αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Οι ευχαριστημένοι πελάτες αφήνουν μια κριτική Google σε δευτερόλεπτα. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/google-review-qr-code-generator/",
+  "id": "/el/google-review-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Discord Loona",
   "short_name": "Trình tạo mã QR Discord",
   "description": "Tạo mã QR Discord miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Quét để tham gia máy chủ Discord bằng liên kết mời. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/discord-qr-code-generator/",
+  "id": "/vi/discord-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

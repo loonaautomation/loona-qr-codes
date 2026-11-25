@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za plaćanje parkiranja",
   "short_name": "QR kod za plaćanje parkiranja",
   "description": "Stvorite besplatni QR kod za plaćanje parkiranja trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/parking-payment-qr-code-generator/",
+  "id": "/hr/parking-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

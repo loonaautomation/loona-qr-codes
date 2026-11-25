@@ -2,7 +2,7 @@
   "name": "Loona Zoom / Meeting QR Code Generator",
   "short_name": "Zoom / Meeting QR Code",
   "description": "Loona کے ساتھ مفت Zoom / Meeting QR Code فوراً بنائیں۔ کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، کبھی ختم نہیں ہوتا۔ میٹنگ یا کلاس میں شامل ہونے کے لیے اسکین کریں۔ حسبِ پسند رنگ، ہائی ریزولوشن PNG ڈاؤن لوڈ۔",
-  "id": "/loona-qr-codes/ur/zoom-meeting-qr-code-generator/",
+  "id": "/ur/zoom-meeting-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

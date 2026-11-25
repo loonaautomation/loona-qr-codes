@@ -2,7 +2,7 @@
   "name": "Loona सादा पाठ QR कोड जनरेटर",
   "short_name": "सादा पाठ QR कोड जनरेटर",
   "description": "Loona के साथ तुरंत एक मुफ़्त सादा पाठ QR कोड बनाएँ। कोई साइन-अप नहीं, कोई वॉटरमार्क नहीं, कभी समाप्त नहीं होता। कोई भी पाठ, कोड या संदेश एक QR कोड के अंदर रखें। कस्टम रंग, उच्च-रिज़ॉल्यूशन PNG डाउनलोड।",
-  "id": "/loona-qr-codes/hi/text-qr-code-generator/",
+  "id": "/hi/text-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

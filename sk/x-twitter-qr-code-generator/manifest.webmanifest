@@ -2,7 +2,7 @@
   "name": "Loona Generátor QR kódov pre X (Twitter)",
   "short_name": "Generátor QR kódov pre X (Twitter)",
   "description": "Vytvorte si zadarmo QR kód pre X (Twitter) okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Naskenujte a otvorte svoj profil na X. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
-  "id": "/loona-qr-codes/sk/x-twitter-qr-code-generator/",
+  "id": "/sk/x-twitter-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

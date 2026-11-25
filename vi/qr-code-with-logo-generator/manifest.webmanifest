@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR có Logo Loona",
   "short_name": "Trình tạo mã QR có Logo",
   "description": "Trình tạo mã QR có logo miễn phí: thêm logo của bạn vào trung tâm của một mã QR ở mức sửa lỗi H, màu tùy chỉnh, tải xuống PNG 1024px, không hình mờ.",
-  "id": "/loona-qr-codes/vi/qr-code-with-logo-generator/",
+  "id": "/vi/qr-code-with-logo-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

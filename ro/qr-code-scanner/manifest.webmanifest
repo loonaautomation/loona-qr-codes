@@ -2,7 +2,7 @@
   "name": "Loona Scaner de coduri QR și de bare",
   "short_name": "Scaner de coduri QR și de bare",
   "description": "Scanează gratuit coduri QR și de bare online cu Loona: folosește camera sau încarcă o fotografie sau o captură de ecran. Decodează URL-uri, WiFi, contacte vCard, EAN-13, UPC-A, Code 128 și Code 39. 100% privat — totul este decodat pe dispozitivul tău, nimic nu este încărcat.",
-  "id": "/loona-qr-codes/ro/qr-code-scanner/",
+  "id": "/ro/qr-code-scanner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

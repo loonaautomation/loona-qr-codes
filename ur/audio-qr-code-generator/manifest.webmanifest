@@ -2,7 +2,7 @@
   "name": "Loona Audio QR Code Generator",
   "short_name": "Audio QR Code Generator",
   "description": "Loona کے ساتھ مفت Audio QR Code فوراً بنائیں۔ کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، کبھی ختم نہیں ہوتا۔ وائس نوٹ، گانا، پوڈکاسٹ یا آڈیو گائیڈ چلانے کے لیے اسکین کریں۔ حسبِ پسند رنگ، ہائی ریزولوشن PNG ڈاؤن لوڈ۔",
-  "id": "/loona-qr-codes/ur/audio-qr-code-generator/",
+  "id": "/ur/audio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

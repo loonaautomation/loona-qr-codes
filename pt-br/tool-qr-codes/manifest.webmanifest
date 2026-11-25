@@ -2,7 +2,7 @@
   "name": "Loona QR Codes para Todas as Ferramentas Loona",
   "short_name": "Códigos QR para Todas as Ferramentas Loona",
   "description": "Obtenha um código QR pronto grátis para qualquer ferramenta Loona — 872 calculadoras, ferramentas PDF, ferramentas de imagem, ferramentas de estudo e aplicações. Escolha uma ferramenta, transfira o seu código QR como PNG em alta resolução e imprima-o. Sem registro, sem marca de água, nunca expira.",
-  "id": "/loona-qr-codes/pt-br/tool-qr-codes/",
+  "id": "/pt-br/tool-qr-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

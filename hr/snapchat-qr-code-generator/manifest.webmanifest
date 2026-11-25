@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za Snapchat",
   "short_name": "Generator QR kodova za Snapchat",
   "description": "Stvorite besplatni QR kod za Snapchat trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Skenirajte da vas dodaju na Snapchatu. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/snapchat-qr-code-generator/",
+  "id": "/hr/snapchat-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

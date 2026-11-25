@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Menyu ya Mgahawa cha Loona",
   "short_name": "Msimbo wa QR wa Menyu ya Mgahawa",
   "description": "Tengeneza Msimbo wa QR wa Menyu ya Mgahawa wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Menyu isiyo na mgusano kwenye kila meza. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/restaurant-menu-qr-code-generator/",
+  "id": "/sw/restaurant-menu-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

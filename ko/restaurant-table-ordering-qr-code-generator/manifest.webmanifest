@@ -2,7 +2,7 @@
   "name": "Loona 레스토랑 테이블 주문 QR 코드",
   "short_name": "레스토랑 테이블 주문 QR",
   "description": "Loona로 무료 레스토랑 테이블 주문 QR 코드를 즉시 만드세요. 가입 없음, 워터마크 없음, 절대 만료되지 않아요. 맞춤 색상, 고해상도 PNG 다운로드예요.",
-  "id": "/loona-qr-codes/ko/restaurant-table-ordering-qr-code-generator/",
+  "id": "/ko/restaurant-table-ordering-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

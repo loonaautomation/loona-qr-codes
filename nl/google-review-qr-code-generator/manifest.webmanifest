@@ -2,7 +2,7 @@
   "name": "Loona Google Review-QR-codegenerator",
   "short_name": "Google Review-QR-code",
   "description": "Maak direct een gratis Google Review-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Tevreden klanten laten binnen seconden een Google-review achter. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/google-review-qr-code-generator/",
+  "id": "/nl/google-review-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

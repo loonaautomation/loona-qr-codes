@@ -2,7 +2,7 @@
 
 Free QR Code Generator — No Expiry, No Signup, No Watermark. 1 website, 30 QR generator pages + 5 zaroori pages (About, Privacy, Terms, Contact, Disclaimer).
 
-**Note (zaroori):** Ye website tumhare GitHub account **loonaautomation** ke hisaab se taiyaar hai. Base URL pehle se set hai: `https://loonaautomation.github.io/loona-qr-codes/` — is liye repo ka naam bilkul `loona-qr-codes` rakhna, warna address badal jayega.
+**Note (zaroori):** Ye website tumhare GitHub account **loonaautomation** ke hisaab se taiyaar hai. Base URL pehle se set hai: `https://qr.loonaautomation.com/` — is liye repo ka naam bilkul `loona-qr-codes` rakhna, warna address badal jayega.
 
 ## Pages included
 - URL / Website QR Code: url-qr-code-generator/
@@ -45,13 +45,13 @@ Free QR Code Generator — No Expiry, No Signup, No Watermark. 1 website, 30 QR 
 ## Step B — GitHub Pages ON karna
 1. Repo → **Settings → Pages**.
 2. Source: **Deploy from a branch**, Branch: `main`, Folder: `/ (root)` → **Save**.
-3. 1-3 minute baad tumhari site live hogi is address par: `https://loonaautomation.github.io/loona-qr-codes/`
+3. 1-3 minute baad tumhari site live hogi is address par: `https://qr.loonaautomation.com/`
 
 ## Step C — URL check (kuch badalna nahi hai)
-Website ke andar (sitemap.xml, har page ki canonical, robots.txt) yehi address `https://loonaautomation.github.io/loona-qr-codes/` pehle se laga hua hai. Tumhe kuch change nahi karna — bas repo ka naam `loona-qr-codes` hi rakhna hai. Agar kabhi repo ka naam ya custom domain badlo to mujhe (Muse ko) bata dena, main naya address laga dun ga.
+Website ke andar (sitemap.xml, har page ki canonical, robots.txt) yehi address `https://qr.loonaautomation.com/` pehle se laga hua hai. Tumhe kuch change nahi karna — bas repo ka naam `loona-qr-codes` hi rakhna hai. Agar kabhi repo ka naam ya custom domain badlo to mujhe (Muse ko) bata dena, main naya address laga dun ga.
 
 ## Step D — Google Search Console me listing
-1. search.google.com/search-console → **Add property** → URL prefix me ye dalo: `https://loonaautomation.github.io/loona-qr-codes/`
+1. search.google.com/search-console → **Add property** → URL prefix me ye dalo: `https://qr.loonaautomation.com/`
 2. Ownership verify karo (GitHub Pages ke liye HTML tag wala tareeqa asan hai: tag ko `index.html` ke `<head>` me paste karke site dubara upload karo, phir Verify dabao).
 3. Console → **Sitemaps** → `sitemap.xml` likh kar **Submit**.
 4. Google kuch din me pages ko ek-ek karke index karega — har page alag search me aa sakega.

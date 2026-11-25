@@ -2,7 +2,7 @@
   "name": "Loona Générateur de code QR Événement Google Calendar",
   "short_name": "Code QR Événement Google Calendar",
   "description": "Créez un code QR Événement Google Calendar gratuit instantanément avec Loona. Aucune inscription, aucun filigrane, n’expire jamais. Couleurs personnalisées, téléchargement PNG haute résolution.",
-  "id": "/loona-qr-codes/fr/google-calendar-qr-code-generator/",
+  "id": "/fr/google-calendar-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

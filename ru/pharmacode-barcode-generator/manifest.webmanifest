@@ -2,7 +2,7 @@
   "name": "Loona Генератор штрихкодов Pharmacode",
   "short_name": "Генератор штрихкодов Pharmacode",
   "description": "Бесплатный генератор штрихкодов Pharmacode. Корректные контрольные цифры там, где они предусмотрены стандартом, скачивание в PNG и SVG, без регистрации, без водяных знаков.",
-  "id": "/loona-qr-codes/ru/pharmacode-barcode-generator/",
+  "id": "/ru/pharmacode-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Códigos QR de Etiqueta de Bagagem",
   "short_name": "Gerador de Códigos QR de Etiqueta de Bagagem",
   "description": "Crie um código QR de Etiqueta de Bagagem grátis instantaneamente com a Loona. Sem registo, sem marca de água, nunca expira. Cores personalizadas, transferência PNG em alta resolução.",
-  "id": "/loona-qr-codes/pt/luggage-tag-qr-code-generator/",
+  "id": "/pt/luggage-tag-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bitcoin / 暗号資産 QRコード生成ツール",
   "short_name": "Bitcoin / 暗号資産 QRコード",
   "description": "Loona で無料の Bitcoin / 暗号資産 QRコードを即座に作成。登録不要、透かしなし、無期限。Bitcoin ウォレットアドレスを QR として共有。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/bitcoin-crypto-qr-code-generator/",
+  "id": "/ja/bitcoin-crypto-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

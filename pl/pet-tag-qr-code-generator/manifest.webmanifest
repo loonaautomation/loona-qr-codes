@@ -2,7 +2,7 @@
   "name": "Generator kodów QR przywieszek ID zwierząt Loona",
   "short_name": "Generator kodów QR przywieszek ID zwierząt",
   "description": "Utwórz darmowy kod QR przywieszki ID zwierzaka błyskawicznie z Loona. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa. Kolory niestandardowe, pobieranie PNG w wysokiej rozdzielczości.",
-  "id": "/loona-qr-codes/pl/pet-tag-qr-code-generator/",
+  "id": "/pl/pet-tag-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

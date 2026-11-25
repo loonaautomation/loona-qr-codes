@@ -2,7 +2,7 @@
   "name": "Генератор на QR кодове за плащане с Dogecoin на Loona",
   "short_name": "QR код за плащане с Dogecoin",
   "description": "Създайте безплатен QR код за плащане с Dogecoin мигновено с Loona. Без регистрация, без воден знак, никога не изтича. Персонализирани цветове, изтегляне на PNG с висока разделителна способност.",
-  "id": "/loona-qr-codes/bg/dogecoin-payment-qr-code-generator/",
+  "id": "/bg/dogecoin-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

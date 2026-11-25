@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Bitcoin / Crypto cha Loona",
   "short_name": "Msimbo wa QR wa Bitcoin / Crypto",
   "description": "Tengeneza Msimbo wa QR wa Bitcoin / Crypto wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Shiriki anwani ya pochi ya Bitcoin kama QR. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/bitcoin-crypto-qr-code-generator/",
+  "id": "/sw/bitcoin-crypto-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

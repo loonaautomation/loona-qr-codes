@@ -2,7 +2,7 @@
   "name": "เครื่องคำนวณขนาดคิวอาร์โค้ดของ Loona",
   "short_name": "เครื่องคำนวณขนาดคิวอาร์โค้ด",
   "description": "เครื่องคำนวณขนาดคิวอาร์โค้ดฟรี: ใส่ระยะการสแกนและประเภทเนื้อหาเพื่อรับขนาดพิมพ์ขั้นต่ำในหน่วย cm ความละเอียด PNG ที่แนะนำ และความกว้างของพื้นที่เงียบ",
-  "id": "/loona-qr-codes/th/qr-code-size-calculator/",
+  "id": "/th/qr-code-size-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

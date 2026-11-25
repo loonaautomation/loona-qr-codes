@@ -2,7 +2,7 @@
   "name": "Loona QR-codeformaatcalculator",
   "short_name": "QR-codeformaatcalculator",
   "description": "Gratis QR-codeformaatcalculator: voer de scanafstand en het inhoudstype in om het minimale printformaat in cm, de aanbevolen PNG-resolutie en de breedte van de stille zone te krijgen.",
-  "id": "/loona-qr-codes/nl/qr-code-size-calculator/",
+  "id": "/nl/qr-code-size-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

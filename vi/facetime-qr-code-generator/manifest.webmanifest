@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR FaceTime Loona",
   "short_name": "Trình tạo mã QR FaceTime",
   "description": "Tạo mã QR FaceTime miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/facetime-qr-code-generator/",
+  "id": "/vi/facetime-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

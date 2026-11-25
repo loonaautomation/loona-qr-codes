@@ -2,7 +2,7 @@
   "name": "Loona Solana Pay QRコード生成ツール",
   "short_name": "Solana Pay QRコード生成ツール",
   "description": "Loona で無料の Solana Pay QRコードを即座に作成。登録不要、透かしなし、無期限。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/solana-pay-qr-code-generator/",
+  "id": "/ja/solana-pay-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

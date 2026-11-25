@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za Skype poziv",
   "short_name": "Generator QR kodova za Skype poziv",
   "description": "Stvorite besplatni QR kod za Skype pozive trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/skype-qr-code-generator/",
+  "id": "/hr/skype-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

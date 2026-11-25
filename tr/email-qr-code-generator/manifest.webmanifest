@@ -2,7 +2,7 @@
   "name": "Loona E-posta QR Kod Oluşturucu",
   "short_name": "E-posta QR Kod Oluşturucu",
   "description": "Loona ile anında ücretsiz bir E-posta QR Kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Göndermeye hazır, önceden adreslenmiş bir e-postayı açmak için tarayın. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/email-qr-code-generator/",
+  "id": "/tr/email-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

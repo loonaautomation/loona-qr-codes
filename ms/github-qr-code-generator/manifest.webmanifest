@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR GitHub Loona",
   "short_name": "Penjana Kod QR GitHub",
   "description": "Cipta kod QR GitHub percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Imbas untuk membuka profil GitHub, repositori atau halaman projek. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/github-qr-code-generator/",
+  "id": "/ms/github-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

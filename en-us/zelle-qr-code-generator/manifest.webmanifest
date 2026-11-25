@@ -2,7 +2,7 @@
   "name": "Loona Free Zelle QR Code Generator",
   "short_name": "Free Zelle QR Code Generator",
   "description": "Create a free Zelle QR code instantly with Loona. No signup, no watermark, never expires. Custom colors, high-resolution PNG download.",
-  "id": "/loona-qr-codes/en-us/zelle-qr-code-generator/",
+  "id": "/en-us/zelle-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

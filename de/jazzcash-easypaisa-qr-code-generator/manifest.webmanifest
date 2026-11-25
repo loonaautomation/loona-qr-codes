@@ -2,7 +2,7 @@
   "name": "Loona JazzCash- / EasyPaisa-QR-Code (Pakistan)",
   "short_name": "JazzCash / EasyPaisa-QR-Code",
   "description": "Erstellen Sie kostenlos einen JazzCash- oder EasyPaisa-QR-Code für Pakistan — keine Anmeldung, kein Wasserzeichen, läuft niemals ab. Benutzerdefinierte Farben und hochauflösender PNG-Download.",
-  "id": "/loona-qr-codes/de/jazzcash-easypaisa-qr-code-generator/",
+  "id": "/de/jazzcash-easypaisa-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

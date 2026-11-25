@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Μεγάλης Εκτύπωσης",
   "short_name": "Γεννήτρια Κωδικού QR Μεγάλης Εκτύπωσης",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Μεγάλης Εκτύπωσης αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/large-print-qr-code-generator/",
+  "id": "/el/large-print-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

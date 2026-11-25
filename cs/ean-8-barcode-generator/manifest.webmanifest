@@ -2,7 +2,7 @@
   "name": "Generátor čárových kódů EAN-8 Loona",
   "short_name": "Generátor čárových kódů EAN-8",
   "description": "Bezplatný generátor čárových kódů EAN-8. Správné kontrolní číslice tam, kde je standard má, stažení PNG a SVG, bez registrace, bez vodoznaku.",
-  "id": "/loona-qr-codes/cs/ean-8-barcode-generator/",
+  "id": "/cs/ean-8-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

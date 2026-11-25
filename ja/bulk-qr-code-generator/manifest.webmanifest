@@ -2,7 +2,7 @@
   "name": "Loona 一括QRコード生成ツール",
   "short_name": "一括QRコード生成ツール",
   "description": "最大 100 件のQRコードを一度に無料で作成：リストを貼り付けるか、リンクとテキストの CSV をアップロードすると、ラベル付きの印刷可能なQRコードシートが得られます。登録不要、透かしなし、無期限、ブラウザ内で 100% プライベート。",
-  "id": "/loona-qr-codes/ja/bulk-qr-code-generator/",
+  "id": "/ja/bulk-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

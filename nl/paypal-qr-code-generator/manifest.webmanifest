@@ -2,7 +2,7 @@
   "name": "Loona PayPal-QR-codegenerator",
   "short_name": "PayPal-QR-codegenerator",
   "description": "Maak direct een gratis PayPal-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Word betaald: scan om je PayPal.me-pagina te openen. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/paypal-qr-code-generator/",
+  "id": "/nl/paypal-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

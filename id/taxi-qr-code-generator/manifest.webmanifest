@@ -2,7 +2,7 @@
   "name": "Generator Kode QR Taksi & Perjalanan Loona",
   "short_name": "Generator Kode QR Taksi & Perjalanan",
   "description": "Buat kode QR Taksi & Perjalanan gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/taxi-qr-code-generator/",
+  "id": "/id/taxi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

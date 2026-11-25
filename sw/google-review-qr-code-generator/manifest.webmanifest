@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Ukaguzi wa Google cha Loona",
   "short_name": "Msimbo wa QR wa Ukaguzi wa Google",
   "description": "Tengeneza Msimbo wa QR wa Ukaguzi wa Google wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Wateja wenye furaha huacha ukaguzi wa Google kwa sekunde chache. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/google-review-qr-code-generator/",
+  "id": "/sw/google-review-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

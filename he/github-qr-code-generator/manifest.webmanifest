@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona ל-GitHub",
   "short_name": "מחולל קוד QR של GitHub",
   "description": "צרו קוד QR חינמי של GitHub מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. סרקו כדי לפתוח פרופיל GitHub, מאגר או דף פרויקט. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/github-qr-code-generator/",
+  "id": "/he/github-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

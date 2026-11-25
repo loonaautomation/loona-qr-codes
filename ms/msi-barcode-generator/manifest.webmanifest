@@ -2,7 +2,7 @@
   "name": "Penjana Kod Bar MSI Plessey Loona",
   "short_name": "Penjana Kod Bar MSI Plessey",
   "description": "Penjana kod bar MSI Plessey percuma. Digit semak betul di mana standard mempunyainya, muat turun PNG dan SVG, tiada pendaftaran, tiada tera air.",
-  "id": "/loona-qr-codes/ms/msi-barcode-generator/",
+  "id": "/ms/msi-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

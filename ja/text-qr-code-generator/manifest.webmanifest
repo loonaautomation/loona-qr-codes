@@ -2,7 +2,7 @@
   "name": "Loona プレーンテキスト QRコード生成ツール",
   "short_name": "プレーンテキスト QRコード生成ツール",
   "description": "Loona で無料のプレーンテキスト QRコードを即座に作成。登録不要、透かしなし、無期限。あらゆるテキスト、コード、メッセージを QRコードの中に入れられます。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/text-qr-code-generator/",
+  "id": "/ja/text-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

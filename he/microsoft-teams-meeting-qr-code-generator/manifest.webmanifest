@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona לפגישת Microsoft Teams",
   "short_name": "קוד QR לפגישת Microsoft Teams",
   "description": "צרו קוד QR חינמי של פגישת Microsoft Teams מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/microsoft-teams-meeting-qr-code-generator/",
+  "id": "/he/microsoft-teams-meeting-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

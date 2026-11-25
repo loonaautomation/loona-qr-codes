@@ -2,7 +2,7 @@
   "name": "Loona Generador de códigos QR de invitaciones de boda",
   "short_name": "Código QR de invitación de boda",
   "description": "Crea un código QR de invitación de boda gratuito al instante con Loona. Sin registro, sin marca de agua, nunca caduca. Colores personalizados, descarga de PNG en alta resolución.",
-  "id": "/loona-qr-codes/es/wedding-invitation-qr-code-generator/",
+  "id": "/es/wedding-invitation-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

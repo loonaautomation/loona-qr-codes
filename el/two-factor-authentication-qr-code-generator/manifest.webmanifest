@@ -2,7 +2,7 @@
   "name": "Loona — Κωδικός QR Ελέγχου Ταυτότητας Δύο Παραγόντων (TOTP)",
   "short_name": "Έλεγχος Ταυτότητας Δύο Παραγόντων",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Επαλήθευσης Δύο Παραγόντων (TOTP) αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/two-factor-authentication-qr-code-generator/",
+  "id": "/el/two-factor-authentication-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

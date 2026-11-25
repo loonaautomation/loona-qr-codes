@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona לתשלום XRP",
   "short_name": "מחולל קוד QR לתשלום XRP",
   "description": "צרו קוד QR חינמי של תשלום XRP מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/xrp-payment-qr-code-generator/",
+  "id": "/he/xrp-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Kod QR uwierzytelniania dwuskładnikowego (TOTP) Loona",
   "short_name": "Uwierzytelnianie dwuskładnikowe",
   "description": "Utwórz darmowy kod QR uwierzytelniania dwuskładnikowego (TOTP) błyskawicznie z Loona. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa. Kolory niestandardowe, pobieranie PNG w wysokiej rozdzielczości.",
-  "id": "/loona-qr-codes/pl/two-factor-authentication-qr-code-generator/",
+  "id": "/pl/two-factor-authentication-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

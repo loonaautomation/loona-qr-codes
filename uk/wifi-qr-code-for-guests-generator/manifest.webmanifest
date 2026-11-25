@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодів гостьового WiFi (дім і кафе)",
   "short_name": "Гостьовий WiFi (дім і кафе) QR",
   "description": "Створіть безкоштовний QR-код гостьового WiFi (дім і кафе) миттєво з Loona. Без реєстрації, без водяного знака, строк дії ніколи не закінчується. Користувацькі кольори, завантаження PNG у високій роздільній здатності.",
-  "id": "/loona-qr-codes/uk/wifi-qr-code-for-guests-generator/",
+  "id": "/uk/wifi-qr-code-for-guests-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

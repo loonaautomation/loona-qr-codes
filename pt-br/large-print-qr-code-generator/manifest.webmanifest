@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Códigos QR de Impressão em Grande",
   "short_name": "Gerador de Códigos QR de Impressão em Grande",
   "description": "Crie um código QR de Impressão em Grande grátis instantaneamente com a Loona. Sem registro, sem marca de água, nunca expira. Cores personalizadas, transferência PNG em alta resolução.",
-  "id": "/loona-qr-codes/pt-br/large-print-qr-code-generator/",
+  "id": "/pt-br/large-print-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

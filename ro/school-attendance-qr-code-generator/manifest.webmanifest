@@ -2,7 +2,7 @@
   "name": "Loona Cod QR pentru prezență școlară și formulare",
   "short_name": "Cod QR pentru prezență școlară și formulare",
   "description": "Creează gratuit un cod QR pentru prezență școlară și formulare instantaneu cu Loona. Fără înregistrare, fără filigran, nu expiră niciodată. Culori personalizate, descărcare PNG la rezoluție înaltă.",
-  "id": "/loona-qr-codes/ro/school-attendance-qr-code-generator/",
+  "id": "/ro/school-attendance-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pharmacode 條形碼生成器",
   "short_name": "Pharmacode 條形碼生成器",
   "description": "免費 Pharmacode 條形碼生成器。標準有校驗位的地方提供正確的校驗位，PNG 和 SVG 下載，無需註冊，無水印。",
-  "id": "/loona-qr-codes/zh-hant/pharmacode-barcode-generator/",
+  "id": "/zh-hant/pharmacode-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

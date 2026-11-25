@@ -2,7 +2,7 @@
   "name": "Loona İki Faktörlü Kimlik Doğrulama (TOTP) QR Kodu",
   "short_name": "İki Faktörlü Kimlik Doğrulama",
   "description": "Loona ile anında ücretsiz bir İki Faktörlü Kimlik Doğrulama (TOTP) QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/two-factor-authentication-qr-code-generator/",
+  "id": "/tr/two-factor-authentication-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

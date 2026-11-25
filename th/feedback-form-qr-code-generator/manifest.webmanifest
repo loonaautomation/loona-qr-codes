@@ -2,7 +2,7 @@
   "name": "เครื่องสร้างคิวอาร์โค้ดแบบฟอร์มความคิดเห็นของ Loona",
   "short_name": "คิวอาร์โค้ดแบบฟอร์มความคิดเห็น",
   "description": "สร้างคิวอาร์โค้ดแบบฟอร์มความคิดเห็นฟรีได้ทันทีด้วย Loona ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ สีที่กำหนดเอง ดาวน์โหลด PNG ความละเอียดสูง",
-  "id": "/loona-qr-codes/th/feedback-form-qr-code-generator/",
+  "id": "/th/feedback-form-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Εισιτηρίου Εκδήλωσης",
   "short_name": "Γεννήτρια Κωδικού QR Εισιτηρίου Εκδήλωσης",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Εισιτηρίου Εκδήλωσης αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/event-ticket-qr-code-generator/",
+  "id": "/el/event-ticket-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

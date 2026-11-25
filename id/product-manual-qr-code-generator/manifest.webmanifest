@@ -2,7 +2,7 @@
   "name": "Kode QR Manual & Petunjuk Produk Loona",
   "short_name": "Manual & Petunjuk Produk",
   "description": "Buat kode QR Manual & Petunjuk Produk gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/product-manual-qr-code-generator/",
+  "id": "/id/product-manual-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

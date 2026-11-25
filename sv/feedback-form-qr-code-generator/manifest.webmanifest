@@ -2,7 +2,7 @@
   "name": "Loona feedbackformulär-QR-kodgenerator",
   "short_name": "Feedbackformulär-QR-kod",
   "description": "Skapa direkt en gratis feedbackformulär-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/feedback-form-qr-code-generator/",
+  "id": "/sv/feedback-form-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

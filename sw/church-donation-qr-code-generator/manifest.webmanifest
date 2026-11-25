@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Utoaji wa Kanisa na Misaada cha Loona",
   "short_name": "QR ya Utoaji wa Kanisa na Hisani",
   "description": "Tengeneza msimbo wa QR wa Utoaji wa Kanisa na Misaada wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/church-donation-qr-code-generator/",
+  "id": "/sw/church-donation-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

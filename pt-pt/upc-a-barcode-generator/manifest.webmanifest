@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Códigos de Barras UPC-A",
   "short_name": "Gerador de Códigos de Barras UPC-A",
   "description": "Gerador de códigos de barras UPC-A gratuito. Dígitos de controlo corretos onde a norma os tem, transferência PNG e SVG, sem registo, sem marca de água.",
-  "id": "/loona-qr-codes/pt-pt/upc-a-barcode-generator/",
+  "id": "/pt-pt/upc-a-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

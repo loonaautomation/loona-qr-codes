@@ -2,7 +2,7 @@
   "name": "Loona Bitcoin Cash-betalning-QR-kodgenerator",
   "short_name": "Bitcoin Cash-betalning-QR-kod",
   "description": "Skapa direkt en gratis Bitcoin Cash-betalning-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/bitcoin-cash-qr-code-generator/",
+  "id": "/sv/bitcoin-cash-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

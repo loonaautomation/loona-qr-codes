@@ -2,7 +2,7 @@
   "name": "Loona telefoongesprek-QR-codegenerator",
   "short_name": "Telefoongesprek-QR-codegenerator",
   "description": "Maak direct een gratis telefoongesprek-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Scan om je nummer direct te bellen. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/phone-qr-code-generator/",
+  "id": "/nl/phone-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

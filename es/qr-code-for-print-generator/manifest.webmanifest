@@ -2,7 +2,7 @@
   "name": "Loona Generador de códigos QR listos para imprimir",
   "short_name": "Generador de códigos QR listos para imprimir",
   "description": "Crea un código QR listo para imprimir gratuito al instante con Loona. Sin registro, sin marca de agua, nunca caduca. Colores personalizados, descarga de PNG en alta resolución.",
-  "id": "/loona-qr-codes/es/qr-code-for-print-generator/",
+  "id": "/es/qr-code-for-print-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

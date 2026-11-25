@@ -2,7 +2,7 @@
   "name": "Loona Google Yorum QR Kod Oluşturucu",
   "short_name": "Google Yorum QR Kodu",
   "description": "Loona ile anında ücretsiz bir Google Review QR Kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Mutlu müşteriler saniyeler içinde bir Google yorumu bırakır. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/google-review-qr-code-generator/",
+  "id": "/tr/google-review-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

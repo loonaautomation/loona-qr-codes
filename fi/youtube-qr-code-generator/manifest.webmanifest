@@ -2,7 +2,7 @@
   "name": "Loona YouTube-QR-koodigeneraattori",
   "short_name": "YouTube-QR-koodigeneraattori",
   "description": "Luo ilmainen YouTube-QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Skannaa avataksesi videon tai kanavan heti. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/youtube-qr-code-generator/",
+  "id": "/fi/youtube-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

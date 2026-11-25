@@ -2,7 +2,7 @@
   "name": "Generátor QR kódů pro velký tisk Loona",
   "short_name": "Generátor QR kódů pro velký tisk",
   "description": "Vytvořte si zdarma QR kód pro velký tisk okamžitě s Loonou. Bez registrace, bez vodoznaku, nikdy nevyprší. Vlastní barvy, stažení PNG ve vysokém rozlišení.",
-  "id": "/loona-qr-codes/cs/large-print-qr-code-generator/",
+  "id": "/cs/large-print-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

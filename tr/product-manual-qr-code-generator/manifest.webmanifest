@@ -2,7 +2,7 @@
   "name": "Loona Ürün Kılavuzu ve Talimatlar QR Kodu",
   "short_name": "Ürün Kılavuzu ve Talimatlar",
   "description": "Loona ile anında ücretsiz bir Ürün Kılavuzu ve Talimatlar QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/product-manual-qr-code-generator/",
+  "id": "/tr/product-manual-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

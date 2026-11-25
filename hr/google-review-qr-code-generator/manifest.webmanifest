@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za Google recenziju",
   "short_name": "QR kod za Google recenziju",
   "description": "Stvorite besplatni QR kod za Google recenzije trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Zadovoljni kupci ostavljaju Google recenziju u nekoliko sekundi. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/google-review-qr-code-generator/",
+  "id": "/hr/google-review-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

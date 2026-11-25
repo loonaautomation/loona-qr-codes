@@ -2,7 +2,7 @@
   "name": "Loona Google Form QR Code Generator",
   "short_name": "Google Form QR Code Generator",
   "description": "Loona کے ساتھ مفت Google Form QR Code فوراً بنائیں۔ کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، کبھی ختم نہیں ہوتا۔ Google Form کھولنے اور بھرنے کے لیے اسکین کریں۔ حسبِ پسند رنگ، ہائی ریزولوشن PNG ڈاؤن لوڈ۔",
-  "id": "/loona-qr-codes/ur/google-form-qr-code-generator/",
+  "id": "/ur/google-form-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Konferans Rozeti QR Kod Oluşturucu",
   "short_name": "Konferans Rozeti QR Kodu",
   "description": "Loona ile anında ücretsiz bir Konferans Rozeti QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/conference-badge-qr-code-generator/",
+  "id": "/tr/conference-badge-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

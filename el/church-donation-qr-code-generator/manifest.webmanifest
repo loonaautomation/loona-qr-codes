@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Δωρεών Εκκλησίας & Φιλανθρωπίας",
   "short_name": "QR Δωρεάς για Εκκλησία & Φιλανθρωπία",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Δωρεάς για Εκκλησία & Φιλανθρωπία αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/church-donation-qr-code-generator/",
+  "id": "/el/church-donation-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодів Cash App",
   "short_name": "Генератор QR-кодів Cash App",
   "description": "Створіть безкоштовний QR-код Cash App миттєво з Loona. Без реєстрації, без водяного знака, строк дії ніколи не закінчується. Користувацькі кольори, завантаження PNG у високій роздільній здатності.",
-  "id": "/loona-qr-codes/uk/cash-app-qr-code-generator/",
+  "id": "/uk/cash-app-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

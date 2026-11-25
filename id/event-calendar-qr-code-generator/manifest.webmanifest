@@ -2,7 +2,7 @@
   "name": "Generator Kode QR Acara / Kalender Loona",
   "short_name": "Kode QR Acara / Kalender",
   "description": "Buat Kode QR Acara / Kalender gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Pindai untuk menyimpan acara ke kalender. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/event-calendar-qr-code-generator/",
+  "id": "/id/event-calendar-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

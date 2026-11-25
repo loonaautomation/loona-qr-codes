@@ -2,7 +2,7 @@
   "name": "Loona Telegram QR Code Generator",
   "short_name": "Telegram QR Code Generator",
   "description": "Loona کے ساتھ مفت Telegram QR Code فوراً بنائیں۔ کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، کبھی ختم نہیں ہوتا۔ اپنے Telegram پروفائل، گروپ یا چینل میں شامل ہونے کے لیے اسکین کریں۔ حسبِ پسند رنگ، ہائی ریزولوشن PNG ڈاؤن لوڈ۔",
-  "id": "/loona-qr-codes/ur/telegram-qr-code-generator/",
+  "id": "/ur/telegram-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

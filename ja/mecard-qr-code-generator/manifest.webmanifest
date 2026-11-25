@@ -2,7 +2,7 @@
   "name": "Loona MeCard 連絡先 QRコード生成ツール",
   "short_name": "MeCard 連絡先 QRコード",
   "description": "Loona で無料の MeCard 連絡先 QRコードを即座に作成。登録不要、透かしなし、無期限。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/mecard-qr-code-generator/",
+  "id": "/ja/mecard-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

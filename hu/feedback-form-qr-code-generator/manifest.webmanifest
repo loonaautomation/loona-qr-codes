@@ -2,7 +2,7 @@
   "name": "Loona Visszajelzési Űrlap QR-kód generátor",
   "short_name": "Visszajelző űrlap QR-kód",
   "description": "Hozzon létre ingyenes visszajelző űrlap QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/feedback-form-qr-code-generator/",
+  "id": "/hu/feedback-form-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

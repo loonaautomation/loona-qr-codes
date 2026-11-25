@@ -2,7 +2,7 @@
   "name": "Loona Zoom-/vergader-QR-codegenerator",
   "short_name": "Zoom- / vergader-QR-code",
   "description": "Maak direct een gratis Zoom-/vergader-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Scan om deel te nemen aan een vergadering of les. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/zoom-meeting-qr-code-generator/",
+  "id": "/nl/zoom-meeting-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

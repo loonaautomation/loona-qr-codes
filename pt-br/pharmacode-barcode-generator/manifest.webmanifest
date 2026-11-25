@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Códigos de Barras Pharmacode",
   "short_name": "Gerador de Códigos de Barras Pharmacode",
   "description": "Gerador de códigos de barras Pharmacode gratuito. Dígitos de controlo corretos onde a norma os tem, transferência PNG e SVG, sem registro, sem marca de água.",
-  "id": "/loona-qr-codes/pt-br/pharmacode-barcode-generator/",
+  "id": "/pt-br/pharmacode-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

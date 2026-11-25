@@ -2,7 +2,7 @@
   "name": "Loona Interleaved 2 of 5-Barcode-Generator",
   "short_name": "Interleaved 2 of 5-Barcode",
   "description": "Kostenloser Interleaved 2 of 5-Barcode-Generator. Korrekte Prüfziffern, wo der Standard sie hat, PNG- und SVG-Download, keine Anmeldung, kein Wasserzeichen.",
-  "id": "/loona-qr-codes/de/interleaved-2-of-5-barcode-generator/",
+  "id": "/de/interleaved-2-of-5-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

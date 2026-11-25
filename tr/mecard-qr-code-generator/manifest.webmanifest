@@ -2,7 +2,7 @@
   "name": "Loona MeCard Kişi QR Kod Oluşturucu",
   "short_name": "MeCard Kişi QR Kodu",
   "description": "Loona ile anında ücretsiz bir MeCard Kişi QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/mecard-qr-code-generator/",
+  "id": "/tr/mecard-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til feedbackformular",
   "short_name": "QR-kode til feedbackformular",
   "description": "Opret en gratis feedbackformular-QR-kode øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/feedback-form-qr-code-generator/",
+  "id": "/da/feedback-form-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

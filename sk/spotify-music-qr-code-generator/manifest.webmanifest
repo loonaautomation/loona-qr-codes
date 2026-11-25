@@ -2,7 +2,7 @@
   "name": "Loona Generátor QR kódov pre Spotify / hudbu",
   "short_name": "QR kód pre Spotify / hudbu",
   "description": "Vytvorte si zadarmo QR kód pre Spotify / hudbu okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Naskenujte a prehrajte pieseň, zoznam skladieb alebo podcast. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
-  "id": "/loona-qr-codes/sk/spotify-music-qr-code-generator/",
+  "id": "/sk/spotify-music-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

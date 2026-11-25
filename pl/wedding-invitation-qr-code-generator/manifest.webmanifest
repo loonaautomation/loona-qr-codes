@@ -2,7 +2,7 @@
   "name": "Generator kodów QR zaproszeń ślubnych Loona",
   "short_name": "Kod QR zaproszenia ślubnego",
   "description": "Utwórz darmowy kod QR zaproszenia ślubnego błyskawicznie z Loona. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa. Kolory niestandardowe, pobieranie PNG w wysokiej rozdzielczości.",
-  "id": "/loona-qr-codes/pl/wedding-invitation-qr-code-generator/",
+  "id": "/pl/wedding-invitation-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

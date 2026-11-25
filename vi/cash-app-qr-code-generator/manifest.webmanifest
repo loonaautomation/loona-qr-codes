@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Cash App Loona",
   "short_name": "Trình tạo mã QR Cash App",
   "description": "Tạo mã QR Cash App miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/cash-app-qr-code-generator/",
+  "id": "/vi/cash-app-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

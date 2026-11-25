@@ -2,7 +2,7 @@
   "name": "Loona Audió QR-kód generátor",
   "short_name": "Hang QR-kód generátor",
   "description": "Hozzon létre ingyenes hang QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Olvassa be hangjegyzet, dal, podcast vagy hangos útmutató lejátszásához. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/audio-qr-code-generator/",
+  "id": "/hu/audio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

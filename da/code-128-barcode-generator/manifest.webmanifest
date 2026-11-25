@@ -2,7 +2,7 @@
   "name": "Loona Code 128-stregkodegenerator",
   "short_name": "Code 128-stregkodegenerator",
   "description": "Gratis Code 128-stregkodegenerator. Korrekte kontrolcifre, hvor standarden har dem, download af PNG og SVG, ingen tilmelding, intet vandmærke.",
-  "id": "/loona-qr-codes/da/code-128-barcode-generator/",
+  "id": "/da/code-128-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

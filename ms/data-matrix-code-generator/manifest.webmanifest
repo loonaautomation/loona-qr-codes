@@ -2,7 +2,7 @@
   "name": "Penjana Kod Bar Data Matrix Loona",
   "short_name": "Penjana Kod Bar Data Matrix",
   "description": "Penjana kod bar Data Matrix percuma. Digit semak betul di mana standard mempunyainya, muat turun PNG dan SVG, tiada pendaftaran, tiada tera air.",
-  "id": "/loona-qr-codes/ms/data-matrix-code-generator/",
+  "id": "/ms/data-matrix-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

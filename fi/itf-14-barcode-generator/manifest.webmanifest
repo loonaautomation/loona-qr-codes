@@ -2,7 +2,7 @@
   "name": "Loona ITF-14-viivakoodigeneraattori",
   "short_name": "ITF-14-viivakoodigeneraattori",
   "description": "Ilmainen ITF-14-viivakoodigeneraattori. Oikeat tarkistusnumerot siellä, missä standardissa ne on, PNG- ja SVG-lataus, ei rekisteröitymistä, ei vesileimaa.",
-  "id": "/loona-qr-codes/fi/itf-14-barcode-generator/",
+  "id": "/fi/itf-14-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Data Matrix -viivakoodigeneraattori",
   "short_name": "Data Matrix -viivakoodigeneraattori",
   "description": "Ilmainen Data Matrix -viivakoodigeneraattori. Oikeat tarkistusnumerot siellä, missä standardissa ne on, PNG- ja SVG-lataus, ei rekisteröitymistä, ei vesileimaa.",
-  "id": "/loona-qr-codes/fi/data-matrix-code-generator/",
+  "id": "/fi/data-matrix-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

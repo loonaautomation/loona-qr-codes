@@ -2,7 +2,7 @@
   "name": "Loona Code 39-stregkodegenerator",
   "short_name": "Code 39-stregkodegenerator",
   "description": "Gratis Code 39-stregkodegenerator. Korrekte kontrolcifre, hvor standarden har dem, download af PNG og SVG, ingen tilmelding, intet vandmærke.",
-  "id": "/loona-qr-codes/da/code-39-barcode-generator/",
+  "id": "/da/code-39-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

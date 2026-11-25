@@ -1,7 +1,7 @@
 [
  {
   "n": "URL / ウェブサイト QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/url-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/url-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "任意のウェブサイトリンクを QRコードに変換。",
   "k": "url website qr code generator url qr code generator qr",
@@ -10,7 +10,7 @@
  },
  {
   "n": "プレーンテキスト QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/text-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/text-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "任意のテキスト、コード、メッセージを QRコードの中に入れます。",
   "k": "plain text qr code generator text qr code generator qr",
@@ -19,7 +19,7 @@
  },
  {
   "n": "WiFi QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/wifi-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/wifi-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "ゲストは一度のスキャンで WiFi に接続します。パスワードの入力は不要です。",
   "k": "wifi qr code generator wifi qr code generator wifi",
@@ -28,7 +28,7 @@
  },
  {
   "n": "WhatsApp QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/whatsapp-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/whatsapp-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "一度のスキャンで WhatsApp チャットを開始、番号の保存は不要。",
   "k": "whatsapp qr code generator whatsapp qr code generator whatsapp",
@@ -37,7 +37,7 @@
  },
  {
   "n": "vCard 連絡先 QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/vcard-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/vcard-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "スキャンして完全な連絡先カードをスマートフォンに保存。",
   "k": "vcard contact qr code generator vcard qr code generator",
@@ -46,7 +46,7 @@
  },
  {
   "n": "メール QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/email-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/email-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "スキャンして宛先入力済みのメールを開き、送信可能な状態に。",
   "k": "email qr code generator email qr code generator",
@@ -55,7 +55,7 @@
  },
  {
   "n": "SMS QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/sms-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/sms-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "スキャンして事前に書かれたテキストメッセージを開きます。",
   "k": "sms qr code generator sms qr code generator",
@@ -64,7 +64,7 @@
  },
  {
   "n": "電話発信 QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/phone-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/phone-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "スキャンしてあなたの番号に即座に発信。",
   "k": "phone call qr code generator phone qr code generator",
@@ -73,7 +73,7 @@
  },
  {
   "n": "Instagram QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/instagram-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/instagram-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "スキャンしてフォローする Instagram QR でフォロワーを増やします。",
   "k": "instagram qr code generator instagram qr code generator instagram qr",
@@ -82,7 +82,7 @@
  },
  {
   "n": "Facebook QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/facebook-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/facebook-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "人々をあなたの Facebook ページへ直接送ります。",
   "k": "facebook qr code generator facebook qr code generator facebook",
@@ -91,7 +91,7 @@
  },
  {
   "n": "YouTube QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/youtube-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/youtube-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "スキャンして動画やチャンネルを即座に開きます。",
   "k": "youtube qr code generator youtube qr code generator",
@@ -100,7 +100,7 @@
  },
  {
   "n": "TikTok QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/tiktok-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/tiktok-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "スキャンして TikTok プロフィールを開きます。",
   "k": "tiktok qr code generator tiktok qr code generator tiktok",
@@ -109,7 +109,7 @@
  },
  {
   "n": "X (Twitter) QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/x-twitter-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/x-twitter-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "スキャンして X プロフィールを開きます。",
   "k": "x twitter qr code generator x twitter qr code generator x",
@@ -118,7 +118,7 @@
  },
  {
   "n": "LinkedIn QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/linkedin-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/linkedin-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "一度のスキャンでプロフェッショナルにつながります。",
   "k": "linkedin qr code generator linkedin qr code generator",
@@ -127,7 +127,7 @@
  },
  {
   "n": "Telegram QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/telegram-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/telegram-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "スキャンして Telegram のプロフィール、グループ、チャンネルに参加。",
   "k": "telegram qr code generator telegram qr code generator telegram",
@@ -136,7 +136,7 @@
  },
  {
   "n": "Snapchat QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/snapchat-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/snapchat-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "スキャンして Snapchat であなたを追加。",
   "k": "snapchat qr code generator snapchat qr code generator snapchat",
@@ -145,7 +145,7 @@
  },
  {
   "n": "Google マップ ロケーション QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/google-maps-location-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/google-maps-location-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "スキャンしてあなたの場所への経路を取得。",
   "k": "google maps location qr code generator google maps location qr code generator",
@@ -154,7 +154,7 @@
  },
  {
   "n": "Google レビュー QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/google-review-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/google-review-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "満足した顧客は数秒で Google レビューを残します。",
   "k": "google review qr code generator google review qr code generator google",
@@ -163,7 +163,7 @@
  },
  {
   "n": "レストランメニュー QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/restaurant-menu-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/restaurant-menu-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "すべてのテーブルに非接触メニューを。",
   "k": "restaurant menu qr code generator restaurant menu qr code generator",
@@ -172,7 +172,7 @@
  },
  {
   "n": "PDF QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/pdf-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/pdf-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "スキャンして PDF ファイルを開くかダウンロード。",
   "k": "pdf qr code generator pdf qr code generator pdf",
@@ -181,7 +181,7 @@
  },
  {
   "n": "App Store / Google Play QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/app-store-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/app-store-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "スキャンしてアプリをインストール。",
   "k": "app store google play qr code generator app store qr code generator",
@@ -190,7 +190,7 @@
  },
  {
   "n": "Google フォーム QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/google-form-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/google-form-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "スキャンして Google フォームを開いて入力。",
   "k": "google form qr code generator google form qr code generator google",
@@ -199,7 +199,7 @@
  },
  {
   "n": "Zoom / ミーティング QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/zoom-meeting-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/zoom-meeting-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "スキャンして会議やクラスに参加。",
   "k": "zoom meeting qr code generator zoom meeting qr code generator",
@@ -208,7 +208,7 @@
  },
  {
   "n": "イベント / カレンダー QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/event-calendar-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/event-calendar-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "スキャンしてイベントをカレンダーに保存。",
   "k": "event calendar qr code generator event calendar qr code generator",
@@ -217,7 +217,7 @@
  },
  {
   "n": "PayPal QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/paypal-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/paypal-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "支払いを受け取ります：スキャンして PayPal.me ページを開きます。",
   "k": "paypal qr code generator paypal qr code generator paypal me",
@@ -226,7 +226,7 @@
  },
  {
   "n": "UPI 支払い QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/upi-payment-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/upi-payment-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "インドと UPI 地域の店舗向け UPI 支払いQR。",
   "k": "upi payment qr code generator upi payment qr code generator upi upi qr",
@@ -235,7 +235,7 @@
  },
  {
   "n": "JazzCash / EasyPaisa QRコード（パキスタン）生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/jazzcash-easypaisa-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/jazzcash-easypaisa-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "JazzCash または EasyPaisa のアカウント詳細を QR として共有。",
   "k": "jazzcash easypaisa qr code pakistan generator jazzcash easypaisa qr code generator jazzcash easypaisa qr",
@@ -244,7 +244,7 @@
  },
  {
   "n": "Bitcoin / 暗号資産 QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/bitcoin-crypto-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/bitcoin-crypto-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Bitcoin ウォレットアドレスを QR として共有。",
   "k": "bitcoin crypto qr code generator bitcoin crypto qr code generator bitcoin qr",
@@ -253,7 +253,7 @@
  },
  {
   "n": "Spotify / 音楽 QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/spotify-music-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/spotify-music-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "スキャンして曲、プレイリスト、ポッドキャストを再生。",
   "k": "spotify music qr code generator spotify music qr code generator",
@@ -262,7 +262,7 @@
  },
  {
   "n": "履歴書 / ポートフォリオ QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/resume-portfolio-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/resume-portfolio-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "履歴書やポートフォリオを一度のスキャンの距離に。",
   "k": "resume portfolio qr code generator resume portfolio qr code generator",
@@ -271,7 +271,7 @@
  },
  {
   "n": "画像 QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/image-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/image-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "スキャンして写真や画像リンクを開くか共有。",
   "k": "image qr code generator image qr code generator",
@@ -280,7 +280,7 @@
  },
  {
   "n": "音声QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/audio-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/audio-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "スキャンして曲、ボイスノート、音声ファイルを再生。",
   "k": "audio qr code generator audio qr code generator",
@@ -289,7 +289,7 @@
  },
  {
   "n": "ソーシャルメディア QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/social-media-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/social-media-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "ソーシャルメディアのプロフィールリンク用の QR が一つ。",
   "k": "social media qr code generator social media qr code generator qr",
@@ -298,7 +298,7 @@
  },
  {
   "n": "Pinterest QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/pinterest-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/pinterest-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "スキャンして Pinterest プロフィールやボードを開きます。",
   "k": "pinterest qr code generator pinterest qr code generator pinterest",
@@ -307,7 +307,7 @@
  },
  {
   "n": "Discord QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/discord-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/discord-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "スキャンして Discord サーバーやプロフィールに参加。",
   "k": "discord qr code generator discord qr code generator discord",
@@ -316,7 +316,7 @@
  },
  {
   "n": "GitHub QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/github-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/github-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "スキャンして GitHub プロフィールやリポジトリを開きます。",
   "k": "github qr code generator github qr code generator github",
@@ -325,7 +325,7 @@
  },
  {
   "n": "QRコード＆バーコードスキャナー",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/qr-code-scanner/",
+  "u": "https://qr.loonaautomation.com/ja/qr-code-scanner/",
   "s": "Loona QR Codes",
   "d": "カメラでコードをスキャンするか、写真やスクリーンショットから QRコードとバーコードをデコードしてください。",
   "k": "qr code barcode scanner qr code scanner qr",
@@ -334,7 +334,7 @@
  },
  {
   "n": "一括QRコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/bulk-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/ja/bulk-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "印刷可能なシートに、ラベル付きQRコードを最大 100 件まで一度に作成します。",
   "k": "bulk qr code generator bulk qr code generator qr 100",
@@ -343,7 +343,7 @@
  },
  {
   "n": "バーコード生成ツール",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/barcode-generator/",
+  "u": "https://qr.loonaautomation.com/ja/barcode-generator/",
   "s": "Loona QR Codes",
   "d": "製品バーコードを作成 — Code 128、EAN-13、UPC など。",
   "k": "barcode generator barcode generator 製品ハーコートを作成 code 128 ean 13 upc なと",
@@ -352,7 +352,7 @@
  },
  {
   "n": "すべての Loona ツール — QRコード",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/ja/tool-qr-codes/",
+  "u": "https://qr.loonaautomation.com/ja/tool-qr-codes/",
   "s": "Loona QR Codes",
   "d": "任意の Loona ツール用の既製 QRコードを取得 — 計算ツール、PDF ツール、画像ツールなど。872 種類の Loona ツールとアプリをすべて検索し、QRコードをダウンロードして印刷してください。",
   "k": "qr codes for all loona tools tool qr codes 任意の loona ツール用の既製 qrコートを取得 計算ツール pdf ツール 画像ツールなと 872 種類の loona ツールとアフリをすへて検索し qrコートをタウンロートして印刷してくたさい",

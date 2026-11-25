@@ -2,7 +2,7 @@
   "name": "Loona QR kod za JazzCash / EasyPaisa (Pakistan)",
   "short_name": "QR kod za JazzCash / EasyPaisa",
   "description": "Stvorite besplatni QR kod za JazzCash ili EasyPaisa za Pakistan — bez registracije, bez vodenog žiga, nikada ne istječe. Prilagođene boje i preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/jazzcash-easypaisa-qr-code-generator/",
+  "id": "/hr/jazzcash-easypaisa-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona WhatsApp 二维码生成器",
   "short_name": "WhatsApp 二维码生成器",
   "description": "用 Loona 立即创建一个免费的 WhatsApp 二维码。无需注册，无水印，永不过期。一次扫码开始 WhatsApp 聊天，无需保存号码。自定义颜色，高分辨率 PNG 下载。",
-  "id": "/loona-qr-codes/zh/whatsapp-qr-code-generator/",
+  "id": "/zh/whatsapp-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Generator Kode QR Apotek Loona",
   "short_name": "Generator Kode QR Apotek",
   "description": "Buat kode QR Apotek gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/pharmacy-qr-code-generator/",
+  "id": "/id/pharmacy-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona QR Code with Logo Generator",
   "short_name": "QR Code with Logo Generator",
   "description": "Free QR code with logo generator: add your logo to the centre of a QR code at error-correction level H, custom colours, 1024px PNG download, no watermark.",
-  "id": "/loona-qr-codes/qr-code-with-logo-generator/",
+  "id": "/qr-code-with-logo-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

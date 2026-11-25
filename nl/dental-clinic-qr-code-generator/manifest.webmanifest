@@ -2,7 +2,7 @@
   "name": "Loona tandarts- en kliniek-QR-codegenerator",
   "short_name": "Tandarts- en kliniek-QR-code",
   "description": "Maak direct een gratis tandarts- en kliniek-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/dental-clinic-qr-code-generator/",
+  "id": "/nl/dental-clinic-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

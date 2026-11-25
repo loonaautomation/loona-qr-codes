@@ -2,7 +2,7 @@
   "name": "Loona Generátor QR kódov pre PDF",
   "short_name": "Generátor QR kódov pre PDF",
   "description": "Vytvorte si zadarmo QR kód pre PDF okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Naskenujte a otvorte alebo stiahnite súbor PDF. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
-  "id": "/loona-qr-codes/sk/pdf-qr-code-generator/",
+  "id": "/sk/pdf-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona EAN-13 vonalkódgenerátor",
   "short_name": "EAN-13 vonalkód generátor",
   "description": "Ingyenes EAN-13 vonalkód generátor. Helyes ellenőrző számjegyek, ahol a szabványnak vannak, PNG- és SVG-letöltés, nincs regisztráció, nincs vízjel.",
-  "id": "/loona-qr-codes/hu/ean-13-barcode-generator/",
+  "id": "/hu/ean-13-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

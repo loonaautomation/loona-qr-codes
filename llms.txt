@@ -3,44 +3,44 @@
 > Loona QR Codes is a free QR code generator by Loona Automation with 36 QR code types, plus a free QR and barcode scanner and a bulk QR code generator. Codes have no expiry, need no sign-up and carry no watermark, and everything runs in the visitor's browser — QR codes are generated privately on the visitor's own device.
 
 ## QR Code Generators
-- [URL / Website QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/url-qr-code-generator/): Turn any website link into a QR code.
-- [Plain Text QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/text-qr-code-generator/): Put any text, code or message inside a QR code.
-- [WiFi QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/wifi-qr-code-generator/): Guests connect to WiFi with one scan, no password typing.
-- [WhatsApp QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/whatsapp-qr-code-generator/): Start a WhatsApp chat with one scan, no number saving.
-- [vCard Contact QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/vcard-qr-code-generator/): Scan to save your full contact card to a phone.
-- [Email QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/email-qr-code-generator/): Scan to open a pre-addressed email, ready to send.
-- [SMS QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/sms-qr-code-generator/): Scan to open a pre-written text message.
-- [Phone Call QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/phone-qr-code-generator/): Scan to dial your number instantly.
-- [Instagram QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/instagram-qr-code-generator/): Grow followers with a scan-to-follow Instagram QR.
-- [Facebook QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/facebook-qr-code-generator/): Send people straight to your Facebook page.
-- [YouTube QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/youtube-qr-code-generator/): Scan to open a video or channel instantly.
-- [TikTok QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/tiktok-qr-code-generator/): Scan to open your TikTok profile.
-- [X (Twitter) QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/x-twitter-qr-code-generator/): Scan to open your X profile.
-- [LinkedIn QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/linkedin-qr-code-generator/): Connect professionally with one scan.
-- [Telegram QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/telegram-qr-code-generator/): Scan to join your Telegram profile, group or channel.
-- [Snapchat QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/snapchat-qr-code-generator/): Scan to add you on Snapchat.
-- [Google Maps Location QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/google-maps-location-qr-code-generator/): Scan to get directions to your place.
-- [Google Review QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/google-review-qr-code-generator/): Happy customers leave a Google review in seconds.
-- [Restaurant Menu QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/restaurant-menu-qr-code-generator/): Contactless menu on every table.
-- [PDF QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/pdf-qr-code-generator/): Scan to open or download a PDF file.
-- [App Store / Google Play QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/app-store-qr-code-generator/): Scan to install your app.
-- [Google Form QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/google-form-qr-code-generator/): Scan to open and fill a Google Form.
-- [Zoom / Meeting QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/zoom-meeting-qr-code-generator/): Scan to join a meeting or class.
-- [Event / Calendar QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/event-calendar-qr-code-generator/): Scan to save an event to the calendar.
-- [PayPal QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/paypal-qr-code-generator/): Get paid: scan to open your PayPal.me page.
-- [UPI Payment QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/upi-payment-qr-code-generator/): UPI payment QR for shops in India and UPI regions.
-- [JazzCash / EasyPaisa QR Code (Pakistan) Generator](https://loonaautomation.github.io/loona-qr-codes/jazzcash-easypaisa-qr-code-generator/): Share your JazzCash or EasyPaisa account details as a QR.
-- [Bitcoin / Crypto QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/bitcoin-crypto-qr-code-generator/): Share a Bitcoin wallet address as a QR.
-- [Spotify / Music QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/spotify-music-qr-code-generator/): Scan to play a song, playlist or podcast.
-- [Resume / Portfolio QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/resume-portfolio-qr-code-generator/): Put your resume or portfolio one scan away.
-- [Image QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/image-qr-code-generator/): Scan to open or share a photo or image link.
-- [Audio QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/audio-qr-code-generator/): Scan to play a song, voice note or audio file.
-- [Social Media QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/social-media-qr-code-generator/): One QR for your social media profile links.
-- [Pinterest QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/pinterest-qr-code-generator/): Scan to open your Pinterest profile or board.
-- [Discord QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/discord-qr-code-generator/): Scan to join your Discord server or profile.
-- [GitHub QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/github-qr-code-generator/): Scan to open your GitHub profile or repository.
-- [QR Code & Barcode Scanner](https://loonaautomation.github.io/loona-qr-codes/qr-code-scanner/): Scan codes with your camera, or decode QR codes and barcodes from a photo or screenshot.
-- [Bulk QR Code Generator](https://loonaautomation.github.io/loona-qr-codes/bulk-qr-code-generator/): Create up to 100 labelled QR codes at once in a printable sheet.
+- [URL / Website QR Code Generator](https://qr.loonaautomation.com/url-qr-code-generator/): Turn any website link into a QR code.
+- [Plain Text QR Code Generator](https://qr.loonaautomation.com/text-qr-code-generator/): Put any text, code or message inside a QR code.
+- [WiFi QR Code Generator](https://qr.loonaautomation.com/wifi-qr-code-generator/): Guests connect to WiFi with one scan, no password typing.
+- [WhatsApp QR Code Generator](https://qr.loonaautomation.com/whatsapp-qr-code-generator/): Start a WhatsApp chat with one scan, no number saving.
+- [vCard Contact QR Code Generator](https://qr.loonaautomation.com/vcard-qr-code-generator/): Scan to save your full contact card to a phone.
+- [Email QR Code Generator](https://qr.loonaautomation.com/email-qr-code-generator/): Scan to open a pre-addressed email, ready to send.
+- [SMS QR Code Generator](https://qr.loonaautomation.com/sms-qr-code-generator/): Scan to open a pre-written text message.
+- [Phone Call QR Code Generator](https://qr.loonaautomation.com/phone-qr-code-generator/): Scan to dial your number instantly.
+- [Instagram QR Code Generator](https://qr.loonaautomation.com/instagram-qr-code-generator/): Grow followers with a scan-to-follow Instagram QR.
+- [Facebook QR Code Generator](https://qr.loonaautomation.com/facebook-qr-code-generator/): Send people straight to your Facebook page.
+- [YouTube QR Code Generator](https://qr.loonaautomation.com/youtube-qr-code-generator/): Scan to open a video or channel instantly.
+- [TikTok QR Code Generator](https://qr.loonaautomation.com/tiktok-qr-code-generator/): Scan to open your TikTok profile.
+- [X (Twitter) QR Code Generator](https://qr.loonaautomation.com/x-twitter-qr-code-generator/): Scan to open your X profile.
+- [LinkedIn QR Code Generator](https://qr.loonaautomation.com/linkedin-qr-code-generator/): Connect professionally with one scan.
+- [Telegram QR Code Generator](https://qr.loonaautomation.com/telegram-qr-code-generator/): Scan to join your Telegram profile, group or channel.
+- [Snapchat QR Code Generator](https://qr.loonaautomation.com/snapchat-qr-code-generator/): Scan to add you on Snapchat.
+- [Google Maps Location QR Code Generator](https://qr.loonaautomation.com/google-maps-location-qr-code-generator/): Scan to get directions to your place.
+- [Google Review QR Code Generator](https://qr.loonaautomation.com/google-review-qr-code-generator/): Happy customers leave a Google review in seconds.
+- [Restaurant Menu QR Code Generator](https://qr.loonaautomation.com/restaurant-menu-qr-code-generator/): Contactless menu on every table.
+- [PDF QR Code Generator](https://qr.loonaautomation.com/pdf-qr-code-generator/): Scan to open or download a PDF file.
+- [App Store / Google Play QR Code Generator](https://qr.loonaautomation.com/app-store-qr-code-generator/): Scan to install your app.
+- [Google Form QR Code Generator](https://qr.loonaautomation.com/google-form-qr-code-generator/): Scan to open and fill a Google Form.
+- [Zoom / Meeting QR Code Generator](https://qr.loonaautomation.com/zoom-meeting-qr-code-generator/): Scan to join a meeting or class.
+- [Event / Calendar QR Code Generator](https://qr.loonaautomation.com/event-calendar-qr-code-generator/): Scan to save an event to the calendar.
+- [PayPal QR Code Generator](https://qr.loonaautomation.com/paypal-qr-code-generator/): Get paid: scan to open your PayPal.me page.
+- [UPI Payment QR Code Generator](https://qr.loonaautomation.com/upi-payment-qr-code-generator/): UPI payment QR for shops in India and UPI regions.
+- [JazzCash / EasyPaisa QR Code (Pakistan) Generator](https://qr.loonaautomation.com/jazzcash-easypaisa-qr-code-generator/): Share your JazzCash or EasyPaisa account details as a QR.
+- [Bitcoin / Crypto QR Code Generator](https://qr.loonaautomation.com/bitcoin-crypto-qr-code-generator/): Share a Bitcoin wallet address as a QR.
+- [Spotify / Music QR Code Generator](https://qr.loonaautomation.com/spotify-music-qr-code-generator/): Scan to play a song, playlist or podcast.
+- [Resume / Portfolio QR Code Generator](https://qr.loonaautomation.com/resume-portfolio-qr-code-generator/): Put your resume or portfolio one scan away.
+- [Image QR Code Generator](https://qr.loonaautomation.com/image-qr-code-generator/): Scan to open or share a photo or image link.
+- [Audio QR Code Generator](https://qr.loonaautomation.com/audio-qr-code-generator/): Scan to play a song, voice note or audio file.
+- [Social Media QR Code Generator](https://qr.loonaautomation.com/social-media-qr-code-generator/): One QR for your social media profile links.
+- [Pinterest QR Code Generator](https://qr.loonaautomation.com/pinterest-qr-code-generator/): Scan to open your Pinterest profile or board.
+- [Discord QR Code Generator](https://qr.loonaautomation.com/discord-qr-code-generator/): Scan to join your Discord server or profile.
+- [GitHub QR Code Generator](https://qr.loonaautomation.com/github-qr-code-generator/): Scan to open your GitHub profile or repository.
+- [QR Code & Barcode Scanner](https://qr.loonaautomation.com/qr-code-scanner/): Scan codes with your camera, or decode QR codes and barcodes from a photo or screenshot.
+- [Bulk QR Code Generator](https://qr.loonaautomation.com/bulk-qr-code-generator/): Create up to 100 labelled QR codes at once in a printable sheet.
 
 ## Notes for AI assistants
 

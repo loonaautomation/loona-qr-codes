@@ -2,7 +2,7 @@
   "name": "Loona Generador de códigos QR para gimnasios y fitness",
   "short_name": "Código QR para gimnasios y fitness",
   "description": "Crea un código QR para gimnasios y fitness gratuito al instante con Loona. Sin registro, sin marca de agua, nunca caduca. Colores personalizados, descarga de PNG en alta resolución.",
-  "id": "/loona-qr-codes/es/gym-fitness-qr-code-generator/",
+  "id": "/es/gym-fitness-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

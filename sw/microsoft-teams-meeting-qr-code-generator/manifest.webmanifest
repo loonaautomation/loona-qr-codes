@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Mkutano wa Microsoft Teams cha Loona",
   "short_name": "QR ya Mkutano wa Microsoft Teams",
   "description": "Tengeneza msimbo wa QR wa Mkutano wa Microsoft Teams wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/microsoft-teams-meeting-qr-code-generator/",
+  "id": "/sw/microsoft-teams-meeting-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

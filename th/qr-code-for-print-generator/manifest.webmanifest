@@ -2,7 +2,7 @@
   "name": "เครื่องสร้างคิวอาร์โค้ดพร้อมพิมพ์ของ Loona",
   "short_name": "เครื่องสร้างคิวอาร์โค้ดพร้อมพิมพ์",
   "description": "สร้างคิวอาร์โค้ดพร้อมพิมพ์ฟรีได้ทันทีด้วย Loona ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ สีที่กำหนดเอง ดาวน์โหลด PNG ความละเอียดสูง",
-  "id": "/loona-qr-codes/th/qr-code-for-print-generator/",
+  "id": "/th/qr-code-for-print-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

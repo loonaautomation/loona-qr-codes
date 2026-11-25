@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator for tannlege og klinikk",
   "short_name": "QR-kode for tannlege og klinikk",
   "description": "Lag en gratis QR-kode for tannlege og klinikk med en gang med Loona. Ingen registrering, ingen vannmerke, utløper aldri. Tilpassede farger, nedlasting av PNG i høy oppløsning.",
-  "id": "/loona-qr-codes/nb/dental-clinic-qr-code-generator/",
+  "id": "/nb/dental-clinic-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Generator Kode QR Pemberian Gereja & Amal Loona",
   "short_name": "QR Pemberian Gereja & Amal",
   "description": "Buat kode QR Pemberian Gereja & Amal gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/church-donation-qr-code-generator/",
+  "id": "/id/church-donation-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

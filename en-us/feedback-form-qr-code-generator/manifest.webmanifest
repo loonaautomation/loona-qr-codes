@@ -2,7 +2,7 @@
   "name": "Loona Free Feedback Form QR Code Generator",
   "short_name": "Free Feedback Form QR Code Generator",
   "description": "Create a free Feedback Form QR code instantly with Loona. No signup, no watermark, never expires. Custom colors, high-resolution PNG download.",
-  "id": "/loona-qr-codes/en-us/feedback-form-qr-code-generator/",
+  "id": "/en-us/feedback-form-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

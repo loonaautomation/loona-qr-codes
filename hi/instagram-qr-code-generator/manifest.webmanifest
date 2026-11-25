@@ -2,7 +2,7 @@
   "name": "Loona Instagram QR कोड जनरेटर",
   "short_name": "Instagram QR कोड जनरेटर",
   "description": "Loona के साथ तुरंत एक मुफ़्त Instagram QR कोड बनाएँ। कोई साइन-अप नहीं, कोई वॉटरमार्क नहीं, कभी समाप्त नहीं होता। स्कैन-टू-फ़ॉलो Instagram QR से फ़ॉलोअर्स बढ़ाएँ। कस्टम रंग, उच्च-रिज़ॉल्यूशन PNG डाउनलोड।",
-  "id": "/loona-qr-codes/hi/instagram-qr-code-generator/",
+  "id": "/hi/instagram-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

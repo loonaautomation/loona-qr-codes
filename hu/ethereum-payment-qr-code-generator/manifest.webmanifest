@@ -2,7 +2,7 @@
   "name": "Loona Ethereum Fizetés QR-kód generátor",
   "short_name": "Ethereum fizetési QR-kód",
   "description": "Hozzon létre ingyenes Ethereum fizetési QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/ethereum-payment-qr-code-generator/",
+  "id": "/hu/ethereum-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "เครื่องสร้างคิวอาร์โค้ดชำระเงิน Bitcoin Cash ของ Loona",
   "short_name": "คิวอาร์โค้ดชำระเงิน Bitcoin Cash",
   "description": "สร้างคิวอาร์โค้ดชำระเงิน Bitcoin Cash ฟรีได้ทันทีด้วย Loona ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ สีที่กำหนดเอง ดาวน์โหลด PNG ความละเอียดสูง",
-  "id": "/loona-qr-codes/th/bitcoin-cash-qr-code-generator/",
+  "id": "/th/bitcoin-cash-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

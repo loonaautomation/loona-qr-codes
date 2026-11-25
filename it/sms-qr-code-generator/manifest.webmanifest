@@ -2,7 +2,7 @@
   "name": "Loona — Generatore di codici QR SMS",
   "short_name": "Generatore di codici QR SMS",
   "description": "Crea all’istante un codice QR SMS gratuito con Loona. Nessuna registrazione, nessuna filigrana, non scade mai. Scansiona per aprire un messaggio di testo già scritto. Colori personalizzati, download PNG ad alta risoluzione.",
-  "id": "/loona-qr-codes/it/sms-qr-code-generator/",
+  "id": "/it/sms-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

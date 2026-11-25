@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za muzej i turističkog vodiča",
   "short_name": "QR kod za muzej i turističkog vodiča",
   "description": "Stvorite besplatni QR kod za muzeje i turističke vodiče trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/museum-tour-qr-code-generator/",
+  "id": "/hr/museum-tour-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

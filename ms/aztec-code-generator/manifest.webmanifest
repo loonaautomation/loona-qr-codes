@@ -2,7 +2,7 @@
   "name": "Penjana Kod Bar Kod Aztec Loona",
   "short_name": "Penjana Kod Bar Kod Aztec",
   "description": "Penjana kod bar Kod Aztec percuma. Digit semak betul di mana standard mempunyainya, muat turun PNG dan SVG, tiada pendaftaran, tiada tera air.",
-  "id": "/loona-qr-codes/ms/aztec-code-generator/",
+  "id": "/ms/aztec-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

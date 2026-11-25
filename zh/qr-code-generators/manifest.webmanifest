@@ -2,7 +2,7 @@
   "name": "Loona 全部二维码和条形码生成器",
   "short_name": "全部二维码和条形码",
   "description": "完整的 Loona 二维码库：条形码生成器（Code 128、EAN-13、UPC、Data Matrix、PDF417）、付款二维码（SEPA、UPI、加密货币、Venmo）、行业用例和打印工具。",
-  "id": "/loona-qr-codes/zh/qr-code-generators/",
+  "id": "/zh/qr-code-generators/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

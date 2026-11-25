@@ -2,7 +2,7 @@
   "name": "Loona 纯文本二维码生成器",
   "short_name": "纯文本二维码生成器",
   "description": "用 Loona 立即创建一个免费的纯文本二维码。无需注册，无水印，永不过期。将任何文本、代码或消息放入二维码中。自定义颜色，高分辨率 PNG 下载。",
-  "id": "/loona-qr-codes/zh/text-qr-code-generator/",
+  "id": "/zh/text-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

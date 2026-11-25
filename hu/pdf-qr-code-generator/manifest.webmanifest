@@ -2,7 +2,7 @@
   "name": "Loona PDF QR-kód generátor",
   "short_name": "PDF QR-kód generátor",
   "description": "Hozzon létre ingyenes PDF QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Olvassa be PDF-fájl megnyitásához vagy letöltéséhez. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/pdf-qr-code-generator/",
+  "id": "/hu/pdf-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

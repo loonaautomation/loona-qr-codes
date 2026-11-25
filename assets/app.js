@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded',function(){
   generate();
   var box0=document.getElementById('qrcode');
   if(box0 && !box0.querySelector('canvas,img,table')){
-    new QRCode(box0,{text:'https://loonaautomation.github.io/loona-qr-codes/',width:256,height:256,colorDark:'#000000',colorLight:'#ffffff',correctLevel:QRCode.CorrectLevel.M});
+    new QRCode(box0,{text:'https://qr.loonaautomation.com/',width:256,height:256,colorDark:'#000000',colorLight:'#ffffff',correctLevel:QRCode.CorrectLevel.M});
     var msg0=document.getElementById('qr-msg'); if(msg0) msg0.textContent='Sample QR shown above. Fill the form to create your own QR code.';
     var dl0=document.getElementById('downloadBtn'); if(dl0) dl0.style.display='none';
   }

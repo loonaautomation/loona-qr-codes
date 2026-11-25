@@ -2,7 +2,7 @@
   "name": "Loona Générateur de code QR YouTube",
   "short_name": "Générateur de code QR YouTube",
   "description": "Créez un code QR YouTube gratuit instantanément avec Loona. Aucune inscription, aucun filigrane, n’expire jamais. Scannez pour ouvrir une vidéo ou une chaîne instantanément. Couleurs personnalisées, téléchargement PNG haute résolution.",
-  "id": "/loona-qr-codes/fr/youtube-qr-code-generator/",
+  "id": "/fr/youtube-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

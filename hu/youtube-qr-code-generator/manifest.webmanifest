@@ -2,7 +2,7 @@
   "name": "Loona YouTube QR-kód generátor",
   "short_name": "YouTube QR-kód generátor",
   "description": "Hozzon létre ingyenes YouTube QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Olvassa be videó vagy csatorna azonnali megnyitásához. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/youtube-qr-code-generator/",
+  "id": "/hu/youtube-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

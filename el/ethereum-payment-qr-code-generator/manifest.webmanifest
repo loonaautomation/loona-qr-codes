@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Πληρωμής Ethereum",
   "short_name": "Κωδικός QR Πληρωμής Ethereum",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Πληρωμής Ethereum αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/ethereum-payment-qr-code-generator/",
+  "id": "/el/ethereum-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

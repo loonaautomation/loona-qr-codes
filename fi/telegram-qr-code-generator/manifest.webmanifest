@@ -2,7 +2,7 @@
   "name": "Loona Telegram-QR-koodigeneraattori",
   "short_name": "Telegram-QR-koodigeneraattori",
   "description": "Luo ilmainen Telegram-QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Skannaa liittyäksesi Telegram-profiiliisi, ryhmääsi tai kanavaasi. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/telegram-qr-code-generator/",
+  "id": "/fi/telegram-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

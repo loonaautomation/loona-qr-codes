@@ -2,7 +2,7 @@
   "name": "Loona Generátor čiarových kódov Interleaved 2 of 5",
   "short_name": "Čiarový kód Interleaved 2 of 5",
   "description": "Bezplatný generátor čiarových kódov Interleaved 2 of 5. Správne kontrolné číslice tam, kde ich norma má, stiahnutie PNG a SVG, bez registrácie, bez vodoznaku.",
-  "id": "/loona-qr-codes/sk/interleaved-2-of-5-barcode-generator/",
+  "id": "/sk/interleaved-2-of-5-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

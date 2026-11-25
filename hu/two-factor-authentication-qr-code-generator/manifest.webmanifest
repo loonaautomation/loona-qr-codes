@@ -2,7 +2,7 @@
   "name": "Loona Kétfaktoros Hitelesítés (TOTP) QR-kód",
   "short_name": "Kétfaktoros Hitelesítés",
   "description": "Hozzon létre ingyenes kétfaktoros hitelesítés (TOTP) QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/two-factor-authentication-qr-code-generator/",
+  "id": "/hu/two-factor-authentication-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

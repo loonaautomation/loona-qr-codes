@@ -2,7 +2,7 @@
   "name": "Генератор на QR кодове за камиони за храна на Loona",
   "short_name": "Генератор на QR кодове за камиони за храна",
   "description": "Създайте безплатен QR код за камион за храна мигновено с Loona. Без регистрация, без воден знак, никога не изтича. Персонализирани цветове, изтегляне на PNG с висока разделителна способност.",
-  "id": "/loona-qr-codes/bg/food-truck-qr-code-generator/",
+  "id": "/bg/food-truck-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Generator Kode Batang Code 128 Loona",
   "short_name": "Generator Kode Batang Code 128",
   "description": "Generator kode batang Code 128 gratis. Digit pemeriksa yang benar di tempat standar memilikinya, unduhan PNG dan SVG, tanpa pendaftaran, tanpa watermark.",
-  "id": "/loona-qr-codes/id/code-128-barcode-generator/",
+  "id": "/id/code-128-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

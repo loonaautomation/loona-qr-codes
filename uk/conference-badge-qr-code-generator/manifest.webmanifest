@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодів бейджів конференцій",
   "short_name": "QR-код бейджа конференції",
   "description": "Створіть безкоштовний QR-код бейджа конференції миттєво з Loona. Без реєстрації, без водяного знака, строк дії ніколи не закінчується. Користувацькі кольори, завантаження PNG у високій роздільній здатності.",
-  "id": "/loona-qr-codes/uk/conference-badge-qr-code-generator/",
+  "id": "/uk/conference-badge-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

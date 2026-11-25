@@ -2,7 +2,7 @@
   "name": "Loona Generator de coduri QR pentru evenimente / calendar",
   "short_name": "Cod QR pentru evenimente / calendar",
   "description": "Creează gratuit un cod QR pentru evenimente / calendar instantaneu cu Loona. Fără înregistrare, fără filigran, nu expiră niciodată. Scanează pentru a salva un eveniment în calendar. Culori personalizate, descărcare PNG la rezoluție înaltă.",
-  "id": "/loona-qr-codes/ro/event-calendar-qr-code-generator/",
+  "id": "/ro/event-calendar-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

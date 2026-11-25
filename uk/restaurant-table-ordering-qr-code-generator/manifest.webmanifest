@@ -2,7 +2,7 @@
   "name": "Loona QR-код замовлень за столиком ресторану",
   "short_name": "QR замовлень за столиком ресторану",
   "description": "Створіть безкоштовний QR-код замовлення за столиком ресторану миттєво з Loona. Без реєстрації, без водяного знака, строк дії ніколи не закінчується. Користувацькі кольори, завантаження PNG у високій роздільній здатності.",
-  "id": "/loona-qr-codes/uk/restaurant-table-ordering-qr-code-generator/",
+  "id": "/uk/restaurant-table-ordering-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

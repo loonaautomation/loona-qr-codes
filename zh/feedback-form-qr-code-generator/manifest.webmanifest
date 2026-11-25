@@ -2,7 +2,7 @@
   "name": "Loona 反馈表单二维码生成器",
   "short_name": "反馈表单二维码",
   "description": "用 Loona 立即创建一个免费的反馈表单二维码。无需注册，无水印，永不过期。自定义颜色，高分辨率 PNG 下载。",
-  "id": "/loona-qr-codes/zh/feedback-form-qr-code-generator/",
+  "id": "/zh/feedback-form-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

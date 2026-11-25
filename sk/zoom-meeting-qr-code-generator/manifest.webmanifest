@@ -2,7 +2,7 @@
   "name": "Loona Generátor QR kódov pre Zoom / stretnutie",
   "short_name": "QR kód pre Zoom / stretnutie",
   "description": "Vytvorte si zadarmo QR kód pre Zoom / stretnutie okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Naskenujte a pripojte sa k stretnutiu alebo hodine. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
-  "id": "/loona-qr-codes/sk/zoom-meeting-qr-code-generator/",
+  "id": "/sk/zoom-meeting-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

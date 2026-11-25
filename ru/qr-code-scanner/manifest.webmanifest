@@ -2,7 +2,7 @@
   "name": "Loona Сканер QR-кодов &amp; штрихкодов",
   "short_name": "Сканер QR-кодов &amp; штрихкодов",
   "description": "Сканируйте QR-коды и штрихкоды бесплатно онлайн с Loona: используйте вашу камеру или загрузите фото или скриншот. Декодирует URL, WiFi, контакты vCard, EAN-13, UPC-A, Code 128 и Code 39. 100% приватно — всё декодируется на вашем устройстве, ничего не загружается.",
-  "id": "/loona-qr-codes/ru/qr-code-scanner/",
+  "id": "/ru/qr-code-scanner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

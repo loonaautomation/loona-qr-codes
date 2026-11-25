@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za Solana Pay",
   "short_name": "Generator QR kodova za Solana Pay",
   "description": "Stvorite besplatni QR kod za Solana Pay trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/solana-pay-qr-code-generator/",
+  "id": "/hr/solana-pay-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Google レビュー QRコード生成ツール",
   "short_name": "Google レビュー QRコード",
   "description": "Loona で無料の Google レビュー QRコードを即座に作成。登録不要、透かしなし、無期限。満足した顧客が数秒で Google レビューを残します。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/google-review-qr-code-generator/",
+  "id": "/ja/google-review-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

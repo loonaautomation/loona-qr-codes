@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Jemputan Perkahwinan Loona",
   "short_name": "Kod QR Jemputan Perkahwinan",
   "description": "Cipta kod Jemputan Perkahwinan percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/wedding-invitation-qr-code-generator/",
+  "id": "/ms/wedding-invitation-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

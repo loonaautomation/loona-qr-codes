@@ -2,7 +2,7 @@
   "name": "Loona Taxi és Fuvar QR-kód generátor",
   "short_name": "Taxi és Fuvar QR-kód generátor",
   "description": "Hozzon létre ingyenes taxi és fuvar QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/taxi-qr-code-generator/",
+  "id": "/hu/taxi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

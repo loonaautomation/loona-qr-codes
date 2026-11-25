@@ -2,7 +2,7 @@
   "name": "Loona SMS QRコード生成ツール",
   "short_name": "SMS QRコード生成ツール",
   "description": "Loona で無料の SMS QRコードを即座に作成。登録不要、透かしなし、無期限。スキャンして事前に書かれたテキストメッセージを開きます。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/sms-qr-code-generator/",
+  "id": "/ja/sms-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

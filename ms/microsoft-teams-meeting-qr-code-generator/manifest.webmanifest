@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Mesyuarat Microsoft Teams Loona",
   "short_name": "QR Mesyuarat Microsoft Teams",
   "description": "Cipta kod Mesyuarat Microsoft Teams percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/microsoft-teams-meeting-qr-code-generator/",
+  "id": "/ms/microsoft-teams-meeting-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

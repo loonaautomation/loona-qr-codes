@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Acara / Kalendar Loona",
   "short_name": "Kod QR Acara / Kalendar",
   "description": "Cipta kod QR Acara / Kalendar percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Imbas untuk menyimpan acara ke kalendar. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/event-calendar-qr-code-generator/",
+  "id": "/ms/event-calendar-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

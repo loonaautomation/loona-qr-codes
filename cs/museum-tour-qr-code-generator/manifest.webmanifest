@@ -2,7 +2,7 @@
   "name": "Generátor QR kódů pro muzea a průvodce Loona",
   "short_name": "QR kód pro muzea a průvodce",
   "description": "Vytvořte si zdarma QR kód pro muzea a průvodce okamžitě s Loonou. Bez registrace, bez vodoznaku, nikdy nevyprší. Vlastní barvy, stažení PNG ve vysokém rozlišení.",
-  "id": "/loona-qr-codes/cs/museum-tour-qr-code-generator/",
+  "id": "/cs/museum-tour-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ITF-14 バーコード生成ツール",
   "short_name": "ITF-14 バーコード生成ツール",
   "description": "無料の ITF-14 バーコード生成ツール。標準にチェックデジットがある場合は正しいものを作成し、PNG と SVG のダウンロードが可能、登録不要、透かしなし。",
-  "id": "/loona-qr-codes/ja/itf-14-barcode-generator/",
+  "id": "/ja/itf-14-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

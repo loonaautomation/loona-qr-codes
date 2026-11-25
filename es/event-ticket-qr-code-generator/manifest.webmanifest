@@ -2,7 +2,7 @@
   "name": "Loona Generador de códigos QR de entradas de eventos",
   "short_name": "Generador de códigos QR de entradas de eventos",
   "description": "Crea un código QR de entrada de evento gratuito al instante con Loona. Sin registro, sin marca de agua, nunca caduca. Colores personalizados, descarga de PNG en alta resolución.",
-  "id": "/loona-qr-codes/es/event-ticket-qr-code-generator/",
+  "id": "/es/event-ticket-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

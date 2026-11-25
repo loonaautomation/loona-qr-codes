@@ -2,7 +2,7 @@
   "name": "Loona Code 128 vonalkódgenerátor",
   "short_name": "Code 128 vonalkód generátor",
   "description": "Ingyenes Code 128 vonalkód generátor. Helyes ellenőrző számjegyek, ahol a szabványnak vannak, PNG- és SVG-letöltés, nincs regisztráció, nincs vízjel.",
-  "id": "/loona-qr-codes/hu/code-128-barcode-generator/",
+  "id": "/hu/code-128-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF417 バーコード生成ツール",
   "short_name": "PDF417 バーコード生成ツール",
   "description": "無料の PDF417 バーコード生成ツール。標準にチェックデジットがある場合は正しいものを作成し、PNG と SVG のダウンロードが可能、登録不要、透かしなし。",
-  "id": "/loona-qr-codes/ja/pdf417-generator/",
+  "id": "/ja/pdf417-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

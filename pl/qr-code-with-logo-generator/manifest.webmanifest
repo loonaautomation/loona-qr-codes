@@ -2,7 +2,7 @@
   "name": "Generator kodów QR z logo Loona",
   "short_name": "Generator kodów QR z logo",
   "description": "Darmowy generator kodów QR z logo: dodaj logo na środku kodu QR przy poziomie korekcji błędów H, kolory niestandardowe, pobieranie PNG 1024px, bez znaku wodnego.",
-  "id": "/loona-qr-codes/pl/qr-code-with-logo-generator/",
+  "id": "/pl/qr-code-with-logo-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Snapchat cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wa Snapchat",
   "description": "Tengeneza Msimbo wa QR wa Snapchat wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Changanua ili kukuongeza kwenye Snapchat. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/snapchat-qr-code-generator/",
+  "id": "/sw/snapchat-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

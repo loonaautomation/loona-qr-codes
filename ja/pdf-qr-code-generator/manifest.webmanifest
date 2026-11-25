@@ -2,7 +2,7 @@
   "name": "Loona PDF QRコード生成ツール",
   "short_name": "PDF QRコード生成ツール",
   "description": "Loona で無料の PDF QRコードを即座に作成。登録不要、透かしなし、無期限。スキャンして PDF ファイルを開くかダウンロード。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/pdf-qr-code-generator/",
+  "id": "/ja/pdf-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

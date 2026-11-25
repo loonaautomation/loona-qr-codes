@@ -2,7 +2,7 @@
   "name": "מחולל ברקוד UPC-A של Loona",
   "short_name": "מחולל ברקוד UPC-A",
   "description": "מחולל ברקוד UPC-A חינמי. ספרות ביקורת נכונות היכן שהתקן כולל אותן, הורדת PNG ו-SVG, ללא הרשמה, ללא סימן מים.",
-  "id": "/loona-qr-codes/he/upc-a-barcode-generator/",
+  "id": "/he/upc-a-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Wszystkie generatory kodów QR i kreskowych Loona",
   "short_name": "Wszystkie kody QR i kreskowe",
   "description": "Pełna biblioteka QR Loona: generatory kodów kreskowych (Code 128, EAN-13, UPC, Data Matrix, PDF417), kody QR płatności (SEPA, UPI, krypto, Venmo), przypadki użycia w branży i narzędzia druku.",
-  "id": "/loona-qr-codes/pl/qr-code-generators/",
+  "id": "/pl/qr-code-generators/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

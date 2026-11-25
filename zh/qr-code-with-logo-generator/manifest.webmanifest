@@ -2,7 +2,7 @@
   "name": "Loona 带标志二维码生成器",
   "short_name": "带标志的二维码生成器",
   "description": "免费带标志二维码生成器：将您的标志添加到二维码中央，纠错等级 H，自定义颜色，1024px PNG 下载，无水印。",
-  "id": "/loona-qr-codes/zh/qr-code-with-logo-generator/",
+  "id": "/zh/qr-code-with-logo-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Generátor QR kódů pro obrázky Loona",
   "short_name": "Generátor QR kódů pro obrázky",
   "description": "Vytvořte si zdarma QR kód pro obrázky okamžitě s Loonou. Bez registrace, bez vodoznaku, nikdy nevyprší. Naskenujte a otevřete fotografii, plakát, obrázek menu nebo obrázek produktu. Vlastní barvy, stažení PNG ve vysokém rozlišení.",
-  "id": "/loona-qr-codes/cs/image-qr-code-generator/",
+  "id": "/cs/image-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

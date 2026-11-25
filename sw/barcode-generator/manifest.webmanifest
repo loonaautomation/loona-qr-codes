@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo Pau cha Loona",
   "short_name": "Kizalishaji cha Msimbo Pau",
   "description": "Tengeneza misimbo pau ya bure mtandaoni kwa Loona: Code 128, Code 39, EAN-13, UPC-A na ITF-14. Namba za ukaguzi huongezwa kiotomatiki, hakikisho la moja kwa moja, pakua kama PNG au SVG. Hakuna kujisajili, hakuna alama ya maji, faragha 100% katika kivinjari chako.",
-  "id": "/loona-qr-codes/sw/barcode-generator/",
+  "id": "/sw/barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

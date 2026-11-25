@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Sơ yếu lý lịch / Portfolio Loona",
   "short_name": "Mã QR Sơ yếu lý lịch / Portfolio",
   "description": "Tạo mã QR Sơ yếu lý lịch / Portfolio miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Đặt CV hoặc portfolio của bạn cách một lần quét. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/resume-portfolio-qr-code-generator/",
+  "id": "/vi/resume-portfolio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

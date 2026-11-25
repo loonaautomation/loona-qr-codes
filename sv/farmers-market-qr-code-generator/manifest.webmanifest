@@ -2,7 +2,7 @@
   "name": "Loona bondemarknadsbod-QR-kodgenerator",
   "short_name": "Bondemarknadsbod-QR-kod",
   "description": "Skapa direkt en gratis QR-kod för bondemarknadsbod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/farmers-market-qr-code-generator/",
+  "id": "/sv/farmers-market-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

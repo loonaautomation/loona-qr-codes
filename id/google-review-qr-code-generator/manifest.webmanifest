@@ -2,7 +2,7 @@
   "name": "Generator Kode QR Ulasan Google Loona",
   "short_name": "Kode QR Ulasan Google",
   "description": "Buat Kode QR Ulasan Google gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Pelanggan yang senang meninggalkan ulasan Google dalam hitungan detik. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/google-review-qr-code-generator/",
+  "id": "/id/google-review-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

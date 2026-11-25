@@ -2,7 +2,7 @@
   "name": "Loona Generador de códigos de barras PDF417",
   "short_name": "Generador de códigos de barras PDF417",
   "description": "Generador de códigos de barras PDF417 gratuito. Dígitos de control correctos donde el estándar los tiene, descarga en PNG y SVG, sin registro, sin marca de agua.",
-  "id": "/loona-qr-codes/es/pdf417-generator/",
+  "id": "/es/pdf417-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

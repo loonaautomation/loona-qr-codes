@@ -2,7 +2,7 @@
   "name": "Loona Közösségi média QR-kód generátor",
   "short_name": "Közösségi média QR-kód generátor",
   "description": "Hozzon létre ingyenes közösségimédia-QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Válasszon platformot, adja hozzá felhasználónevét, és egyetlen beolvasás megnyitja profilját. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/social-media-qr-code-generator/",
+  "id": "/hu/social-media-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

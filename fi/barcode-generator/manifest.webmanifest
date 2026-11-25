@@ -2,7 +2,7 @@
   "name": "Loona Viivakoodigeneraattori",
   "short_name": "Viivakoodigeneraattori",
   "description": "Luo ilmaisia viivakoodeja verkossa Loonalla: Code 128, Code 39, EAN-13, UPC-A ja ITF-14. Tarkistusnumerot lisätään automaattisesti, reaaliaikainen esikatselu, lataus PNG:nä tai SVG:nä. Ei rekisteröitymistä, ei vesileimaa, 100% yksityinen selaimessasi.",
-  "id": "/loona-qr-codes/fi/barcode-generator/",
+  "id": "/fi/barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

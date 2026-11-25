@@ -2,7 +2,7 @@
   "name": "Loona Generador de códigos QR para taxis y transporte",
   "short_name": "Generador de códigos QR para taxis y transporte",
   "description": "Crea un código QR para taxis y transporte gratuito al instante con Loona. Sin registro, sin marca de agua, nunca caduca. Colores personalizados, descarga de PNG en alta resolución.",
-  "id": "/loona-qr-codes/es/taxi-qr-code-generator/",
+  "id": "/es/taxi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

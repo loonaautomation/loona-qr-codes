@@ -2,7 +2,7 @@
   "name": "Loona Google Maps-locatie-QR-codegenerator",
   "short_name": "Google Maps-locatie-QR-code",
   "description": "Maak direct een gratis Google Maps-locatie-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Scan om een routebeschrijving naar je plek te krijgen. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/google-maps-location-qr-code-generator/",
+  "id": "/nl/google-maps-location-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

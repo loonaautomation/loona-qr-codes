@@ -2,7 +2,7 @@
   "name": "Loona QR-codegenerator met gewone tekst",
   "short_name": "QR-codegenerator met gewone tekst",
   "description": "Maak direct een gratis QR-code met gewone tekst aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Zet elke tekst, code of elk bericht in een QR-code. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/text-qr-code-generator/",
+  "id": "/nl/text-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

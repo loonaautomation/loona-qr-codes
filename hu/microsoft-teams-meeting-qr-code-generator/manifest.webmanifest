@@ -2,7 +2,7 @@
   "name": "Loona Microsoft Teams Megbeszélés QR-kód generátor",
   "short_name": "Microsoft Teams Megbeszélés QR",
   "description": "Hozzon létre ingyenes Microsoft Teams megbeszélés QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/microsoft-teams-meeting-qr-code-generator/",
+  "id": "/hu/microsoft-teams-meeting-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

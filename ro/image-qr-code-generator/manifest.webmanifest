@@ -2,7 +2,7 @@
   "name": "Loona Generator de coduri QR pentru imagini",
   "short_name": "Generator de coduri QR pentru imagini",
   "description": "Creează gratuit un cod QR pentru imagini instantaneu cu Loona. Fără înregistrare, fără filigran, nu expiră niciodată. Scanează pentru a deschide o fotografie, un afiș, o imagine de meniu sau o imagine de produs. Culori personalizate, descărcare PNG la rezoluție înaltă.",
-  "id": "/loona-qr-codes/ro/image-qr-code-generator/",
+  "id": "/ro/image-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

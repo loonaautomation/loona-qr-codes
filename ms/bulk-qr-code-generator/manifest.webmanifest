@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Kelompok Loona",
   "short_name": "Penjana Kod QR Kelompok",
   "description": "Cipta sehingga 100 kod QR sekali gus, percuma: tampal senarai atau muat naik CSV pautan dan teks, dapatkan helaian kod QR berlabel yang boleh dicetak. Tiada pendaftaran, tiada tera air, tidak pernah luput, 100% peribadi dalam pelayar anda.",
-  "id": "/loona-qr-codes/ms/bulk-qr-code-generator/",
+  "id": "/ms/bulk-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Kod QR zamawiania przy stoliku restauracji Loona",
   "short_name": "Kod QR zamawiania przy stoliku restauracji",
   "description": "Utwórz darmowy kod QR zamawiania przy stoliku restauracji błyskawicznie z Loona. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa. Kolory niestandardowe, pobieranie PNG w wysokiej rozdzielczości.",
-  "id": "/loona-qr-codes/pl/restaurant-table-ordering-qr-code-generator/",
+  "id": "/pl/restaurant-table-ordering-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

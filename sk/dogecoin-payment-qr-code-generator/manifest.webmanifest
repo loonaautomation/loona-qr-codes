@@ -2,7 +2,7 @@
   "name": "Generátor platobných QR kódov Dogecoin Loona",
   "short_name": "Platobný QR kód Dogecoin",
   "description": "Vytvorte si zadarmo platobný QR kód Dogecoin okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
-  "id": "/loona-qr-codes/sk/dogecoin-payment-qr-code-generator/",
+  "id": "/sk/dogecoin-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

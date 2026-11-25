@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Âm thanh Loona",
   "short_name": "Trình tạo mã QR Âm thanh",
   "description": "Tạo mã QR Âm thanh miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Quét để phát ghi chú thoại, bài hát, podcast hoặc hướng dẫn âm thanh. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/audio-qr-code-generator/",
+  "id": "/vi/audio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

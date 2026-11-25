@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодов крупным шрифтом",
   "short_name": "Генератор QR-кодов крупным шрифтом",
   "description": "Создайте бесплатный QR-код крупной печати мгновенно с Loona. Без регистрации, без водяного знака, никогда не истекает. Настраиваемые цвета, скачивание PNG в высоком разрешении.",
-  "id": "/loona-qr-codes/ru/large-print-qr-code-generator/",
+  "id": "/ru/large-print-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

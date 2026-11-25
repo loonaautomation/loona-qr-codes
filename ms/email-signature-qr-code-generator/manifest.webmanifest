@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Tandatangan E-mel Loona",
   "short_name": "Kod QR Tandatangan E-mel",
   "description": "Cipta kod Tandatangan E-mel percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/email-signature-qr-code-generator/",
+  "id": "/ms/email-signature-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

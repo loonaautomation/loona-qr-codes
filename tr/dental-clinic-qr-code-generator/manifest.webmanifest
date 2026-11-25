@@ -2,7 +2,7 @@
   "name": "Loona Diş ve Klinik QR Kod Oluşturucu",
   "short_name": "Diş ve Klinik QR Kodu",
   "description": "Loona ile anında ücretsiz bir Diş &amp; Klinik QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/dental-clinic-qr-code-generator/",
+  "id": "/tr/dental-clinic-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

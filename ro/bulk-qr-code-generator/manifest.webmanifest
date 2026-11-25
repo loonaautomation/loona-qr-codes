@@ -2,7 +2,7 @@
   "name": "Loona Generator de coduri QR în serie",
   "short_name": "Generator de coduri QR în serie",
   "description": "Creează până la 100 de coduri QR deodată, gratuit: lipește o listă sau încarcă un CSV cu linkuri și texte, primești o foaie tipăribilă etichetată cu coduri QR. Fără înregistrare, fără filigran, nu expiră niciodată, 100% privat în browserul tău.",
-  "id": "/loona-qr-codes/ro/bulk-qr-code-generator/",
+  "id": "/ro/bulk-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

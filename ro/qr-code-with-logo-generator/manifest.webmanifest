@@ -2,7 +2,7 @@
   "name": "Loona Generator de coduri QR cu logo",
   "short_name": "Generator de coduri QR cu logo",
   "description": "Generator gratuit de coduri QR cu logo: adaugă logo-ul tău în centrul unui cod QR la nivelul de corectare a erorilor H, culori personalizate, descărcare PNG de 1024px, fără filigran.",
-  "id": "/loona-qr-codes/ro/qr-code-with-logo-generator/",
+  "id": "/ro/qr-code-with-logo-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

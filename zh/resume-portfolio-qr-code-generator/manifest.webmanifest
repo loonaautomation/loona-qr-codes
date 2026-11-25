@@ -2,7 +2,7 @@
   "name": "Loona 简历 / 作品集二维码生成器",
   "short_name": "简历 / 作品集二维码",
   "description": "用 Loona 立即创建一个免费的简历 / 作品集二维码。无需注册，无水印，永不过期。让您的简历或作品集只需一次扫码。自定义颜色，高分辨率 PNG 下载。",
-  "id": "/loona-qr-codes/zh/resume-portfolio-qr-code-generator/",
+  "id": "/zh/resume-portfolio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

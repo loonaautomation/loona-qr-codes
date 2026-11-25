@@ -2,7 +2,7 @@
   "name": "Loona evenementticket-QR-codegenerator",
   "short_name": "Evenementticket-QR-codegenerator",
   "description": "Maak direct een gratis evenementticket-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/event-ticket-qr-code-generator/",
+  "id": "/nl/event-ticket-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

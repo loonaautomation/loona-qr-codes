@@ -2,7 +2,7 @@
   "name": "Loona QR Code Size Calculator",
   "short_name": "QR Code Size Calculator",
   "description": "Free QR code size calculator: enter the scanning distance and content type to get the minimum print size in cm, recommended PNG resolution and quiet-zone width.",
-  "id": "/loona-qr-codes/en-gb/qr-code-size-calculator/",
+  "id": "/en-gb/qr-code-size-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

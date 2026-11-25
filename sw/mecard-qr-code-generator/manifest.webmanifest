@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Anwani ya MeCard cha Loona",
   "short_name": "Msimbo wa QR wa Anwani ya MeCard",
   "description": "Tengeneza msimbo wa QR wa Anwani ya MeCard wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/mecard-qr-code-generator/",
+  "id": "/sw/mecard-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

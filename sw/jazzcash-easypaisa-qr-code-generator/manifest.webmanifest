@@ -2,7 +2,7 @@
   "name": "Msimbo wa QR wa JazzCash / EasyPaisa wa Loona (Pakistan)",
   "short_name": "Msimbo wa QR wa JazzCash / EasyPaisa",
   "description": "Tengeneza msimbo wa QR wa JazzCash au EasyPaisa wa bure kwa Pakistan — hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Rangi maalum na upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/jazzcash-easypaisa-qr-code-generator/",
+  "id": "/sw/jazzcash-easypaisa-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

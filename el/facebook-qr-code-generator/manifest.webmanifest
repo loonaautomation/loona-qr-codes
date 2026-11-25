@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Facebook",
   "short_name": "Γεννήτρια Κωδικού QR Facebook",
   "description": "Δημιουργήστε έναν δωρεάν Κωδικό QR Facebook αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Στείλτε τον κόσμο κατευθείαν στη σελίδα σας στο Facebook. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/facebook-qr-code-generator/",
+  "id": "/el/facebook-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

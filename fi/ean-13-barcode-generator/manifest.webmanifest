@@ -2,7 +2,7 @@
   "name": "Loona EAN-13-viivakoodigeneraattori",
   "short_name": "EAN-13-viivakoodigeneraattori",
   "description": "Ilmainen EAN-13-viivakoodigeneraattori. Oikeat tarkistusnumerot siellä, missä standardissa ne on, PNG- ja SVG-lataus, ei rekisteröitymistä, ei vesileimaa.",
-  "id": "/loona-qr-codes/fi/ean-13-barcode-generator/",
+  "id": "/fi/ean-13-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Spotify / Âm nhạc Loona",
   "short_name": "Mã QR Spotify / Âm nhạc",
   "description": "Tạo mã QR Spotify / Âm nhạc miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Quét để phát một bài hát, danh sách phát hoặc podcast. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/spotify-music-qr-code-generator/",
+  "id": "/vi/spotify-music-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator for konferansemerke",
   "short_name": "QR-kode for konferansemerke",
   "description": "Lag en gratis QR-kode for konferansebevis med en gang med Loona. Ingen registrering, ingen vannmerke, utløper aldri. Tilpassede farger, nedlasting av PNG i høy oppløsning.",
-  "id": "/loona-qr-codes/nb/conference-badge-qr-code-generator/",
+  "id": "/nb/conference-badge-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Kod QR JazzCash / EasyPaisa Loona (Pakistan)",
   "short_name": "Kod QR JazzCash / EasyPaisa",
   "description": "Cipta kod QR JazzCash atau EasyPaisa percuma untuk Pakistan — tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai dan muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/jazzcash-easypaisa-qr-code-generator/",
+  "id": "/ms/jazzcash-easypaisa-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

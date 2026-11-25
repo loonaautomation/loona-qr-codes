@@ -2,7 +2,7 @@
   "name": "Loona Google Takvim Etkinliği QR Kod Oluşturucu",
   "short_name": "Google Takvim Etkinliği QR Kodu",
   "description": "Loona ile anında ücretsiz bir Google Takvim Etkinliği QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/google-calendar-qr-code-generator/",
+  "id": "/tr/google-calendar-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

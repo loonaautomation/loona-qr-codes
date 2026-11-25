@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo Pau wa ITF-14 cha Loona",
   "short_name": "Kizalishaji cha Msimbo Pau wa ITF-14",
   "description": "Kizalishaji cha bure cha msimbo pau wa ITF-14. Rakamu sahihi za ukaguzi pale kiwango kinazo, upakuaji wa PNG na SVG, hakuna kujisajili, hakuna alama ya maji.",
-  "id": "/loona-qr-codes/sw/itf-14-barcode-generator/",
+  "id": "/sw/itf-14-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

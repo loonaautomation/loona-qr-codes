@@ -2,7 +2,7 @@
   "name": "Loona Générateur de code QR Signature e-mail",
   "short_name": "Code QR Signature e-mail",
   "description": "Créez un code QR Signature e-mail gratuit instantanément avec Loona. Aucune inscription, aucun filigrane, n’expire jamais. Couleurs personnalisées, téléchargement PNG haute résolution.",
-  "id": "/loona-qr-codes/fr/email-signature-qr-code-generator/",
+  "id": "/fr/email-signature-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

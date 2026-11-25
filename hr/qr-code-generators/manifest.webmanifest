@@ -2,7 +2,7 @@
   "name": "Svi Loona generatori QR kodova i crtičnih kodova",
   "short_name": "Svi QR kodovi & crtični kodovi",
   "description": "Potpuna Loona QR knjižnica: generatori crtičnih kodova (Code 128, EAN-13, UPC, Data Matrix, PDF417), QR kodovi za plaćanje (SEPA, UPI, kripto, Venmo), slučajevi uporabe u industriji i alati za ispis.",
-  "id": "/loona-qr-codes/hr/qr-code-generators/",
+  "id": "/hr/qr-code-generators/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

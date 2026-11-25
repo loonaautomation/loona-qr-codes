@@ -2,7 +2,7 @@
   "name": "Loona Instagram QR Kod Oluşturucu",
   "short_name": "Instagram QR Kod Oluşturucu",
   "description": "Loona ile anında ücretsiz bir Instagram QR Kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Tarayarak takip etme Instagram QR'ı ile takipçi büyütün. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/instagram-qr-code-generator/",
+  "id": "/tr/instagram-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

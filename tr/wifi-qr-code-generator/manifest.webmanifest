@@ -2,7 +2,7 @@
   "name": "Loona WiFi QR Kod Oluşturucu",
   "short_name": "WiFi QR Kod Oluşturucu",
   "description": "Loona ile anında ücretsiz bir WiFi QR Kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Misafirler şifre yazmadan, tek taramayla WiFi'a bağlanır. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/wifi-qr-code-generator/",
+  "id": "/tr/wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

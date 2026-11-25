@@ -2,7 +2,7 @@
   "name": "Loona Generador de códigos QR para envases de productos",
   "short_name": "Código QR para envases de productos",
   "description": "Crea un código QR para envases de productos gratuito al instante con Loona. Sin registro, sin marca de agua, nunca caduca. Colores personalizados, descarga de PNG en alta resolución.",
-  "id": "/loona-qr-codes/es/product-packaging-qr-code-generator/",
+  "id": "/es/product-packaging-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

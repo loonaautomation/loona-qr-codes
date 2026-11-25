@@ -2,7 +2,7 @@
   "name": "Loona restaurantmenu-QR-codegenerator",
   "short_name": "Restaurantmenu-QR-code",
   "description": "Maak direct een gratis restaurantmenu-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Contactloos menu op elke tafel. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/restaurant-menu-qr-code-generator/",
+  "id": "/nl/restaurant-menu-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

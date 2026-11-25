@@ -2,7 +2,7 @@
   "name": "คิวอาร์โค้ด WiFi โรงแรมและแขก โรงแรมและแขกของ Loona",
   "short_name": "โรงแรมและแขก โรงแรมและแขก",
   "description": "สร้างคิวอาร์โค้ด WiFi โรงแรมและแขกฟรีได้ทันทีด้วย Loona ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ สีที่กำหนดเอง ดาวน์โหลด PNG ความละเอียดสูง",
-  "id": "/loona-qr-codes/th/hotel-wifi-qr-code-generator/",
+  "id": "/th/hotel-wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

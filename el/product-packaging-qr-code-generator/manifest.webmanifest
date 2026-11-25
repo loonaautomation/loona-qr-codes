@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Συσκευασίας Προϊόντος",
   "short_name": "Κωδικός QR Συσκευασίας Προϊόντος",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Συσκευασίας Προϊόντος αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/product-packaging-qr-code-generator/",
+  "id": "/el/product-packaging-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

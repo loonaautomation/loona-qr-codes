@@ -2,7 +2,7 @@
   "name": "Loona Käyntikortin QR-koodigeneraattori",
   "short_name": "Käyntikortin QR-koodi",
   "description": "Luo ilmainen käyntikortin QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/business-card-qr-code-generator/",
+  "id": "/fi/business-card-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

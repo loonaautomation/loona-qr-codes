@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za vCard kontakt",
   "short_name": "QR kod za vCard kontakt",
   "description": "Stvorite besplatni QR kod za vCard kontakt trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Skenirajte za spremanje svoje potpune kontaktne kartice u telefon. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/vcard-qr-code-generator/",
+  "id": "/hr/vcard-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona QR kód pre školskú dochádzku a formuláre",
   "short_name": "QR pre školskú dochádzku a formuláre",
   "description": "Vytvorte si zadarmo QR kód pre školskú dochádzku a formuláre okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
-  "id": "/loona-qr-codes/sk/school-attendance-qr-code-generator/",
+  "id": "/sk/school-attendance-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

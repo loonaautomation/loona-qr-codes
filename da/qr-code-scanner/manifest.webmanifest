@@ -2,7 +2,7 @@
   "name": "Loona QR-kode- og stregkodescanner",
   "short_name": "QR-kode- og stregkodescanner",
   "description": "Scan QR-koder og stregkoder gratis online med Loona: brug dit kamera eller upload et foto eller skærmbillede. Dekoder URL'er, WiFi, vCard-kontakter, EAN-13, UPC-A, Code 128 og Code 39. 100% privat — alt dekodes på din enhed, intet uploades.",
-  "id": "/loona-qr-codes/da/qr-code-scanner/",
+  "id": "/da/qr-code-scanner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

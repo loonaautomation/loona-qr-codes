@@ -2,7 +2,7 @@
   "name": "Generátor QR kódů pro Instagram Loona",
   "short_name": "Generátor QR kódů pro Instagram",
   "description": "Vytvořte si zdarma QR kód pro Instagram okamžitě s Loonou. Bez registrace, bez vodoznaku, nikdy nevyprší. Získávejte sledující pomocí QR kódu pro Instagram, který stačí naskenovat a sledovat. Vlastní barvy, stažení PNG ve vysokém rozlišení.",
-  "id": "/loona-qr-codes/cs/instagram-qr-code-generator/",
+  "id": "/cs/instagram-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

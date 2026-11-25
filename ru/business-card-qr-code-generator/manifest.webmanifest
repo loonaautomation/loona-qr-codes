@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодов визитных карточек",
   "short_name": "QR-код визитной карточки",
   "description": "Создайте бесплатный QR-код визитной карточки мгновенно с Loona. Без регистрации, без водяного знака, никогда не истекает. Настраиваемые цвета, скачивание PNG в высоком разрешении.",
-  "id": "/loona-qr-codes/ru/business-card-qr-code-generator/",
+  "id": "/ru/business-card-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

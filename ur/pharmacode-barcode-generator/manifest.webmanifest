@@ -2,7 +2,7 @@
   "name": "Loona Pharmacode Barcode Generator",
   "short_name": "Pharmacode Barcode Generator",
   "description": "مفت Pharmacode بارکوڈ جنریٹر۔ جہاں معیار میں ہوں وہاں درست چیک ہندسے، PNG اور SVG ڈاؤن لوڈ، کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں۔",
-  "id": "/loona-qr-codes/ur/pharmacode-barcode-generator/",
+  "id": "/ur/pharmacode-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

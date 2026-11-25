@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодів Google Форм",
   "short_name": "Генератор QR-кодів Google Форм",
   "description": "Створіть безкоштовний QR-код Google Форми миттєво з Loona. Без реєстрації, без водяного знака, строк дії ніколи не закінчується. Скануйте, щоб відкрити й заповнити Google Форму. Користувацькі кольори, завантаження PNG у високій роздільній здатності.",
-  "id": "/loona-qr-codes/uk/google-form-qr-code-generator/",
+  "id": "/uk/google-form-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

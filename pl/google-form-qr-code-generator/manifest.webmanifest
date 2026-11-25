@@ -2,7 +2,7 @@
   "name": "Generator kodów QR Formularzy Google Loona",
   "short_name": "Generator kodów QR Formularzy Google",
   "description": "Utwórz darmowy kod QR Formularza Google błyskawicznie z Loona. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa. Skanuj, aby otworzyć i wypełnić Formularz Google. Kolory niestandardowe, pobieranie PNG w wysokiej rozdzielczości.",
-  "id": "/loona-qr-codes/pl/google-form-qr-code-generator/",
+  "id": "/pl/google-form-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

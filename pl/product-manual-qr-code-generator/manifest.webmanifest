@@ -2,7 +2,7 @@
   "name": "Kod QR instrukcji produktów Loona",
   "short_name": "Instrukcja produktu",
   "description": "Utwórz darmowy kod QR instrukcji produktu błyskawicznie z Loona. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa. Kolory niestandardowe, pobieranie PNG w wysokiej rozdzielczości.",
-  "id": "/loona-qr-codes/pl/product-manual-qr-code-generator/",
+  "id": "/pl/product-manual-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

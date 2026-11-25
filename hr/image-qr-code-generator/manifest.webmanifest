@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za slike",
   "short_name": "Generator QR kodova za slike",
   "description": "Stvorite besplatni QR kod za slike trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Skenirajte za otvaranje fotografije, plakata, slike jelovnika ili slike proizvoda. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/image-qr-code-generator/",
+  "id": "/hr/image-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

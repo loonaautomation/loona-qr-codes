@@ -2,7 +2,7 @@
   "name": "Loona QR Codes pro všechny nástroje Loona",
   "short_name": "QR kódy pro všechny nástroje Loona",
   "description": "Získejte zdarma hotový QR kód pro jakýkoli nástroj Loona — 872 kalkulaček, nástrojů pro PDF, nástrojů pro obrázky, studijních nástrojů a aplikací. Vyberte nástroj, stáhněte si jeho QR kód jako PNG ve vysokém rozlišení a vytiskněte ho. Bez registrace, bez vodoznaku, nikdy nevyprší.",
-  "id": "/loona-qr-codes/cs/tool-qr-codes/",
+  "id": "/cs/tool-qr-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Código QR de WiFi de hotel y huéspedes Hotel e invitados",
   "short_name": "Hotel e invitados Hotel e invitados",
   "description": "Crea un código QR de WiFi de hotel y huéspedes gratuito al instante con Loona. Sin registro, sin marca de agua, nunca caduca. Colores personalizados, descarga de PNG en alta resolución.",
-  "id": "/loona-qr-codes/es/hotel-wifi-qr-code-generator/",
+  "id": "/es/hotel-wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

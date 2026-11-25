@@ -2,7 +2,7 @@
   "name": "เครื่องสร้างคิวอาร์โค้ด Telegram ของ Loona",
   "short_name": "เครื่องสร้างคิวอาร์โค้ด Telegram",
   "description": "สร้างคิวอาร์โค้ด Telegram ฟรีได้ทันทีด้วย Loona ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ สแกนเพื่อเข้าร่วมโปรไฟล์ กลุ่ม หรือช่อง Telegram ของคุณ สีที่กำหนดเอง ดาวน์โหลด PNG ความละเอียดสูง",
-  "id": "/loona-qr-codes/th/telegram-qr-code-generator/",
+  "id": "/th/telegram-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

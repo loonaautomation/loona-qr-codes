@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодів місця в Google Картах",
   "short_name": "QR-код місця в Google Картах",
   "description": "Створіть безкоштовний QR-код місця в Google Картах миттєво з Loona. Без реєстрації, без водяного знака, строк дії ніколи не закінчується. Скануйте, щоб отримати маршрут до вашого місця. Користувацькі кольори, завантаження PNG у високій роздільній здатності.",
-  "id": "/loona-qr-codes/uk/google-maps-location-qr-code-generator/",
+  "id": "/uk/google-maps-location-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

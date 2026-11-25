@@ -2,7 +2,7 @@
   "name": "Loona Venmo QR-kód generátor",
   "short_name": "Venmo QR-kód generátor",
   "description": "Hozzon létre ingyenes Venmo QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/venmo-qr-code-generator/",
+  "id": "/hu/venmo-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

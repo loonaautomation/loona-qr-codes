@@ -2,7 +2,7 @@
   "name": "Loona Sosiaalisen median QR-koodigeneraattori",
   "short_name": "Sosiaalisen median QR-koodigeneraattori",
   "description": "Luo ilmainen sosiaalisen median QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Valitse alusta, lisää käyttäjänimesi, ja yksi skannaus avaa profiilisi. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/social-media-qr-code-generator/",
+  "id": "/fi/social-media-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

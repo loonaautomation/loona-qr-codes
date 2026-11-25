@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona ל-Discord",
   "short_name": "מחולל קוד QR של Discord",
   "description": "צרו קוד QR חינמי של Discord מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. סרקו כדי להצטרף לשרת Discord עם קישור הזמנה. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/discord-qr-code-generator/",
+  "id": "/he/discord-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "คิวอาร์โค้ดการสั่งอาหารที่โต๊ะร้านอาหารของ Loona",
   "short_name": "QR สำหรับสั่งอาหารที่โต๊ะร้านอาหาร",
   "description": "สร้างคิวอาร์โค้ดการสั่งอาหารที่โต๊ะร้านอาหารฟรีได้ทันทีด้วย Loona ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ สีที่กำหนดเอง ดาวน์โหลด PNG ความละเอียดสูง",
-  "id": "/loona-qr-codes/th/restaurant-table-ordering-qr-code-generator/",
+  "id": "/th/restaurant-table-ordering-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

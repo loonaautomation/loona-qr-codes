@@ -2,7 +2,7 @@
   "name": "Loona Litecoin-maksu-QR-koodigeneraattori",
   "short_name": "Litecoin-maksu-QR-koodi",
   "description": "Luo ilmainen Litecoin-maksu-QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/litecoin-payment-qr-code-generator/",
+  "id": "/fi/litecoin-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

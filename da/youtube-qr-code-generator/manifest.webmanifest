@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til YouTube",
   "short_name": "QR-kodegenerator til YouTube",
   "description": "Opret en gratis YouTube-QR-kode øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Scan for at åbne en video eller kanal med det samme. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/youtube-qr-code-generator/",
+  "id": "/da/youtube-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

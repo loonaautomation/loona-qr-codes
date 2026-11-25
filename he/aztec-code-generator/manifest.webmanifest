@@ -2,7 +2,7 @@
   "name": "מחולל ברקוד Aztec Code של Loona",
   "short_name": "מחולל ברקוד Aztec",
   "description": "מחולל ברקוד Aztec Code חינמי. ספרות ביקורת נכונות היכן שהתקן כולל אותן, הורדת PNG ו-SVG, ללא הרשמה, ללא סימן מים.",
-  "id": "/loona-qr-codes/he/aztec-code-generator/",
+  "id": "/he/aztec-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

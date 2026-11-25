@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Sedia Cetak Loona",
   "short_name": "Penjana Kod QR Sedia Cetak",
   "description": "Cipta kod Sedia Cetak percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/qr-code-for-print-generator/",
+  "id": "/ms/qr-code-for-print-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

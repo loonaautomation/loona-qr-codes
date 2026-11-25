@@ -2,7 +2,7 @@
   "name": "Vizalishaji Vyote vya Msimbo wa QR na Msimbo Pau vya Loona",
   "short_name": "Msimbo Wote wa QR na Msimbo Pau",
   "description": "Maktaba kamili ya QR ya Loona: vizalishaji vya msimbo pau (Code 128, EAN-13, UPC, Data Matrix, PDF417), misimbo ya QR ya malipo (SEPA, UPI, kripto, Venmo), kesi za matumizi ya sekta na zana za kuchapisha.",
-  "id": "/loona-qr-codes/sw/qr-code-generators/",
+  "id": "/sw/qr-code-generators/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

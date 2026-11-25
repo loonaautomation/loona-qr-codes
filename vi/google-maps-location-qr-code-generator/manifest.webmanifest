@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Vị trí Google Maps Loona",
   "short_name": "Mã QR Vị trí Google Maps",
   "description": "Tạo mã QR Vị trí Google Maps miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Quét để nhận chỉ đường tới địa điểm của bạn. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/google-maps-location-qr-code-generator/",
+  "id": "/vi/google-maps-location-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Cuộc gọi Điện thoại Loona",
   "short_name": "Trình tạo mã QR Cuộc gọi Điện thoại",
   "description": "Tạo mã QR Cuộc gọi Điện thoại miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Quét để quay số của bạn ngay lập tức. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/phone-qr-code-generator/",
+  "id": "/vi/phone-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Semua Penjana Kod QR & Kod Bar Loona",
   "short_name": "Semua Kod QR & Kod Bar",
   "description": "Pustaka QR Loona penuh: penjana kod bar (Code 128, EAN-13, UPC, Data Matrix, PDF417), kod QR bayaran (SEPA, UPI, kripto, Venmo), kes penggunaan industri dan alat cetakan.",
-  "id": "/loona-qr-codes/ms/qr-code-generators/",
+  "id": "/ms/qr-code-generators/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

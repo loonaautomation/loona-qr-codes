@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za plaćanje Litecoinom",
   "short_name": "QR kod za plaćanje Litecoinom",
   "description": "Stvorite besplatni QR kod za plaćanje Litecoinom trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/litecoin-payment-qr-code-generator/",
+  "id": "/hr/litecoin-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Generator kodów QR stoisk targu rolniczego Loona",
   "short_name": "Kod QR stoiska targu rolniczego",
   "description": "Utwórz darmowy kod QR stoiska targu rolniczego błyskawicznie z Loona. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa. Kolory niestandardowe, pobieranie PNG w wysokiej rozdzielczości.",
-  "id": "/loona-qr-codes/pl/farmers-market-qr-code-generator/",
+  "id": "/pl/farmers-market-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

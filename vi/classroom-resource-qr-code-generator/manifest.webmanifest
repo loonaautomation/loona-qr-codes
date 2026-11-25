@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Tài nguyên Lớp học Loona",
   "short_name": "Mã QR Tài nguyên Lớp học",
   "description": "Tạo mã QR Tài nguyên Lớp học miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/classroom-resource-qr-code-generator/",
+  "id": "/vi/classroom-resource-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

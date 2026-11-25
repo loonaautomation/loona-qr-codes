@@ -2,7 +2,7 @@
   "name": "Loona Data Matrix vonalkódgenerátor",
   "short_name": "Data Matrix vonalkód generátor",
   "description": "Ingyenes Data Matrix vonalkód generátor. Helyes ellenőrző számjegyek, ahol a szabványnak vannak, PNG- és SVG-letöltés, nincs regisztráció, nincs vízjel.",
-  "id": "/loona-qr-codes/hu/data-matrix-code-generator/",
+  "id": "/hu/data-matrix-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

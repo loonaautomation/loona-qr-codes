@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Códigos QR de Localização no Google Maps",
   "short_name": "Código QR de Localização no Google Maps",
   "description": "Crie um Código QR de Localização no Google Maps grátis instantaneamente com a Loona. Sem registo, sem marca de água, nunca expira. Leia para obter direções para o seu local. Cores personalizadas, transferência PNG em alta resolução.",
-  "id": "/loona-qr-codes/pt-pt/google-maps-location-qr-code-generator/",
+  "id": "/pt-pt/google-maps-location-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

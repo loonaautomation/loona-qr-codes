@@ -2,7 +2,7 @@
   "name": "Loona Generátor QR kódov pre svadobné pozvánky",
   "short_name": "QR kód pre svadobnú pozvánku",
   "description": "Vytvorte si zadarmo QR kód pre svadobnú pozvánku okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
-  "id": "/loona-qr-codes/sk/wedding-invitation-qr-code-generator/",
+  "id": "/sk/wedding-invitation-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

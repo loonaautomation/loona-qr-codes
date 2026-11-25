@@ -2,7 +2,7 @@
   "name": "Loona gym & fitness-QR-kodgenerator",
   "short_name": "Gym & fitness-QR-kod",
   "description": "Skapa direkt en gratis gym- & fitness-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/gym-fitness-qr-code-generator/",
+  "id": "/sv/gym-fitness-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

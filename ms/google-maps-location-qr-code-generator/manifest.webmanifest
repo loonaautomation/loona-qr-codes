@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Lokasi Google Maps Loona",
   "short_name": "Kod QR Lokasi Google Maps",
   "description": "Cipta kod QR Lokasi Google Maps percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Imbas untuk mendapatkan arah ke tempat anda. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/google-maps-location-qr-code-generator/",
+  "id": "/ms/google-maps-location-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

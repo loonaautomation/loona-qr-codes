@@ -2,7 +2,7 @@
   "name": "Loona FaceTime QR-kód generátor",
   "short_name": "FaceTime QR-kód generátor",
   "description": "Hozzon létre ingyenes FaceTime QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/facetime-qr-code-generator/",
+  "id": "/hu/facetime-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

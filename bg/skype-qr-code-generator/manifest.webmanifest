@@ -2,7 +2,7 @@
   "name": "Генератор на QR кодове за обаждания по Skype на Loona",
   "short_name": "Генератор на QR кодове за обаждания по Skype",
   "description": "Създайте безплатен QR код за обаждане по Skype мигновено с Loona. Без регистрация, без воден знак, никога не изтича. Персонализирани цветове, изтегляне на PNG с висока разделителна способност.",
-  "id": "/loona-qr-codes/bg/skype-qr-code-generator/",
+  "id": "/bg/skype-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

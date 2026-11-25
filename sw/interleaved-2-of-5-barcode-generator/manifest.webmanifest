@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo Pau wa Interleaved 2 of 5 cha Loona",
   "short_name": "Msimbo Pau wa Interleaved 2 of 5",
   "description": "Kizalishaji cha bure cha msimbo pau wa Interleaved 2 of 5. Rakamu sahihi za ukaguzi pale kiwango kinazo, upakuaji wa PNG na SVG, hakuna kujisajili, hakuna alama ya maji.",
-  "id": "/loona-qr-codes/sw/interleaved-2-of-5-barcode-generator/",
+  "id": "/sw/interleaved-2-of-5-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

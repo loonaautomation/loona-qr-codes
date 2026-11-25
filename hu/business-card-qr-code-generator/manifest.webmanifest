@@ -2,7 +2,7 @@
   "name": "Loona Névjegykártya QR-kód generátor",
   "short_name": "Névjegykártya QR-kód",
   "description": "Hozzon létre ingyenes névjegykártya QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/business-card-qr-code-generator/",
+  "id": "/hu/business-card-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

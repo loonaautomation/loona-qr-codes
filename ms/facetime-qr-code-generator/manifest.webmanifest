@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR FaceTime Loona",
   "short_name": "Penjana Kod QR FaceTime",
   "description": "Cipta kod FaceTime percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/facetime-qr-code-generator/",
+  "id": "/ms/facetime-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

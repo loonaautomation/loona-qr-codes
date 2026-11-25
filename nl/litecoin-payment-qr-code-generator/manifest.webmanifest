@@ -2,7 +2,7 @@
   "name": "Loona Litecoin-betaal-QR-codegenerator",
   "short_name": "Litecoin-betaal-QR-code",
   "description": "Maak direct een gratis Litecoin-betaal-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/litecoin-payment-qr-code-generator/",
+  "id": "/nl/litecoin-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

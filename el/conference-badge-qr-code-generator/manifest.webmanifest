@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Κάρτας Συνεδρίου",
   "short_name": "Κωδικός QR Σήματος Συνεδρίου",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Σήματος Συνεδρίου αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/conference-badge-qr-code-generator/",
+  "id": "/el/conference-badge-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

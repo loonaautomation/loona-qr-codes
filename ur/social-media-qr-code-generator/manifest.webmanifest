@@ -2,7 +2,7 @@
   "name": "Loona Social Media QR Code Generator",
   "short_name": "Social Media QR Code Generator",
   "description": "Loona کے ساتھ مفت Social Media QR Code فوراً بنائیں۔ کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، کبھی ختم نہیں ہوتا۔ پلیٹ فارم منتخب کریں، اپنا صارف نام شامل کریں، اور ایک اسکین آپ کا پروفائل کھول دیتا ہے۔ حسبِ پسند رنگ، ہائی ریزولوشن PNG ڈاؤن لوڈ۔",
-  "id": "/loona-qr-codes/ur/social-media-qr-code-generator/",
+  "id": "/ur/social-media-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

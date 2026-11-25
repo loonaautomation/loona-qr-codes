@@ -2,7 +2,7 @@
   "name": "Loona Termelői Piaci Stand QR-kód generátor",
   "short_name": "Termelői piaci stand QR-kód",
   "description": "Hozzon létre ingyenes termelői piaci stand QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/farmers-market-qr-code-generator/",
+  "id": "/hu/farmers-market-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

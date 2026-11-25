@@ -2,7 +2,7 @@
   "name": "Loona Generátor QR kódov pre obyčajný text",
   "short_name": "Generátor QR kódov pre obyčajný text",
   "description": "Vytvorte si zadarmo QR kód pre obyčajný text okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Vložte do QR kódu akýkoľvek text, kód alebo správu. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
-  "id": "/loona-qr-codes/sk/text-qr-code-generator/",
+  "id": "/sk/text-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

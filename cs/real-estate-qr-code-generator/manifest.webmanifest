@@ -2,7 +2,7 @@
   "name": "Generátor QR kódů pro reality Loona",
   "short_name": "Generátor QR kódů pro reality",
   "description": "Vytvořte si zdarma QR kód pro reality okamžitě s Loonou. Bez registrace, bez vodoznaku, nikdy nevyprší. Vlastní barvy, stažení PNG ve vysokém rozlišení.",
-  "id": "/loona-qr-codes/cs/real-estate-qr-code-generator/",
+  "id": "/cs/real-estate-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

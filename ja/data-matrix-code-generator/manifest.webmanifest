@@ -2,7 +2,7 @@
   "name": "Loona Data Matrix バーコード生成ツール",
   "short_name": "Data Matrix バーコード生成ツール",
   "description": "無料の Data Matrix バーコード生成ツール。標準にチェックデジットがある場合は正しいものを作成し、PNG と SVG のダウンロードが可能、登録不要、透かしなし。",
-  "id": "/loona-qr-codes/ja/data-matrix-code-generator/",
+  "id": "/ja/data-matrix-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "คิวอาร์โค้ด JazzCash / EasyPaisa (ปากีสถาน) ของ Loona",
   "short_name": "คิวอาร์โค้ด JazzCash / EasyPaisa",
   "description": "สร้างคิวอาร์โค้ด JazzCash หรือ EasyPaisa ฟรีสำหรับปากีสถาน — ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ สีที่กำหนดเองและดาวน์โหลด PNG ความละเอียดสูง",
-  "id": "/loona-qr-codes/th/jazzcash-easypaisa-qr-code-generator/",
+  "id": "/th/jazzcash-easypaisa-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

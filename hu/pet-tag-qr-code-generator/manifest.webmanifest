@@ -2,7 +2,7 @@
   "name": "Loona Kisállat Azonosító Címke QR-kód generátor",
   "short_name": "Kisállat Azonosító Címke QR-kód generátor",
   "description": "Hozzon létre ingyenes háziállat-azonosító címke QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/pet-tag-qr-code-generator/",
+  "id": "/hu/pet-tag-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

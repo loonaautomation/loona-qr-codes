@@ -2,7 +2,7 @@
   "name": "Mã QR Điểm danh & Biểu mẫu Trường học Loona",
   "short_name": "Mã QR Điểm danh & Biểu mẫu Trường học",
   "description": "Tạo mã QR Điểm danh & Biểu mẫu Trường học miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/school-attendance-qr-code-generator/",
+  "id": "/vi/school-attendance-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

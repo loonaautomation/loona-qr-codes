@@ -2,7 +2,7 @@
   "name": "קוד QR של Loona לנוכחות בית ספר ולטפסים",
   "short_name": "נוכחות בית ספר וטפסי QR",
   "description": "צרו קוד QR חינמי של נוכחות בית ספר וטפסים מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/school-attendance-qr-code-generator/",
+  "id": "/he/school-attendance-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

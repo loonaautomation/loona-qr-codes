@@ -2,7 +2,7 @@
   "name": "เครื่องสร้างคิวอาร์โค้ด vCard สำหรับผู้ติดต่อของ Loona",
   "short_name": "คิวอาร์โค้ดผู้ติดต่อ vCard",
   "description": "สร้างคิวอาร์โค้ด vCard สำหรับผู้ติดต่อฟรีได้ทันทีด้วย Loona ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ สแกนเพื่อบันทึกนามบัตรผู้ติดต่อฉบับเต็มของคุณลงในโทรศัพท์ สีที่กำหนดเอง ดาวน์โหลด PNG ความละเอียดสูง",
-  "id": "/loona-qr-codes/th/vcard-qr-code-generator/",
+  "id": "/th/vcard-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

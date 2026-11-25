@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодів Facebook",
   "short_name": "Генератор QR-кодів Facebook",
   "description": "Створіть безкоштовний QR-код Facebook миттєво з Loona. Без реєстрації, без водяного знака, строк дії ніколи не закінчується. Надсилайте людей просто на свою сторінку Facebook. Користувацькі кольори, завантаження PNG у високій роздільній здатності.",
-  "id": "/loona-qr-codes/uk/facebook-qr-code-generator/",
+  "id": "/uk/facebook-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

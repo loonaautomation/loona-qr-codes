@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) QR-kód generátor",
   "short_name": "X (Twitter) QR-kód generátor",
   "description": "Hozzon létre ingyenes X (Twitter) QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Olvassa be X-profilja megnyitásához. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/x-twitter-qr-code-generator/",
+  "id": "/hu/x-twitter-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

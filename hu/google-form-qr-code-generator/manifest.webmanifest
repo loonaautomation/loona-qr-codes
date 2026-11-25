@@ -2,7 +2,7 @@
   "name": "Loona Google Űrlap QR-kód generátor",
   "short_name": "Google űrlap QR-kód generátor",
   "description": "Hozzon létre ingyenes Google űrlap QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Olvassa be Google-űrlap megnyitásához és kitöltéséhez. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/google-form-qr-code-generator/",
+  "id": "/hu/google-form-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Generator de coduri QR pentru saloane de înfrumusețare",
   "short_name": "Generator de coduri QR pentru saloane de înfrumusețare",
   "description": "Creează gratuit un cod QR pentru saloane de înfrumusețare instantaneu cu Loona. Fără înregistrare, fără filigran, nu expiră niciodată. Culori personalizate, descărcare PNG la rezoluție înaltă.",
-  "id": "/loona-qr-codes/ro/beauty-salon-qr-code-generator/",
+  "id": "/ro/beauty-salon-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

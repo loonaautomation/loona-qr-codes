@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Barcode Codabar",
   "short_name": "Γεννήτρια Γραμμωτού Κωδικού Codabar",
   "description": "Δωρεάν γεννήτρια γραμμωτού κωδικού Codabar. Σωστά ψηφία ελέγχου όπου το πρότυπο τα έχει, λήψη PNG και SVG, χωρίς εγγραφή, χωρίς υδατογράφημα.",
-  "id": "/loona-qr-codes/el/codabar-barcode-generator/",
+  "id": "/el/codabar-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

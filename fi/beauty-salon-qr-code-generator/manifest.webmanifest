@@ -2,7 +2,7 @@
   "name": "Loona Kauneushoitolan QR-koodigeneraattori",
   "short_name": "Kauneushoitolan QR-koodigeneraattori",
   "description": "Luo ilmainen kauneushoitolan QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/beauty-salon-qr-code-generator/",
+  "id": "/fi/beauty-salon-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

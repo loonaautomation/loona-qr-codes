@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодов URL / веб-сайтов",
   "short_name": "QR-код URL / сайта",
   "description": "Создайте бесплатный QR-код URL / Website мгновенно с Loona. Без регистрации, без водяного знака, никогда не истекает. Превратите любую ссылку на сайт в QR-код. Настраиваемые цвета, скачивание PNG в высоком разрешении.",
-  "id": "/loona-qr-codes/ru/url-qr-code-generator/",
+  "id": "/ru/url-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

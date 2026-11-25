@@ -2,7 +2,7 @@
   "name": "Generator Kode QR SMS Loona",
   "short_name": "Generator Kode QR SMS",
   "description": "Buat Kode QR SMS gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Pindai untuk membuka pesan teks yang sudah ditulis. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/sms-qr-code-generator/",
+  "id": "/id/sms-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

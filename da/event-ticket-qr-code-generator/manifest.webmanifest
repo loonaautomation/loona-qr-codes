@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til arrangementsbilletter",
   "short_name": "Generator til arrangementsbillet-QR-kode",
   "description": "Opret en gratis arrangementsbillet-QR-kode øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/event-ticket-qr-code-generator/",
+  "id": "/da/event-ticket-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

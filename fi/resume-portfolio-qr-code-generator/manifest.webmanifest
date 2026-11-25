@@ -2,7 +2,7 @@
   "name": "Loona CV- / portfolio-QR-koodigeneraattori",
   "short_name": "CV- / portfolio-QR-koodi",
   "description": "Luo ilmainen CV- / portfolio-QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Laita CV:si tai portfoliosi yhden skannauksen päähän. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/resume-portfolio-qr-code-generator/",
+  "id": "/fi/resume-portfolio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

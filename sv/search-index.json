@@ -1,7 +1,7 @@
 [
  {
   "n": "URL / Webbplats-QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/url-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/url-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Förvandla vilken webbplatslänk som helst till en QR-kod.",
   "k": "url website qr code generator url qr code generator forvandla vilken webbplatslank som helst till en qr kod",
@@ -10,7 +10,7 @@
  },
  {
   "n": "QR-kod med vanlig text-generator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/text-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/text-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Sätt vilken text, kod eller meddelande som helst inuti en QR-kod.",
   "k": "plain text qr code generator text qr code generator satt vilken text kod eller meddelande som helst inuti en qr kod",
@@ -19,7 +19,7 @@
  },
  {
   "n": "WiFi-QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/wifi-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/wifi-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Gäster ansluter till WiFi med en skanning, utan att skriva lösenord.",
   "k": "wifi qr code generator wifi qr code generator gaster ansluter till wifi med en skanning utan att skriva losenord",
@@ -28,7 +28,7 @@
  },
  {
   "n": "WhatsApp QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/whatsapp-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/whatsapp-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Starta en WhatsApp-chatt med en skanning, utan att spara nummer.",
   "k": "whatsapp qr code generator whatsapp qr code generator starta en whatsapp chatt med en skanning utan att spara nummer",
@@ -37,7 +37,7 @@
  },
  {
   "n": "vCard-kontakt-QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/vcard-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/vcard-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanna för att spara ditt fullständiga kontaktkort till en telefon.",
   "k": "vcard contact qr code generator vcard qr code generator skanna for att spara ditt fullstandiga kontaktkort till en telefon",
@@ -46,7 +46,7 @@
  },
  {
   "n": "E-post-QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/email-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/email-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanna för att öppna ett föradresserat mejl, redo att skickas.",
   "k": "email qr code generator email qr code generator skanna for att oppna ett foradresserat mejl redo att skickas",
@@ -55,7 +55,7 @@
  },
  {
   "n": "SMS-QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/sms-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/sms-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanna för att öppna ett förskrivet textmeddelande.",
   "k": "sms qr code generator sms qr code generator skanna for att oppna ett forskrivet textmeddelande",
@@ -64,7 +64,7 @@
  },
  {
   "n": "Telefonsamtal-QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/phone-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/phone-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanna för att ringa ditt nummer direkt.",
   "k": "phone call qr code generator phone qr code generator skanna for att ringa ditt nummer direkt",
@@ -73,7 +73,7 @@
  },
  {
   "n": "Instagram QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/instagram-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/instagram-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Väx följare med en Instagram-QR att skanna för att följa.",
   "k": "instagram qr code generator instagram qr code generator vax foljare med en instagram qr att skanna for att folja",
@@ -82,7 +82,7 @@
  },
  {
   "n": "Facebook-QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/facebook-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/facebook-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skicka människor rakt till din Facebook-sida.",
   "k": "facebook qr code generator facebook qr code generator skicka manniskor rakt till din facebook sida",
@@ -91,7 +91,7 @@
  },
  {
   "n": "YouTube-QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/youtube-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/youtube-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanna för att öppna en video eller kanal direkt.",
   "k": "youtube qr code generator youtube qr code generator skanna for att oppna en video eller kanal direkt",
@@ -100,7 +100,7 @@
  },
  {
   "n": "TikTok QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/tiktok-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/tiktok-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanna för att öppna din TikTok-profil.",
   "k": "tiktok qr code generator tiktok qr code generator skanna for att oppna din tiktok profil",
@@ -109,7 +109,7 @@
  },
  {
   "n": "X (Twitter)-QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/x-twitter-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/x-twitter-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanna för att öppna din X-profil.",
   "k": "x twitter qr code generator x twitter qr code generator skanna for att oppna din x profil",
@@ -118,7 +118,7 @@
  },
  {
   "n": "LinkedIn QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/linkedin-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/linkedin-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Anslut professionellt med en skanning.",
   "k": "linkedin qr code generator linkedin qr code generator anslut professionellt med en skanning",
@@ -127,7 +127,7 @@
  },
  {
   "n": "Telegram QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/telegram-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/telegram-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanna för att gå med i din Telegram-profil, -grupp eller -kanal.",
   "k": "telegram qr code generator telegram qr code generator skanna for att ga med i din telegram profil grupp eller kanal",
@@ -136,7 +136,7 @@
  },
  {
   "n": "Snapchat QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/snapchat-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/snapchat-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanna för att lägga till dig på Snapchat.",
   "k": "snapchat qr code generator snapchat qr code generator skanna for att lagga till dig pa snapchat",
@@ -145,7 +145,7 @@
  },
  {
   "n": "Google Maps-plats-QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/google-maps-location-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/google-maps-location-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanna för att få vägbeskrivningar till din plats.",
   "k": "google maps location qr code generator google maps location qr code generator skanna for att fa vagbeskrivningar till din plats",
@@ -154,7 +154,7 @@
  },
  {
   "n": "Google-recension-QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/google-review-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/google-review-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Nöjda kunder lämnar en Google-recension på några sekunder.",
   "k": "google review qr code generator google review qr code generator nojda kunder lamnar en google recension pa nagra sekunder",
@@ -163,7 +163,7 @@
  },
  {
   "n": "Restaurangmeny-QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/restaurant-menu-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/restaurant-menu-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Beröringsfri meny på varje bord.",
   "k": "restaurant menu qr code generator restaurant menu qr code generator beroringsfri meny pa varje bord",
@@ -172,7 +172,7 @@
  },
  {
   "n": "PDF-QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/pdf-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/pdf-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanna för att öppna eller ladda ner en PDF-fil.",
   "k": "pdf qr code generator pdf qr code generator skanna for att oppna eller ladda ner en pdf fil",
@@ -181,7 +181,7 @@
  },
  {
   "n": "App Store-/Google Play-QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/app-store-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/app-store-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanna för att installera din app.",
   "k": "app store google play qr code generator app store qr code generator skanna for att installera din app",
@@ -190,7 +190,7 @@
  },
  {
   "n": "Google Form QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/google-form-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/google-form-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanna för att öppna och fylla i ett Google-formulär.",
   "k": "google form qr code generator google form qr code generator skanna for att oppna och fylla i ett google formular",
@@ -199,7 +199,7 @@
  },
  {
   "n": "Zoom-/mötes-QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/zoom-meeting-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/zoom-meeting-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanna för att gå med i ett möte eller en lektion.",
   "k": "zoom meeting qr code generator zoom meeting qr code generator skanna for att ga med i ett mote eller en lektion",
@@ -208,7 +208,7 @@
  },
  {
   "n": "Evenemang-/kalender-QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/event-calendar-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/event-calendar-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanna för att spara ett evenemang i kalendern.",
   "k": "event calendar qr code generator event calendar qr code generator skanna for att spara ett evenemang i kalendern",
@@ -217,7 +217,7 @@
  },
  {
   "n": "PayPal QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/paypal-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/paypal-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Få betalt: skanna för att öppna din PayPal.me-sida.",
   "k": "paypal qr code generator paypal qr code generator fa betalt skanna for att oppna din paypal me sida",
@@ -226,7 +226,7 @@
  },
  {
   "n": "UPI-betalnings-QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/upi-payment-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/upi-payment-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "UPI-betalnings-QR för butiker i Indien och UPI-regioner.",
   "k": "upi payment qr code generator upi payment qr code generator upi betalnings qr for butiker i indien och upi regioner",
@@ -235,7 +235,7 @@
  },
  {
   "n": "JazzCash-/EasyPaisa-QR-kod (Pakistan)-generator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/jazzcash-easypaisa-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/jazzcash-easypaisa-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Dela dina JazzCash- eller EasyPaisa-kontouppgifter som en QR-kod.",
   "k": "jazzcash easypaisa qr code pakistan generator jazzcash easypaisa qr code generator dela dina jazzcash eller easypaisa kontouppgifter som en qr kod",
@@ -244,7 +244,7 @@
  },
  {
   "n": "Bitcoin-/krypto-QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/bitcoin-crypto-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/bitcoin-crypto-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Dela en Bitcoin-plånboksadress som en QR-kod.",
   "k": "bitcoin crypto qr code generator bitcoin crypto qr code generator dela en bitcoin planboksadress som en qr kod",
@@ -253,7 +253,7 @@
  },
  {
   "n": "Spotify-/musik-QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/spotify-music-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/spotify-music-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanna för att spela en låt, spellista eller podcast.",
   "k": "spotify music qr code generator spotify music qr code generator skanna for att spela en lat spellista eller podcast",
@@ -262,7 +262,7 @@
  },
  {
   "n": "CV-/portfölj-QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/resume-portfolio-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/resume-portfolio-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Lägg ditt CV eller din portfölj en skanning bort.",
   "k": "resume portfolio qr code generator resume portfolio qr code generator lagg ditt cv eller din portfolj en skanning bort",
@@ -271,7 +271,7 @@
  },
  {
   "n": "Bild-QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/image-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/image-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanna för att öppna eller dela en foto- eller bildlänk.",
   "k": "image qr code generator image qr code generator skanna for att oppna eller dela en foto eller bildlank",
@@ -280,7 +280,7 @@
  },
  {
   "n": "Ljud-QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/audio-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/audio-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanna för att spela en låt, röstanteckning eller ljudfil.",
   "k": "audio qr code generator audio qr code generator skanna for att spela en lat rostanteckning eller ljudfil",
@@ -289,7 +289,7 @@
  },
  {
   "n": "QR-kodgenerator för sociala medier",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/social-media-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/social-media-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "En QR för dina profillänkar på sociala medier.",
   "k": "social media qr code generator social media qr code generator en qr for dina profillankar pa sociala medier",
@@ -298,7 +298,7 @@
  },
  {
   "n": "Pinterest QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/pinterest-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/pinterest-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanna för att öppna din Pinterest-profil eller -anslagstavla.",
   "k": "pinterest qr code generator pinterest qr code generator skanna for att oppna din pinterest profil eller anslagstavla",
@@ -307,7 +307,7 @@
  },
  {
   "n": "Discord QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/discord-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/discord-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanna för att gå med i din Discord-server eller profil.",
   "k": "discord qr code generator discord qr code generator skanna for att ga med i din discord server eller profil",
@@ -316,7 +316,7 @@
  },
  {
   "n": "GitHub QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/github-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/github-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanna för att öppna din GitHub-profil eller ditt repository.",
   "k": "github qr code generator github qr code generator skanna for att oppna din github profil eller ditt repository",
@@ -325,7 +325,7 @@
  },
  {
   "n": "QR-kod & streckkodsskanner",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/qr-code-scanner/",
+  "u": "https://qr.loonaautomation.com/sv/qr-code-scanner/",
   "s": "Loona QR Codes",
   "d": "Skanna koder med din kamera, eller avkoda QR-koder och streckkoder från ett foto eller en skärmdump.",
   "k": "qr code barcode scanner qr code scanner skanna koder med din kamera eller avkoda qr koder och streckkoder fran ett foto eller en skarmdump",
@@ -334,7 +334,7 @@
  },
  {
   "n": "Bulk-QR-kodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/bulk-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sv/bulk-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skapa upp till 100 märkta QR-koder på en gång i ett utskrivbart ark.",
   "k": "bulk qr code generator bulk qr code generator skapa upp till 100 markta qr koder pa en gang i ett utskrivbart ark",
@@ -343,7 +343,7 @@
  },
  {
   "n": "Streckkodgenerator",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/barcode-generator/",
+  "u": "https://qr.loonaautomation.com/sv/barcode-generator/",
   "s": "Loona QR Codes",
   "d": "Skapa produktstreckkoder — Code 128, EAN-13, UPC och mer.",
   "k": "barcode generator barcode generator skapa produktstreckkoder code 128 ean 13 upc och mer",
@@ -352,7 +352,7 @@
  },
  {
   "n": "Alla Loona-verktyg — QR-koder",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sv/tool-qr-codes/",
+  "u": "https://qr.loonaautomation.com/sv/tool-qr-codes/",
   "s": "Loona QR Codes",
   "d": "Få en färdig QR-kod för vilket Loona-verktyg som helst — kalkylatorer, PDF-verktyg, bildverktyg och mer. Sök bland alla 872 Loona-verktyg och appar, ladda ner QR-koden och skriv ut den.",
   "k": "qr codes for all loona tools tool qr codes fa en fardig qr kod for vilket loona verktyg som helst kalkylatorer pdf verktyg bildverktyg och mer sok bland alla 872 loona verktyg och appar ladda ner qr koden och skriv ut den",

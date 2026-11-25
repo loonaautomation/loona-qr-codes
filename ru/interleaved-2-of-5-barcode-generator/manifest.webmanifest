@@ -2,7 +2,7 @@
   "name": "Loona Генератор штрихкодов Interleaved 2 of 5",
   "short_name": "Штрихкод Interleaved 2 of 5",
   "description": "Бесплатный генератор штрихкодов Interleaved 2 of 5. Корректные контрольные цифры там, где они предусмотрены стандартом, скачивание в PNG и SVG, без регистрации, без водяных знаков.",
-  "id": "/loona-qr-codes/ru/interleaved-2-of-5-barcode-generator/",
+  "id": "/ru/interleaved-2-of-5-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

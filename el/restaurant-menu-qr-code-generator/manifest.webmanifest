@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Μενού Εστιατορίου",
   "short_name": "Κωδικός QR Μενού Εστιατορίου",
   "description": "Δημιουργήστε έναν δωρεάν Κωδικό QR Μενού Εστιατορίου αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Μενού χωρίς επαφή σε κάθε τραπέζι. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/restaurant-menu-qr-code-generator/",
+  "id": "/el/restaurant-menu-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

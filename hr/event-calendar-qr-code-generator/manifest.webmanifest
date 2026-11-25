@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za događaj / kalendar",
   "short_name": "QR kod za događaj / kalendar",
   "description": "Stvorite besplatni QR kod za događaje / kalendar trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Skenirajte za spremanje događaja u kalendar. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/event-calendar-qr-code-generator/",
+  "id": "/hr/event-calendar-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

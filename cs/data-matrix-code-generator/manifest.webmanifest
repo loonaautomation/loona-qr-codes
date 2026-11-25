@@ -2,7 +2,7 @@
   "name": "Generátor čárových kódů Data Matrix Loona",
   "short_name": "Generátor čárových kódů Data Matrix",
   "description": "Bezplatný generátor čárových kódů Data Matrix. Správné kontrolní číslice tam, kde je standard má, stažení PNG a SVG, bez registrace, bez vodoznaku.",
-  "id": "/loona-qr-codes/cs/data-matrix-code-generator/",
+  "id": "/cs/data-matrix-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

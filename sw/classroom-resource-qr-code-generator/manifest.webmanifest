@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Rasilimali ya Darasani cha Loona",
   "short_name": "Msimbo wa QR wa Rasilimali ya Darasa",
   "description": "Tengeneza msimbo wa QR wa Rasilimali ya Darasani wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/classroom-resource-qr-code-generator/",
+  "id": "/sw/classroom-resource-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

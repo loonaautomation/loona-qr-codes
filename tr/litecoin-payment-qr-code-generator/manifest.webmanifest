@@ -2,7 +2,7 @@
   "name": "Loona Litecoin Ödeme QR Kod Oluşturucu",
   "short_name": "Litecoin Ödeme QR Kodu",
   "description": "Loona ile anında ücretsiz bir Litecoin Ödeme QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/litecoin-payment-qr-code-generator/",
+  "id": "/tr/litecoin-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

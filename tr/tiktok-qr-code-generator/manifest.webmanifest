@@ -2,7 +2,7 @@
   "name": "Loona TikTok QR Kod Oluşturucu",
   "short_name": "TikTok QR Kod Oluşturucu",
   "description": "Loona ile anında ücretsiz bir TikTok QR Kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. TikTok profilinizi açmak için tarayın. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/tiktok-qr-code-generator/",
+  "id": "/tr/tiktok-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

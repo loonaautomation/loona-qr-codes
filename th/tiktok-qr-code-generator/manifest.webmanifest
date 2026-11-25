@@ -2,7 +2,7 @@
   "name": "เครื่องสร้างคิวอาร์โค้ด TikTok ของ Loona",
   "short_name": "เครื่องสร้างคิวอาร์โค้ด TikTok",
   "description": "สร้างคิวอาร์โค้ด TikTok ฟรีได้ทันทีด้วย Loona ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ สแกนเพื่อเปิดโปรไฟล์ TikTok ของคุณ สีที่กำหนดเอง ดาวน์โหลด PNG ความละเอียดสูง",
-  "id": "/loona-qr-codes/th/tiktok-qr-code-generator/",
+  "id": "/th/tiktok-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

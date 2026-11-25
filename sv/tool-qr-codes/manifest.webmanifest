@@ -2,7 +2,7 @@
   "name": "Loona QR-koder för alla Loona-verktyg",
   "short_name": "QR-koder för alla Loona-verktyg",
   "description": "Få en gratis färdig QR-kod för vilket Loona-verktyg som helst — 872 kalkylatorer, PDF-verktyg, bildverktyg, studieverktyg och appar. Välj ett verktyg, ladda ner dess QR-kod som en högupplöst PNG och skriv ut den. Ingen registrering, ingen vattenstämpel, löper aldrig ut.",
-  "id": "/loona-qr-codes/sv/tool-qr-codes/",
+  "id": "/sv/tool-qr-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

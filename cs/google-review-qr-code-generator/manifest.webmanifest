@@ -2,7 +2,7 @@
   "name": "Generátor QR kódů pro recenze Google Loona",
   "short_name": "QR kód pro recenze Google",
   "description": "Vytvořte si zdarma QR kód pro recenze Google okamžitě s Loonou. Bez registrace, bez vodoznaku, nikdy nevyprší. Spokojení zákazníci zanechají recenzi na Googlu během několika sekund. Vlastní barvy, stažení PNG ve vysokém rozlišení.",
-  "id": "/loona-qr-codes/cs/google-review-qr-code-generator/",
+  "id": "/cs/google-review-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

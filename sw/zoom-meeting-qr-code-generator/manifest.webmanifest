@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Zoom / Mkutano cha Loona",
   "short_name": "Msimbo wa QR wa Zoom / Mkutano",
   "description": "Tengeneza Msimbo wa QR wa Zoom / Mkutano wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Changanua ili kujiunga na mkutano au darasa. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/zoom-meeting-qr-code-generator/",
+  "id": "/sw/zoom-meeting-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

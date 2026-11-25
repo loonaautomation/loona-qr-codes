@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Bitcoin / Kripto Loona",
   "short_name": "Kod QR Bitcoin / Kripto",
   "description": "Cipta kod QR Bitcoin / Kripto percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Kongsi alamat dompet Bitcoin sebagai QR. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/bitcoin-crypto-qr-code-generator/",
+  "id": "/ms/bitcoin-crypto-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

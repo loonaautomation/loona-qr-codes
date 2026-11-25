@@ -2,7 +2,7 @@
   "name": "เครื่องสร้างคิวอาร์โค้ด Discord ของ Loona",
   "short_name": "เครื่องสร้างคิวอาร์โค้ด Discord",
   "description": "สร้างคิวอาร์โค้ด Discord ฟรีได้ทันทีด้วย Loona ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ สแกนเพื่อเข้าร่วมเซิร์ฟเวอร์ Discord ด้วยลิงก์คำเชิญ สีที่กำหนดเอง ดาวน์โหลด PNG ความละเอียดสูง",
-  "id": "/loona-qr-codes/th/discord-qr-code-generator/",
+  "id": "/th/discord-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Générateur de code QR Avis Google",
   "short_name": "Code QR Avis Google",
   "description": "Créez un code QR Avis Google gratuit instantanément avec Loona. Aucune inscription, aucun filigrane, n’expire jamais. Les clients satisfaits laissent un avis Google en quelques secondes. Couleurs personnalisées, téléchargement PNG haute résolution.",
-  "id": "/loona-qr-codes/fr/google-review-qr-code-generator/",
+  "id": "/fr/google-review-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

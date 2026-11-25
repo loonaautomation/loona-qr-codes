@@ -2,7 +2,7 @@
   "name": "Generátor QR kódů pro životopis / portfolio Loona",
   "short_name": "QR kód pro životopis / portfolio",
   "description": "Vytvořte si zdarma QR kód pro životopis / portfolio okamžitě s Loonou. Bez registrace, bez vodoznaku, nikdy nevyprší. Mějte svůj životopis nebo portfolio na jedno naskenování daleko. Vlastní barvy, stažení PNG ve vysokém rozlišení.",
-  "id": "/loona-qr-codes/cs/resume-portfolio-qr-code-generator/",
+  "id": "/cs/resume-portfolio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

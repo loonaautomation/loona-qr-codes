@@ -1,7 +1,7 @@
 [
  {
   "n": "מחולל קוד QR לכתובת / אתר",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/url-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/url-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "הפכו כל קישור אתר לקוד QR.",
   "k": "url website qr code generator url qr code generator הפכו כל קישור אתר לקוד qr",
@@ -10,7 +10,7 @@
  },
  {
   "n": "מחולל קוד QR לטקסט רגיל",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/text-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/text-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "שימו כל טקסט, קוד או הודעה בתוך קוד QR.",
   "k": "plain text qr code generator text qr code generator שימו כל טקסט קוד או הודעה בתוך קוד qr",
@@ -19,7 +19,7 @@
  },
  {
   "n": "מחולל קוד QR של WiFi",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/wifi-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/wifi-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "אורחים מתחברים ל-WiFi בסריקה אחת, בלי להקליד סיסמה.",
   "k": "wifi qr code generator wifi qr code generator אורחים מתחברים ל wifi בסריקה אחת בלי להקליד סיסמה",
@@ -28,7 +28,7 @@
  },
  {
   "n": "מחולל קוד QR של WhatsApp",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/whatsapp-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/whatsapp-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "התחילו צ'אט WhatsApp בסריקה אחת, בלי לשמור מספר.",
   "k": "whatsapp qr code generator whatsapp qr code generator התחילו צ אט whatsapp בסריקה אחת בלי לשמור מספר",
@@ -37,7 +37,7 @@
  },
  {
   "n": "מחולל קוד QR לאיש קשר vCard",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/vcard-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/vcard-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "סרקו כדי לשמור את כרטיס הקשר המלא שלכם לטלפון.",
   "k": "vcard contact qr code generator vcard qr code generator סרקו כדי לשמור את כרטיס הקשר המלא שלכם לטלפון",
@@ -46,7 +46,7 @@
  },
  {
   "n": "מחולל קוד QR של דוא\"ל",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/email-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/email-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "סרקו כדי לפתוח דוא\"ל עם כתובת מראש, מוכן לשליחה.",
   "k": "email qr code generator email qr code generator סרקו כדי לפתוח דוא ל עם כתובת מראש מוכן לשליחה",
@@ -55,7 +55,7 @@
  },
  {
   "n": "מחולל קוד QR ל-SMS",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/sms-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/sms-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "סרקו כדי לפתוח הודעת טקסט כתובה מראש.",
   "k": "sms qr code generator sms qr code generator סרקו כדי לפתוח הודעת טקסט כתובה מראש",
@@ -64,7 +64,7 @@
  },
  {
   "n": "מחולל קוד QR לשיחת טלפון",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/phone-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/phone-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "סרקו כדי לחייג למספר שלכם מיד.",
   "k": "phone call qr code generator phone qr code generator סרקו כדי לחייג למספר שלכם מיד",
@@ -73,7 +73,7 @@
  },
  {
   "n": "מחולל קוד QR של Instagram",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/instagram-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/instagram-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "הגדילו עוקבים עם קוד QR של Instagram לסריקה ומעקב.",
   "k": "instagram qr code generator instagram qr code generator הגדילו עוקבים עם קוד qr של instagram לסריקה ומעקב",
@@ -82,7 +82,7 @@
  },
  {
   "n": "מחולל קוד QR של Facebook",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/facebook-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/facebook-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "שלחו אנשים ישירות לדף ה-Facebook שלכם.",
   "k": "facebook qr code generator facebook qr code generator שלחו אנשים ישירות לדף ה facebook שלכם",
@@ -91,7 +91,7 @@
  },
  {
   "n": "מחולל קוד QR של YouTube",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/youtube-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/youtube-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "סרקו כדי לפתוח סרטון או ערוץ מיד.",
   "k": "youtube qr code generator youtube qr code generator סרקו כדי לפתוח סרטון או ערוץ מיד",
@@ -100,7 +100,7 @@
  },
  {
   "n": "מחולל קוד QR של TikTok",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/tiktok-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/tiktok-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "סרקו כדי לפתוח את פרופיל ה-TikTok שלכם.",
   "k": "tiktok qr code generator tiktok qr code generator סרקו כדי לפתוח את פרופיל ה tiktok שלכם",
@@ -109,7 +109,7 @@
  },
  {
   "n": "מחולל קוד QR של X (Twitter)",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/x-twitter-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/x-twitter-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "סרקו כדי לפתוח את פרופיל ה-X שלכם.",
   "k": "x twitter qr code generator x twitter qr code generator סרקו כדי לפתוח את פרופיל ה x שלכם",
@@ -118,7 +118,7 @@
  },
  {
   "n": "מחולל קוד QR של LinkedIn",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/linkedin-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/linkedin-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "התחברו מקצועית בסריקה אחת.",
   "k": "linkedin qr code generator linkedin qr code generator התחברו מקצועית בסריקה אחת",
@@ -127,7 +127,7 @@
  },
  {
   "n": "מחולל קוד QR של Telegram",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/telegram-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/telegram-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "סרקו כדי להצטרף לפרופיל, לקבוצה או לערוץ ה-Telegram שלכם.",
   "k": "telegram qr code generator telegram qr code generator סרקו כדי להצטרף לפרופיל לקבוצה או לערוץ ה telegram שלכם",
@@ -136,7 +136,7 @@
  },
  {
   "n": "מחולל קוד QR של Snapchat",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/snapchat-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/snapchat-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "סרקו כדי להוסיף אתכם ב-Snapchat.",
   "k": "snapchat qr code generator snapchat qr code generator סרקו כדי להוסיף אתכם ב snapchat",
@@ -145,7 +145,7 @@
  },
  {
   "n": "מחולל קוד QR למיקום ב-Google Maps",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/google-maps-location-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/google-maps-location-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "סרקו כדי לקבל הוראות הגעה למקום שלכם.",
   "k": "google maps location qr code generator google maps location qr code generator סרקו כדי לקבל הוראות הגעה למקום שלכם",
@@ -154,7 +154,7 @@
  },
  {
   "n": "מחולל קוד QR לביקורת Google",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/google-review-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/google-review-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "לקוחות מרוצים משאירים ביקורת Google בתוך שניות.",
   "k": "google review qr code generator google review qr code generator לקוחות מרוצים משאירים ביקורת google בתוך שניות",
@@ -163,7 +163,7 @@
  },
  {
   "n": "מחולל קוד QR לתפריט מסעדה",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/restaurant-menu-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/restaurant-menu-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "תפריט ללא מגע על כל שולחן.",
   "k": "restaurant menu qr code generator restaurant menu qr code generator תפריט ללא מגע על כל שולחן",
@@ -172,7 +172,7 @@
  },
  {
   "n": "מחולל קוד QR ל-PDF",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/pdf-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/pdf-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "סרקו כדי לפתוח או להוריד קובץ PDF.",
   "k": "pdf qr code generator pdf qr code generator סרקו כדי לפתוח או להוריד קובץ pdf",
@@ -181,7 +181,7 @@
  },
  {
   "n": "מחולל קוד QR של App Store / Google Play",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/app-store-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/app-store-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "סרקו כדי להתקין את האפליקציה שלכם.",
   "k": "app store google play qr code generator app store qr code generator סרקו כדי להתקין את האפליקציה שלכם",
@@ -190,7 +190,7 @@
  },
  {
   "n": "מחולל קוד QR של Google Form",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/google-form-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/google-form-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "סרקו כדי לפתוח ולמלא Google Form.",
   "k": "google form qr code generator google form qr code generator סרקו כדי לפתוח ולמלא google form",
@@ -199,7 +199,7 @@
  },
  {
   "n": "מחולל קוד QR של Zoom / פגישה",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/zoom-meeting-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/zoom-meeting-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "סרקו כדי להצטרף לפגישה או לשיעור.",
   "k": "zoom meeting qr code generator zoom meeting qr code generator סרקו כדי להצטרף לפגישה או לשיעור",
@@ -208,7 +208,7 @@
  },
  {
   "n": "מחולל קוד QR של אירוע / יומן",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/event-calendar-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/event-calendar-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "סרקו כדי לשמור אירוע בלוח השנה.",
   "k": "event calendar qr code generator event calendar qr code generator סרקו כדי לשמור אירוע בלוח השנה",
@@ -217,7 +217,7 @@
  },
  {
   "n": "מחולל קוד QR של PayPal",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/paypal-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/paypal-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "קבלו תשלום: סרקו כדי לפתוח את עמוד ה-PayPal.me שלכם.",
   "k": "paypal qr code generator paypal qr code generator קבלו תשלום סרקו כדי לפתוח את עמוד ה paypal me שלכם",
@@ -226,7 +226,7 @@
  },
  {
   "n": "מחולל קוד QR לתשלום UPI",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/upi-payment-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/upi-payment-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "קוד QR לתשלום UPI לחנויות בהודו ובאזורי UPI.",
   "k": "upi payment qr code generator upi payment qr code generator קוד qr לתשלום upi לחנויות בהודו ובאזורי upi",
@@ -235,7 +235,7 @@
  },
  {
   "n": "מחולל קוד QR של JazzCash / EasyPaisa (פקיסטן)",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/jazzcash-easypaisa-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/jazzcash-easypaisa-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "שתפו את פרטי חשבון ה-JazzCash או ה-EasyPaisa שלכם כ-QR.",
   "k": "jazzcash easypaisa qr code pakistan generator jazzcash easypaisa qr code generator שתפו את פרטי חשבון ה jazzcash או ה easypaisa שלכם כ qr",
@@ -244,7 +244,7 @@
  },
  {
   "n": "מחולל קוד QR של Bitcoin / קריפטו",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/bitcoin-crypto-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/bitcoin-crypto-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "שתפו כתובת ארנק Bitcoin כ-QR.",
   "k": "bitcoin crypto qr code generator bitcoin crypto qr code generator שתפו כתובת ארנק bitcoin כ qr",
@@ -253,7 +253,7 @@
  },
  {
   "n": "מחולל קוד QR של Spotify / מוזיקה",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/spotify-music-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/spotify-music-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "סרקו כדי לנגן שיר, רשימת השמעה או פודקאסט.",
   "k": "spotify music qr code generator spotify music qr code generator סרקו כדי לנגן שיר רשימת השמעה או פודקאסט",
@@ -262,7 +262,7 @@
  },
  {
   "n": "מחולל קוד QR לקורות חיים / תיק עבודות",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/resume-portfolio-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/resume-portfolio-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "שימו את קורות החיים או תיק העבודות שלכם במרחק סריקה אחת.",
   "k": "resume portfolio qr code generator resume portfolio qr code generator שימו את קורות החיים או תיק העבודות שלכם במרחק סריקה אחת",
@@ -271,7 +271,7 @@
  },
  {
   "n": "מחולל קוד QR לתמונה",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/image-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/image-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "סרקו כדי לפתוח או לשתף קישור לתמונה.",
   "k": "image qr code generator image qr code generator סרקו כדי לפתוח או לשתף קישור לתמונה",
@@ -280,7 +280,7 @@
  },
  {
   "n": "מחולל קוד QR של שמע",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/audio-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/audio-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "סרקו כדי לנגן שיר, הודעה קולית או קובץ שמע.",
   "k": "audio qr code generator audio qr code generator סרקו כדי לנגן שיר הודעה קולית או קובץ שמע",
@@ -289,7 +289,7 @@
  },
  {
   "n": "מחולל קוד QR לרשתות חברתיות",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/social-media-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/social-media-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "קוד QR אחד לקישורי הפרופיל שלכם ברשתות החברתיות.",
   "k": "social media qr code generator social media qr code generator קוד qr אחד לקישורי הפרופיל שלכם ברשתות החברתיות",
@@ -298,7 +298,7 @@
  },
  {
   "n": "מחולל קוד QR של Pinterest",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/pinterest-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/pinterest-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "סרקו כדי לפתוח את פרופיל או לוח ה-Pinterest שלכם.",
   "k": "pinterest qr code generator pinterest qr code generator סרקו כדי לפתוח את פרופיל או לוח ה pinterest שלכם",
@@ -307,7 +307,7 @@
  },
  {
   "n": "מחולל קוד QR של Discord",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/discord-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/discord-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "סרקו כדי להצטרף לשרת או לפרופיל ה-Discord שלכם.",
   "k": "discord qr code generator discord qr code generator סרקו כדי להצטרף לשרת או לפרופיל ה discord שלכם",
@@ -316,7 +316,7 @@
  },
  {
   "n": "מחולל קוד QR של GitHub",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/github-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/github-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "סרקו כדי לפתוח את פרופיל או מאגר ה-GitHub שלכם.",
   "k": "github qr code generator github qr code generator סרקו כדי לפתוח את פרופיל או מאגר ה github שלכם",
@@ -325,7 +325,7 @@
  },
  {
   "n": "סורק קודי QR וברקוד",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/qr-code-scanner/",
+  "u": "https://qr.loonaautomation.com/he/qr-code-scanner/",
   "s": "Loona QR Codes",
   "d": "סרקו קודים במצלמה שלכם, או פענחו קודי QR וברקודים מתמונה או מצילום מסך.",
   "k": "qr code barcode scanner qr code scanner סרקו קודים במצלמה שלכם או פענחו קודי qr וברקודים מתמונה או מצילום מסך",
@@ -334,7 +334,7 @@
  },
  {
   "n": "מחולל קוד QR קבוצתי",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/bulk-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/he/bulk-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "צרו עד 100 קודי QR מתויגים בבת אחת בגיליון ניתן להדפסה.",
   "k": "bulk qr code generator bulk qr code generator צרו עד 100 קודי qr מתויגים בבת אחת בגיליון ניתן להדפסה",
@@ -343,7 +343,7 @@
  },
  {
   "n": "מחולל ברקוד",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/barcode-generator/",
+  "u": "https://qr.loonaautomation.com/he/barcode-generator/",
   "s": "Loona QR Codes",
   "d": "צרו ברקודי מוצרים — Code 128, EAN-13, UPC ועוד.",
   "k": "barcode generator barcode generator צרו ברקודי מוצרים code 128 ean 13 upc ועוד",
@@ -352,7 +352,7 @@
  },
  {
   "n": "כל כלי Loona — קודי QR",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/he/tool-qr-codes/",
+  "u": "https://qr.loonaautomation.com/he/tool-qr-codes/",
   "s": "Loona QR Codes",
   "d": "קבלו קוד QR מוכן לכל כלי של Loona — מחשבונים, כלי PDF, כלי תמונה ועוד. חפשו בכל 872 הכלים והאפליקציות של Loona, הורידו את קוד ה-QR והדפיסו.",
   "k": "qr codes for all loona tools tool qr codes קבלו קוד qr מוכן לכל כלי של loona מחשבונים כלי pdf כלי תמונה ועוד חפשו בכל 872 הכלים והאפליקציות של loona הורידו את קוד ה qr והדפיסו",

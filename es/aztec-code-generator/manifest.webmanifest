@@ -2,7 +2,7 @@
   "name": "Loona Generador de códigos de barras Aztec Code",
   "short_name": "Generador de códigos de barras Aztec Code",
   "description": "Generador de códigos de barras Aztec Code gratuito. Dígitos de control correctos donde el estándar los tiene, descarga en PNG y SVG, sin registro, sin marca de agua.",
-  "id": "/loona-qr-codes/es/aztec-code-generator/",
+  "id": "/es/aztec-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

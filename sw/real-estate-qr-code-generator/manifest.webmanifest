@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Mali Isiyohamishika cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wa Mali Isiyohamishika",
   "description": "Tengeneza msimbo wa QR wa Mali Isiyohamishika wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/real-estate-qr-code-generator/",
+  "id": "/sw/real-estate-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

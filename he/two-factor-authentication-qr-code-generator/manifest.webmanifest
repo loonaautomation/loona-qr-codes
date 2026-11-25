@@ -2,7 +2,7 @@
   "name": "קוד QR של Loona לאימות דו-שלבי (TOTP)",
   "short_name": "אימות דו-שלבי",
   "description": "צרו קוד QR חינמי של אימות דו-שלבי (TOTP) מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/two-factor-authentication-qr-code-generator/",
+  "id": "/he/two-factor-authentication-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

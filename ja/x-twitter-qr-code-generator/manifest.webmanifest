@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) QRコード生成ツール",
   "short_name": "X (Twitter) QRコード生成ツール",
   "description": "Loona で無料の X (Twitter) QRコードを即座に作成。登録不要、透かしなし、無期限。スキャンして X プロフィールを開きます。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/x-twitter-qr-code-generator/",
+  "id": "/ja/x-twitter-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

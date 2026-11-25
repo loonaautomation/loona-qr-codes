@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Văn bản Thuần Loona",
   "short_name": "Trình tạo mã QR Văn bản Thuần",
   "description": "Tạo mã QR Văn bản Thuần miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Đặt bất kỳ văn bản, mã hoặc tin nhắn nào vào trong một mã QR. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/text-qr-code-generator/",
+  "id": "/vi/text-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

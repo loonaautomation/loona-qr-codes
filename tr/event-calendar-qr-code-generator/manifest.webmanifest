@@ -2,7 +2,7 @@
   "name": "Loona Etkinlik / Takvim QR Kod Oluşturucu",
   "short_name": "Etkinlik / Takvim QR Kodu",
   "description": "Loona ile anında ücretsiz bir Event / Calendar QR Kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Bir etkinliği takvime kaydetmek için tarayın. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/event-calendar-qr-code-generator/",
+  "id": "/tr/event-calendar-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

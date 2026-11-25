@@ -2,7 +2,7 @@
   "name": "Loona Código QR para manuales e instrucciones de productos",
   "short_name": "Manual e instrucciones del producto",
   "description": "Crea un código QR para manuales e instrucciones de productos gratuito al instante con Loona. Sin registro, sin marca de agua, nunca caduca. Colores personalizados, descarga de PNG en alta resolución.",
-  "id": "/loona-qr-codes/es/product-manual-qr-code-generator/",
+  "id": "/es/product-manual-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

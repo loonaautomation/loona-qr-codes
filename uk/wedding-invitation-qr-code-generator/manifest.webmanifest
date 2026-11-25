@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодів весільних запрошень",
   "short_name": "QR-код весільного запрошення",
   "description": "Створіть безкоштовний QR-код весільного запрошення миттєво з Loona. Без реєстрації, без водяного знака, строк дії ніколи не закінчується. Користувацькі кольори, завантаження PNG у високій роздільній здатності.",
-  "id": "/loona-qr-codes/uk/wedding-invitation-qr-code-generator/",
+  "id": "/uk/wedding-invitation-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

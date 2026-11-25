@@ -2,7 +2,7 @@
   "name": "Loona Генератор штрихкодов UPC-A",
   "short_name": "Генератор штрихкодов UPC-A",
   "description": "Бесплатный генератор штрихкодов UPC-A. Корректные контрольные цифры там, где они предусмотрены стандартом, скачивание в PNG и SVG, без регистрации, без водяных знаков.",
-  "id": "/loona-qr-codes/ru/upc-a-barcode-generator/",
+  "id": "/ru/upc-a-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

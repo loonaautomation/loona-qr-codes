@@ -2,7 +2,7 @@
   "name": "Loona 學校考勤與表單二維碼",
   "short_name": "學校考勤與表單 QR",
   "description": "用 Loona 立即建立一個免費的學校考勤與表單二維碼。無需註冊，無水印，永不過期。自定義顏色，高解析度 PNG 下載。",
-  "id": "/loona-qr-codes/zh-hant/school-attendance-qr-code-generator/",
+  "id": "/zh-hant/school-attendance-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

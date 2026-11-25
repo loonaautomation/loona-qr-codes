@@ -2,7 +2,7 @@
   "name": "Loona Generador de códigos QR para salones de belleza",
   "short_name": "Generador de códigos QR para salones de belleza",
   "description": "Crea un código QR para salones de belleza gratuito al instante con Loona. Sin registro, sin marca de agua, nunca caduca. Colores personalizados, descarga de PNG en alta resolución.",
-  "id": "/loona-qr-codes/es/beauty-salon-qr-code-generator/",
+  "id": "/es/beauty-salon-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

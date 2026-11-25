@@ -2,7 +2,7 @@
   "name": "Loona Otel ve Misafir Otel ve Misafir WiFi QR Kodu",
   "short_name": "Otel ve Misafir Otel ve Misafir",
   "description": "Loona ile anında ücretsiz bir Otel ve Misafir WiFi QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/hotel-wifi-qr-code-generator/",
+  "id": "/tr/hotel-wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

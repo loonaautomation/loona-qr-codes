@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Códigos QR de Cartão de Visita",
   "short_name": "Código QR de Cartão de Visita",
   "description": "Crie um código QR de Cartão de Visita grátis instantaneamente com a Loona. Sem registo, sem marca de água, nunca expira. Cores personalizadas, transferência PNG em alta resolução.",
-  "id": "/loona-qr-codes/pt-pt/business-card-qr-code-generator/",
+  "id": "/pt-pt/business-card-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

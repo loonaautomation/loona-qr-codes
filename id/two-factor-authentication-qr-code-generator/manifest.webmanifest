@@ -2,7 +2,7 @@
   "name": "Kode QR Autentikasi Dua Faktor (TOTP) Loona",
   "short_name": "Autentikasi Dua Faktor",
   "description": "Buat kode QR Autentikasi Dua Faktor (TOTP) gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/two-factor-authentication-qr-code-generator/",
+  "id": "/id/two-factor-authentication-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona generator crtičnih kodova MSI Plessey",
   "short_name": "Generator crtičnih kodova MSI Plessey",
   "description": "Besplatni generator crtičnih kodova MSI Plessey. Ispravne kontrolne znamenke gdje ih standard ima, preuzimanje PNG-a i SVG-a, bez registracije, bez vodenog žiga.",
-  "id": "/loona-qr-codes/hr/msi-barcode-generator/",
+  "id": "/hr/msi-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

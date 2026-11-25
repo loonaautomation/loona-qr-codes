@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til fitnesscenter og fitness",
   "short_name": "QR-kode til fitnesscenter",
   "description": "Opret en gratis QR-kode til fitnesscenter øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/gym-fitness-qr-code-generator/",
+  "id": "/da/gym-fitness-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

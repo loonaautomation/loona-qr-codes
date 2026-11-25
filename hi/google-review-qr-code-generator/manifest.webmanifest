@@ -2,7 +2,7 @@
   "name": "Loona Google Review QR कोड जनरेटर",
   "short_name": "Google Review QR कोड",
   "description": "Loona के साथ तुरंत एक मुफ़्त Google Review QR कोड बनाएँ। कोई साइन-अप नहीं, कोई वॉटरमार्क नहीं, कभी समाप्त नहीं होता। खुश ग्राहक सेकंडों में एक Google समीक्षा छोड़ते हैं। कस्टम रंग, उच्च-रिज़ॉल्यूशन PNG डाउनलोड।",
-  "id": "/loona-qr-codes/hi/google-review-qr-code-generator/",
+  "id": "/hi/google-review-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

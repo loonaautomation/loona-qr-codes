@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til Litecoin-betaling",
   "short_name": "QR-kode til Litecoin-betaling",
   "description": "Opret en gratis Litecoin-betalings-QR-kode øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/litecoin-payment-qr-code-generator/",
+  "id": "/da/litecoin-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

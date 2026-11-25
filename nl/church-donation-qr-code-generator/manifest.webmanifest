@@ -2,7 +2,7 @@
   "name": "Loona kerk- en goede-doelen-geef-QR-codegenerator",
   "short_name": "Kerk- en goede-doelen-geef-QR",
   "description": "Maak direct een gratis kerk- en goede-doelen-geef-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/church-donation-qr-code-generator/",
+  "id": "/nl/church-donation-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

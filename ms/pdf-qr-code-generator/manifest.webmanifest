@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR PDF Loona",
   "short_name": "Penjana Kod QR PDF",
   "description": "Cipta kod QR PDF percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Imbas untuk membuka atau memuat turun fail PDF. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/pdf-qr-code-generator/",
+  "id": "/ms/pdf-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

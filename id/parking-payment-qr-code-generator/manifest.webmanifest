@@ -2,7 +2,7 @@
   "name": "Generator Kode QR Pembayaran Parkir Loona",
   "short_name": "Kode QR Pembayaran Parkir",
   "description": "Buat kode QR Pembayaran Parkir gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/parking-payment-qr-code-generator/",
+  "id": "/id/parking-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

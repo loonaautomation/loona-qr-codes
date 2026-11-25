@@ -2,7 +2,7 @@
   "name": "Loona QR Codes untuk Semua Alat Loona",
   "short_name": "Kode QR untuk Semua Alat Loona",
   "description": "Dapatkan kode QR siap pakai gratis untuk alat Loona mana pun — 872 kalkulator, alat PDF, alat gambar, alat belajar, dan aplikasi. Pilih alat, unduh kode QR-nya sebagai PNG resolusi tinggi dan cetak. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa.",
-  "id": "/loona-qr-codes/id/tool-qr-codes/",
+  "id": "/id/tool-qr-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

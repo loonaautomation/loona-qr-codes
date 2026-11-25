@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодов Zelle",
   "short_name": "Генератор QR-кодов Zelle",
   "description": "Создайте бесплатный QR-код Zelle мгновенно с Loona. Без регистрации, без водяного знака, никогда не истекает. Настраиваемые цвета, скачивание PNG в высоком разрешении.",
-  "id": "/loona-qr-codes/ru/zelle-qr-code-generator/",
+  "id": "/ru/zelle-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

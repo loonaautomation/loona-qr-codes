@@ -2,7 +2,7 @@
   "name": "Loona Générateur de code QR Paiement SEPA (EPC)",
   "short_name": "Code QR Paiement SEPA (EPC)",
   "description": "Créez un code QR Paiement SEPA (EPC) gratuit instantanément avec Loona. Aucune inscription, aucun filigrane, n’expire jamais. Couleurs personnalisées, téléchargement PNG haute résolution.",
-  "id": "/loona-qr-codes/fr/sepa-payment-qr-code-generator/",
+  "id": "/fr/sepa-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona SEPA (EPC) Fizetés QR-kód generátor",
   "short_name": "SEPA (EPC) Fizetés QR-kód",
   "description": "Hozzon létre ingyenes SEPA (EPC) fizetési QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/sepa-payment-qr-code-generator/",
+  "id": "/hu/sepa-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator for klar for utskrift",
   "short_name": "QR-kodegenerator klar for utskrift",
   "description": "Lag en gratis trykkeklar QR-kode med en gang med Loona. Ingen registrering, ingen vannmerke, utløper aldri. Tilpassede farger, nedlasting av PNG i høy oppløsning.",
-  "id": "/loona-qr-codes/nb/qr-code-for-print-generator/",
+  "id": "/nb/qr-code-for-print-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

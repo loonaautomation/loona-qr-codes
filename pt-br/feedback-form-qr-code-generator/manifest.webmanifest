@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Códigos QR de Formulário de Comentários",
   "short_name": "Código QR de Formulário de Comentários",
   "description": "Crie um código QR de Formulário de Comentários grátis instantaneamente com a Loona. Sem registro, sem marca de água, nunca expira. Cores personalizadas, transferência PNG em alta resolução.",
-  "id": "/loona-qr-codes/pt-br/feedback-form-qr-code-generator/",
+  "id": "/pt-br/feedback-form-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

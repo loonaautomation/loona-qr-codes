@@ -2,7 +2,7 @@
   "name": "Loona EAN-13 Barcode Generator",
   "short_name": "EAN-13 Barcode Generator",
   "description": "Free EAN-13 barcode generator. Correct check digits where the standard has them, PNG and SVG download, no signup, no watermark.",
-  "id": "/loona-qr-codes/en-gb/ean-13-barcode-generator/",
+  "id": "/en-gb/ean-13-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

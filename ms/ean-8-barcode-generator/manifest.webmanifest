@@ -2,7 +2,7 @@
   "name": "Penjana Kod Bar EAN-8 Loona",
   "short_name": "Penjana Kod Bar EAN-8",
   "description": "Penjana kod bar EAN-8 percuma. Digit semak betul di mana standard mempunyainya, muat turun PNG dan SVG, tiada pendaftaran, tiada tera air.",
-  "id": "/loona-qr-codes/ms/ean-8-barcode-generator/",
+  "id": "/ms/ean-8-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

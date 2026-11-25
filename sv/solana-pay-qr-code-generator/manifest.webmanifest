@@ -2,7 +2,7 @@
   "name": "Loona Solana Pay-QR-kodgenerator",
   "short_name": "Solana Pay QR-kodgenerator",
   "description": "Skapa direkt en gratis Solana Pay-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/solana-pay-qr-code-generator/",
+  "id": "/sv/solana-pay-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator for stor skrift",
   "short_name": "QR-kodegenerator for stor skrift",
   "description": "Lag en gratis QR-kode for stor skrift med en gang med Loona. Ingen registrering, ingen vannmerke, utløper aldri. Tilpassede farger, nedlasting av PNG i høy oppløsning.",
-  "id": "/loona-qr-codes/nb/large-print-qr-code-generator/",
+  "id": "/nb/large-print-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

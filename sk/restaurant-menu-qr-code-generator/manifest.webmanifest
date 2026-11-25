@@ -2,7 +2,7 @@
   "name": "Loona Generátor QR kódov pre jedálny lístok reštaurácie",
   "short_name": "QR kód pre jedálny lístok reštaurácie",
   "description": "Vytvorte si zadarmo QR kód pre jedálny lístok reštaurácie okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Bezkontaktný jedálny lístok na každom stole. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
-  "id": "/loona-qr-codes/sk/restaurant-menu-qr-code-generator/",
+  "id": "/sk/restaurant-menu-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Εκδήλωσης / Ημερολογίου",
   "short_name": "Κωδικός QR Εκδήλωσης / Ημερολογίου",
   "description": "Δημιουργήστε έναν δωρεάν Κωδικό QR Εκδήλωσης / Ημερολογίου αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Σαρώστε για να αποθηκεύσετε μια εκδήλωση στο ημερολόγιο. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/event-calendar-qr-code-generator/",
+  "id": "/el/event-calendar-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Könyvtár QR-kód generátor",
   "short_name": "Könyvtár QR-kód generátor",
   "description": "Hozzon létre ingyenes könyvtár QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/library-qr-code-generator/",
+  "id": "/hu/library-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

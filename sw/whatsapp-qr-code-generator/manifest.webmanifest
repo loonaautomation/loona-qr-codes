@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa WhatsApp cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wa WhatsApp",
   "description": "Tengeneza Msimbo wa QR wa WhatsApp wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Anzisha mazungumzo ya WhatsApp kwa kuchanganua mara moja, bila kuhifadhi namba. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/whatsapp-qr-code-generator/",
+  "id": "/sw/whatsapp-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR App Store / Google Play Loona",
   "short_name": "QR App Store / Google Play",
   "description": "Tạo mã QR App Store / Google Play miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Quét để cài đặt ứng dụng của bạn. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/app-store-qr-code-generator/",
+  "id": "/vi/app-store-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "เครื่องสร้างคิวอาร์โค้ดผู้ติดต่อ MeCard ของ Loona",
   "short_name": "คิวอาร์โค้ดผู้ติดต่อ MeCard",
   "description": "สร้างคิวอาร์โค้ดผู้ติดต่อ MeCard ฟรีได้ทันทีด้วย Loona ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ สีที่กำหนดเอง ดาวน์โหลด PNG ความละเอียดสูง",
-  "id": "/loona-qr-codes/th/mecard-qr-code-generator/",
+  "id": "/th/mecard-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

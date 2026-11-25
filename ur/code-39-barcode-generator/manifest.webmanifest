@@ -2,7 +2,7 @@
   "name": "Loona Code 39 Barcode Generator",
   "short_name": "Code 39 Barcode Generator",
   "description": "مفت Code 39 بارکوڈ جنریٹر۔ جہاں معیار میں ہوں وہاں درست چیک ہندسے، PNG اور SVG ڈاؤن لوڈ، کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں۔",
-  "id": "/loona-qr-codes/ur/code-39-barcode-generator/",
+  "id": "/ur/code-39-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодов контактов vCard",
   "short_name": "QR-код контакта vCard",
   "description": "Создайте бесплатный QR-код контакта vCard мгновенно с Loona. Без регистрации, без водяного знака, никогда не истекает. Сканируйте, чтобы сохранить вашу полную визитную карточку в телефон. Настраиваемые цвета, скачивание PNG в высоком разрешении.",
-  "id": "/loona-qr-codes/ru/vcard-qr-code-generator/",
+  "id": "/ru/vcard-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

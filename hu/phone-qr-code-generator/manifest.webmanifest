@@ -2,7 +2,7 @@
   "name": "Loona Telefonhívás QR-kód generátor",
   "short_name": "Telefonhívás QR-kód generátor",
   "description": "Hozzon létre ingyenes telefonhívás QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Olvassa be száma azonnali tárcsázásához. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/phone-qr-code-generator/",
+  "id": "/hu/phone-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

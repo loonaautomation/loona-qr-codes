@@ -2,7 +2,7 @@
   "name": "Loona Aztec Code-barcodegenerator",
   "short_name": "Aztec Code-barcodegenerator",
   "description": "Gratis Aztec Code-barcodegenerator. Juiste controlecijfers waar de standaard ze heeft, PNG- en SVG-download, geen registratie, geen watermerk.",
-  "id": "/loona-qr-codes/nl/aztec-code-generator/",
+  "id": "/nl/aztec-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

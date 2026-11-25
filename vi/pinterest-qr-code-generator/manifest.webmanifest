@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Pinterest Loona",
   "short_name": "Trình tạo mã QR Pinterest",
   "description": "Tạo mã QR Pinterest miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Quét để mở hồ sơ hoặc bảng Pinterest. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/pinterest-qr-code-generator/",
+  "id": "/vi/pinterest-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

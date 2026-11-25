@@ -2,7 +2,7 @@
   "name": "Loona QR-kodgenerator för sociala medier",
   "short_name": "QR-kodgenerator för sociala medier",
   "description": "Skapa direkt en gratis QR-kod för sociala medier med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Välj en plattform, lägg till ditt användarnamn, och en skanning öppnar din profil. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/social-media-qr-code-generator/",
+  "id": "/sv/social-media-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

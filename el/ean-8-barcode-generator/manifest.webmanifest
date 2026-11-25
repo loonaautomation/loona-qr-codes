@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Barcode EAN-8",
   "short_name": "Γεννήτρια Γραμμωτού Κωδικού EAN-8",
   "description": "Δωρεάν γεννήτρια γραμμωτού κωδικού EAN-8. Σωστά ψηφία ελέγχου όπου το πρότυπο τα έχει, λήψη PNG και SVG, χωρίς εγγραφή, χωρίς υδατογράφημα.",
-  "id": "/loona-qr-codes/el/ean-8-barcode-generator/",
+  "id": "/el/ean-8-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

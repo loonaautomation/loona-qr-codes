@@ -2,7 +2,7 @@
   "name": "Generator Kode QR X (Twitter) Loona",
   "short_name": "Generator Kode QR X (Twitter)",
   "description": "Buat Kode QR X (Twitter) gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Pindai untuk membuka profil X Anda. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/x-twitter-qr-code-generator/",
+  "id": "/id/x-twitter-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

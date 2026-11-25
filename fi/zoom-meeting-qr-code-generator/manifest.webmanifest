@@ -2,7 +2,7 @@
   "name": "Loona Zoom- / kokous-QR-koodigeneraattori",
   "short_name": "Zoom- / kokous-QR-koodi",
   "description": "Luo ilmainen Zoom- / kokous-QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Skannaa liittyäksesi kokoukseen tai tunnille. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/zoom-meeting-qr-code-generator/",
+  "id": "/fi/zoom-meeting-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

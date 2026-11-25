@@ -2,7 +2,7 @@
   "name": "Loona museum- en gids-QR-codegenerator",
   "short_name": "Museum- en gids-QR-code",
   "description": "Maak direct een gratis museum- en gids-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/museum-tour-qr-code-generator/",
+  "id": "/nl/museum-tour-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

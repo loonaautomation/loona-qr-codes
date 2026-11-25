@@ -2,7 +2,7 @@
   "name": "Generátor QR kódů pro stánky na farmářských trzích Loona",
   "short_name": "QR kód pro stánky na farmářských trzích",
   "description": "Vytvořte si zdarma QR kód pro stánky na farmářských trzích okamžitě s Loonou. Bez registrace, bez vodoznaku, nikdy nevyprší. Vlastní barvy, stažení PNG ve vysokém rozlišení.",
-  "id": "/loona-qr-codes/cs/farmers-market-qr-code-generator/",
+  "id": "/cs/farmers-market-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

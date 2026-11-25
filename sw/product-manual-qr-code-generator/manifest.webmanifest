@@ -2,7 +2,7 @@
   "name": "Msimbo wa QR wa Mwongozo wa Bidhaa na Maelekezo wa Loona",
   "short_name": "Mwongozo wa Bidhaa na Maelekezo",
   "description": "Tengeneza msimbo wa QR wa Mwongozo wa Bidhaa na Maelekezo wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/product-manual-qr-code-generator/",
+  "id": "/sw/product-manual-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

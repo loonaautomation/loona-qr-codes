@@ -2,7 +2,7 @@
   "name": "Generátor QR kódů pro Pinterest Loona",
   "short_name": "Generátor QR kódů pro Pinterest",
   "description": "Vytvořte si zdarma QR kód pro Pinterest okamžitě s Loonou. Bez registrace, bez vodoznaku, nikdy nevyprší. Naskenujte a otevřete profil nebo nástěnku na Pinterestu. Vlastní barvy, stažení PNG ve vysokém rozlišení.",
-  "id": "/loona-qr-codes/cs/pinterest-qr-code-generator/",
+  "id": "/cs/pinterest-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ürün Ambalajı QR Kod Oluşturucu",
   "short_name": "Ürün Ambalajı QR Kodu",
   "description": "Loona ile anında ücretsiz bir Ürün Ambalajı QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/product-packaging-qr-code-generator/",
+  "id": "/tr/product-packaging-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

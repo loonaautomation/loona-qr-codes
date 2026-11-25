@@ -2,7 +2,7 @@
   "name": "Loona UPC-A streckkodgenerator",
   "short_name": "UPC-A streckkodsgenerator",
   "description": "Gratis UPC-A streckkodgenerator. Korrekta kontrollsiffror där standarden har dem, PNG- och SVG-nedladdning, ingen registrering, ingen vattenstämpel.",
-  "id": "/loona-qr-codes/sv/upc-a-barcode-generator/",
+  "id": "/sv/upc-a-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

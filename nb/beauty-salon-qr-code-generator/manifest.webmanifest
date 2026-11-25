@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator for skjønnhetssalong",
   "short_name": "QR-kodegenerator for skjønnhetssalong",
   "description": "Lag en gratis QR-kode for skjønnhetssalong med en gang med Loona. Ingen registrering, ingen vannmerke, utløper aldri. Tilpassede farger, nedlasting av PNG i høy oppløsning.",
-  "id": "/loona-qr-codes/nb/beauty-salon-qr-code-generator/",
+  "id": "/nb/beauty-salon-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

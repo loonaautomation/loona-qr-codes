@@ -2,7 +2,7 @@
   "name": "Loona cv-/portfolio-QR-codegenerator",
   "short_name": "Cv- / portfolio-QR-code",
   "description": "Maak direct een gratis cv-/portfolio-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Zet je cv of portfolio één scan verwijderd. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/resume-portfolio-qr-code-generator/",
+  "id": "/nl/resume-portfolio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

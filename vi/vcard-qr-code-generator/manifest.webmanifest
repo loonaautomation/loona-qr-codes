@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Danh bạ vCard Loona",
   "short_name": "Mã QR Danh bạ vCard",
   "description": "Tạo mã QR Danh bạ vCard miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Quét để lưu thẻ liên hệ đầy đủ của bạn vào điện thoại. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/vcard-qr-code-generator/",
+  "id": "/vi/vcard-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR X (Twitter) Loona",
   "short_name": "Penjana Kod QR X (Twitter)",
   "description": "Cipta kod QR X (Twitter) percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Imbas untuk membuka profil X anda. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/x-twitter-qr-code-generator/",
+  "id": "/ms/x-twitter-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Generator de coduri QR pentru donații către biserici și organizații caritabile",
   "short_name": "Cod QR pentru donații către biserici și organizații caritabile",
   "description": "Creează gratuit un cod QR pentru donații către biserici și organizații caritabile instantaneu cu Loona. Fără înregistrare, fără filigran, nu expiră niciodată. Culori personalizate, descărcare PNG la rezoluție înaltă.",
-  "id": "/loona-qr-codes/ro/church-donation-qr-code-generator/",
+  "id": "/ro/church-donation-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

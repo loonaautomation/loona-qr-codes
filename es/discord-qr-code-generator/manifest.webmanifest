@@ -2,7 +2,7 @@
   "name": "Loona Generador de códigos QR de Discord",
   "short_name": "Generador de códigos QR de Discord",
   "description": "Crea un código QR de Discord gratuito al instante con Loona. Sin registro, sin marca de agua, nunca caduca. Escanea para unirte a un servidor de Discord con un enlace de invitación. Colores personalizados, descarga de PNG en alta resolución.",
-  "id": "/loona-qr-codes/es/discord-qr-code-generator/",
+  "id": "/es/discord-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Beauty Salon QR Code Generator",
   "short_name": "Beauty Salon QR Code Generator",
   "description": "Create a free Beauty Salon QR code instantly with Loona. No signup, no watermark, never expires. Custom colours, high-resolution PNG download.",
-  "id": "/loona-qr-codes/beauty-salon-qr-code-generator/",
+  "id": "/beauty-salon-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

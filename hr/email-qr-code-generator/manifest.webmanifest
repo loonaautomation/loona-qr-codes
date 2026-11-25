@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za e-poštu",
   "short_name": "Generator QR kodova za e-poštu",
   "description": "Stvorite besplatni QR kod za e-poštu trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Skenirajte za otvaranje unaprijed adresirane e-pošte, spremne za slanje. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/email-qr-code-generator/",
+  "id": "/hr/email-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

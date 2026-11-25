@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til URL / website",
   "short_name": "URL-/website-QR-kode",
   "description": "Opret en gratis URL-/website-QR-kode øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Forvandl ethvert websitelink til en QR-kode. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/url-qr-code-generator/",
+  "id": "/da/url-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

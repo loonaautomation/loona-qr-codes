@@ -2,7 +2,7 @@
   "name": "Loona Générateur de code QR X (Twitter)",
   "short_name": "Générateur de code QR X (Twitter)",
   "description": "Créez un code QR X (Twitter) gratuit instantanément avec Loona. Aucune inscription, aucun filigrane, n’expire jamais. Scannez pour ouvrir votre profil X. Couleurs personnalisées, téléchargement PNG haute résolution.",
-  "id": "/loona-qr-codes/fr/x-twitter-qr-code-generator/",
+  "id": "/fr/x-twitter-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

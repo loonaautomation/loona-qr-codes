@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za teretanu i fitness",
   "short_name": "QR kod za teretanu i fitness",
   "description": "Stvorite besplatni QR kod za teretane i fitness trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/gym-fitness-qr-code-generator/",
+  "id": "/hr/gym-fitness-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

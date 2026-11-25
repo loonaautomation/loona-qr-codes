@@ -2,7 +2,7 @@
   "name": "Loona Bitcoin / 암호화폐 QR 코드 생성기",
   "short_name": "Bitcoin / 암호화폐 QR 코드",
   "description": "Loona로 무료 Bitcoin / 암호화폐 QR 코드를 즉시 만드세요. 가입 없음, 워터마크 없음, 절대 만료되지 않아요. Bitcoin 지갑 주소를 QR로 공유하세요. 맞춤 색상, 고해상도 PNG 다운로드예요.",
-  "id": "/loona-qr-codes/ko/bitcoin-crypto-qr-code-generator/",
+  "id": "/ko/bitcoin-crypto-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

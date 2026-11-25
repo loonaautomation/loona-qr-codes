@@ -2,7 +2,7 @@
   "name": "Loona Generator de coduri QR TikTok",
   "short_name": "Generator de coduri QR TikTok",
   "description": "Creează gratuit un cod QR TikTok instantaneu cu Loona. Fără înregistrare, fără filigran, nu expiră niciodată. Scanează pentru a deschide profilul tău TikTok. Culori personalizate, descărcare PNG la rezoluție înaltă.",
-  "id": "/loona-qr-codes/ro/tiktok-qr-code-generator/",
+  "id": "/ro/tiktok-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

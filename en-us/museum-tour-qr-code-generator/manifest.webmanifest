@@ -2,7 +2,7 @@
   "name": "Loona Free Museum & Tour Guide QR Code Generator",
   "short_name": "Free Museum & Tour Guide QR Code Generator",
   "description": "Create a free Museum & Tour Guide QR code instantly with Loona. No signup, no watermark, never expires. Custom colors, high-resolution PNG download.",
-  "id": "/loona-qr-codes/en-us/museum-tour-qr-code-generator/",
+  "id": "/en-us/museum-tour-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

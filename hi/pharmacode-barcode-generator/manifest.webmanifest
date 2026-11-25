@@ -2,7 +2,7 @@
   "name": "Loona Pharmacode बारकोड जनरेटर",
   "short_name": "Pharmacode बारकोड जनरेटर",
   "description": "मुफ़्त Pharmacode बारकोड जनरेटर। जहाँ मानक में जाँच अंक होते हैं वहाँ सही जाँच अंक, PNG और SVG डाउनलोड, कोई साइन-अप नहीं, कोई वॉटरमार्क नहीं।",
-  "id": "/loona-qr-codes/hi/pharmacode-barcode-generator/",
+  "id": "/hi/pharmacode-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

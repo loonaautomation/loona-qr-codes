@@ -2,7 +2,7 @@
   "name": "Loona QR Codes für alle Loona Tools",
   "short_name": "QR-Codes für alle Loona Tools",
   "description": "Holen Sie sich einen kostenlosen fertigen QR-Code für jedes Loona-Tool — 872 Rechner, PDF-Tools, Bild-Tools, Lern-Tools und Apps. Wählen Sie ein Tool, laden Sie seinen QR-Code als hochauflösende PNG-Datei herunter und drucken Sie ihn. Keine Anmeldung, kein Wasserzeichen, läuft niemals ab.",
-  "id": "/loona-qr-codes/de/tool-qr-codes/",
+  "id": "/de/tool-qr-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Códigos de Barras EAN-13",
   "short_name": "Gerador de Códigos de Barras EAN-13",
   "description": "Gerador de códigos de barras EAN-13 gratuito. Dígitos de controlo corretos onde a norma os tem, transferência PNG e SVG, sem registo, sem marca de água.",
-  "id": "/loona-qr-codes/pt-pt/ean-13-barcode-generator/",
+  "id": "/pt-pt/ean-13-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

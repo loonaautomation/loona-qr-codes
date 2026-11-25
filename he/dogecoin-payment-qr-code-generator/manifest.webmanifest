@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona לתשלום Dogecoin",
   "short_name": "קוד QR של תשלום Dogecoin",
   "description": "צרו קוד QR חינמי של תשלום Dogecoin מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/dogecoin-payment-qr-code-generator/",
+  "id": "/he/dogecoin-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 二維碼尺寸計算器",
   "short_name": "二維碼尺寸計算器",
   "description": "免費二維碼尺寸計算器：輸入掃描距離和內容型別，獲得以 cm 為單位的最小列印尺寸、推薦的 PNG 解析度和靜區寬度。",
-  "id": "/loona-qr-codes/zh-hant/qr-code-size-calculator/",
+  "id": "/zh-hant/qr-code-size-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

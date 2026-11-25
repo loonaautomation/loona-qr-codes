@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za WiFi",
   "short_name": "Generator WiFi QR kodova",
   "description": "Stvorite besplatni QR kod za WiFi trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Gosti se povezuju na WiFi jednim skeniranjem, bez upisivanja lozinke. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/wifi-qr-code-generator/",
+  "id": "/hr/wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

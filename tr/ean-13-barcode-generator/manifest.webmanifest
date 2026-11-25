@@ -2,7 +2,7 @@
   "name": "Loona EAN-13 Barkod Oluşturucu",
   "short_name": "EAN-13 Barkod Oluşturucu",
   "description": "Ücretsiz EAN-13 barkod oluşturucu. Standartta olduğu yerde doğru kontrol basamakları, PNG ve SVG indirme, kayıt yok, filigran yok.",
-  "id": "/loona-qr-codes/tr/ean-13-barcode-generator/",
+  "id": "/tr/ean-13-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

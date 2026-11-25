@@ -2,7 +2,7 @@
   "name": "Loona evenement-/agenda-QR-codegenerator",
   "short_name": "Evenement-/agenda-QR-code",
   "description": "Maak direct een gratis evenement-/agenda-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Scan om een evenement in de agenda op te slaan. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/event-calendar-qr-code-generator/",
+  "id": "/nl/event-calendar-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

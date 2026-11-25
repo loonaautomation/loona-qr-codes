@@ -2,7 +2,7 @@
   "name": "Loona Phone Call QR Code Generator",
   "short_name": "Phone Call QR Code Generator",
   "description": "Create a free Phone Call QR Code instantly with Loona. No signup, no watermark, never expires. Scan to dial your number instantly. Custom colours, high-resolution PNG download.",
-  "id": "/loona-qr-codes/phone-qr-code-generator/",
+  "id": "/phone-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

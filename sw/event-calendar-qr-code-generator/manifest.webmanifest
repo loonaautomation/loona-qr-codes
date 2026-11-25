@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Tukio / Kalenda cha Loona",
   "short_name": "Msimbo wa QR wa Tukio / Kalenda",
   "description": "Tengeneza Msimbo wa QR wa Tukio / Kalenda wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Changanua ili kuhifadhi tukio kwenye kalenda. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/event-calendar-qr-code-generator/",
+  "id": "/sw/event-calendar-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

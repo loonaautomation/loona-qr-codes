@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Venmo Loona",
   "short_name": "Trình tạo mã QR Venmo",
   "description": "Tạo mã QR Venmo miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/venmo-qr-code-generator/",
+  "id": "/vi/venmo-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

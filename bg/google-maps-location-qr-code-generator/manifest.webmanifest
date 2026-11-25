@@ -2,7 +2,7 @@
   "name": "Генератор на QR кодове за местоположение в Google Карти на Loona",
   "short_name": "QR код за местоположение в Google Карти",
   "description": "Създайте безплатен QR код за местоположение в Google Карти мигновено с Loona. Без регистрация, без воден знак, никога не изтича. Сканирайте, за да получите упътване до мястото си. Персонализирани цветове, изтегляне на PNG с висока разделителна способност.",
-  "id": "/loona-qr-codes/bg/google-maps-location-qr-code-generator/",
+  "id": "/bg/google-maps-location-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

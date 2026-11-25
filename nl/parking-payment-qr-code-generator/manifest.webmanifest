@@ -2,7 +2,7 @@
   "name": "Loona parkeerbetaal-QR-codegenerator",
   "short_name": "Parkeerbetaal-QR-code",
   "description": "Maak direct een gratis parkeerbetaal-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/parking-payment-qr-code-generator/",
+  "id": "/nl/parking-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

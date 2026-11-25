@@ -2,7 +2,7 @@
   "name": "Loona WiFi QR कोड जनरेटर",
   "short_name": "WiFi QR कोड जनरेटर",
   "description": "Loona के साथ तुरंत एक मुफ़्त WiFi QR कोड बनाएँ। कोई साइन-अप नहीं, कोई वॉटरमार्क नहीं, कभी समाप्त नहीं होता। मेहमान एक स्कैन से WiFi से जुड़ते हैं, पासवर्ड टाइप नहीं करना पड़ता। कस्टम रंग, उच्च-रिज़ॉल्यूशन PNG डाउनलोड।",
-  "id": "/loona-qr-codes/hi/wifi-qr-code-generator/",
+  "id": "/hi/wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

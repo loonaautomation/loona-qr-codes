@@ -2,7 +2,7 @@
   "name": "Loona EAN-8-barcodegenerator",
   "short_name": "EAN-8-barcodegenerator",
   "description": "Gratis EAN-8-barcodegenerator. Juiste controlecijfers waar de standaard ze heeft, PNG- en SVG-download, geen registratie, geen watermerk.",
-  "id": "/loona-qr-codes/nl/ean-8-barcode-generator/",
+  "id": "/nl/ean-8-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

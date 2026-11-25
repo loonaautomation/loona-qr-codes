@@ -2,7 +2,7 @@
   "name": "Loona bulk-QR-codegenerator",
   "short_name": "Bulk-QR-codegenerator",
   "description": "Maak gratis tot 100 QR-codes tegelijk: plak een lijst of upload een CSV met links en teksten en krijg een gelabeld printbaar vel met QR-codes. Geen registratie, geen watermerk, verloopt nooit, 100% privé in je browser.",
-  "id": "/loona-qr-codes/nl/bulk-qr-code-generator/",
+  "id": "/nl/bulk-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

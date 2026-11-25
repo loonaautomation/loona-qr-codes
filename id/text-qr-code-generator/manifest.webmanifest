@@ -2,7 +2,7 @@
   "name": "Generator Kode QR Teks Biasa Loona",
   "short_name": "Generator Kode QR Teks Biasa",
   "description": "Buat Kode QR Teks Biasa gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Masukkan teks, kode, atau pesan apa pun ke dalam kode QR. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/text-qr-code-generator/",
+  "id": "/id/text-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

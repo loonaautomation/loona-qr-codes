@@ -2,7 +2,7 @@
   "name": "Loona Venmo-QR-codegenerator",
   "short_name": "Venmo-QR-codegenerator",
   "description": "Maak direct een gratis Venmo-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/venmo-qr-code-generator/",
+  "id": "/nl/venmo-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

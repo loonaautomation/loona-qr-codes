@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn QR 코드 생성기",
   "short_name": "LinkedIn QR 코드 생성기",
   "description": "Loona로 무료 LinkedIn QR 코드를 즉시 만드세요. 가입 없음, 워터마크 없음, 절대 만료되지 않아요. 한 번의 스캔으로 전문가답게 연결하세요. 맞춤 색상, 고해상도 PNG 다운로드예요.",
-  "id": "/loona-qr-codes/ko/linkedin-qr-code-generator/",
+  "id": "/ko/linkedin-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

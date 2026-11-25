@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодів Pinterest",
   "short_name": "Генератор QR-кодів Pinterest",
   "description": "Створіть безкоштовний QR-код Pinterest миттєво з Loona. Без реєстрації, без водяного знака, строк дії ніколи не закінчується. Скануйте, щоб відкрити профіль або дошку Pinterest. Користувацькі кольори, завантаження PNG у високій роздільній здатності.",
-  "id": "/loona-qr-codes/uk/pinterest-qr-code-generator/",
+  "id": "/uk/pinterest-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

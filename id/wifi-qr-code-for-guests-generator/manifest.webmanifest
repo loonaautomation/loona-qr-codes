@@ -2,7 +2,7 @@
   "name": "Generator Kode QR WiFi Tamu (Rumah & Kafe) Loona",
   "short_name": "QR WiFi Tamu (Rumah & Kafe)",
   "description": "Buat kode QR WiFi Tamu (Rumah & Kafe) gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/wifi-qr-code-for-guests-generator/",
+  "id": "/id/wifi-qr-code-for-guests-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

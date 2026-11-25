@@ -2,7 +2,7 @@
   "name": "Loona Генератор штрих-кодів Codabar",
   "short_name": "Генератор штрих-кодів Codabar",
   "description": "Безкоштовний генератор штрих-кодів Codabar. Правильні контрольні цифри там, де їх має стандарт, завантаження PNG і SVG, без реєстрації, без водяного знака.",
-  "id": "/loona-qr-codes/uk/codabar-barcode-generator/",
+  "id": "/uk/codabar-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

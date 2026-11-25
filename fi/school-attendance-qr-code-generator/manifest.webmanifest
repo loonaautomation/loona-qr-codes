@@ -2,7 +2,7 @@
   "name": "Loona Koulun läsnäolo- ja lomake-QR-koodi",
   "short_name": "Koulun läsnäolo- ja lomake-QR",
   "description": "Luo ilmainen koulun läsnäolo- ja lomake-QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/school-attendance-qr-code-generator/",
+  "id": "/fi/school-attendance-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

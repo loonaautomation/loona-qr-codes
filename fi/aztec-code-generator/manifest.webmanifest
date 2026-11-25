@@ -2,7 +2,7 @@
   "name": "Loona Aztec-koodin viivakoodigeneraattori",
   "short_name": "Aztec-koodin viivakoodigeneraattori",
   "description": "Ilmainen Aztec-viivakoodigeneraattori. Oikeat tarkistusnumerot siellä, missä standardissa ne on, PNG- ja SVG-lataus, ei rekisteröitymistä, ei vesileimaa.",
-  "id": "/loona-qr-codes/fi/aztec-code-generator/",
+  "id": "/fi/aztec-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

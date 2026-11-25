@@ -2,7 +2,7 @@
   "name": "Loona Özgeçmiş / Portföy QR Kod Oluşturucu",
   "short_name": "Özgeçmiş / Portföy QR Kodu",
   "description": "Loona ile anında ücretsiz bir Özgeçmiş / Portföy QR Kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özgeçmişinizi veya portföyünüzü bir tarama uzağına koyun. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/resume-portfolio-qr-code-generator/",
+  "id": "/tr/resume-portfolio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

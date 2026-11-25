@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona לכתובת / אתר",
   "short_name": "קוד QR לכתובת / אתר",
   "description": "צרו קוד QR חינמי של URL / אתר מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. הפכו כל קישור אתר לקוד QR. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/url-qr-code-generator/",
+  "id": "/he/url-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Πληρωμής Litecoin",
   "short_name": "Κωδικός QR Πληρωμής Litecoin",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Πληρωμής Litecoin αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/litecoin-payment-qr-code-generator/",
+  "id": "/el/litecoin-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

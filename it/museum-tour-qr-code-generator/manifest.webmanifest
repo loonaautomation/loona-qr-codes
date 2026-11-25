@@ -2,7 +2,7 @@
   "name": "Loona — Generatore di codici QR per musei e guide turistiche",
   "short_name": "Codice QR per musei e guide turistiche",
   "description": "Crea all’istante un codice QR per musei e guide turistiche gratuito con Loona. Nessuna registrazione, nessuna filigrana, non scade mai. Colori personalizzati, download PNG ad alta risoluzione.",
-  "id": "/loona-qr-codes/it/museum-tour-qr-code-generator/",
+  "id": "/it/museum-tour-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

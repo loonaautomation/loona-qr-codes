@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Cash App Loona",
   "short_name": "Penjana Kod QR Cash App",
   "description": "Cipta kod Cash App percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/cash-app-qr-code-generator/",
+  "id": "/ms/cash-app-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

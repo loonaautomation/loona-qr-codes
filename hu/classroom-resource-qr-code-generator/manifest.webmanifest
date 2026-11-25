@@ -2,7 +2,7 @@
   "name": "Loona Osztálytermi Erőforrás QR-kód generátor",
   "short_name": "Tantermi erőforrás QR-kód",
   "description": "Hozzon létre ingyenes tantermi erőforrás QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/classroom-resource-qr-code-generator/",
+  "id": "/hu/classroom-resource-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

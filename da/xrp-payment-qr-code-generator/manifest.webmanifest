@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til XRP-betaling",
   "short_name": "QR-kodegenerator til XRP-betaling",
   "description": "Opret en gratis XRP-betalings-QR-kode øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/xrp-payment-qr-code-generator/",
+  "id": "/da/xrp-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

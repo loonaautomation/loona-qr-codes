@@ -2,7 +2,7 @@
   "name": "Generator kodów kreskowych MSI Plessey Loona",
   "short_name": "Generator kodów kreskowych MSI Plessey",
   "description": "Darmowy generator kodów kreskowych MSI Plessey. Poprawne cyfry kontrolne tam, gdzie standard je ma, pobieranie PNG i SVG, bez rejestracji, bez znaku wodnego.",
-  "id": "/loona-qr-codes/pl/msi-barcode-generator/",
+  "id": "/pl/msi-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

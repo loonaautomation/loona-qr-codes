@@ -2,7 +2,7 @@
   "name": "Loona Codabar Barkod Oluşturucu",
   "short_name": "Codabar Barkod Oluşturucu",
   "description": "Ücretsiz Codabar barkod oluşturucu. Standartta olduğu yerde doğru kontrol basamakları, PNG ve SVG indirme, kayıt yok, filigran yok.",
-  "id": "/loona-qr-codes/tr/codabar-barcode-generator/",
+  "id": "/tr/codabar-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

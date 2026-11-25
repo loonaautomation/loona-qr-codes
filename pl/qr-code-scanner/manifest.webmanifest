@@ -2,7 +2,7 @@
   "name": "Skaner kodów QR i kreskowych Loona",
   "short_name": "Skaner kodów QR i kreskowych",
   "description": "Skanuj kody QR i kody kreskowe za darmo online z Loona: użyj aparatu lub prześlij zdjęcie lub zrzut ekranu. Dekoduje URL, WiFi, kontakty vCard, EAN-13, UPC-A, Code 128 i Code 39. W 100% prywatne — wszystko jest dekodowane na Twoim urządzeniu, nic nie jest przesyłane.",
-  "id": "/loona-qr-codes/pl/qr-code-scanner/",
+  "id": "/pl/qr-code-scanner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

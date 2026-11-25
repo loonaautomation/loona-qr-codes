@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодов отзывов Google",
   "short_name": "QR-код отзывов Google",
   "description": "Создайте бесплатный QR-код отзывов Google мгновенно с Loona. Без регистрации, без водяного знака, никогда не истекает. Довольные клиенты оставляют отзыв в Google за секунды. Настраиваемые цвета, скачивание PNG в высоком разрешении.",
-  "id": "/loona-qr-codes/ru/google-review-qr-code-generator/",
+  "id": "/ru/google-review-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

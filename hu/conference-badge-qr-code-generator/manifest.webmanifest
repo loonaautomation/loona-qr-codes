@@ -2,7 +2,7 @@
   "name": "Loona Konferencia Kitűző QR-kód generátor",
   "short_name": "Konferenciajelvény QR-kód",
   "description": "Hozzon létre ingyenes konferenciajelvény QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/conference-badge-qr-code-generator/",
+  "id": "/hu/conference-badge-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

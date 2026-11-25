@@ -2,7 +2,7 @@
   "name": "Loona Cash App QR Kod Oluşturucu",
   "short_name": "Cash App QR Kod Oluşturucu",
   "description": "Loona ile anında ücretsiz bir Cash App QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/cash-app-qr-code-generator/",
+  "id": "/tr/cash-app-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

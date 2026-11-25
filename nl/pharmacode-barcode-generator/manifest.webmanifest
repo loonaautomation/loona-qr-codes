@@ -2,7 +2,7 @@
   "name": "Loona Pharmacode-barcodegenerator",
   "short_name": "Pharmacode-barcodegenerator",
   "description": "Gratis Pharmacode-barcodegenerator. Juiste controlecijfers waar de standaard ze heeft, PNG- en SVG-download, geen registratie, geen watermerk.",
-  "id": "/loona-qr-codes/nl/pharmacode-barcode-generator/",
+  "id": "/nl/pharmacode-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

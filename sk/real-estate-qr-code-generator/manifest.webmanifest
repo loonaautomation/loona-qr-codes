@@ -2,7 +2,7 @@
   "name": "Loona Generátor QR kódov pre nehnuteľnosti",
   "short_name": "Generátor QR kódov pre nehnuteľnosti",
   "description": "Vytvorte si zadarmo QR kód pre nehnuteľnosti okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
-  "id": "/loona-qr-codes/sk/real-estate-qr-code-generator/",
+  "id": "/sk/real-estate-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

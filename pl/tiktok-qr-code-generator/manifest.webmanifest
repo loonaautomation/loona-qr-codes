@@ -2,7 +2,7 @@
   "name": "Generator kodów QR TikTok Loona",
   "short_name": "Generator kodów QR TikTok",
   "description": "Utwórz darmowy kod QR TikTok błyskawicznie z Loona. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa. Skanuj, aby otworzyć swój profil TikTok. Kolory niestandardowe, pobieranie PNG w wysokiej rozdzielczości.",
-  "id": "/loona-qr-codes/pl/tiktok-qr-code-generator/",
+  "id": "/pl/tiktok-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

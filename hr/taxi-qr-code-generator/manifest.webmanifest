@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za taxi i vožnje",
   "short_name": "Generator QR kodova za taksi i vožnju",
   "description": "Stvorite besplatni QR kod za taksi i vožnje trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/taxi-qr-code-generator/",
+  "id": "/hr/taxi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

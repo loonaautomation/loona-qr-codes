@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Hàng loạt Loona",
   "short_name": "Trình tạo mã QR Hàng loạt",
   "description": "Tạo tối đa 100 mã QR cùng lúc, miễn phí: dán một danh sách hoặc tải lên một CSV các liên kết và văn bản, nhận một tờ mã QR có nhãn có thể in được. Không đăng ký, không hình mờ, không bao giờ hết hạn, 100% riêng tư trong trình duyệt của bạn.",
-  "id": "/loona-qr-codes/vi/bulk-qr-code-generator/",
+  "id": "/vi/bulk-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

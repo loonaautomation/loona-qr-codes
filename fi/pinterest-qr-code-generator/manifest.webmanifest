@@ -2,7 +2,7 @@
   "name": "Loona Pinterest-QR-koodigeneraattori",
   "short_name": "Pinterest-QR-koodigeneraattori",
   "description": "Luo ilmainen Pinterest-QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Skannaa avataksesi Pinterest-profiilin tai taulun. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/pinterest-qr-code-generator/",
+  "id": "/fi/pinterest-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

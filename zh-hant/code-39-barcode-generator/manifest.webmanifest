@@ -2,7 +2,7 @@
   "name": "Loona Code 39 條形碼生成器",
   "short_name": "Code 39 條形碼生成器",
   "description": "免費 Code 39 條形碼生成器。標準有校驗位的地方提供正確的校驗位，PNG 和 SVG 下載，無需註冊，無水印。",
-  "id": "/loona-qr-codes/zh-hant/code-39-barcode-generator/",
+  "id": "/zh-hant/code-39-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

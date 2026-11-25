@@ -2,7 +2,7 @@
   "name": "Loona Generátor QR kódov pre stretnutie Microsoft Teams",
   "short_name": "QR pre stretnutie Microsoft Teams",
   "description": "Vytvorte si zadarmo QR kód pre stretnutie Microsoft Teams okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
-  "id": "/loona-qr-codes/sk/microsoft-teams-meeting-qr-code-generator/",
+  "id": "/sk/microsoft-teams-meeting-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

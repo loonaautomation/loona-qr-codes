@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona ל-WiFi",
   "short_name": "מחולל קוד QR של WiFi",
   "description": "צרו קוד QR חינמי של WiFi מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. אורחים מתחברים ל-WiFi בסריקה אחת, בלי הקלדת סיסמה. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/wifi-qr-code-generator/",
+  "id": "/he/wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

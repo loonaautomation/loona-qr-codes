@@ -2,7 +2,7 @@
   "name": "Loona Interleaved 2 of 5 vonalkódgenerátor",
   "short_name": "Interleaved 2 of 5 vonalkód",
   "description": "Ingyenes Interleaved 2 of 5 vonalkód generátor. Helyes ellenőrző számjegyek, ahol a szabványnak vannak, PNG- és SVG-letöltés, nincs regisztráció, nincs vízjel.",
-  "id": "/loona-qr-codes/hu/interleaved-2-of-5-barcode-generator/",
+  "id": "/hu/interleaved-2-of-5-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

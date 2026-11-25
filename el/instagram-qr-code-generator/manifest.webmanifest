@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Instagram",
   "short_name": "Γεννήτρια Κωδικού QR Instagram",
   "description": "Δημιουργήστε έναν δωρεάν Κωδικό QR Instagram αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Αυξήστε ακόλουθους με ένα QR σάρωσης-για-ακολούθηση του Instagram. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/instagram-qr-code-generator/",
+  "id": "/el/instagram-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

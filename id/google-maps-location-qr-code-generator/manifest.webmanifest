@@ -2,7 +2,7 @@
   "name": "Generator Kode QR Lokasi Google Maps Loona",
   "short_name": "Kode QR Lokasi Google Maps",
   "description": "Buat Kode QR Lokasi Google Maps gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Pindai untuk mendapatkan petunjuk arah ke tempat Anda. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/google-maps-location-qr-code-generator/",
+  "id": "/id/google-maps-location-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

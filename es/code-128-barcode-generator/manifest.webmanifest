@@ -2,7 +2,7 @@
   "name": "Loona Generador de códigos de barras Code 128",
   "short_name": "Generador de códigos de barras Code 128",
   "description": "Generador de códigos de barras Code 128 gratuito. Dígitos de control correctos donde el estándar los tiene, descarga en PNG y SVG, sin registro, sin marca de agua.",
-  "id": "/loona-qr-codes/es/code-128-barcode-generator/",
+  "id": "/es/code-128-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

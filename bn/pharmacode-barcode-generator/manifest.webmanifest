@@ -2,7 +2,7 @@
   "name": "Loona Pharmacode Barcode Generator",
   "short_name": "Pharmacode Barcode Generator",
   "description": "বিনামূল্যে Pharmacode বারকোড জেনারেটর। মান যেখানে যাচাই সংখ্যা রাখে সেখানে সঠিক, PNG ও SVG ডাউনলোড, কোনো সাইনআপ নেই, কোনো ওয়াটারমার্ক নেই।",
-  "id": "/loona-qr-codes/bn/pharmacode-barcode-generator/",
+  "id": "/bn/pharmacode-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

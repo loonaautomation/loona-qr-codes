@@ -2,7 +2,7 @@
   "name": "Generator Kode Batang EAN-13 Loona",
   "short_name": "Generator Kode Batang EAN-13",
   "description": "Generator kode batang EAN-13 gratis. Digit pemeriksa yang benar di tempat standar memilikinya, unduhan PNG dan SVG, tanpa pendaftaran, tanpa watermark.",
-  "id": "/loona-qr-codes/id/ean-13-barcode-generator/",
+  "id": "/id/ean-13-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

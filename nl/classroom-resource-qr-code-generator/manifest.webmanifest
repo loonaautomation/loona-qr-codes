@@ -2,7 +2,7 @@
   "name": "Loona klaslokaalbron-QR-codegenerator",
   "short_name": "Klaslokaalbron-QR-code",
   "description": "Maak direct een gratis klaslokaalbron-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/classroom-resource-qr-code-generator/",
+  "id": "/nl/classroom-resource-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Spotify / Music QR Code Generator",
   "short_name": "Spotify / Music QR Code",
   "description": "Loona کے ساتھ مفت Spotify / Music QR Code فوراً بنائیں۔ کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، کبھی ختم نہیں ہوتا۔ گانا، پلے لسٹ یا پوڈکاسٹ چلانے کے لیے اسکین کریں۔ حسبِ پسند رنگ، ہائی ریزولوشن PNG ڈاؤن لوڈ۔",
-  "id": "/loona-qr-codes/ur/spotify-music-qr-code-generator/",
+  "id": "/ur/spotify-music-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

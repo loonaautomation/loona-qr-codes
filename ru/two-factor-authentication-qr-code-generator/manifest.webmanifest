@@ -2,7 +2,7 @@
   "name": "Loona QR-код двухфакторной аутентификации (TOTP)",
   "short_name": "Двухфакторная аутентификация",
   "description": "Создайте бесплатный QR-код двухфакторной аутентификации (TOTP) мгновенно с Loona. Без регистрации, без водяного знака, никогда не истекает. Настраиваемые цвета, скачивание PNG в высоком разрешении.",
-  "id": "/loona-qr-codes/ru/two-factor-authentication-qr-code-generator/",
+  "id": "/ru/two-factor-authentication-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

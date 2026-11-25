@@ -2,7 +2,7 @@
   "name": "Loona Restoran Masa Siparişi QR Kodu",
   "short_name": "Restoran Masa Siparişi QR",
   "description": "Loona ile anında ücretsiz bir Restoran Masa Siparişi QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/restaurant-table-ordering-qr-code-generator/",
+  "id": "/tr/restaurant-table-ordering-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona App Store- / Google Play -QR-koodigeneraattori",
   "short_name": "App Store- / Google Play -QR",
   "description": "Luo ilmainen App Store- / Google Play -QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Skannaa asentaaksesi sovelluksesi. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/app-store-qr-code-generator/",
+  "id": "/fi/app-store-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

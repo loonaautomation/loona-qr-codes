@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til PDF",
   "short_name": "QR-kodegenerator til PDF",
   "description": "Opret en gratis PDF-QR-kode øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Scan for at åbne eller downloade en PDF-fil. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/pdf-qr-code-generator/",
+  "id": "/da/pdf-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

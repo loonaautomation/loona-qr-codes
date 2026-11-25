@@ -2,7 +2,7 @@
   "name": "Generator Kode QR Instagram Loona",
   "short_name": "Generator Kode QR Instagram",
   "description": "Buat Kode QR Instagram gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Tumbuhkan pengikut dengan QR Instagram pindai-untuk-mengikuti. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/instagram-qr-code-generator/",
+  "id": "/id/instagram-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Wasifu / Jalada cha Loona",
   "short_name": "Msimbo wa QR wa Wasifu / Jalada",
   "description": "Tengeneza Msimbo wa QR wa Wasifu / Jalada wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Weka wasifu au jalada lako umbali wa kuchanganua mara moja. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/resume-portfolio-qr-code-generator/",
+  "id": "/sw/resume-portfolio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

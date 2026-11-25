@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Maandishi ya Kawaida cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wa Maandishi ya Kawaida",
   "description": "Tengeneza Msimbo wa QR wa Maandishi ya Kawaida wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Weka maandishi, msimbo au ujumbe wowote ndani ya msimbo wa QR. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/text-qr-code-generator/",
+  "id": "/sw/text-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

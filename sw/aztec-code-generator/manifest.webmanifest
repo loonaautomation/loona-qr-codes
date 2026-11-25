@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo Pau wa Aztec Code cha Loona",
   "short_name": "Kizalishaji cha Msimbo Pau wa Aztec",
   "description": "Kizalishaji cha bure cha msimbo pau wa Aztec Code. Rakamu sahihi za ukaguzi pale kiwango kinazo, upakuaji wa PNG na SVG, hakuna kujisajili, hakuna alama ya maji.",
-  "id": "/loona-qr-codes/sw/aztec-code-generator/",
+  "id": "/sw/aztec-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

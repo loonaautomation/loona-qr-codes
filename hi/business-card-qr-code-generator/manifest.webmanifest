@@ -2,7 +2,7 @@
   "name": "Loona बिज़नेस कार्ड QR कोड जनरेटर",
   "short_name": "बिज़नेस कार्ड QR कोड",
   "description": "Loona के साथ तुरंत एक मुफ़्त बिज़नेस कार्ड QR कोड बनाएँ। कोई साइन-अप नहीं, कोई वॉटरमार्क नहीं, कभी समाप्त नहीं होता। कस्टम रंग, उच्च-रिज़ॉल्यूशन PNG डाउनलोड।",
-  "id": "/loona-qr-codes/hi/business-card-qr-code-generator/",
+  "id": "/hi/business-card-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

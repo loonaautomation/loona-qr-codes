@@ -2,7 +2,7 @@
   "name": "Generátor čárových kódů Code 128 Loona",
   "short_name": "Generátor čárových kódů Code 128",
   "description": "Bezplatný generátor čárových kódů Code 128. Správné kontrolní číslice tam, kde je standard má, stažení PNG a SVG, bez registrace, bez vodoznaku.",
-  "id": "/loona-qr-codes/cs/code-128-barcode-generator/",
+  "id": "/cs/code-128-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

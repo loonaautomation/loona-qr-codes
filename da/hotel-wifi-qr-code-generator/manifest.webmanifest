@@ -2,7 +2,7 @@
   "name": "Loona Hotel og gæst Hotel og gæst WiFi-QR-kode",
   "short_name": "Hotel og gæst Hotel og gæst",
   "description": "Opret en gratis QR-kode til hotel- og gæste-WiFi øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/hotel-wifi-qr-code-generator/",
+  "id": "/da/hotel-wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

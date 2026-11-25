@@ -2,7 +2,7 @@
   "name": "เครื่องสร้างคิวอาร์โค้ด FaceTime ของ Loona",
   "short_name": "เครื่องสร้างคิวอาร์โค้ด FaceTime",
   "description": "สร้างคิวอาร์โค้ด FaceTime ฟรีได้ทันทีด้วย Loona ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ สีที่กำหนดเอง ดาวน์โหลด PNG ความละเอียดสูง",
-  "id": "/loona-qr-codes/th/facetime-qr-code-generator/",
+  "id": "/th/facetime-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

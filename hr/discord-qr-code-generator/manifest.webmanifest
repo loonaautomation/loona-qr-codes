@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za Discord",
   "short_name": "Generator QR kodova za Discord",
   "description": "Stvorite besplatni QR kod za Discord trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Skenirajte za pridruživanje Discord poslužitelju s poveznicom pozivnice. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/discord-qr-code-generator/",
+  "id": "/hr/discord-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

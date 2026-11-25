@@ -2,7 +2,7 @@
   "name": "Loona जिम और फ़िटनेस QR कोड जनरेटर",
   "short_name": "जिम और फ़िटनेस QR कोड",
   "description": "Loona के साथ तुरंत एक मुफ़्त जिम और फ़िटनेस QR कोड बनाएँ। कोई साइन-अप नहीं, कोई वॉटरमार्क नहीं, कभी समाप्त नहीं होता। कस्टम रंग, उच्च-रिज़ॉल्यूशन PNG डाउनलोड।",
-  "id": "/loona-qr-codes/hi/gym-fitness-qr-code-generator/",
+  "id": "/hi/gym-fitness-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

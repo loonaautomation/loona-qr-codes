@@ -2,7 +2,7 @@
   "name": "Loona Generátor QR kódov pre kontakt vCard",
   "short_name": "QR kód pre kontakt vCard",
   "description": "Vytvorte si zadarmo QR kód pre kontakt vCard okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Naskenujte a uložte si celú kontaktnú kartu do telefónu. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
-  "id": "/loona-qr-codes/sk/vcard-qr-code-generator/",
+  "id": "/sk/vcard-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

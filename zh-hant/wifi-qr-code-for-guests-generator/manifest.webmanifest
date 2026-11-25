@@ -2,7 +2,7 @@
   "name": "Loona 訪客 WiFi（家庭與咖啡館）二維碼生成器",
   "short_name": "訪客 WiFi（家庭與咖啡館）二維碼",
   "description": "用 Loona 立即建立一個免費的訪客 WiFi（家庭與咖啡館）二維碼。無需註冊，無水印，永不過期。自定義顏色，高解析度 PNG 下載。",
-  "id": "/loona-qr-codes/zh-hant/wifi-qr-code-for-guests-generator/",
+  "id": "/zh-hant/wifi-qr-code-for-guests-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

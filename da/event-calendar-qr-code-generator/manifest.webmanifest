@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til arrangement / kalender",
   "short_name": "QR-kode til arrangement / kalender",
   "description": "Opret en gratis arrangements-/kalender-QR-kode øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Scan for at gemme et arrangement i kalenderen. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/event-calendar-qr-code-generator/",
+  "id": "/da/event-calendar-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

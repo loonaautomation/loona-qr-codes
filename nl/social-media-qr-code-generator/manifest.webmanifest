@@ -2,7 +2,7 @@
   "name": "Loona socialemedia-QR-codegenerator",
   "short_name": "Socialemedia-QR-codegenerator",
   "description": "Maak direct een gratis socialemedia-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Kies een platform, voeg je gebruikersnaam toe en één scan opent je profiel. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/social-media-qr-code-generator/",
+  "id": "/nl/social-media-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

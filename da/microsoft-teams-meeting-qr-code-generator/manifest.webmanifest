@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til Microsoft Teams-møde",
   "short_name": "QR-kode til Microsoft Teams-møde",
   "description": "Opret en gratis QR-kode til Microsoft Teams-møde øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/microsoft-teams-meeting-qr-code-generator/",
+  "id": "/da/microsoft-teams-meeting-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

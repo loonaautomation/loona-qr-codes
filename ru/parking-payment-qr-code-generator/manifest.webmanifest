@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодов оплаты парковки",
   "short_name": "QR-код оплаты парковки",
   "description": "Создайте бесплатный QR-код оплаты парковки мгновенно с Loona. Без регистрации, без водяного знака, никогда не истекает. Настраиваемые цвета, скачивание PNG в высоком разрешении.",
-  "id": "/loona-qr-codes/ru/parking-payment-qr-code-generator/",
+  "id": "/ru/parking-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

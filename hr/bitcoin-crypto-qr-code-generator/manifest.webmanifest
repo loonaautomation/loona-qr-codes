@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za Bitcoin / kripto",
   "short_name": "QR kod za Bitcoin / kripto",
   "description": "Stvorite besplatni QR kod za Bitcoin / kripto trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Podijelite adresu Bitcoin novčanika kao QR. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/bitcoin-crypto-qr-code-generator/",
+  "id": "/hr/bitcoin-crypto-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

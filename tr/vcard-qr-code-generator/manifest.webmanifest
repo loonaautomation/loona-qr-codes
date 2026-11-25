@@ -2,7 +2,7 @@
   "name": "Loona vCard Kişi QR Kod Oluşturucu",
   "short_name": "vCard Kişi QR Kodu",
   "description": "Loona ile anında ücretsiz bir vCard Kişi QR Kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Tam kişi kartınızı bir telefona kaydetmek için tarayın. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/vcard-qr-code-generator/",
+  "id": "/tr/vcard-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

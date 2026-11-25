@@ -2,7 +2,7 @@
   "name": "Máy quét Mã QR & Mã vạch Loona",
   "short_name": "Máy quét Mã QR & Mã vạch",
   "description": "Quét mã QR và mã vạch miễn phí trực tuyến với Loona: sử dụng camera của bạn hoặc tải lên ảnh hoặc ảnh chụp màn hình. Giải mã URL, WiFi, danh bạ vCard, EAN-13, UPC-A, Code 128 và Code 39. 100% riêng tư — mọi thứ được giải mã trên thiết bị của bạn, không có gì được tải lên.",
-  "id": "/loona-qr-codes/vi/qr-code-scanner/",
+  "id": "/vi/qr-code-scanner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

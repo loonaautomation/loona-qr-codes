@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Códigos QR do Spotify / Música",
   "short_name": "Código QR Spotify / Música",
   "description": "Crie um Código QR do Spotify / Música grátis instantaneamente com a Loona. Sem registro, sem marca de água, nunca expira. Leia para reproduzir uma canção, uma lista de reprodução ou um podcast. Cores personalizadas, transferência PNG em alta resolução.",
-  "id": "/loona-qr-codes/pt-br/spotify-music-qr-code-generator/",
+  "id": "/pt-br/spotify-music-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

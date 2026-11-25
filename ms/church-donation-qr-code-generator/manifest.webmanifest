@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Pemberian Gereja & Kebajikan Loona",
   "short_name": "QR Pemberian Gereja & Kebajikan",
   "description": "Cipta kod Pemberian Gereja & Kebajikan percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/church-donation-qr-code-generator/",
+  "id": "/ms/church-donation-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

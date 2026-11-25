@@ -2,7 +2,7 @@
   "name": "Loona UPC-A Barkod Oluşturucu",
   "short_name": "UPC-A Barkod Oluşturucu",
   "description": "Ücretsiz UPC-A barkod oluşturucu. Standartta olduğu yerde doğru kontrol basamakları, PNG ve SVG indirme, kayıt yok, filigran yok.",
-  "id": "/loona-qr-codes/tr/upc-a-barcode-generator/",
+  "id": "/tr/upc-a-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

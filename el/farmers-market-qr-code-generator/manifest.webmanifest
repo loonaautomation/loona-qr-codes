@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Πάγκου Λαϊκής Αγοράς",
   "short_name": "Κωδικός QR Πάγκου Λαϊκής Αγοράς",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Πάγκου Λαϊκής Αγοράς αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/farmers-market-qr-code-generator/",
+  "id": "/el/farmers-market-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

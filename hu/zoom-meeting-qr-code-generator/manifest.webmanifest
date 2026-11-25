@@ -2,7 +2,7 @@
   "name": "Loona Zoom / Megbeszélés QR-kód generátor",
   "short_name": "Zoom / Megbeszélés QR-kód",
   "description": "Hozzon létre ingyenes Zoom / megbeszélés QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Olvassa be megbeszéléshez vagy órához csatlakozáshoz. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/zoom-meeting-qr-code-generator/",
+  "id": "/hu/zoom-meeting-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

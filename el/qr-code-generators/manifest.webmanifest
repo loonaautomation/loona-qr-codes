@@ -2,7 +2,7 @@
   "name": "Loona — Όλες οι Γεννήτριες Κωδικών QR & Barcode",
   "short_name": "Όλοι οι Κωδικοί QR & Γραμμωτοί Κωδικοί",
   "description": "Η πλήρης βιβλιοθήκη QR του Loona: γεννήτριες barcode (Code 128, EAN-13, UPC, Data Matrix, PDF417), κωδικοί QR πληρωμών (SEPA, UPI, κρυπτονομίσματα, Venmo), περιπτώσεις χρήσης κλάδων και εργαλεία εκτύπωσης.",
-  "id": "/loona-qr-codes/el/qr-code-generators/",
+  "id": "/el/qr-code-generators/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

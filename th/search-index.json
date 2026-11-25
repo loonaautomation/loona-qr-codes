@@ -1,7 +1,7 @@
 [
  {
   "n": "เครื่องสร้างคิวอาร์โค้ด URL / เว็บไซต์",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/url-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/url-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "เปลี่ยนลิงก์เว็บไซต์ใดก็ได้เป็นคิวอาร์โค้ด",
   "k": "url website qr code generator url qr code generator",
@@ -10,7 +10,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ดข้อความธรรมดา",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/text-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/text-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "ใส่ข้อความ โค้ด หรือข้อความใด ๆ ลงในคิวอาร์โค้ด",
   "k": "plain text qr code generator text qr code generator",
@@ -19,7 +19,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ด WiFi",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/wifi-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/wifi-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "แขกเชื่อมต่อ WiFi ด้วยการสแกนเพียงครั้งเดียว ไม่ต้องพิมพ์รหัสผ่าน",
   "k": "wifi qr code generator wifi qr code generator wifi",
@@ -28,7 +28,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ด WhatsApp",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/whatsapp-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/whatsapp-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "เริ่มแชท WhatsApp ด้วยการสแกนครั้งเดียว ไม่ต้องบันทึกหมายเลข",
   "k": "whatsapp qr code generator whatsapp qr code generator whatsapp",
@@ -37,7 +37,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ดผู้ติดต่อ vCard",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/vcard-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/vcard-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "สแกนเพื่อบันทึกการ์ดผู้ติดต่อฉบับเต็มของคุณลงในโทรศัพท์",
   "k": "vcard contact qr code generator vcard qr code generator",
@@ -46,7 +46,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ดอีเมล",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/email-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/email-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "สแกนเพื่อเปิดอีเมลที่จ่าหน้าไว้ล่วงหน้า พร้อมส่ง",
   "k": "email qr code generator email qr code generator",
@@ -55,7 +55,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ด SMS",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/sms-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/sms-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "สแกนเพื่อเปิดข้อความที่เขียนไว้ล่วงหน้า",
   "k": "sms qr code generator sms qr code generator",
@@ -64,7 +64,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ดการโทรศัพท์",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/phone-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/phone-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "สแกนเพื่อโทรออกไปยังหมายเลขของคุณได้ทันที",
   "k": "phone call qr code generator phone qr code generator",
@@ -73,7 +73,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ด Instagram",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/instagram-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/instagram-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "เพิ่มผู้ติดตามด้วยคิวอาร์โค้ด Instagram แบบสแกนเพื่อติดตาม",
   "k": "instagram qr code generator instagram qr code generator instagram",
@@ -82,7 +82,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ด Facebook",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/facebook-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/facebook-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "ส่งผู้คนตรงไปยังเพจ Facebook ของคุณ",
   "k": "facebook qr code generator facebook qr code generator facebook",
@@ -91,7 +91,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ด YouTube",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/youtube-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/youtube-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "สแกนเพื่อเปิดวิดีโอหรือแชนแนลได้ทันที",
   "k": "youtube qr code generator youtube qr code generator",
@@ -100,7 +100,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ด TikTok",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/tiktok-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/tiktok-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "สแกนเพื่อเปิดโปรไฟล์ TikTok ของคุณ",
   "k": "tiktok qr code generator tiktok qr code generator tiktok",
@@ -109,7 +109,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ด X (Twitter)",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/x-twitter-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/x-twitter-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "สแกนเพื่อเปิดโปรไฟล์ X ของคุณ",
   "k": "x twitter qr code generator x twitter qr code generator x",
@@ -118,7 +118,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ด LinkedIn",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/linkedin-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/linkedin-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "เชื่อมต่ออย่างมืออาชีพด้วยการสแกนเพียงครั้งเดียว",
   "k": "linkedin qr code generator linkedin qr code generator",
@@ -127,7 +127,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ด Telegram",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/telegram-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/telegram-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "สแกนเพื่อเข้าร่วมโปรไฟล์ กลุ่ม หรือแชนแนล Telegram ของคุณ",
   "k": "telegram qr code generator telegram qr code generator telegram",
@@ -136,7 +136,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ด Snapchat",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/snapchat-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/snapchat-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "สแกนเพื่อเพิ่มคุณบน Snapchat",
   "k": "snapchat qr code generator snapchat qr code generator snapchat",
@@ -145,7 +145,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ดตำแหน่ง Google Maps",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/google-maps-location-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/google-maps-location-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "สแกนเพื่อรับเส้นทางไปยังสถานที่ของคุณ",
   "k": "google maps location qr code generator google maps location qr code generator",
@@ -154,7 +154,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ดรีวิว Google",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/google-review-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/google-review-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "ลูกค้าที่มีความสุขให้รีวิว Google ในไม่กี่วินาที",
   "k": "google review qr code generator google review qr code generator google",
@@ -163,7 +163,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ดเมนูร้านอาหาร",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/restaurant-menu-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/restaurant-menu-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "เมนูแบบไร้สัมผัสบนทุกโต๊ะ",
   "k": "restaurant menu qr code generator restaurant menu qr code generator",
@@ -172,7 +172,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ด PDF",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/pdf-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/pdf-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "สแกนเพื่อเปิดหรือดาวน์โหลดไฟล์ PDF",
   "k": "pdf qr code generator pdf qr code generator pdf",
@@ -181,7 +181,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ด App Store / Google Play",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/app-store-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/app-store-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "สแกนเพื่อติดตั้งแอปของคุณ",
   "k": "app store google play qr code generator app store qr code generator",
@@ -190,7 +190,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ด Google Form",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/google-form-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/google-form-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "สแกนเพื่อเปิดและกรอก Google Form",
   "k": "google form qr code generator google form qr code generator google form",
@@ -199,7 +199,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ด Zoom / การประชุม",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/zoom-meeting-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/zoom-meeting-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "สแกนเพื่อเข้าร่วมการประชุมหรือชั้นเรียน",
   "k": "zoom meeting qr code generator zoom meeting qr code generator",
@@ -208,7 +208,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ดกิจกรรม / ปฏิทิน",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/event-calendar-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/event-calendar-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "สแกนเพื่อบันทึกกิจกรรมลงในปฏิทิน",
   "k": "event calendar qr code generator event calendar qr code generator",
@@ -217,7 +217,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ด PayPal",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/paypal-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/paypal-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "รับเงิน: สแกนเพื่อเปิดหน้า PayPal.me ของคุณ",
   "k": "paypal qr code generator paypal qr code generator paypal me",
@@ -226,7 +226,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ดการชำระเงิน UPI",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/upi-payment-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/upi-payment-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "QR การชำระเงิน UPI สำหรับร้านค้าในอินเดียและภูมิภาค UPI",
   "k": "upi payment qr code generator upi payment qr code generator qr upi upi",
@@ -235,7 +235,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ด JazzCash / EasyPaisa (ปากีสถาน)",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/jazzcash-easypaisa-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/jazzcash-easypaisa-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "แชร์รายละเอียดบัญชี JazzCash หรือ EasyPaisa ของคุณเป็น QR",
   "k": "jazzcash easypaisa qr code pakistan generator jazzcash easypaisa qr code generator jazzcash easypaisa qr",
@@ -244,7 +244,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ด Bitcoin / คริปโต",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/bitcoin-crypto-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/bitcoin-crypto-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "แชร์ที่อยู่กระเป๋าเงิน Bitcoin เป็น QR",
   "k": "bitcoin crypto qr code generator bitcoin crypto qr code generator bitcoin qr",
@@ -253,7 +253,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ด Spotify / เพลง",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/spotify-music-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/spotify-music-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "สแกนเพื่อเล่นเพลง เพลย์ลิสต์ หรือพอดแคสต์",
   "k": "spotify music qr code generator spotify music qr code generator",
@@ -262,7 +262,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ดเรซูเม่ / พอร์ตโฟลิโอ",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/resume-portfolio-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/resume-portfolio-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "ทำให้เรซูเม่หรือพอร์ตโฟลิโอของคุณอยู่ห่างเพียงการสแกนครั้งเดียว",
   "k": "resume portfolio qr code generator resume portfolio qr code generator",
@@ -271,7 +271,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ดรูปภาพ",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/image-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/image-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "สแกนเพื่อเปิดหรือแชร์ลิงก์รูปถ่ายหรือรูปภาพ",
   "k": "image qr code generator image qr code generator",
@@ -280,7 +280,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ดเสียง",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/audio-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/audio-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "สแกนเพื่อเล่นเพลง บันทึกเสียง หรือไฟล์เสียง",
   "k": "audio qr code generator audio qr code generator",
@@ -289,7 +289,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ดโซเชียลมีเดีย",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/social-media-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/social-media-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "หนึ่งคิวอาร์โค้ดสำหรับลิงก์โปรไฟล์โซเชียลมีเดียของคุณ",
   "k": "social media qr code generator social media qr code generator",
@@ -298,7 +298,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ด Pinterest",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/pinterest-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/pinterest-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "สแกนเพื่อเปิดโปรไฟล์หรือบอร์ด Pinterest ของคุณ",
   "k": "pinterest qr code generator pinterest qr code generator pinterest",
@@ -307,7 +307,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ด Discord",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/discord-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/discord-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "สแกนเพื่อเข้าร่วมเซิร์ฟเวอร์หรือโปรไฟล์ Discord ของคุณ",
   "k": "discord qr code generator discord qr code generator discord",
@@ -316,7 +316,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ด GitHub",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/github-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/github-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "สแกนเพื่อเปิดโปรไฟล์หรือที่เก็บโค้ด GitHub ของคุณ",
   "k": "github qr code generator github qr code generator github",
@@ -325,7 +325,7 @@
  },
  {
   "n": "เครื่องสแกนคิวอาร์โค้ดและบาร์โค้ด",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/qr-code-scanner/",
+  "u": "https://qr.loonaautomation.com/th/qr-code-scanner/",
   "s": "Loona QR Codes",
   "d": "สแกนโค้ดด้วยกล้องของคุณ หรือถอดรหัสคิวอาร์โค้ดและบาร์โค้ดจากรูปถ่ายหรือภาพหน้าจอ",
   "k": "qr code barcode scanner qr code scanner",
@@ -334,7 +334,7 @@
  },
  {
   "n": "เครื่องสร้างคิวอาร์โค้ดแบบกลุ่ม",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/bulk-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/th/bulk-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "สร้างคิวอาร์โค้ดพร้อมป้ายกำกับได้สูงสุด 100 โค้ดในคราวเดียวในแผ่นที่พิมพ์ได้",
   "k": "bulk qr code generator bulk qr code generator 100",
@@ -343,7 +343,7 @@
  },
  {
   "n": "เครื่องสร้างบาร์โค้ด",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/barcode-generator/",
+  "u": "https://qr.loonaautomation.com/th/barcode-generator/",
   "s": "Loona QR Codes",
   "d": "สร้างบาร์โค้ดผลิตภัณฑ์ — Code 128, EAN-13, UPC และอื่น ๆ",
   "k": "barcode generator barcode generator สรางบารโคดผลตภณฑ code 128 ean 13 upc และอน ๆ",
@@ -352,7 +352,7 @@
  },
  {
   "n": "เครื่องมือ Loona ทั้งหมด — คิวอาร์โค้ด",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/th/tool-qr-codes/",
+  "u": "https://qr.loonaautomation.com/th/tool-qr-codes/",
   "s": "Loona QR Codes",
   "d": "รับคิวอาร์โค้ดสำเร็จรูปสำหรับเครื่องมือ Loona ใดก็ตาม — เครื่องคำนวณ เครื่องมือ PDF เครื่องมือรูปภาพ และอื่น ๆ ค้นหาเครื่องมือและแอป Loona ทั้งหมด 872 รายการ ดาวน์โหลดคิวอาร์โค้ด และพิมพ์มัน",
   "k": "qr codes for all loona tools tool qr codes รบควอารโคดสำเรจรปสำหรบเครองมอ loona ใดกตาม เครองคำนวณ เครองมอ pdf เครองมอรปภาพ และอน ๆ คนหาเครองมอและแอป loona ทงหมด 872 รายการ ดาวนโหลดควอารโคด และพมพมน",

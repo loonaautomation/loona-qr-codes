@@ -2,7 +2,7 @@
   "name": "Generator kodów QR zasobów klasowych Loona",
   "short_name": "Kod QR zasobu klasowego",
   "description": "Utwórz darmowy kod QR zasobu klasowego błyskawicznie z Loona. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa. Kolory niestandardowe, pobieranie PNG w wysokiej rozdzielczości.",
-  "id": "/loona-qr-codes/pl/classroom-resource-qr-code-generator/",
+  "id": "/pl/classroom-resource-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

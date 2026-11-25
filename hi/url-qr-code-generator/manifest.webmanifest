@@ -2,7 +2,7 @@
   "name": "Loona URL / वेबसाइट QR कोड जनरेटर",
   "short_name": "URL / वेबसाइट QR कोड",
   "description": "Loona के साथ तुरंत एक मुफ़्त URL / वेबसाइट QR कोड बनाएँ। कोई साइन-अप नहीं, कोई वॉटरमार्क नहीं, कभी समाप्त नहीं होता। किसी भी वेबसाइट लिंक को QR कोड में बदलें। कस्टम रंग, उच्च-रिज़ॉल्यूशन PNG डाउनलोड।",
-  "id": "/loona-qr-codes/hi/url-qr-code-generator/",
+  "id": "/hi/url-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

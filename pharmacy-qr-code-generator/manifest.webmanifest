@@ -2,7 +2,7 @@
   "name": "Loona Pharmacy QR Code Generator",
   "short_name": "Pharmacy QR Code Generator",
   "description": "Create a free Pharmacy QR code instantly with Loona. No signup, no watermark, never expires. Custom colours, high-resolution PNG download.",
-  "id": "/loona-qr-codes/pharmacy-qr-code-generator/",
+  "id": "/pharmacy-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

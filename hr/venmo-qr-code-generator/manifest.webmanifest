@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za Venmo",
   "short_name": "Generator QR kodova za Venmo",
   "description": "Stvorite besplatni QR kod za Venmo trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/venmo-qr-code-generator/",
+  "id": "/hr/venmo-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

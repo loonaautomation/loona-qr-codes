@@ -2,7 +2,7 @@
   "name": "Loona Ethereum Payment QR Code Generator",
   "short_name": "Ethereum Payment QR Code",
   "description": "Loona کے ساتھ مفت Ethereum Payment QR code فوراً بنائیں۔ کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، کبھی ختم نہیں ہوتا۔ حسبِ پسند رنگ، ہائی ریزولوشن PNG ڈاؤن لوڈ۔",
-  "id": "/loona-qr-codes/ur/ethereum-payment-qr-code-generator/",
+  "id": "/ur/ethereum-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

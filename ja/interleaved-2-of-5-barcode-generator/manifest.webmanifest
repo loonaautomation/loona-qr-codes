@@ -2,7 +2,7 @@
   "name": "Loona Interleaved 2 of 5 バーコード生成ツール",
   "short_name": "Interleaved 2 of 5 バーコード",
   "description": "無料の Interleaved 2 of 5 バーコード生成ツール。標準にチェックデジットがある場合は正しいものを作成し、PNG と SVG のダウンロードが可能、登録不要、透かしなし。",
-  "id": "/loona-qr-codes/ja/interleaved-2-of-5-barcode-generator/",
+  "id": "/ja/interleaved-2-of-5-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Códigos QR Zoom / Reuniões",
   "short_name": "Código QR do Zoom / Reunião",
   "description": "Crie um Código QR Zoom / Reuniões grátis instantaneamente com a Loona. Sem registro, sem marca de água, nunca expira. Leia para aderir a uma reunião ou aula. Cores personalizadas, transferência PNG em alta resolução.",
-  "id": "/loona-qr-codes/pt-br/zoom-meeting-qr-code-generator/",
+  "id": "/pt-br/zoom-meeting-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

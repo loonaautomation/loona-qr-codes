@@ -2,7 +2,7 @@
   "name": "Loona Generador de códigos de barras MSI Plessey",
   "short_name": "Generador de códigos de barras MSI Plessey",
   "description": "Generador de códigos de barras MSI Plessey gratuito. Dígitos de control correctos donde el estándar los tiene, descarga en PNG y SVG, sin registro, sin marca de agua.",
-  "id": "/loona-qr-codes/es/msi-barcode-generator/",
+  "id": "/es/msi-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

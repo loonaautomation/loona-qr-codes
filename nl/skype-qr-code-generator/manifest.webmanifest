@@ -2,7 +2,7 @@
   "name": "Loona Skype-gesprek-QR-codegenerator",
   "short_name": "Skype-gesprek-QR-codegenerator",
   "description": "Maak direct een gratis Skype-gesprek-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/skype-qr-code-generator/",
+  "id": "/nl/skype-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

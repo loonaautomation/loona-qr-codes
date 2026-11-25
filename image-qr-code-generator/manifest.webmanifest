@@ -2,7 +2,7 @@
   "name": "Loona Image QR Code Generator",
   "short_name": "Image QR Code Generator",
   "description": "Create a free Image QR Code instantly with Loona. No signup, no watermark, never expires. Scan to open a photo, poster, menu image or product picture. Custom colours, high-resolution PNG download.",
-  "id": "/loona-qr-codes/image-qr-code-generator/",
+  "id": "/image-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

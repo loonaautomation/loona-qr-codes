@@ -2,7 +2,7 @@
   "name": "Loona Emlak QR Kod Oluşturucu",
   "short_name": "Emlak QR Kod Oluşturucu",
   "description": "Loona ile anında ücretsiz bir Emlak QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/real-estate-qr-code-generator/",
+  "id": "/tr/real-estate-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

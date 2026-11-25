@@ -2,7 +2,7 @@
   "name": "Loona Data Matrix Barkod Oluşturucu",
   "short_name": "Data Matrix Barkod Oluşturucu",
   "description": "Ücretsiz Data Matrix barkod oluşturucu. Standartta olduğu yerde doğru kontrol basamakları, PNG ve SVG indirme, kayıt yok, filigran yok.",
-  "id": "/loona-qr-codes/tr/data-matrix-code-generator/",
+  "id": "/tr/data-matrix-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

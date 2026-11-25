@@ -2,7 +2,7 @@
   "name": "Penjana Kod Bar UPC-A Loona",
   "short_name": "Penjana Kod Bar UPC-A",
   "description": "Penjana kod bar UPC-A percuma. Digit semak betul di mana standard mempunyainya, muat turun PNG dan SVG, tiada pendaftaran, tiada tera air.",
-  "id": "/loona-qr-codes/ms/upc-a-barcode-generator/",
+  "id": "/ms/upc-a-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

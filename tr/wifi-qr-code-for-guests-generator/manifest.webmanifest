@@ -2,7 +2,7 @@
   "name": "Loona Misafir WiFi (Ev ve Café) QR Kod Oluşturucu",
   "short_name": "Misafir WiFi (Ev ve Café) QR",
   "description": "Loona ile anında ücretsiz bir Misafir WiFi (Ev &amp; Café) QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/wifi-qr-code-for-guests-generator/",
+  "id": "/tr/wifi-qr-code-for-guests-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

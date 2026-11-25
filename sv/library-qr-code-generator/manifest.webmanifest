@@ -2,7 +2,7 @@
   "name": "Loona bibliotek-QR-kodgenerator",
   "short_name": "Bibliotek-QR-kodgenerator",
   "description": "Skapa direkt en gratis bibliotek-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/library-qr-code-generator/",
+  "id": "/sv/library-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Nyomtatásra kész QR-kód generátor",
   "short_name": "Nyomtatásra kész QR-kód generátor",
   "description": "Hozzon létre ingyenes nyomtatásra kész QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/qr-code-for-print-generator/",
+  "id": "/hu/qr-code-for-print-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

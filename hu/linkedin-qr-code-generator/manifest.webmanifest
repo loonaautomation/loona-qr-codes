@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn QR-kód generátor",
   "short_name": "LinkedIn QR-kód generátor",
   "description": "Hozzon létre ingyenes LinkedIn QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Csatlakozzon professzionálisan egyetlen beolvasással. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/linkedin-qr-code-generator/",
+  "id": "/hu/linkedin-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Generator Kode QR Gambar Loona",
   "short_name": "Generator Kode QR Gambar",
   "description": "Buat Kode QR Gambar gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Pindai untuk membuka foto, poster, gambar menu, atau gambar produk. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/image-qr-code-generator/",
+  "id": "/id/image-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

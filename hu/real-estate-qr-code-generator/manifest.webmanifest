@@ -2,7 +2,7 @@
   "name": "Loona Ingatlan QR-kód generátor",
   "short_name": "Ingatlan QR-kód generátor",
   "description": "Hozzon létre ingyenes ingatlan QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/real-estate-qr-code-generator/",
+  "id": "/hu/real-estate-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona — Codice QR per ordinazioni al tavolo di ristorante",
   "short_name": "QR per ordinazioni ai tavoli del ristorante",
   "description": "Crea all’istante un codice QR per ordinazioni al tavolo di ristorante gratuito con Loona. Nessuna registrazione, nessuna filigrana, non scade mai. Colori personalizzati, download PNG ad alta risoluzione.",
-  "id": "/loona-qr-codes/it/restaurant-table-ordering-qr-code-generator/",
+  "id": "/it/restaurant-table-ordering-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

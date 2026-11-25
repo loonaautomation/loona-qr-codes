@@ -2,7 +2,7 @@
   "name": "Loona SMS QR-kód generátor",
   "short_name": "SMS QR-kód generátor",
   "description": "Hozzon létre ingyenes SMS QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Olvassa be előre megírt szöveges üzenet megnyitásához. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/sms-qr-code-generator/",
+  "id": "/hu/sms-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

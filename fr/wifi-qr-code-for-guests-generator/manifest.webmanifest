@@ -2,7 +2,7 @@
   "name": "Loona Générateur de code QR WiFi Invité (Maison et Café)",
   "short_name": "QR WiFi Invité (Maison et Café)",
   "description": "Créez un code QR WiFi Invité (Maison et Café) gratuit instantanément avec Loona. Aucune inscription, aucun filigrane, n’expire jamais. Couleurs personnalisées, téléchargement PNG haute résolution.",
-  "id": "/loona-qr-codes/fr/wifi-qr-code-for-guests-generator/",
+  "id": "/fr/wifi-qr-code-for-guests-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

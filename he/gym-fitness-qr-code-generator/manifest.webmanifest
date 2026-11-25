@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona לחדר כושר ולכושר",
   "short_name": "קוד QR לחדר כושר ולכושר",
   "description": "צרו קוד QR חינמי של חדר כושר וכושר מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/gym-fitness-qr-code-generator/",
+  "id": "/he/gym-fitness-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

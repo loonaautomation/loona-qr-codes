@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til TikTok",
   "short_name": "QR-kodegenerator til TikTok",
   "description": "Opret en gratis TikTok-QR-kode øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Scan for at åbne din TikTok-profil. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/tiktok-qr-code-generator/",
+  "id": "/da/tiktok-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

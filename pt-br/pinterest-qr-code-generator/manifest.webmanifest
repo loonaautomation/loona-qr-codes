@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Códigos QR do Pinterest",
   "short_name": "Gerador de Códigos QR do Pinterest",
   "description": "Crie um Código QR do Pinterest grátis instantaneamente com a Loona. Sem registro, sem marca de água, nunca expira. Leia para abrir um perfil ou álbum do Pinterest. Cores personalizadas, transferência PNG em alta resolução.",
-  "id": "/loona-qr-codes/pt-br/pinterest-qr-code-generator/",
+  "id": "/pt-br/pinterest-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

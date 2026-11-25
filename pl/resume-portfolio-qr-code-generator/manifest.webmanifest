@@ -2,7 +2,7 @@
   "name": "Generator kodów QR CV / portfolio Loona",
   "short_name": "Kod QR CV / portfolio",
   "description": "Utwórz darmowy kod QR CV / portfolio błyskawicznie z Loona. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa. Umieść swoje CV lub portfolio o jedno skanowanie away.",
-  "id": "/loona-qr-codes/pl/resume-portfolio-qr-code-generator/",
+  "id": "/pl/resume-portfolio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

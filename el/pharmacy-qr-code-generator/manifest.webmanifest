@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Φαρμακείου",
   "short_name": "Γεννήτρια Κωδικού QR Φαρμακείου",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Φαρμακείου αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/pharmacy-qr-code-generator/",
+  "id": "/el/pharmacy-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

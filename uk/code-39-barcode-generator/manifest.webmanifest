@@ -2,7 +2,7 @@
   "name": "Loona Генератор штрих-кодів Code 39",
   "short_name": "Генератор штрих-кодів Code 39",
   "description": "Безкоштовний генератор штрих-кодів Code 39. Правильні контрольні цифри там, де їх має стандарт, завантаження PNG і SVG, без реєстрації, без водяного знака.",
-  "id": "/loona-qr-codes/uk/code-39-barcode-generator/",
+  "id": "/uk/code-39-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

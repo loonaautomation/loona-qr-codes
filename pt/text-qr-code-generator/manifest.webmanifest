@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Códigos QR de Texto Simples",
   "short_name": "Gerador de Códigos QR de Texto Simples",
   "description": "Crie um Código QR de Texto Simples grátis instantaneamente com a Loona. Sem registo, sem marca de água, nunca expira. Coloque qualquer texto, código ou mensagem dentro de um código QR. Cores personalizadas, transferência PNG em alta resolução.",
-  "id": "/loona-qr-codes/pt/text-qr-code-generator/",
+  "id": "/pt/text-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

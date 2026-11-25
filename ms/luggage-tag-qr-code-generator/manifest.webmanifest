@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Tag Bagasi Loona",
   "short_name": "Penjana Kod QR Tag Bagasi",
   "description": "Cipta kod Tag Bagasi percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/luggage-tag-qr-code-generator/",
+  "id": "/ms/luggage-tag-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Generator Kode QR Pembayaran Litecoin Loona",
   "short_name": "Kode QR Pembayaran Litecoin",
   "description": "Buat kode QR Pembayaran Litecoin gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/litecoin-payment-qr-code-generator/",
+  "id": "/id/litecoin-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

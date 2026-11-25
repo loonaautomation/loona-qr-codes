@@ -2,7 +2,7 @@
   "name": "Generator kodów QR formularzy opinii Loona",
   "short_name": "Kod QR formularza opinii",
   "description": "Utwórz darmowy kod QR formularza opinii błyskawicznie z Loona. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa. Kolory niestandardowe, pobieranie PNG w wysokiej rozdzielczości.",
-  "id": "/loona-qr-codes/pl/feedback-form-qr-code-generator/",
+  "id": "/pl/feedback-form-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

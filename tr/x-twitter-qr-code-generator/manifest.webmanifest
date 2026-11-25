@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) QR Kod Oluşturucu",
   "short_name": "X (Twitter) QR Kod Oluşturucu",
   "description": "Loona ile anında ücretsiz bir X (Twitter) QR Kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. X profilinizi açmak için tarayın. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/x-twitter-qr-code-generator/",
+  "id": "/tr/x-twitter-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "מחולל ברקוד של Loona",
   "short_name": "מחולל ברקוד",
   "description": "צרו ברקודים חינמיים באינטרנט עם Loona: Code 128, Code 39, EAN-13, UPC-A ו-ITF-14. ספרות ביקורת מתווספות אוטומטית, תצוגה מקדימה חיה, הורדה כ-PNG או SVG. ללא הרשמה, ללא סימן מים, 100% פרטי בדפדפן שלכם.",
-  "id": "/loona-qr-codes/he/barcode-generator/",
+  "id": "/he/barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

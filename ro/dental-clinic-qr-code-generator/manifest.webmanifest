@@ -2,7 +2,7 @@
   "name": "Loona Generator de coduri QR pentru cabinete stomatologice și clinici",
   "short_name": "Cod QR pentru cabinete stomatologice și clinici",
   "description": "Creează gratuit un cod QR pentru cabinete stomatologice și clinici instantaneu cu Loona. Fără înregistrare, fără filigran, nu expiră niciodată. Culori personalizate, descărcare PNG la rezoluție înaltă.",
-  "id": "/loona-qr-codes/ro/dental-clinic-qr-code-generator/",
+  "id": "/ro/dental-clinic-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

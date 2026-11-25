@@ -2,7 +2,7 @@
   "name": "Loona Düğün Davetiyesi QR Kod Oluşturucu",
   "short_name": "Düğün Davetiyesi QR Kodu",
   "description": "Loona ile anında ücretsiz bir Düğün Davetiyesi QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/wedding-invitation-qr-code-generator/",
+  "id": "/tr/wedding-invitation-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

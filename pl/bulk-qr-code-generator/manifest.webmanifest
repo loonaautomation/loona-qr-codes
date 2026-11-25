@@ -2,7 +2,7 @@
   "name": "Generator wsadowych kodów QR Loona",
   "short_name": "Generator wsadowych kodów QR",
   "description": "Twórz do 100 kodów QR naraz, za darmo: wklej listę lub prześlij CSV linków i tekstów, otrzymaj oznaczony arkusz kodów QR do druku. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa, w 100% prywatne w Twojej przeglądarce.",
-  "id": "/loona-qr-codes/pl/bulk-qr-code-generator/",
+  "id": "/pl/bulk-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

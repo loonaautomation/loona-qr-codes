@@ -2,7 +2,7 @@
   "name": "Generator Kode QR Museum & Panduan Tur Loona",
   "short_name": "Kode QR Museum & Panduan Tur",
   "description": "Buat kode QR Museum & Panduan Tur gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/museum-tour-qr-code-generator/",
+  "id": "/id/museum-tour-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

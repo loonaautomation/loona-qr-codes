@@ -2,7 +2,7 @@
   "name": "Generator Kode Batang Pharmacode Loona",
   "short_name": "Generator Kode Batang Pharmacode",
   "description": "Generator kode batang Pharmacode gratis. Digit pemeriksa yang benar di tempat standar memilikinya, unduhan PNG dan SVG, tanpa pendaftaran, tanpa watermark.",
-  "id": "/loona-qr-codes/id/pharmacode-barcode-generator/",
+  "id": "/id/pharmacode-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "מחולל ברקוד Data Matrix של Loona",
   "short_name": "מחולל ברקוד Data Matrix",
   "description": "מחולל ברקוד Data Matrix חינמי. ספרות ביקורת נכונות היכן שהתקן כולל אותן, הורדת PNG ו-SVG, ללא הרשמה, ללא סימן מים.",
-  "id": "/loona-qr-codes/he/data-matrix-code-generator/",
+  "id": "/he/data-matrix-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

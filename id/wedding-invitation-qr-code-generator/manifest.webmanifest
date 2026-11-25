@@ -2,7 +2,7 @@
   "name": "Generator Kode QR Undangan Pernikahan Loona",
   "short_name": "Kode QR Undangan Pernikahan",
   "description": "Buat kode QR Undangan Pernikahan gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/wedding-invitation-qr-code-generator/",
+  "id": "/id/wedding-invitation-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

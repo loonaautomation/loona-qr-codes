@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Zoom / Cuộc họp Loona",
   "short_name": "Mã QR Zoom / Cuộc họp",
   "description": "Tạo mã QR Zoom / Cuộc họp miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Quét để tham gia cuộc họp hoặc lớp học. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/zoom-meeting-qr-code-generator/",
+  "id": "/vi/zoom-meeting-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

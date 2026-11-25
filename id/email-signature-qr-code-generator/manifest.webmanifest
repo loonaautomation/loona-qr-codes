@@ -2,7 +2,7 @@
   "name": "Generator Kode QR Tanda Tangan Email Loona",
   "short_name": "Kode QR Tanda Tangan Email",
   "description": "Buat kode QR Tanda Tangan Email gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/email-signature-qr-code-generator/",
+  "id": "/id/email-signature-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

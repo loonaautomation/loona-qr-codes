@@ -2,7 +2,7 @@
   "name": "เครื่องสร้างคิวอาร์โค้ด WiFi ของ Loona",
   "short_name": "เครื่องสร้างคิวอาร์โค้ด WiFi",
   "description": "สร้างคิวอาร์โค้ด WiFi ฟรีได้ทันทีด้วย Loona ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ แขกเชื่อมต่อ WiFi ด้วยการสแกนเพียงครั้งเดียว ไม่ต้องพิมพ์รหัสผ่าน สีที่กำหนดเอง ดาวน์โหลด PNG ความละเอียดสูง",
-  "id": "/loona-qr-codes/th/wifi-qr-code-generator/",
+  "id": "/th/wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

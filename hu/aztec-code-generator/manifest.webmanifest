@@ -2,7 +2,7 @@
   "name": "Loona Aztec Code vonalkódgenerátor",
   "short_name": "Aztec kód vonalkód generátor",
   "description": "Ingyenes Aztec kód vonalkód generátor. Helyes ellenőrző számjegyek, ahol a szabványnak vannak, PNG- és SVG-letöltés, nincs regisztráció, nincs vízjel.",
-  "id": "/loona-qr-codes/hu/aztec-code-generator/",
+  "id": "/hu/aztec-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

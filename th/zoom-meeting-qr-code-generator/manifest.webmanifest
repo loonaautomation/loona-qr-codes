@@ -2,7 +2,7 @@
   "name": "เครื่องสร้างคิวอาร์โค้ด Zoom / การประชุมของ Loona",
   "short_name": "คิวอาร์โค้ด Zoom / การประชุม",
   "description": "สร้างคิวอาร์โค้ด Zoom / การประชุมฟรีได้ทันทีด้วย Loona ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ สแกนเพื่อเข้าร่วมการประชุมหรือชั้นเรียน สีที่กำหนดเอง ดาวน์โหลด PNG ความละเอียดสูง",
-  "id": "/loona-qr-codes/th/zoom-meeting-qr-code-generator/",
+  "id": "/th/zoom-meeting-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

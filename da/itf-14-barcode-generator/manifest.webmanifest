@@ -2,7 +2,7 @@
   "name": "Loona ITF-14-stregkodegenerator",
   "short_name": "ITF-14-stregkodegenerator",
   "description": "Gratis ITF-14-stregkodegenerator. Korrekte kontrolcifre, hvor standarden har dem, download af PNG og SVG, ingen tilmelding, intet vandmærke.",
-  "id": "/loona-qr-codes/da/itf-14-barcode-generator/",
+  "id": "/da/itf-14-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

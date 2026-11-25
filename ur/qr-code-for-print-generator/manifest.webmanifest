@@ -2,7 +2,7 @@
   "name": "Loona Print-Ready QR Code Generator",
   "short_name": "Print-Ready QR Code Generator",
   "description": "Loona کے ساتھ مفت Print-Ready QR code فوراً بنائیں۔ کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، کبھی ختم نہیں ہوتا۔ حسبِ پسند رنگ، ہائی ریزولوشن PNG ڈاؤن لوڈ۔",
-  "id": "/loona-qr-codes/ur/qr-code-for-print-generator/",
+  "id": "/ur/qr-code-for-print-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

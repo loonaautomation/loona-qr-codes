@@ -2,7 +2,7 @@
   "name": "Loona PDF417 बारकोड जनरेटर",
   "short_name": "PDF417 बारकोड जनरेटर",
   "description": "मुफ़्त PDF417 बारकोड जनरेटर। जहाँ मानक में जाँच अंक होते हैं वहाँ सही जाँच अंक, PNG और SVG डाउनलोड, कोई साइन-अप नहीं, कोई वॉटरमार्क नहीं।",
-  "id": "/loona-qr-codes/hi/pdf417-generator/",
+  "id": "/hi/pdf417-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona WiFi-QR-koodigeneraattori",
   "short_name": "WiFi-QR-koodigeneraattori",
   "description": "Luo ilmainen WiFi-QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Vieraat yhdistävät WiFiin yhdellä skannauksella, ilman salasanan kirjoittamista. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/wifi-qr-code-generator/",
+  "id": "/fi/wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

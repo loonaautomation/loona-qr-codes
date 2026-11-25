@@ -2,7 +2,7 @@
   "name": "Generator kodów QR muzeów i przewodników Loona",
   "short_name": "Kod QR muzeum i przewodnika",
   "description": "Utwórz darmowy kod QR muzeum i przewodnika błyskawicznie z Loona. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa. Kolory niestandardowe, pobieranie PNG w wysokiej rozdzielczości.",
-  "id": "/loona-qr-codes/pl/museum-tour-qr-code-generator/",
+  "id": "/pl/museum-tour-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

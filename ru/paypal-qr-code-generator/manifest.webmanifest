@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодов PayPal",
   "short_name": "Генератор QR-кодов PayPal",
   "description": "Создайте бесплатный QR-код PayPal мгновенно с Loona. Без регистрации, без водяного знака, никогда не истекает. Получайте оплату: сканируйте, чтобы открыть вашу страницу PayPal.me. Настраиваемые цвета, скачивание PNG в высоком разрешении.",
-  "id": "/loona-qr-codes/ru/paypal-qr-code-generator/",
+  "id": "/ru/paypal-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

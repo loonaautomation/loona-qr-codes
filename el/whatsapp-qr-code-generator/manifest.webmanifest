@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR WhatsApp",
   "short_name": "Γεννήτρια Κωδικού QR WhatsApp",
   "description": "Δημιουργήστε έναν δωρεάν Κωδικό QR WhatsApp αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Ξεκινήστε μια συνομιλία WhatsApp με μία σάρωση, χωρίς αποθήκευση αριθμού. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/whatsapp-qr-code-generator/",
+  "id": "/el/whatsapp-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

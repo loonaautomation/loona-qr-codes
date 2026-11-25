@@ -2,7 +2,7 @@
   "name": "Loona Toate generatoarele de coduri QR și de bare",
   "short_name": "Toate codurile QR și codurile de bare",
   "description": "Întreaga bibliotecă QR Loona: generatoare de coduri de bare (Code 128, EAN-13, UPC, Data Matrix, PDF417), coduri QR de plată (SEPA, UPI, cripto, Venmo), cazuri de utilizare industriale și instrumente de tipărire.",
-  "id": "/loona-qr-codes/ro/qr-code-generators/",
+  "id": "/ro/qr-code-generators/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

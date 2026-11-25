@@ -2,7 +2,7 @@
   "name": "Loona Code 39 Barcode Generator",
   "short_name": "Code 39 Barcode Generator",
   "description": "Free Code 39 barcode generator. Correct check digits where the standard has them, PNG and SVG download, no signup, no watermark.",
-  "id": "/loona-qr-codes/code-39-barcode-generator/",
+  "id": "/code-39-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

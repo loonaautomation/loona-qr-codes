@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Códigos QR de Chamada Skype",
   "short_name": "Gerador de Códigos QR de Chamada Skype",
   "description": "Crie um código QR de Chamada Skype grátis instantaneamente com a Loona. Sem registo, sem marca de água, nunca expira. Cores personalizadas, transferência PNG em alta resolução.",
-  "id": "/loona-qr-codes/pt-pt/skype-qr-code-generator/",
+  "id": "/pt-pt/skype-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

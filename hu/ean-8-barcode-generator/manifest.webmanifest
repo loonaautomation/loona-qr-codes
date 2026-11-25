@@ -2,7 +2,7 @@
   "name": "Loona EAN-8 vonalkódgenerátor",
   "short_name": "EAN-8 vonalkód generátor",
   "description": "Ingyenes EAN-8 vonalkód generátor. Helyes ellenőrző számjegyek, ahol a szabványnak vannak, PNG- és SVG-letöltés, nincs regisztráció, nincs vízjel.",
-  "id": "/loona-qr-codes/hu/ean-8-barcode-generator/",
+  "id": "/hu/ean-8-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

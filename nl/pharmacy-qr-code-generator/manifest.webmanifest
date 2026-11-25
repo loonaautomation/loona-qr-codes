@@ -2,7 +2,7 @@
   "name": "Loona apotheek-QR-codegenerator",
   "short_name": "Apotheek-QR-codegenerator",
   "description": "Maak direct een gratis apotheek-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/pharmacy-qr-code-generator/",
+  "id": "/nl/pharmacy-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

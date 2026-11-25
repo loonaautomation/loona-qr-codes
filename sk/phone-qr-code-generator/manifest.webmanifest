@@ -2,7 +2,7 @@
   "name": "Loona Generátor QR kódov pre telefonický hovor",
   "short_name": "Generátor QR kódov pre telefonický hovor",
   "description": "Vytvorte si zadarmo QR kód pre telefonický hovor okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Naskenujte a okamžite vytočte svoje číslo. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
-  "id": "/loona-qr-codes/sk/phone-qr-code-generator/",
+  "id": "/sk/phone-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

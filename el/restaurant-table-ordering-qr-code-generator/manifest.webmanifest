@@ -2,7 +2,7 @@
   "name": "Loona — Κωδικός QR Παραγγελίας Τραπεζιού Εστιατορίου",
   "short_name": "QR Παραγγελίας Τραπεζιού Εστιατορίου",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Παραγγελίας Τραπεζιού Εστιατορίου αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/restaurant-table-ordering-qr-code-generator/",
+  "id": "/el/restaurant-table-ordering-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

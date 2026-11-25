@@ -2,7 +2,7 @@
   "name": "Loona レストランメニュー QRコード生成ツール",
   "short_name": "レストランメニュー QRコード",
   "description": "Loona で無料のレストランメニュー QRコードを即座に作成。登録不要、透かしなし、無期限。すべてのテーブルに非接触メニューを。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/restaurant-menu-qr-code-generator/",
+  "id": "/ja/restaurant-menu-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

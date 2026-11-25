@@ -2,7 +2,7 @@
   "name": "Loona Generador de códigos QR de reuniones de Microsoft Teams",
   "short_name": "QR de reunión de Microsoft Teams",
   "description": "Crea un código QR de reunión de Microsoft Teams gratuito al instante con Loona. Sin registro, sin marca de agua, nunca caduca. Colores personalizados, descarga de PNG en alta resolución.",
-  "id": "/loona-qr-codes/es/microsoft-teams-meeting-qr-code-generator/",
+  "id": "/es/microsoft-teams-meeting-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

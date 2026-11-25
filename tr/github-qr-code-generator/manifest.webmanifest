@@ -2,7 +2,7 @@
   "name": "Loona GitHub QR Kod Oluşturucu",
   "short_name": "GitHub QR Kod Oluşturucu",
   "description": "Loona ile anında ücretsiz bir GitHub QR Kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Bir GitHub profilini, deposunu veya proje sayfasını açmak için tarayın. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/github-qr-code-generator/",
+  "id": "/tr/github-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

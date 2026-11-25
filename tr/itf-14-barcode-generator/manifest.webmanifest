@@ -2,7 +2,7 @@
   "name": "Loona ITF-14 Barkod Oluşturucu",
   "short_name": "ITF-14 Barkod Oluşturucu",
   "description": "Ücretsiz ITF-14 barkod oluşturucu. Standartta olduğu yerde doğru kontrol basamakları, PNG ve SVG indirme, kayıt yok, filigran yok.",
-  "id": "/loona-qr-codes/tr/itf-14-barcode-generator/",
+  "id": "/tr/itf-14-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

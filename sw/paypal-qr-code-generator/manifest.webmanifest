@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa PayPal cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wa PayPal",
   "description": "Tengeneza Msimbo wa QR wa PayPal wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Lipwa: changanua ili kufungua ukurasa wako wa PayPal.me. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/paypal-qr-code-generator/",
+  "id": "/sw/paypal-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

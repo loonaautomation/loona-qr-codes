@@ -2,7 +2,7 @@
   "name": "Loona 音频二维码生成器",
   "short_name": "音频二维码生成器",
   "description": "用 Loona 立即创建一个免费的音频二维码。无需注册，无水印，永不过期。扫码播放语音笔记、歌曲、播客或音频指南。自定义颜色，高分辨率 PNG 下载。",
-  "id": "/loona-qr-codes/zh/audio-qr-code-generator/",
+  "id": "/zh/audio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

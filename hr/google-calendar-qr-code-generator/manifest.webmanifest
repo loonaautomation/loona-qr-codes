@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za događaj Google kalendara",
   "short_name": "QR kod za događaj Google kalendara",
   "description": "Stvorite besplatni QR kod za događaj Google kalendara trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/google-calendar-qr-code-generator/",
+  "id": "/hr/google-calendar-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

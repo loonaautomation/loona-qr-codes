@@ -2,7 +2,7 @@
   "name": "Loona 帶標誌二維碼生成器",
   "short_name": "帶標誌的二維碼生成器",
   "description": "免費帶標誌二維碼生成器：將您的標誌新增到二維碼中央，糾錯等級 H，自定義顏色，1024px PNG 下載，無水印。",
-  "id": "/loona-qr-codes/zh-hant/qr-code-with-logo-generator/",
+  "id": "/zh-hant/qr-code-with-logo-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

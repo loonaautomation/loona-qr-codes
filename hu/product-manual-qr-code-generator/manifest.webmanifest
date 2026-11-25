@@ -2,7 +2,7 @@
   "name": "Loona Termékkézikönyv és Útmutató QR-kód",
   "short_name": "Termékkézikönyv és Útmutató",
   "description": "Hozzon létre ingyenes termékkézikönyv és használati utasítás QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/product-manual-qr-code-generator/",
+  "id": "/hu/product-manual-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

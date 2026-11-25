@@ -2,7 +2,7 @@
   "name": "Loona Data Matrix streckkodgenerator",
   "short_name": "Data Matrix streckkodgenerator",
   "description": "Gratis Data Matrix streckkodgenerator. Korrekta kontrollsiffror där standarden har dem, PNG- och SVG-nedladdning, ingen registrering, ingen vattenstämpel.",
-  "id": "/loona-qr-codes/sv/data-matrix-code-generator/",
+  "id": "/sv/data-matrix-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

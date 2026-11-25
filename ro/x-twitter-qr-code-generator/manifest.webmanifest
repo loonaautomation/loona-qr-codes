@@ -2,7 +2,7 @@
   "name": "Loona Generator de coduri QR X (Twitter)",
   "short_name": "Generator de coduri QR X (Twitter)",
   "description": "Creează gratuit un cod QR X (Twitter) instantaneu cu Loona. Fără înregistrare, fără filigran, nu expiră niciodată. Scanează pentru a deschide profilul tău X. Culori personalizate, descărcare PNG la rezoluție înaltă.",
-  "id": "/loona-qr-codes/ro/x-twitter-qr-code-generator/",
+  "id": "/ro/x-twitter-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

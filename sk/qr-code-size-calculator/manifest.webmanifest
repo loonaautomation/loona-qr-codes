@@ -2,7 +2,7 @@
   "name": "Loona Kalkulačka veľkosti QR kódu",
   "short_name": "Kalkulačka veľkosti QR kódu",
   "description": "Bezplatná kalkulačka veľkosti QR kódu: zadajte skenovaciu vzdialenosť a typ obsahu a získajte minimálnu veľkosť tlače v cm, odporúčané rozlíšenie PNG a šírku tichej zóny.",
-  "id": "/loona-qr-codes/sk/qr-code-size-calculator/",
+  "id": "/sk/qr-code-size-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

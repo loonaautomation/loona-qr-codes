@@ -2,7 +2,7 @@
   "name": "Loona Tuotepakkaus-QR-koodigeneraattori",
   "short_name": "Tuotepakkaus-QR-koodi",
   "description": "Luo ilmainen tuotepakkauksen QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/product-packaging-qr-code-generator/",
+  "id": "/fi/product-packaging-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

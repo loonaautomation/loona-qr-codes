@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Zelle Loona",
   "short_name": "Penjana Kod QR Zelle",
   "description": "Cipta kod Zelle percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/zelle-qr-code-generator/",
+  "id": "/ms/zelle-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

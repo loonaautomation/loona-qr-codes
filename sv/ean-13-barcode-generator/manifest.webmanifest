@@ -2,7 +2,7 @@
   "name": "Loona EAN-13 streckkodgenerator",
   "short_name": "EAN-13 streckkodgenerator",
   "description": "Gratis EAN-13 streckkodgenerator. Korrekta kontrollsiffror där standarden har dem, PNG- och SVG-nedladdning, ingen registrering, ingen vattenstämpel.",
-  "id": "/loona-qr-codes/sv/ean-13-barcode-generator/",
+  "id": "/sv/ean-13-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

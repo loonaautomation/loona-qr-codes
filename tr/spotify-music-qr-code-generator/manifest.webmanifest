@@ -2,7 +2,7 @@
   "name": "Loona Spotify / Müzik QR Kod Oluşturucu",
   "short_name": "Spotify / Müzik QR Kodu",
   "description": "Loona ile anında ücretsiz bir Spotify / Müzik QR Kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Bir şarkı, çalma listesi veya podcast çalmak için tarayın. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/spotify-music-qr-code-generator/",
+  "id": "/tr/spotify-music-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

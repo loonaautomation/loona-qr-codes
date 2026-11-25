@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR WiFi",
   "short_name": "Γεννήτρια Κωδικού QR WiFi",
   "description": "Δημιουργήστε έναν δωρεάν Κωδικό QR WiFi αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Οι επισκέπτες συνδέονται στο WiFi με μία σάρωση, χωρίς πληκτρολόγηση κωδικού πρόσβασης. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/wifi-qr-code-generator/",
+  "id": "/el/wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

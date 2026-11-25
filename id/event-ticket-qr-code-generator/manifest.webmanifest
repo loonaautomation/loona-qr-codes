@@ -2,7 +2,7 @@
   "name": "Generator Kode QR Tiket Acara Loona",
   "short_name": "Generator Kode QR Tiket Acara",
   "description": "Buat kode QR Tiket Acara gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/event-ticket-qr-code-generator/",
+  "id": "/id/event-ticket-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

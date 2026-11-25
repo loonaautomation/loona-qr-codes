@@ -2,7 +2,7 @@
   "name": "เครื่องสร้างบาร์โค้ด PDF417 ของ Loona",
   "short_name": "เครื่องสร้างบาร์โค้ด PDF417",
   "description": "เครื่องสร้างบาร์โค้ด PDF417 ฟรี เลขตรวจสอบที่ถูกต้องในที่ที่มาตรฐานมีให้ ดาวน์โหลด PNG และ SVG ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ",
-  "id": "/loona-qr-codes/th/pdf417-generator/",
+  "id": "/th/pdf417-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona E-mail QR-kód generátor",
   "short_name": "E-mail QR-kód generátor",
   "description": "Hozzon létre ingyenes e-mail QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Olvassa be előre címzett e-mail megnyitásához, küldésre készen. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/email-qr-code-generator/",
+  "id": "/hu/email-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

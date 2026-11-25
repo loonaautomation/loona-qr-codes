@@ -2,7 +2,7 @@
   "name": "Loona EAN-8 Barcode Generator",
   "short_name": "EAN-8 Barcode Generator",
   "description": "বিনামূল্যে EAN-8 বারকোড জেনারেটর। মান যেখানে যাচাই সংখ্যা রাখে সেখানে সঠিক, PNG ও SVG ডাউনলোড, কোনো সাইনআপ নেই, কোনো ওয়াটারমার্ক নেই।",
-  "id": "/loona-qr-codes/bn/ean-8-barcode-generator/",
+  "id": "/bn/ean-8-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

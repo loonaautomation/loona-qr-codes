@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Sự kiện / Lịch Loona",
   "short_name": "Mã QR Sự kiện / Lịch",
   "description": "Tạo mã QR Sự kiện / Lịch miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Quét để lưu sự kiện vào lịch. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/event-calendar-qr-code-generator/",
+  "id": "/vi/event-calendar-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

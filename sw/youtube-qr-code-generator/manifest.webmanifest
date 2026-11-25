@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa YouTube cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wa YouTube",
   "description": "Tengeneza Msimbo wa QR wa YouTube wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Changanua ili kufungua video au kituo papo hapo. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/youtube-qr-code-generator/",
+  "id": "/sw/youtube-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

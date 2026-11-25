@@ -2,7 +2,7 @@
   "name": "Loona Kuva-QR-koodigeneraattori",
   "short_name": "Kuva-QR-koodigeneraattori",
   "description": "Luo ilmainen kuva-QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Skannaa avataksesi valokuvan, julisteen, ruokalistakuvan tai tuotekuvan. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/image-qr-code-generator/",
+  "id": "/fi/image-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

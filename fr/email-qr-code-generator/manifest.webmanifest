@@ -2,7 +2,7 @@
   "name": "Loona Générateur de code QR E-mail",
   "short_name": "Générateur de code QR E-mail",
   "description": "Créez un code QR E-mail gratuit instantanément avec Loona. Aucune inscription, aucun filigrane, n’expire jamais. Scannez pour ouvrir un e-mail pré-adressé, prêt à envoyer. Couleurs personnalisées, téléchargement PNG haute résolution.",
-  "id": "/loona-qr-codes/fr/email-qr-code-generator/",
+  "id": "/fr/email-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

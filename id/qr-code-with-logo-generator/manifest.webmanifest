@@ -2,7 +2,7 @@
   "name": "Generator Kode QR dengan Logo Loona",
   "short_name": "Generator Kode QR dengan Logo",
   "description": "Generator kode QR dengan logo gratis: tambahkan logo Anda ke tengah kode QR pada tingkat koreksi kesalahan H, warna kustom, unduhan PNG 1024px, tanpa watermark.",
-  "id": "/loona-qr-codes/id/qr-code-with-logo-generator/",
+  "id": "/id/qr-code-with-logo-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

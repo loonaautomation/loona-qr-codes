@@ -2,7 +2,7 @@
   "name": "Generator Kode QR Kontak vCard Loona",
   "short_name": "Kode QR Kontak vCard",
   "description": "Buat Kode QR Kontak vCard gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Pindai untuk menyimpan kartu kontak lengkap Anda ke ponsel. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/vcard-qr-code-generator/",
+  "id": "/id/vcard-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

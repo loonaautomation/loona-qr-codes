@@ -2,7 +2,7 @@
   "name": "Loona hotell & gäst hotell & gäst-WiFi-QR-kod",
   "short_name": "Hotell & gäst hotell & gäst",
   "description": "Skapa direkt en gratis hotell- & gäst-WiFi-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/hotel-wifi-qr-code-generator/",
+  "id": "/sv/hotel-wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

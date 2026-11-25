@@ -2,7 +2,7 @@
   "name": "Loona Food Truck QR-kód generátor",
   "short_name": "Food truck QR-kód generátor",
   "description": "Hozzon létre ingyenes food truck QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/food-truck-qr-code-generator/",
+  "id": "/hu/food-truck-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Cuộc gọi Skype Loona",
   "short_name": "Trình tạo mã QR Cuộc gọi Skype",
   "description": "Tạo mã QR Cuộc gọi Skype miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/skype-qr-code-generator/",
+  "id": "/vi/skype-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

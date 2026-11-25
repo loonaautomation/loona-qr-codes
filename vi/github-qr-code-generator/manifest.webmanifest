@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR GitHub Loona",
   "short_name": "Trình tạo mã QR GitHub",
   "description": "Tạo mã QR GitHub miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Quét để mở hồ sơ, kho mã hoặc trang dự án GitHub. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/github-qr-code-generator/",
+  "id": "/vi/github-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

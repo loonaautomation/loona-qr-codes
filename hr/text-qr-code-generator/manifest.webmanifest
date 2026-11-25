@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za običan tekst",
   "short_name": "Generator QR kodova za običan tekst",
   "description": "Stvorite besplatni QR kod za običan tekst trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Stavite bilo koji tekst, kod ili poruku unutar QR koda. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/text-qr-code-generator/",
+  "id": "/hr/text-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

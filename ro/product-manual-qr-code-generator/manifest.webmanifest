@@ -2,7 +2,7 @@
   "name": "Loona Cod QR pentru manuale de produs și instrucțiuni",
   "short_name": "Manual de produs și instrucțiuni",
   "description": "Creează gratuit un cod QR pentru manuale de produs și instrucțiuni instantaneu cu Loona. Fără înregistrare, fără filigran, nu expiră niciodată. Culori personalizate, descărcare PNG la rezoluție înaltă.",
-  "id": "/loona-qr-codes/ro/product-manual-qr-code-generator/",
+  "id": "/ro/product-manual-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

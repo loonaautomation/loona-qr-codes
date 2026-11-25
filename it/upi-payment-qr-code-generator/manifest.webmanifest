@@ -2,7 +2,7 @@
   "name": "Loona — Generatore di codici QR per pagamenti UPI",
   "short_name": "Generatore di codici QR per pagamenti UPI",
   "description": "Crea all’istante un codice QR per pagamenti UPI gratuito con Loona. Nessuna registrazione, nessuna filigrana, non scade mai. QR di pagamento UPI per negozi in India e nelle regioni UPI. Colori personalizzati, download PNG ad alta risoluzione.",
-  "id": "/loona-qr-codes/it/upi-payment-qr-code-generator/",
+  "id": "/it/upi-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

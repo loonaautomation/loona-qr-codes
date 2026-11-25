@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Malipo ya UPI cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wa Malipo ya UPI",
   "description": "Tengeneza Msimbo wa QR wa Malipo ya UPI wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. QR ya malipo ya UPI kwa maduka nchini India na maeneo ya UPI. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/upi-payment-qr-code-generator/",
+  "id": "/sw/upi-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

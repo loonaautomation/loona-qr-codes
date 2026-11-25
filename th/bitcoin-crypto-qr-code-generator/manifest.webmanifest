@@ -2,7 +2,7 @@
   "name": "เครื่องสร้างคิวอาร์โค้ด Bitcoin / คริปโตของ Loona",
   "short_name": "คิวอาร์โค้ด Bitcoin / คริปโต",
   "description": "สร้างคิวอาร์โค้ด Bitcoin / คริปโตฟรีได้ทันทีด้วย Loona ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ แชร์ที่อยู่กระเป๋าเงิน Bitcoin ในรูปแบบคิวอาร์ สีที่กำหนดเอง ดาวน์โหลด PNG ความละเอียดสูง",
-  "id": "/loona-qr-codes/th/bitcoin-crypto-qr-code-generator/",
+  "id": "/th/bitcoin-crypto-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

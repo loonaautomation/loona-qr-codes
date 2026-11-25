@@ -2,7 +2,7 @@
   "name": "เครื่องสร้างบาร์โค้ด Data Matrix ของ Loona",
   "short_name": "เครื่องสร้างบาร์โค้ด Data Matrix",
   "description": "เครื่องสร้างบาร์โค้ด Data Matrix ฟรี เลขตรวจสอบที่ถูกต้องในที่ที่มาตรฐานมีให้ ดาวน์โหลด PNG และ SVG ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ",
-  "id": "/loona-qr-codes/th/data-matrix-code-generator/",
+  "id": "/th/data-matrix-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

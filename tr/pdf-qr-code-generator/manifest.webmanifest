@@ -2,7 +2,7 @@
   "name": "Loona PDF QR Kod Oluşturucu",
   "short_name": "PDF QR Kod Oluşturucu",
   "description": "Loona ile anında ücretsiz bir PDF QR Kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Bir PDF dosyasını açmak veya indirmek için tarayın. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/pdf-qr-code-generator/",
+  "id": "/tr/pdf-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

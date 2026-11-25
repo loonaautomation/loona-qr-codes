@@ -2,7 +2,7 @@
   "name": "Loona उत्पाद मैनुअल और निर्देश QR कोड",
   "short_name": "उत्पाद मैनुअल और निर्देश",
   "description": "Loona के साथ तुरंत एक मुफ़्त उत्पाद मैनुअल और निर्देश QR कोड बनाएँ। कोई साइन-अप नहीं, कोई वॉटरमार्क नहीं, कभी समाप्त नहीं होता। कस्टम रंग, उच्च-रिज़ॉल्यूशन PNG डाउनलोड।",
-  "id": "/loona-qr-codes/hi/product-manual-qr-code-generator/",
+  "id": "/hi/product-manual-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

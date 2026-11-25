@@ -2,7 +2,7 @@
   "name": "מחולל ברקוד PDF417 של Loona",
   "short_name": "מחולל ברקוד PDF417",
   "description": "מחולל ברקוד PDF417 חינמי. ספרות ביקורת נכונות היכן שהתקן כולל אותן, הורדת PNG ו-SVG, ללא הרשמה, ללא סימן מים.",
-  "id": "/loona-qr-codes/he/pdf417-generator/",
+  "id": "/he/pdf417-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

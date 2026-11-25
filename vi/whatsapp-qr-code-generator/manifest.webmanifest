@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR WhatsApp Loona",
   "short_name": "Trình tạo mã QR WhatsApp",
   "description": "Tạo mã QR WhatsApp miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Bắt đầu cuộc trò chuyện WhatsApp bằng một lần quét, không cần lưu số. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/whatsapp-qr-code-generator/",
+  "id": "/vi/whatsapp-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

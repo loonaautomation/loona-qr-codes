@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo Pau wa Code 39 cha Loona",
   "short_name": "Kizalishaji cha Msimbo Pau wa Code 39",
   "description": "Kizalishaji cha bure cha msimbo pau wa Code 39. Rakamu sahihi za ukaguzi pale kiwango kinazo, upakuaji wa PNG na SVG, hakuna kujisajili, hakuna alama ya maji.",
-  "id": "/loona-qr-codes/sw/code-39-barcode-generator/",
+  "id": "/sw/code-39-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

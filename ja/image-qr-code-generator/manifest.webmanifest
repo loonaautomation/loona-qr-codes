@@ -2,7 +2,7 @@
   "name": "Loona 画像 QRコード生成ツール",
   "short_name": "画像 QRコード生成ツール",
   "description": "Loona で無料の画像 QRコードを即座に作成。登録不要、透かしなし、無期限。スキャンして写真、ポスター、メニュー画像、商品画像を開きます。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/image-qr-code-generator/",
+  "id": "/ja/image-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Semua Generator Kode QR & Kode Batang Loona",
   "short_name": "Semua QR &amp; Kode Batang",
   "description": "Pustaka QR Loona lengkap: generator kode batang (Code 128, EAN-13, UPC, Data Matrix, PDF417), kode QR pembayaran (SEPA, UPI, crypto, Venmo), kasus penggunaan industri, dan alat cetak.",
-  "id": "/loona-qr-codes/id/qr-code-generators/",
+  "id": "/id/qr-code-generators/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

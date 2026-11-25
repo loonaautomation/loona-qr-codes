@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодов меню ресторана",
   "short_name": "QR-код меню ресторана",
   "description": "Создайте бесплатный QR-код меню ресторана мгновенно с Loona. Без регистрации, без водяного знака, никогда не истекает. Бесконтактное меню на каждом столике. Настраиваемые цвета, скачивание PNG в высоком разрешении.",
-  "id": "/loona-qr-codes/ru/restaurant-menu-qr-code-generator/",
+  "id": "/ru/restaurant-menu-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

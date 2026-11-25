@@ -2,7 +2,7 @@
   "name": "Generátor QR kódů pro identifikační známky pro mazlíčky Loona",
   "short_name": "Generátor QR kódů pro identifikační známky pro mazlíčky",
   "description": "Vytvořte si zdarma QR kód pro identifikační známky pro mazlíčky okamžitě s Loonou. Bez registrace, bez vodoznaku, nikdy nevyprší. Vlastní barvy, stažení PNG ve vysokém rozlišení.",
-  "id": "/loona-qr-codes/cs/pet-tag-qr-code-generator/",
+  "id": "/cs/pet-tag-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

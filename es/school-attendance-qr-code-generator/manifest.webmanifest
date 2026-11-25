@@ -2,7 +2,7 @@
   "name": "Loona Código QR de asistencia escolar y formularios",
   "short_name": "QR de asistencia escolar y formularios",
   "description": "Crea un código QR de asistencia escolar y formularios gratuito al instante con Loona. Sin registro, sin marca de agua, nunca caduca. Colores personalizados, descarga de PNG en alta resolución.",
-  "id": "/loona-qr-codes/es/school-attendance-qr-code-generator/",
+  "id": "/es/school-attendance-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

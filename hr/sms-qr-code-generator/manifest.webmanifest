@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za SMS",
   "short_name": "Generator SMS QR kodova",
   "description": "Stvorite besplatni QR kod za SMS trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Skenirajte za otvaranje unaprijed napisane tekstualne poruke. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/sms-qr-code-generator/",
+  "id": "/hr/sms-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

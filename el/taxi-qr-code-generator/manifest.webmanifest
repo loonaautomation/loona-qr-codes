@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Ταξί & Μεταφοράς",
   "short_name": "Γεννήτρια Κωδικού QR Ταξί & Μεταφοράς",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Ταξί & Διαδρομής αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/taxi-qr-code-generator/",
+  "id": "/el/taxi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

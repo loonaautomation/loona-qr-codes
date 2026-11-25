@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa X (Twitter) cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wa X (Twitter)",
   "description": "Tengeneza Msimbo wa QR wa X (Twitter) wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Changanua ili kufungua wasifu wako wa X. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/x-twitter-qr-code-generator/",
+  "id": "/sw/x-twitter-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Free Resume / Portfolio QR Code Generator",
   "short_name": "Free Resume / Portfolio QR Code Generator",
   "description": "Create a free Resume / Portfolio QR Code instantly with Loona. No signup, no watermark, never expires. Put your resume or portfolio one scan away. Custom colors, high-resolution PNG download.",
-  "id": "/loona-qr-codes/en-us/resume-portfolio-qr-code-generator/",
+  "id": "/en-us/resume-portfolio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

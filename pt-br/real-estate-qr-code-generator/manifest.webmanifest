@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Códigos QR Imobiliário",
   "short_name": "Gerador de Códigos QR Imobiliário",
   "description": "Crie um código QR Imobiliário grátis instantaneamente com a Loona. Sem registro, sem marca de água, nunca expira. Cores personalizadas, transferência PNG em alta resolução.",
-  "id": "/loona-qr-codes/pt-br/real-estate-qr-code-generator/",
+  "id": "/pt-br/real-estate-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

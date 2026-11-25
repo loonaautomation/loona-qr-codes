@@ -2,7 +2,7 @@
   "name": "Mã QR JazzCash / EasyPaisa Loona (Pakistan)",
   "short_name": "Mã QR JazzCash / EasyPaisa",
   "description": "Tạo mã QR JazzCash hoặc EasyPaisa miễn phí cho Pakistan — không đăng ký, không hình mờ, không bao giờ hết hạn. Màu tùy chỉnh và tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/jazzcash-easypaisa-qr-code-generator/",
+  "id": "/vi/jazzcash-easypaisa-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

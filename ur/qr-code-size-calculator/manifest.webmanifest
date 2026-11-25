@@ -2,7 +2,7 @@
   "name": "Loona QR Code Size Calculator",
   "short_name": "QR Code Size Calculator",
   "description": "مفت QR کوڈ سائز کیلکولیٹر: اسکیننگ فاصلہ اور مواد کی قسم لکھیں تاکہ cm میں کم از کم پرنٹ سائز، تجویز کردہ PNG ریزولوشن اور خاموش زون حاصل کریں",
-  "id": "/loona-qr-codes/ur/qr-code-size-calculator/",
+  "id": "/ur/qr-code-size-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

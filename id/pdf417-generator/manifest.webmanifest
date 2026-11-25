@@ -2,7 +2,7 @@
   "name": "Generator Kode Batang PDF417 Loona",
   "short_name": "Generator Kode Batang PDF417",
   "description": "Generator kode batang PDF417 gratis. Digit pemeriksa yang benar di tempat standar memilikinya, unduhan PNG dan SVG, tanpa pendaftaran, tanpa watermark.",
-  "id": "/loona-qr-codes/id/pdf417-generator/",
+  "id": "/id/pdf417-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Saluni ya Urembo cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wa Saluni ya Urembo",
   "description": "Tengeneza msimbo wa QR wa Saluni ya Urembo wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/beauty-salon-qr-code-generator/",
+  "id": "/sw/beauty-salon-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Генератор на QR кодове за App Store / Google Play на Loona",
   "short_name": "QR код за App Store / Google Play",
   "description": "Създайте безплатен QR код за App Store / Google Play мигновено с Loona. Без регистрация, без воден знак, никога не изтича. Сканирайте, за да инсталирате приложението си. Персонализирани цветове, изтегляне на PNG с висока разделителна способност.",
-  "id": "/loona-qr-codes/bg/app-store-qr-code-generator/",
+  "id": "/bg/app-store-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

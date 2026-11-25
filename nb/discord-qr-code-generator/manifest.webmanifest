@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator for Discord",
   "short_name": "Discord-QR-kodegenerator",
   "description": "Lag en gratis Discord-QR-kode med en gang med Loona. Ingen registrering, ingen vannmerke, utløper aldri. Skann for å bli med i en Discord-server med en invitasjonslenke. Tilpassede farger, nedlasting av PNG i høy oppløsning.",
-  "id": "/loona-qr-codes/nb/discord-qr-code-generator/",
+  "id": "/nb/discord-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

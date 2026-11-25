@@ -1,7 +1,7 @@
 [
  {
   "n": "Generátor QR kódov pre URL / webovú stránku",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/url-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/url-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Premeňte každý odkaz na webovú stránku na QR kód.",
   "k": "url website qr code generator url qr code generator premente kazdy odkaz na webovu stranku na qr kod",
@@ -10,7 +10,7 @@
  },
  {
   "n": "Generátor QR kódov pre obyčajný text",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/text-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/text-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Vložte ľubovoľný text, kód alebo správu do QR kódu.",
   "k": "plain text qr code generator text qr code generator vlozte lubovolny text kod alebo spravu do qr kodu",
@@ -19,7 +19,7 @@
  },
  {
   "n": "Generátor QR kódov pre WiFi",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/wifi-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/wifi-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Hostia sa pripoja k WiFi jedným naskenovaním, bez zadávania hesla.",
   "k": "wifi qr code generator wifi qr code generator hostia sa pripoja k wifi jednym naskenovanim bez zadavania hesla",
@@ -28,7 +28,7 @@
  },
  {
   "n": "Generátor QR kódov pre WhatsApp",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/whatsapp-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/whatsapp-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Začnite chat WhatsApp jedným naskenovaním, bez ukladania čísla.",
   "k": "whatsapp qr code generator whatsapp qr code generator zacnite chat whatsapp jednym naskenovanim bez ukladania cisla",
@@ -37,7 +37,7 @@
  },
  {
   "n": "Generátor QR kódov pre kontakt vCard",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/vcard-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/vcard-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Naskenujte na uloženie celej kontaktnej karty do telefónu.",
   "k": "vcard contact qr code generator vcard qr code generator naskenujte na ulozenie celej kontaktnej karty do telefonu",
@@ -46,7 +46,7 @@
  },
  {
   "n": "Generátor QR kódov pre e-mail",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/email-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/email-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Naskenujte na otvorenie vopred adresovaného e-mailu, pripraveného na odoslanie.",
   "k": "email qr code generator email qr code generator naskenujte na otvorenie vopred adresovaneho e mailu pripraveneho na odoslanie",
@@ -55,7 +55,7 @@
  },
  {
   "n": "Generátor QR kódov pre SMS",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/sms-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/sms-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Naskenujte na otvorenie vopred napísanej textovej správy.",
   "k": "sms qr code generator sms qr code generator naskenujte na otvorenie vopred napisanej textovej spravy",
@@ -64,7 +64,7 @@
  },
  {
   "n": "Generátor QR kódov pre telefonický hovor",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/phone-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/phone-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Naskenujte na okamžité vytočenie vášho čísla.",
   "k": "phone call qr code generator phone qr code generator naskenujte na okamzite vytocenie vasho cisla",
@@ -73,7 +73,7 @@
  },
  {
   "n": "Generátor QR kódov pre Instagram",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/instagram-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/instagram-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Získavajte sledovateľov QR kódom Instagram na naskenovanie a sledovanie.",
   "k": "instagram qr code generator instagram qr code generator ziskavajte sledovatelov qr kodom instagram na naskenovanie a sledovanie",
@@ -82,7 +82,7 @@
  },
  {
   "n": "Generátor QR kódov pre Facebook",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/facebook-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/facebook-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Pošlite ľudí rovno na svoju stránku na Facebooku.",
   "k": "facebook qr code generator facebook qr code generator poslite ludi rovno na svoju stranku na facebooku",
@@ -91,7 +91,7 @@
  },
  {
   "n": "Generátor QR kódov pre YouTube",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/youtube-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/youtube-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Naskenujte na okamžité otvorenie videa alebo kanála.",
   "k": "youtube qr code generator youtube qr code generator naskenujte na okamzite otvorenie videa alebo kanala",
@@ -100,7 +100,7 @@
  },
  {
   "n": "Generátor QR kódov pre TikTok",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/tiktok-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/tiktok-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Naskenujte na otvorenie vášho profilu TikTok.",
   "k": "tiktok qr code generator tiktok qr code generator naskenujte na otvorenie vasho profilu tiktok",
@@ -109,7 +109,7 @@
  },
  {
   "n": "Generátor QR kódov pre X (Twitter)",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/x-twitter-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/x-twitter-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Naskenujte na otvorenie vášho profilu X.",
   "k": "x twitter qr code generator x twitter qr code generator naskenujte na otvorenie vasho profilu x",
@@ -118,7 +118,7 @@
  },
  {
   "n": "Generátor QR kódov pre LinkedIn",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/linkedin-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/linkedin-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Spojte sa profesionálne jedným naskenovaním.",
   "k": "linkedin qr code generator linkedin qr code generator spojte sa profesionalne jednym naskenovanim",
@@ -127,7 +127,7 @@
  },
  {
   "n": "Generátor QR kódov pre Telegram",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/telegram-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/telegram-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Naskenujte na pripojenie k vášmu profilu, skupine alebo kanálu Telegram.",
   "k": "telegram qr code generator telegram qr code generator naskenujte na pripojenie k vasmu profilu skupine alebo kanalu telegram",
@@ -136,7 +136,7 @@
  },
  {
   "n": "Generátor QR kódov pre Snapchat",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/snapchat-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/snapchat-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Naskenujte a pridajte si ma na Snapchat.",
   "k": "snapchat qr code generator snapchat qr code generator naskenujte a pridajte si ma na snapchat",
@@ -145,7 +145,7 @@
  },
  {
   "n": "Generátor QR kódov pre polohu v Mapách Google",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/google-maps-location-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/google-maps-location-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Naskenujte a získajte pokyny k vášmu miestu.",
   "k": "google maps location qr code generator google maps location qr code generator naskenujte a ziskajte pokyny k vasmu miestu",
@@ -154,7 +154,7 @@
  },
  {
   "n": "Generátor QR kódov pre recenzie Google",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/google-review-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/google-review-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Spokojní zákazníci zanechajú recenziu Google za pár sekúnd.",
   "k": "google review qr code generator google review qr code generator spokojni zakaznici zanechaju recenziu google za par sekund",
@@ -163,7 +163,7 @@
  },
  {
   "n": "Generátor QR kódov pre jedálny lístok reštaurácie",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/restaurant-menu-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/restaurant-menu-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Bezkontaktný jedálny lístok na každom stole.",
   "k": "restaurant menu qr code generator restaurant menu qr code generator bezkontaktny jedalny listok na kazdom stole",
@@ -172,7 +172,7 @@
  },
  {
   "n": "Generátor QR kódov pre PDF",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/pdf-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/pdf-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Naskenujte na otvorenie alebo stiahnutie súboru PDF.",
   "k": "pdf qr code generator pdf qr code generator naskenujte na otvorenie alebo stiahnutie suboru pdf",
@@ -181,7 +181,7 @@
  },
  {
   "n": "Generátor QR kódov pre App Store / Google Play",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/app-store-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/app-store-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Naskenujte na inštaláciu vašej aplikácie.",
   "k": "app store google play qr code generator app store qr code generator naskenujte na instalaciu vasej aplikacie",
@@ -190,7 +190,7 @@
  },
  {
   "n": "Generátor QR kódov pre Formulár Google",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/google-form-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/google-form-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Naskenujte na otvorenie a vyplnenie Formulára Google.",
   "k": "google form qr code generator google form qr code generator naskenujte na otvorenie a vyplnenie formulara google",
@@ -199,7 +199,7 @@
  },
  {
   "n": "Generátor QR kódov pre Zoom / stretnutie",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/zoom-meeting-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/zoom-meeting-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Naskenujte na pripojenie k stretnutiu alebo hodine.",
   "k": "zoom meeting qr code generator zoom meeting qr code generator naskenujte na pripojenie k stretnutiu alebo hodine",
@@ -208,7 +208,7 @@
  },
  {
   "n": "Generátor QR kódov pre podujatie / kalendár",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/event-calendar-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/event-calendar-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Naskenujte na uloženie podujatia do kalendára.",
   "k": "event calendar qr code generator event calendar qr code generator naskenujte na ulozenie podujatia do kalendara",
@@ -217,7 +217,7 @@
  },
  {
   "n": "Generátor QR kódov pre PayPal",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/paypal-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/paypal-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Nechajte si zaplatiť: naskenujte a otvorí sa vaša stránka PayPal.me.",
   "k": "paypal qr code generator paypal qr code generator nechajte si zaplatit naskenujte a otvori sa vasa stranka paypal me",
@@ -226,7 +226,7 @@
  },
  {
   "n": "Generátor QR kódov pre platbu UPI",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/upi-payment-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/upi-payment-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Platobné QR UPI pre obchody v Indii a regiónoch UPI.",
   "k": "upi payment qr code generator upi payment qr code generator platobne qr upi pre obchody v indii a regionoch upi",
@@ -235,7 +235,7 @@
  },
  {
   "n": "Generátor QR kódov pre JazzCash / EasyPaisa (Pakistan)",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/jazzcash-easypaisa-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/jazzcash-easypaisa-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Zdieľajte údaje svojho účtu JazzCash alebo EasyPaisa ako QR kód.",
   "k": "jazzcash easypaisa qr code pakistan generator jazzcash easypaisa qr code generator zdielajte udaje svojho uctu jazzcash alebo easypaisa ako qr kod",
@@ -244,7 +244,7 @@
  },
  {
   "n": "Generátor QR kódov pre Bitcoin / krypto",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/bitcoin-crypto-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/bitcoin-crypto-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Zdieľajte adresu bitcoinovej peňaženky ako QR kód.",
   "k": "bitcoin crypto qr code generator bitcoin crypto qr code generator zdielajte adresu bitcoinovej penazenky ako qr kod",
@@ -253,7 +253,7 @@
  },
  {
   "n": "Generátor QR kódov pre Spotify / hudbu",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/spotify-music-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/spotify-music-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Naskenujte na prehranie piesne, playlistu alebo podcastu.",
   "k": "spotify music qr code generator spotify music qr code generator naskenujte na prehranie piesne playlistu alebo podcastu",
@@ -262,7 +262,7 @@
  },
  {
   "n": "Generátor QR kódov pre životopis / portfólio",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/resume-portfolio-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/resume-portfolio-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Dajte svoj životopis alebo portfólio na jedno naskenovanie.",
   "k": "resume portfolio qr code generator resume portfolio qr code generator dajte svoj zivotopis alebo portfolio na jedno naskenovanie",
@@ -271,7 +271,7 @@
  },
  {
   "n": "Generátor obrázkových QR kódov",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/image-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/image-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Naskenujte na otvorenie alebo zdieľanie odkazu na fotografiu alebo obrázok.",
   "k": "image qr code generator image qr code generator naskenujte na otvorenie alebo zdielanie odkazu na fotografiu alebo obrazok",
@@ -280,7 +280,7 @@
  },
  {
   "n": "Generátor QR kódov pre audio",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/audio-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/audio-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Naskenujte na prehranie piesne, hlasovej poznámky alebo zvukového súboru.",
   "k": "audio qr code generator audio qr code generator naskenujte na prehranie piesne hlasovej poznamky alebo zvukoveho suboru",
@@ -289,7 +289,7 @@
  },
  {
   "n": "Generátor QR kódov pre sociálne siete",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/social-media-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/social-media-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Jeden QR kód pre odkazy na vaše profily sociálnych sietí.",
   "k": "social media qr code generator social media qr code generator jeden qr kod pre odkazy na vase profily socialnych sieti",
@@ -298,7 +298,7 @@
  },
  {
   "n": "Generátor QR kódov pre Pinterest",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/pinterest-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/pinterest-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Naskenujte na otvorenie vášho profilu alebo nástenky Pinterest.",
   "k": "pinterest qr code generator pinterest qr code generator naskenujte na otvorenie vasho profilu alebo nastenky pinterest",
@@ -307,7 +307,7 @@
  },
  {
   "n": "Generátor QR kódov pre Discord",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/discord-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/discord-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Naskenujte na pripojenie k vášmu serveru alebo profilu Discord.",
   "k": "discord qr code generator discord qr code generator naskenujte na pripojenie k vasmu serveru alebo profilu discord",
@@ -316,7 +316,7 @@
  },
  {
   "n": "Generátor QR kódov pre GitHub",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/github-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/github-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Naskenujte na otvorenie vášho profilu alebo repozitára GitHub.",
   "k": "github qr code generator github qr code generator naskenujte na otvorenie vasho profilu alebo repozitara github",
@@ -325,7 +325,7 @@
  },
  {
   "n": "Skener QR kódov a čiarových kódov",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/qr-code-scanner/",
+  "u": "https://qr.loonaautomation.com/sk/qr-code-scanner/",
   "s": "Loona QR Codes",
   "d": "Skenujte kódy fotoaparátom, alebo dekódujte QR kódy a čiarové kódy z fotografie či snímky obrazovky.",
   "k": "qr code barcode scanner qr code scanner skenujte kody fotoaparatom alebo dekodujte qr kody a ciarove kody z fotografie ci snimky obrazovky",
@@ -334,7 +334,7 @@
  },
  {
   "n": "Hromadný generátor QR kódov",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/bulk-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/sk/bulk-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Vytvorte naraz až 100 označených QR kódov v tlačiteľnom hárku.",
   "k": "bulk qr code generator bulk qr code generator vytvorte naraz az 100 oznacenych qr kodov v tlacitelnom harku",
@@ -343,7 +343,7 @@
  },
  {
   "n": "Generátor čiarových kódov",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/barcode-generator/",
+  "u": "https://qr.loonaautomation.com/sk/barcode-generator/",
   "s": "Loona QR Codes",
   "d": "Vytvárajte čiarové kódy produktov — Code 128, EAN-13, UPC a ďalšie.",
   "k": "barcode generator barcode generator vytvarajte ciarove kody produktov code 128 ean 13 upc a dalsie",
@@ -352,7 +352,7 @@
  },
  {
   "n": "Všetky nástroje Loona — QR kódy",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/sk/tool-qr-codes/",
+  "u": "https://qr.loonaautomation.com/sk/tool-qr-codes/",
   "s": "Loona QR Codes",
   "d": "Získajte hotový QR kód pre ľubovoľný nástroj Loona — kalkulačky, nástroje PDF, obrázkové nástroje a ďalšie. Prehľadajte všetkých 872 nástrojov a aplikácií Loona, stiahnite si QR kód a vytlačte ho.",
   "k": "qr codes for all loona tools tool qr codes ziskajte hotovy qr kod pre lubovolny nastroj loona kalkulacky nastroje pdf obrazkove nastroje a dalsie prehladajte vsetkych 872 nastrojov a aplikacii loona stiahnite si qr kod a vytlacte ho",

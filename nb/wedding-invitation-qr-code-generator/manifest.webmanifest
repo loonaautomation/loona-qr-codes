@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator for bryllupsinvitasjon",
   "short_name": "QR-kode for bryllupsinvitasjon",
   "description": "Lag en gratis QR-kode for bryllupsinvitasjon med en gang med Loona. Ingen registrering, ingen vannmerke, utløper aldri. Tilpassede farger, nedlasting av PNG i høy oppløsning.",
-  "id": "/loona-qr-codes/nb/wedding-invitation-qr-code-generator/",
+  "id": "/nb/wedding-invitation-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

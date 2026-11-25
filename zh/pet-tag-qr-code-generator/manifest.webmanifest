@@ -2,7 +2,7 @@
   "name": "Loona 宠物身份标签二维码生成器",
   "short_name": "宠物身份标签二维码生成器",
   "description": "用 Loona 立即创建一个免费的宠物身份标签二维码。无需注册，无水印，永不过期。自定义颜色，高分辨率 PNG 下载。",
-  "id": "/loona-qr-codes/zh/pet-tag-qr-code-generator/",
+  "id": "/zh/pet-tag-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

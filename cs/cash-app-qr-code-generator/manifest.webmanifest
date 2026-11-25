@@ -2,7 +2,7 @@
   "name": "Generátor QR kódů pro Cash App Loona",
   "short_name": "Generátor QR kódů pro Cash App",
   "description": "Vytvořte si zdarma QR kód pro Cash App okamžitě s Loonou. Bez registrace, bez vodoznaku, nikdy nevyprší. Vlastní barvy, stažení PNG ve vysokém rozlišení.",
-  "id": "/loona-qr-codes/cs/cash-app-qr-code-generator/",
+  "id": "/cs/cash-app-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

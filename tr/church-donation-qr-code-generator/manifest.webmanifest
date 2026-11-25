@@ -2,7 +2,7 @@
   "name": "Loona Kilise ve Yardım Bağışı QR Kod Oluşturucu",
   "short_name": "Kilise &amp; Yardım Bağışı QR",
   "description": "Loona ile anında ücretsiz bir Kilise &amp; Yardım Bağışı QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/church-donation-qr-code-generator/",
+  "id": "/tr/church-donation-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

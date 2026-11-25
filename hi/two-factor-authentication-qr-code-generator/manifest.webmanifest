@@ -2,7 +2,7 @@
   "name": "Loona दो-कारक प्रमाणीकरण (TOTP) QR कोड",
   "short_name": "दो-कारक प्रमाणीकरण",
   "description": "Loona के साथ तुरंत एक मुफ़्त दो-कारक प्रमाणीकरण (TOTP) QR कोड बनाएँ। कोई साइन-अप नहीं, कोई वॉटरमार्क नहीं, कभी समाप्त नहीं होता। कस्टम रंग, उच्च-रिज़ॉल्यूशन PNG डाउनलोड।",
-  "id": "/loona-qr-codes/hi/two-factor-authentication-qr-code-generator/",
+  "id": "/hi/two-factor-authentication-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

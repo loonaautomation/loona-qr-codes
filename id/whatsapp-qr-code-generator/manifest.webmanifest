@@ -2,7 +2,7 @@
   "name": "Generator Kode QR WhatsApp Loona",
   "short_name": "Generator Kode QR WhatsApp",
   "description": "Buat Kode QR WhatsApp gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Mulai obrolan WhatsApp dengan satu pemindaian, tanpa menyimpan nomor. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/whatsapp-qr-code-generator/",
+  "id": "/id/whatsapp-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Msimbo wa QR wa WiFi wa Hoteli na Wageni Hoteli na Wageni wa Loona",
   "short_name": "Hoteli na Wageni Hoteli na Wageni",
   "description": "Tengeneza msimbo wa QR wa WiFi ya Hoteli na Wageni wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/hotel-wifi-qr-code-generator/",
+  "id": "/sw/hotel-wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодів візиток",
   "short_name": "QR-код візитки",
   "description": "Створіть безкоштовний QR-код візитки миттєво з Loona. Без реєстрації, без водяного знака, строк дії ніколи не закінчується. Користувацькі кольори, завантаження PNG у високій роздільній здатності.",
-  "id": "/loona-qr-codes/uk/business-card-qr-code-generator/",
+  "id": "/uk/business-card-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

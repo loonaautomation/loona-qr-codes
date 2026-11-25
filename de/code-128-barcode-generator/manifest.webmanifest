@@ -2,7 +2,7 @@
   "name": "Loona Code 128-Barcode-Generator",
   "short_name": "Code 128-Barcode-Generator",
   "description": "Kostenloser Code 128-Barcode-Generator. Korrekte Prüfziffern, wo der Standard sie hat, PNG- und SVG-Download, keine Anmeldung, kein Wasserzeichen.",
-  "id": "/loona-qr-codes/de/code-128-barcode-generator/",
+  "id": "/de/code-128-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

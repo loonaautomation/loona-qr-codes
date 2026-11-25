@@ -2,7 +2,7 @@
   "name": "Loona QR 코드 및 바코드 스캐너",
   "short_name": "QR 코드 및 바코드 스캐너",
   "description": "Loona로 QR 코드와 바코드를 온라인에서 무료로 스캔하세요: 카메라를 쓰거나 사진 또는 스크린샷을 업로드하세요. URL, WiFi, vCard 연락처, EAN-13, UPC-A, Code 128, Code 39를 디코딩해요. 100% 비공개예요. 모든 것이 회원님 기기에서 디코딩되고, 아무것도 업로드되지 않아요.",
-  "id": "/loona-qr-codes/ko/qr-code-scanner/",
+  "id": "/ko/qr-code-scanner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

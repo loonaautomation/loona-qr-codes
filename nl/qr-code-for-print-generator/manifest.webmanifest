@@ -2,7 +2,7 @@
   "name": "Loona printklare QR-codegenerator",
   "short_name": "Printklare QR-codegenerator",
   "description": "Maak direct een gratis printklare QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/qr-code-for-print-generator/",
+  "id": "/nl/qr-code-for-print-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

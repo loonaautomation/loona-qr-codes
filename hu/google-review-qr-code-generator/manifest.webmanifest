@@ -2,7 +2,7 @@
   "name": "Loona Google Értékelés QR-kód generátor",
   "short_name": "Google értékelés QR-kód",
   "description": "Hozzon létre ingyenes Google értékelés QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. A boldog ügyfelek másodpercek alatt Google-értékelést hagynak. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/google-review-qr-code-generator/",
+  "id": "/hu/google-review-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

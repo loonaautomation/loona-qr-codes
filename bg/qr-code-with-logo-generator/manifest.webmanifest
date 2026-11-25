@@ -2,7 +2,7 @@
   "name": "Генератор на QR кодове с лого на Loona",
   "short_name": "Генератор на QR кодове с лого",
   "description": "Безплатен генератор на QR кодове с лого: добавете логото си в центъра на QR код при ниво на корекция на грешки H, персонализирани цветове, изтегляне на PNG от 1024px, без воден знак.",
-  "id": "/loona-qr-codes/bg/qr-code-with-logo-generator/",
+  "id": "/bg/qr-code-with-logo-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona EAN-13 バーコード生成ツール",
   "short_name": "EAN-13 バーコード生成ツール",
   "description": "無料の EAN-13 バーコード生成ツール。標準にチェックデジットがある場合は正しいものを作成し、PNG と SVG のダウンロードが可能、登録不要、透かしなし。",
-  "id": "/loona-qr-codes/ja/ean-13-barcode-generator/",
+  "id": "/ja/ean-13-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

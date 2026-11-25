@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Pinterest cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wa Pinterest",
   "description": "Tengeneza Msimbo wa QR wa Pinterest wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Changanua ili kufungua wasifu au ubao wa Pinterest. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/pinterest-qr-code-generator/",
+  "id": "/sw/pinterest-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

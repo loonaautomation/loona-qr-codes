@@ -2,7 +2,7 @@
   "name": "Loona Google Form-QR-kodgenerator",
   "short_name": "Google Form QR-kodgenerator",
   "description": "Skapa direkt en gratis Google Form-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Skanna för att öppna och fylla i ett Google-formulär. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/google-form-qr-code-generator/",
+  "id": "/sv/google-form-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

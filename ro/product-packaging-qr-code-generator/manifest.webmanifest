@@ -2,7 +2,7 @@
   "name": "Loona Generator de coduri QR pentru ambalaje de produse",
   "short_name": "Cod QR pentru ambalaje de produse",
   "description": "Creează gratuit un cod QR pentru ambalaje de produse instantaneu cu Loona. Fără înregistrare, fără filigran, nu expiră niciodată. Culori personalizate, descărcare PNG la rezoluție înaltă.",
-  "id": "/loona-qr-codes/ro/product-packaging-qr-code-generator/",
+  "id": "/ro/product-packaging-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

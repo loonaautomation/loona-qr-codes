@@ -2,7 +2,7 @@
   "name": "Generator Kode QR Acara Google Calendar Loona",
   "short_name": "Kode QR Acara Google Calendar",
   "description": "Buat kode QR Acara Google Calendar gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/google-calendar-qr-code-generator/",
+  "id": "/id/google-calendar-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Códigos de Barras Code 39",
   "short_name": "Gerador de Códigos de Barras Code 39",
   "description": "Gerador de códigos de barras Code 39 gratuito. Dígitos de controlo corretos onde a norma os tem, transferência PNG e SVG, sem registo, sem marca de água.",
-  "id": "/loona-qr-codes/pt-pt/code-39-barcode-generator/",
+  "id": "/pt-pt/code-39-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

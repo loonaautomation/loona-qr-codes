@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Simu ya Kupiga cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wa Simu ya Kupiga",
   "description": "Tengeneza Msimbo wa QR wa Simu ya Kupiga wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Changanua ili kupiga namba yako papo hapo. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/phone-qr-code-generator/",
+  "id": "/sw/phone-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

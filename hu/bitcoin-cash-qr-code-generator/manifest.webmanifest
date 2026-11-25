@@ -2,7 +2,7 @@
   "name": "Loona Bitcoin Cash Fizetés QR-kód generátor",
   "short_name": "Bitcoin Cash fizetési QR-kód",
   "description": "Hozzon létre ingyenes Bitcoin Cash fizetési QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/bitcoin-cash-qr-code-generator/",
+  "id": "/hu/bitcoin-cash-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодов Bitcoin / криптовалют",
   "short_name": "QR-код Bitcoin / Crypto",
   "description": "Создайте бесплатный QR-код Bitcoin / Crypto мгновенно с Loona. Без регистрации, без водяного знака, никогда не истекает. Делитесь адресом кошелька Bitcoin в виде QR. Настраиваемые цвета, скачивание PNG в высоком разрешении.",
-  "id": "/loona-qr-codes/ru/bitcoin-crypto-qr-code-generator/",
+  "id": "/ru/bitcoin-crypto-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

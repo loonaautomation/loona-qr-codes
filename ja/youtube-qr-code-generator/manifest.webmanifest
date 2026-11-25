@@ -2,7 +2,7 @@
   "name": "Loona YouTube QRコード生成ツール",
   "short_name": "YouTube QRコード生成ツール",
   "description": "Loona で無料の YouTube QRコードを即座に作成。登録不要、透かしなし、無期限。スキャンして動画やチャンネルを即座に開きます。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/youtube-qr-code-generator/",
+  "id": "/ja/youtube-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

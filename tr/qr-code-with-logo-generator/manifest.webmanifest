@@ -2,7 +2,7 @@
   "name": "Loona Logolu QR Kod Oluşturucu",
   "short_name": "Logolu QR Kod Oluşturucu",
   "description": "Ücretsiz logolu QR kod oluşturucu: H hata düzeltme düzeyinde bir QR kodun ortasına logonuzu ekleyin, özel renkler, 1024px PNG indirme, filigran yok.",
-  "id": "/loona-qr-codes/tr/qr-code-with-logo-generator/",
+  "id": "/tr/qr-code-with-logo-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

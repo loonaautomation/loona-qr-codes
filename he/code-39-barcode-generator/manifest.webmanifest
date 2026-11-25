@@ -2,7 +2,7 @@
   "name": "מחולל ברקוד Code 39 של Loona",
   "short_name": "מחולל ברקוד Code 39",
   "description": "מחולל ברקוד Code 39 חינמי. ספרות ביקורת נכונות היכן שהתקן כולל אותן, הורדת PNG ו-SVG, ללא הרשמה, ללא סימן מים.",
-  "id": "/loona-qr-codes/he/code-39-barcode-generator/",
+  "id": "/he/code-39-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

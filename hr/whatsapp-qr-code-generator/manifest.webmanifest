@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za WhatsApp",
   "short_name": "Generator QR kodova za WhatsApp",
   "description": "Stvorite besplatni QR kod za WhatsApp trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Započnite WhatsApp razgovor jednim skeniranjem, bez spremanja broja. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/whatsapp-qr-code-generator/",
+  "id": "/hr/whatsapp-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

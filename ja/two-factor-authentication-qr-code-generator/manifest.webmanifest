@@ -2,7 +2,7 @@
   "name": "Loona 二要素認証 (TOTP) QRコード",
   "short_name": "二要素認証",
   "description": "Loona で無料の二要素認証 (TOTP) QRコードを即座に作成。登録不要、透かしなし、無期限。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/two-factor-authentication-qr-code-generator/",
+  "id": "/ja/two-factor-authentication-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Códigos QR de Contato vCard",
   "short_name": "Código QR de Contato vCard",
   "description": "Crie um Código QR de Contato vCard grátis instantaneamente com a Loona. Sem registro, sem marca de água, nunca expira. Leia para salvar o seu cartão de contato completo num celular. Cores personalizadas, transferência PNG em alta resolução.",
-  "id": "/loona-qr-codes/pt-br/vcard-qr-code-generator/",
+  "id": "/pt-br/vcard-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

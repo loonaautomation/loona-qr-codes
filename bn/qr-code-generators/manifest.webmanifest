@@ -2,7 +2,7 @@
   "name": "Loona All QR Code & Barcode Generators",
   "short_name": "সব QR Code & Barcode",
   "description": "সম্পূর্ণ Loona QR লাইব্রেরি: বারকোড জেনারেটর (Code 128, EAN-13, UPC, Data Matrix, PDF417), পেমেন্ট QR কোড (SEPA, UPI, ক্রিপ্টো, Venmo), শিল্প-ব্যবহারের ক্ষেত্র এবং ছাপার টুল।",
-  "id": "/loona-qr-codes/bn/qr-code-generators/",
+  "id": "/bn/qr-code-generators/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

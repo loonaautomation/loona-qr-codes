@@ -2,7 +2,7 @@
   "name": "Loona Generador de códigos QR de letra grande",
   "short_name": "Generador de códigos QR de letra grande",
   "description": "Crea un código QR de letra grande gratuito al instante con Loona. Sin registro, sin marca de agua, nunca caduca. Colores personalizados, descarga de PNG en alta resolución.",
-  "id": "/loona-qr-codes/es/large-print-qr-code-generator/",
+  "id": "/es/large-print-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

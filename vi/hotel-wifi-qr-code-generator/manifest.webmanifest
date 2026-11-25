@@ -2,7 +2,7 @@
   "name": "Mã QR WiFi Hotel & Guest Hotel & Guest Loona",
   "short_name": "Hotel & Guest Hotel & Guest",
   "description": "Tạo mã QR WiFi Khách sạn & Khách miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/hotel-wifi-qr-code-generator/",
+  "id": "/vi/hotel-wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

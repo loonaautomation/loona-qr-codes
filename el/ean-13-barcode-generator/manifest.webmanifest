@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Barcode EAN-13",
   "short_name": "Γεννήτρια Γραμμωτού Κωδικού EAN-13",
   "description": "Δωρεάν γεννήτρια γραμμωτού κωδικού EAN-13. Σωστά ψηφία ελέγχου όπου το πρότυπο τα έχει, λήψη PNG και SVG, χωρίς εγγραφή, χωρίς υδατογράφημα.",
-  "id": "/loona-qr-codes/el/ean-13-barcode-generator/",
+  "id": "/el/ean-13-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Generator Kode QR Formulir Masukan Loona",
   "short_name": "Kode QR Formulir Masukan",
   "description": "Buat kode QR Formulir Masukan gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/feedback-form-qr-code-generator/",
+  "id": "/id/feedback-form-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

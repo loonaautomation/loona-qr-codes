@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo Pau wa EAN-8 cha Loona",
   "short_name": "Kizalishaji cha Msimbo Pau wa EAN-8",
   "description": "Kizalishaji cha bure cha msimbo pau wa EAN-8. Rakamu sahihi za ukaguzi pale kiwango kinazo, upakuaji wa PNG na SVG, hakuna kujisajili, hakuna alama ya maji.",
-  "id": "/loona-qr-codes/sw/ean-8-barcode-generator/",
+  "id": "/sw/ean-8-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

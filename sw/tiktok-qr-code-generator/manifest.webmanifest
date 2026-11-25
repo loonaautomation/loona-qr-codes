@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa TikTok cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wa TikTok",
   "description": "Tengeneza Msimbo wa QR wa TikTok wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Changanua ili kufungua wasifu wako wa TikTok. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/tiktok-qr-code-generator/",
+  "id": "/sw/tiktok-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

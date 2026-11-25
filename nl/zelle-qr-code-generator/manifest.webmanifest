@@ -2,7 +2,7 @@
   "name": "Loona Zelle-QR-codegenerator",
   "short_name": "Zelle-QR-codegenerator",
   "description": "Maak direct een gratis Zelle-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/zelle-qr-code-generator/",
+  "id": "/nl/zelle-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

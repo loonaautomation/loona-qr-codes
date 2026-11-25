@@ -2,7 +2,7 @@
   "name": "Loona Email Signature QR Code Generator",
   "short_name": "Email Signature QR Code",
   "description": "Loona کے ساتھ مفت Email Signature QR code فوراً بنائیں۔ کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، کبھی ختم نہیں ہوتا۔ حسبِ پسند رنگ، ہائی ریزولوشن PNG ڈاؤن لوڈ۔",
-  "id": "/loona-qr-codes/ur/email-signature-qr-code-generator/",
+  "id": "/ur/email-signature-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

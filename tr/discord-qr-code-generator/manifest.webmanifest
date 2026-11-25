@@ -2,7 +2,7 @@
   "name": "Loona Discord QR Kod Oluşturucu",
   "short_name": "Discord QR Kod Oluşturucu",
   "description": "Loona ile anında ücretsiz bir Discord QR Kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Bir Discord sunucusuna davet bağlantısıyla katılmak için tarayın. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/discord-qr-code-generator/",
+  "id": "/tr/discord-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

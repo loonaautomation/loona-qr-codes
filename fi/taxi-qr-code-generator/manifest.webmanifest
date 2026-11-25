@@ -2,7 +2,7 @@
   "name": "Loona Taksi- ja kyyti-QR-koodigeneraattori",
   "short_name": "Taksi- ja kyyti-QR-koodigeneraattori",
   "description": "Luo ilmainen taksi- ja kyyti-QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/taxi-qr-code-generator/",
+  "id": "/fi/taxi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

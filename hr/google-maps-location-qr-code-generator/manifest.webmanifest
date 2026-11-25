@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za lokaciju na Google kartama",
   "short_name": "QR kod za lokaciju na Google kartama",
   "description": "Stvorite besplatni QR kod za lokaciju na Google kartama trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Skenirajte za upute do svog mjesta. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/google-maps-location-qr-code-generator/",
+  "id": "/hr/google-maps-location-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

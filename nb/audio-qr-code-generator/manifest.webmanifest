@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator for lyd",
   "short_name": "Lyd-QR-kodegenerator",
   "description": "Lag en gratis lyd-QR-kode med en gang med Loona. Ingen registrering, ingen vannmerke, utløper aldri. Skann for å spille av en talenotat, en sang, en podkast eller en lydguide. Tilpassede farger, nedlasting av PNG i høy oppløsning.",
-  "id": "/loona-qr-codes/nb/audio-qr-code-generator/",
+  "id": "/nb/audio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

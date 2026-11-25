@@ -2,7 +2,7 @@
   "name": "Loona Museo- ja opaskierros-QR-koodigeneraattori",
   "short_name": "Museo- ja opaskierros-QR-koodi",
   "description": "Luo ilmainen museo- ja opas-QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/museum-tour-qr-code-generator/",
+  "id": "/fi/museum-tour-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

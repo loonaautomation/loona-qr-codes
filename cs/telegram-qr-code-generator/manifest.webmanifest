@@ -2,7 +2,7 @@
   "name": "Generátor QR kódů pro Telegram Loona",
   "short_name": "Generátor QR kódů pro Telegram",
   "description": "Vytvořte si zdarma QR kód pro Telegram okamžitě s Loonou. Bez registrace, bez vodoznaku, nikdy nevyprší. Naskenujte a připojte se ke svému profilu, skupině nebo kanálu na Telegramu. Vlastní barvy, stažení PNG ve vysokém rozlišení.",
-  "id": "/loona-qr-codes/cs/telegram-qr-code-generator/",
+  "id": "/cs/telegram-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

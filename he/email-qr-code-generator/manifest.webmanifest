@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona לדוא\"ל",
   "short_name": "מחולל קוד QR של דוא\"ל",
   "description": "צרו קוד QR חינמי של דוא\"ל מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. סרקו כדי לפתוח דוא\"ל שכבר ממוען, מוכן לשליחה. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/email-qr-code-generator/",
+  "id": "/he/email-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

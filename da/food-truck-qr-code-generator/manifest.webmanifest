@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til foodtruck",
   "short_name": "QR-kodegenerator til foodtruck",
   "description": "Opret en gratis Food Truck-QR-kode øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/food-truck-qr-code-generator/",
+  "id": "/da/food-truck-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

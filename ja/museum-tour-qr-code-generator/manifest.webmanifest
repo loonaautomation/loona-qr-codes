@@ -2,7 +2,7 @@
   "name": "Loona 博物館＆ツアーガイド QRコード生成ツール",
   "short_name": "博物館＆ツアーガイド QRコード",
   "description": "Loona で無料の博物館＆ツアーガイド QRコードを即座に作成。登録不要、透かしなし、無期限。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/museum-tour-qr-code-generator/",
+  "id": "/ja/museum-tour-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

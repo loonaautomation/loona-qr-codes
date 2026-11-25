@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодов пожертвований церквей &amp; благотворительных организаций",
   "short_name": "QR пожертвований для церквей &amp; благотворительности",
   "description": "Создайте бесплатный QR-код пожертвований для церквей &amp; благотворительности мгновенно с Loona. Без регистрации, без водяного знака, никогда не истекает. Настраиваемые цвета, скачивание PNG в высоком разрешении.",
-  "id": "/loona-qr-codes/ru/church-donation-qr-code-generator/",
+  "id": "/ru/church-donation-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

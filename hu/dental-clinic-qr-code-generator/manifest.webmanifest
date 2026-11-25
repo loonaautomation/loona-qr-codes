@@ -2,7 +2,7 @@
   "name": "Loona Fogászat és Klinika QR-kód generátor",
   "short_name": "Fogászat és klinika QR-kód",
   "description": "Hozzon létre ingyenes fogászat és klinika QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/dental-clinic-qr-code-generator/",
+  "id": "/hu/dental-clinic-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодів фудтраків",
   "short_name": "Генератор QR-кодів фудтраків",
   "description": "Створіть безкоштовний QR-код фудтрака миттєво з Loona. Без реєстрації, без водяного знака, строк дії ніколи не закінчується. Користувацькі кольори, завантаження PNG у високій роздільній здатності.",
-  "id": "/loona-qr-codes/uk/food-truck-qr-code-generator/",
+  "id": "/uk/food-truck-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

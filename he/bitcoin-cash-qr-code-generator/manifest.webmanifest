@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona לתשלום Bitcoin Cash",
   "short_name": "קוד QR של תשלום Bitcoin Cash",
   "description": "צרו קוד QR חינמי של תשלום Bitcoin Cash מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/bitcoin-cash-qr-code-generator/",
+  "id": "/he/bitcoin-cash-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

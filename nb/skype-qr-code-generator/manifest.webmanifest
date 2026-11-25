@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator for Skype-samtale",
   "short_name": "QR-kodegenerator for Skype-samtale",
   "description": "Lag en gratis QR-kode for Skype-samtale med en gang med Loona. Ingen registrering, ingen vannmerke, utløper aldri. Tilpassede farger, nedlasting av PNG i høy oppløsning.",
-  "id": "/loona-qr-codes/nb/skype-qr-code-generator/",
+  "id": "/nb/skype-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

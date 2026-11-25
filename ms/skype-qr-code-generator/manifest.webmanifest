@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Panggilan Skype Loona",
   "short_name": "Penjana Kod QR Panggilan Skype",
   "description": "Cipta kod Panggilan Skype percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/skype-qr-code-generator/",
+  "id": "/ms/skype-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

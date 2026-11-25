@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Solana Pay cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wa Solana Pay",
   "description": "Tengeneza msimbo wa QR wa Solana Pay wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/solana-pay-qr-code-generator/",
+  "id": "/sw/solana-pay-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

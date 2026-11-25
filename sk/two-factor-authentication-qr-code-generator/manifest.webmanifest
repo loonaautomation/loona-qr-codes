@@ -2,7 +2,7 @@
   "name": "Loona QR kód pre dvojfaktorové overovanie (TOTP)",
   "short_name": "Dvojfaktorové overovanie",
   "description": "Vytvorte si zadarmo QR kód pre dvojfaktorové overovanie (TOTP) okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
-  "id": "/loona-qr-codes/sk/two-factor-authentication-qr-code-generator/",
+  "id": "/sk/two-factor-authentication-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

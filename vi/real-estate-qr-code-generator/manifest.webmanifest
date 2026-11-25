@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Bất động sản Loona",
   "short_name": "Trình tạo mã QR Bất động sản",
   "description": "Tạo mã QR Bất động sản miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/real-estate-qr-code-generator/",
+  "id": "/vi/real-estate-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

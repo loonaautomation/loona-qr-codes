@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Códigos QR de Recurso para a Sala de Aula",
   "short_name": "Código QR de Recurso para a Sala de Aula",
   "description": "Crie um código QR de Recurso para a Sala de Aula grátis instantaneamente com a Loona. Sem registo, sem marca de água, nunca expira. Cores personalizadas, transferência PNG em alta resolução.",
-  "id": "/loona-qr-codes/pt-pt/classroom-resource-qr-code-generator/",
+  "id": "/pt-pt/classroom-resource-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

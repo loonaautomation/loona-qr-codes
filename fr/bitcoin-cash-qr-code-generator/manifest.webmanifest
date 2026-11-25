@@ -2,7 +2,7 @@
   "name": "Loona Générateur de code QR Paiement Bitcoin Cash",
   "short_name": "Code QR Paiement Bitcoin Cash",
   "description": "Créez un code QR Paiement Bitcoin Cash gratuit instantanément avec Loona. Aucune inscription, aucun filigrane, n’expire jamais. Couleurs personnalisées, téléchargement PNG haute résolution.",
-  "id": "/loona-qr-codes/fr/bitcoin-cash-qr-code-generator/",
+  "id": "/fr/bitcoin-cash-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

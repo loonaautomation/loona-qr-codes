@@ -2,7 +2,7 @@
   "name": "Generátor QR kódů pro URL / web Loona",
   "short_name": "QR kód pro URL / web",
   "description": "Vytvořte si zdarma QR kód pro URL / web okamžitě s Loonou. Bez registrace, bez vodoznaku, nikdy nevyprší. Proměňte jakýkoli odkaz na web v QR kód. Vlastní barvy, stažení PNG ve vysokém rozlišení.",
-  "id": "/loona-qr-codes/cs/url-qr-code-generator/",
+  "id": "/cs/url-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

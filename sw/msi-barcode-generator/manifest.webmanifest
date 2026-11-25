@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo Pau wa MSI Plessey cha Loona",
   "short_name": "Kizalishaji cha Msimbo Pau wa MSI Plessey",
   "description": "Kizalishaji cha bure cha msimbo pau wa MSI Plessey. Rakamu sahihi za ukaguzi pale kiwango kinazo, upakuaji wa PNG na SVG, hakuna kujisajili, hakuna alama ya maji.",
-  "id": "/loona-qr-codes/sw/msi-barcode-generator/",
+  "id": "/sw/msi-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

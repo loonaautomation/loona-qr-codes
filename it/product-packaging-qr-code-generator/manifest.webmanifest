@@ -2,7 +2,7 @@
   "name": "Loona — Generatore di codici QR per imballaggi di prodotti",
   "short_name": "Codice QR per imballaggio del prodotto",
   "description": "Crea all’istante un codice QR per imballaggi di prodotti gratuito con Loona. Nessuna registrazione, nessuna filigrana, non scade mai. Colori personalizzati, download PNG ad alta risoluzione.",
-  "id": "/loona-qr-codes/it/product-packaging-qr-code-generator/",
+  "id": "/it/product-packaging-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona visitekaartje-QR-codegenerator",
   "short_name": "Visitekaartje-QR-code",
   "description": "Maak direct een gratis visitekaartje-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/business-card-qr-code-generator/",
+  "id": "/nl/business-card-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

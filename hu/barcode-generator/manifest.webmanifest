@@ -2,7 +2,7 @@
   "name": "Loona Vonalkódgenerátor",
   "short_name": "Vonalkód generátor",
   "description": "Hozzon létre ingyenes vonalkódokat online a Loonával: Code 128, Code 39, EAN-13, UPC-A és ITF-14. Ellenőrző számjegyek automatikusan hozzáadódnak, élő előnézet, letöltés PNG-ként vagy SVG-ként. Nincs regisztráció, nincs vízjel, 100%-ban privát a böngészőjében.",
-  "id": "/loona-qr-codes/hu/barcode-generator/",
+  "id": "/hu/barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

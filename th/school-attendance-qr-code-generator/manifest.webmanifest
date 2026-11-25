@@ -2,7 +2,7 @@
   "name": "คิวอาร์โค้ดการเช็กชื่อและแบบฟอร์มของโรงเรียนของ Loona",
   "short_name": "QR สำหรับการเข้าเรียนและแบบฟอร์มของโรงเรียน",
   "description": "สร้างคิวอาร์โค้ดการเช็กชื่อและแบบฟอร์มของโรงเรียนฟรีได้ทันทีด้วย Loona ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ สีที่กำหนดเอง ดาวน์โหลด PNG ความละเอียดสูง",
-  "id": "/loona-qr-codes/th/school-attendance-qr-code-generator/",
+  "id": "/th/school-attendance-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

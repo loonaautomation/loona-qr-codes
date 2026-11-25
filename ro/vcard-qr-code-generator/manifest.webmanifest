@@ -2,7 +2,7 @@
   "name": "Loona Generator de coduri QR pentru carte de vizită vCard",
   "short_name": "Cod QR pentru contacte vCard",
   "description": "Creează gratuit un cod QR pentru carte de vizită vCard instantaneu cu Loona. Fără înregistrare, fără filigran, nu expiră niciodată. Scanează pentru a salva cartea ta de vizită completă pe un telefon. Culori personalizate, descărcare PNG la rezoluție înaltă.",
-  "id": "/loona-qr-codes/ro/vcard-qr-code-generator/",
+  "id": "/ro/vcard-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

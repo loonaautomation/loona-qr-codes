@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Γυμναστηρίου & Fitness",
   "short_name": "Κωδικός QR Γυμναστηρίου & Φυσικής Κατάστασης",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Γυμναστηρίου & Φυσικής Κατάστασης αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/gym-fitness-qr-code-generator/",
+  "id": "/el/gym-fitness-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

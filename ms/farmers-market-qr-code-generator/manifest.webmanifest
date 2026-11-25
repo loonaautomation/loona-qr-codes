@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Gerai Pasar Tani Loona",
   "short_name": "Kod QR Gerai Pasar Tani",
   "description": "Cipta kod Gerai Pasar Tani percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/farmers-market-qr-code-generator/",
+  "id": "/ms/farmers-market-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

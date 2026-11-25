@@ -2,7 +2,7 @@
   "name": "Loona Ethereum Ödeme QR Kod Oluşturucu",
   "short_name": "Ethereum Ödeme QR Kodu",
   "description": "Loona ile anında ücretsiz bir Ethereum Ödemesi QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/ethereum-payment-qr-code-generator/",
+  "id": "/tr/ethereum-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za Facebook",
   "short_name": "Generator QR kodova za Facebook",
   "description": "Stvorite besplatni QR kod za Facebook trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Pošaljite ljude ravno na svoju Facebook stranicu. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/facebook-qr-code-generator/",
+  "id": "/hr/facebook-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

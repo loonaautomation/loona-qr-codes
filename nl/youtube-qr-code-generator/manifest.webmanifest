@@ -2,7 +2,7 @@
   "name": "Loona YouTube-QR-codegenerator",
   "short_name": "YouTube-QR-codegenerator",
   "description": "Maak direct een gratis YouTube-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Scan om direct een video of kanaal te openen. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/youtube-qr-code-generator/",
+  "id": "/nl/youtube-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

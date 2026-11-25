@@ -2,7 +2,7 @@
   "name": "QR kód pro manuály a návody k produktům Loona",
   "short_name": "Manuál a návod k produktu",
   "description": "Vytvořte si zdarma QR kód pro manuály a návody k produktům okamžitě s Loonou. Bez registrace, bez vodoznaku, nikdy nevyprší. Vlastní barvy, stažení PNG ve vysokém rozlišení.",
-  "id": "/loona-qr-codes/cs/product-manual-qr-code-generator/",
+  "id": "/cs/product-manual-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

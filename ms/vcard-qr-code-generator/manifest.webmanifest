@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Kenalan vCard Loona",
   "short_name": "Kod QR Kenalan vCard",
   "description": "Cipta kod QR Kenalan vCard percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Imbas untuk menyimpan kad kenalan penuh anda ke telefon. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/vcard-qr-code-generator/",
+  "id": "/ms/vcard-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

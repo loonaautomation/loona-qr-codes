@@ -2,7 +2,7 @@
   "name": "Loona Google Review QR Code Generator",
   "short_name": "Google Review QR Code",
   "description": "Loona দিয়ে সঙ্গে সঙ্গে একটি বিনামূল্যের Google Review QR Code তৈরি করুন। কোনো সাইনআপ নেই, কোনো ওয়াটারমার্ক নেই, মেয়াদ কখনো শেষ হয় না। খুশি গ্রাহকরা কয়েক সেকেন্ডে একটি Google রিভিউ দেন। কাস্টম রং, উচ্চ-রেজোলিউশন PNG ডাউনলোড।",
-  "id": "/loona-qr-codes/bn/google-review-qr-code-generator/",
+  "id": "/bn/google-review-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ses QR Kod Oluşturucu",
   "short_name": "Ses QR Kod Oluşturucu",
   "description": "Loona ile anında ücretsiz bir Ses QR Kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Bir sesli not, şarkı, podcast veya sesli rehber çalmak için tarayın. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/audio-qr-code-generator/",
+  "id": "/tr/audio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

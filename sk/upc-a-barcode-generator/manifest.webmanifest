@@ -2,7 +2,7 @@
   "name": "Loona Generátor čiarových kódov UPC-A",
   "short_name": "Generátor čiarových kódov UPC-A",
   "description": "Bezplatný generátor čiarových kódov UPC-A. Správne kontrolné číslice tam, kde ich norma má, stiahnutie PNG a SVG, bez registrácie, bez vodoznaku.",
-  "id": "/loona-qr-codes/sk/upc-a-barcode-generator/",
+  "id": "/sk/upc-a-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

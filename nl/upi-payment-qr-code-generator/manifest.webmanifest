@@ -2,7 +2,7 @@
   "name": "Loona UPI-betaal-QR-codegenerator",
   "short_name": "UPI-betaal-QR-codegenerator",
   "description": "Maak direct een gratis UPI-betaal-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. UPI-betaal-QR voor winkels in India en UPI-regio's. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/upi-payment-qr-code-generator/",
+  "id": "/nl/upi-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

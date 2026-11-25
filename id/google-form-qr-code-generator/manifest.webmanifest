@@ -2,7 +2,7 @@
   "name": "Generator Kode QR Google Formulir Loona",
   "short_name": "Generator Kode QR Google Formulir",
   "description": "Buat Kode QR Google Formulir gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Pindai untuk membuka dan mengisi Google Formulir. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/google-form-qr-code-generator/",
+  "id": "/id/google-form-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

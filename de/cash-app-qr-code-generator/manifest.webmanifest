@@ -2,7 +2,7 @@
   "name": "Loona Cash App-QR-Code-Generator",
   "short_name": "Cash App-QR-Code-Generator",
   "description": "Erstellen Sie sofort kostenlos einen Cash App-QR-Code mit Loona. Keine Anmeldung, kein Wasserzeichen, läuft niemals ab. Benutzerdefinierte Farben, hochauflösender PNG-Download.",
-  "id": "/loona-qr-codes/de/cash-app-qr-code-generator/",
+  "id": "/de/cash-app-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

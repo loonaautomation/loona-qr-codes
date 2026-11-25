@@ -2,7 +2,7 @@
   "name": "Loona Cash App QR-kód generátor",
   "short_name": "Cash App QR-kód generátor",
   "description": "Hozzon létre ingyenes Cash App QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/cash-app-qr-code-generator/",
+  "id": "/hu/cash-app-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

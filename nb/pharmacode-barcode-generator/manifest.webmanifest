@@ -2,7 +2,7 @@
   "name": "Loona Pharmacode strekkodegenerator",
   "short_name": "Pharmacode strekkodegenerator",
   "description": "Gratis Pharmacode strekkodegenerator. Korrekte kontrollsifre der standarden har dem, nedlasting av PNG og SVG, ingen registrering, ingen vannmerke.",
-  "id": "/loona-qr-codes/nb/pharmacode-barcode-generator/",
+  "id": "/nb/pharmacode-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Thanh toán UPI Loona",
   "short_name": "Trình tạo mã QR Thanh toán UPI",
   "description": "Tạo mã QR Thanh toán UPI miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Mã QR thanh toán UPI cho các cửa hàng ở Ấn Độ và các khu vực UPI. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/upi-payment-qr-code-generator/",
+  "id": "/vi/upi-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona tand- & klinik-QR-kodgenerator",
   "short_name": "Tand- & klinik-QR-kod",
   "description": "Skapa direkt en gratis tand- & klinik-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/dental-clinic-qr-code-generator/",
+  "id": "/sv/dental-clinic-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

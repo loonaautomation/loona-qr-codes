@@ -2,7 +2,7 @@
   "name": "เครื่องสร้างคิวอาร์โค้ด URL / เว็บไซต์ของ Loona",
   "short_name": "คิวอาร์โค้ด URL / เว็บไซต์",
   "description": "สร้างคิวอาร์โค้ด URL / เว็บไซต์ฟรีได้ทันทีด้วย Loona ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ เปลี่ยนลิงก์เว็บไซต์ใด ๆ ให้เป็นคิวอาร์โค้ด สีที่กำหนดเอง ดาวน์โหลด PNG ความละเอียดสูง",
-  "id": "/loona-qr-codes/th/url-qr-code-generator/",
+  "id": "/th/url-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

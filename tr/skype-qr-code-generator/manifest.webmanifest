@@ -2,7 +2,7 @@
   "name": "Loona Skype Araması QR Kod Oluşturucu",
   "short_name": "Skype Araması QR Kod Oluşturucu",
   "description": "Loona ile anında ücretsiz bir Skype Araması QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/skype-qr-code-generator/",
+  "id": "/tr/skype-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona restauranttafelbestel-QR-code",
   "short_name": "Restauranttafelbestel-QR",
   "description": "Maak direct een gratis restauranttafelbestel-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/restaurant-table-ordering-qr-code-generator/",
+  "id": "/nl/restaurant-table-ordering-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Free Guest WiFi (Home & Café) QR Code Generator",
   "short_name": "Free Guest WiFi (Home & Café) QR Code Generator",
   "description": "Create a free Guest WiFi (Home & Café) QR code instantly with Loona. No signup, no watermark, never expires. Custom colors, high-resolution PNG download.",
-  "id": "/loona-qr-codes/en-us/wifi-qr-code-for-guests-generator/",
+  "id": "/en-us/wifi-qr-code-for-guests-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодів спортзалу й фітнесу",
   "short_name": "QR-код спортзалу й фітнесу",
   "description": "Створіть безкоштовний QR-код спортзалу й фітнесу миттєво з Loona. Без реєстрації, без водяного знака, строк дії ніколи не закінчується. Користувацькі кольори, завантаження PNG у високій роздільній здатності.",
-  "id": "/loona-qr-codes/uk/gym-fitness-qr-code-generator/",
+  "id": "/uk/gym-fitness-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

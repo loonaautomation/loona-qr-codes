@@ -2,7 +2,7 @@
   "name": "מחולל ברקוד Interleaved 2 of 5 של Loona",
   "short_name": "ברקוד Interleaved 2 of 5",
   "description": "מחולל ברקוד Interleaved 2 of 5 חינמי. ספרות ביקורת נכונות היכן שהתקן כולל אותן, הורדת PNG ו-SVG, ללא הרשמה, ללא סימן מים.",
-  "id": "/loona-qr-codes/he/interleaved-2-of-5-barcode-generator/",
+  "id": "/he/interleaved-2-of-5-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

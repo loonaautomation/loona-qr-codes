@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Οδοντιατρείου & Κλινικής",
   "short_name": "Κωδικός QR Οδοντιατρικής & Κλινικής",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Οδοντιατρικής & Κλινικής αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/dental-clinic-qr-code-generator/",
+  "id": "/el/dental-clinic-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

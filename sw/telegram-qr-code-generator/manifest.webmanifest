@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Telegram cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wa Telegram",
   "description": "Tengeneza Msimbo wa QR wa Telegram wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Changanua ili kujiunga na wasifu, kikundi au kituo chako cha Telegram. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/telegram-qr-code-generator/",
+  "id": "/sw/telegram-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

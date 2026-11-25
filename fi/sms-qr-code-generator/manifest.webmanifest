@@ -2,7 +2,7 @@
   "name": "Loona SMS-QR-koodigeneraattori",
   "short_name": "SMS-QR-koodigeneraattori",
   "description": "Luo ilmainen SMS-QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Skannaa avataksesi valmiiksi kirjoitetun tekstiviestin. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/sms-qr-code-generator/",
+  "id": "/fi/sms-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

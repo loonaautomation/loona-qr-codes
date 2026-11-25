@@ -2,7 +2,7 @@
   "name": "Tüm Loona Araçları için Loona QR Kodları",
   "short_name": "Tüm Loona Araçları için QR Kodlar",
   "description": "Herhangi bir Loona aracı için ücretsiz hazır bir QR kod alın — 872 hesaplayıcı, PDF araçları, görsel araçları, çalışma araçları ve uygulamalar. Bir araç seçin, QR kodunu yüksek çözünürlüklü bir PNG olarak indirin ve basın. Kayıt yok, filigran yok, asla süresi dolmaz.",
-  "id": "/loona-qr-codes/tr/tool-qr-codes/",
+  "id": "/tr/tool-qr-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

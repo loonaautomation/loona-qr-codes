@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодов для упаковки продуктов",
   "short_name": "QR-код для упаковки продуктов",
   "description": "Создайте бесплатный QR-код упаковки продукта мгновенно с Loona. Без регистрации, без водяного знака, никогда не истекает. Настраиваемые цвета, скачивание PNG в высоком разрешении.",
-  "id": "/loona-qr-codes/ru/product-packaging-qr-code-generator/",
+  "id": "/ru/product-packaging-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

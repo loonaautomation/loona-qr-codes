@@ -2,7 +2,7 @@
   "name": "Loona Google マップ ロケーション QRコード生成ツール",
   "short_name": "Google マップ ロケーション QRコード",
   "description": "Loona で無料の Google マップ ロケーション QRコードを即座に作成。登録不要、透かしなし、無期限。スキャンしてあなたの場所への経路を取得。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/google-maps-location-qr-code-generator/",
+  "id": "/ja/google-maps-location-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa URL / Tovuti cha Loona",
   "short_name": "Msimbo wa QR wa URL / Tovuti",
   "description": "Tengeneza Msimbo wa QR wa URL / Tovuti wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Geuza kiungo chochote cha tovuti kuwa msimbo wa QR. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/url-qr-code-generator/",
+  "id": "/sw/url-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

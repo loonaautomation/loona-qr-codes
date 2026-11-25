@@ -2,7 +2,7 @@
   "name": "Msimbo wa QR wa Kuagiza Mezani Mgahawani wa Loona",
   "short_name": "QR ya Kuagiza Mezani Mgahawani",
   "description": "Tengeneza msimbo wa QR wa Kuagiza Mezani Mgahawani wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/restaurant-table-ordering-qr-code-generator/",
+  "id": "/sw/restaurant-table-ordering-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Κλήσης Skype",
   "short_name": "Γεννήτρια Κωδικού QR Κλήσης Skype",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Κλήσης Skype αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/skype-qr-code-generator/",
+  "id": "/el/skype-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

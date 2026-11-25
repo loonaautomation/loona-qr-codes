@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Bayaran Dogecoin Loona",
   "short_name": "Kod QR Bayaran Dogecoin",
   "description": "Cipta kod Bayaran Dogecoin percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/dogecoin-payment-qr-code-generator/",
+  "id": "/ms/dogecoin-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

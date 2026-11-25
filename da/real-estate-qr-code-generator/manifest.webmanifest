@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til ejendomme",
   "short_name": "QR-kodegenerator til ejendomme",
   "description": "Opret en gratis ejendoms-QR-kode øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/real-estate-qr-code-generator/",
+  "id": "/da/real-estate-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

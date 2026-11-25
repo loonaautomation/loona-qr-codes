@@ -2,7 +2,7 @@
   "name": "Loona Generátor QR kódov pre hovor Skype",
   "short_name": "Generátor QR kódov pre hovor Skype",
   "description": "Vytvorte si zadarmo QR kód pre hovor Skype okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
-  "id": "/loona-qr-codes/sk/skype-qr-code-generator/",
+  "id": "/sk/skype-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

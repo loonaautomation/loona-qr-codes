@@ -2,7 +2,7 @@
   "name": "Generator kodów QR taksówek i przejazdów Loona",
   "short_name": "Generator kodów QR taksówek i przejazdów",
   "description": "Utwórz darmowy kod QR taksówki i przejazdu błyskawicznie z Loona. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa. Kolory niestandardowe, pobieranie PNG w wysokiej rozdzielczości.",
-  "id": "/loona-qr-codes/pl/taxi-qr-code-generator/",
+  "id": "/pl/taxi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

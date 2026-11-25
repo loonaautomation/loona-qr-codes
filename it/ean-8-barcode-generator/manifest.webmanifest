@@ -2,7 +2,7 @@
   "name": "Loona — Generatore di codici a barre EAN-8",
   "short_name": "Generatore di codici a barre EAN-8",
   "description": "Generatore gratuito di codici a barre EAN-8. Cifre di controllo corrette dove lo standard le prevede, download PNG e SVG, nessuna registrazione, nessuna filigrana.",
-  "id": "/loona-qr-codes/it/ean-8-barcode-generator/",
+  "id": "/it/ean-8-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

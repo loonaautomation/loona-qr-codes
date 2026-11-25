@@ -2,7 +2,7 @@
   "name": "Loona klassrumsresurs-QR-kodgenerator",
   "short_name": "Klassrumsresurs-QR-kod",
   "description": "Skapa direkt en gratis klassrumsresurs-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/classroom-resource-qr-code-generator/",
+  "id": "/sv/classroom-resource-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

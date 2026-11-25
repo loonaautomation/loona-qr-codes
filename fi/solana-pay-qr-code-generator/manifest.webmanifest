@@ -2,7 +2,7 @@
   "name": "Loona Solana Pay -QR-koodigeneraattori",
   "short_name": "Solana Pay -QR-koodigeneraattori",
   "description": "Luo ilmainen Solana Pay -QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/solana-pay-qr-code-generator/",
+  "id": "/fi/solana-pay-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

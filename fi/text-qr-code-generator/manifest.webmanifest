@@ -2,7 +2,7 @@
   "name": "Loona Pelkkä teksti -QR-koodigeneraattori",
   "short_name": "Pelkkä teksti -QR-koodigeneraattori",
   "description": "Luo ilmainen pelkkä teksti -QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Laita mikä tahansa teksti, koodi tai viesti QR-koodin sisään. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/text-qr-code-generator/",
+  "id": "/fi/text-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

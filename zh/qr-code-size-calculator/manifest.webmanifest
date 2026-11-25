@@ -2,7 +2,7 @@
   "name": "Loona 二维码尺寸计算器",
   "short_name": "二维码尺寸计算器",
   "description": "免费二维码尺寸计算器：输入扫描距离和内容类型，获得以 cm 为单位的最小打印尺寸、推荐的 PNG 分辨率和静区宽度。",
-  "id": "/loona-qr-codes/zh/qr-code-size-calculator/",
+  "id": "/zh/qr-code-size-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Πληρωμής Bitcoin Cash",
   "short_name": "Κωδικός QR Πληρωμής Bitcoin Cash",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Πληρωμής Bitcoin Cash αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/bitcoin-cash-qr-code-generator/",
+  "id": "/el/bitcoin-cash-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Generador de códigos QR de donaciones para iglesias y organizaciones benéficas",
   "short_name": "Donaciones para iglesias y organizaciones benéficas QR",
   "description": "Crea un código QR de donaciones para iglesias y organizaciones benéficas gratuito al instante con Loona. Sin registro, sin marca de agua, nunca caduca. Colores personalizados, descarga de PNG en alta resolución.",
-  "id": "/loona-qr-codes/es/church-donation-qr-code-generator/",
+  "id": "/es/church-donation-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Malipo ya Ethereum cha Loona",
   "short_name": "Msimbo wa QR wa Malipo ya Ethereum",
   "description": "Tengeneza msimbo wa QR wa Malipo ya Ethereum wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/ethereum-payment-qr-code-generator/",
+  "id": "/sw/ethereum-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

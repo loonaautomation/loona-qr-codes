@@ -2,7 +2,7 @@
   "name": "Loona App Store / Google Play QR Code Generator",
   "short_name": "App Store / Google Play QR",
   "description": "Loona کے ساتھ مفت App Store / Google Play QR Code فوراً بنائیں۔ کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، کبھی ختم نہیں ہوتا۔ اپنی ایپ انسٹال کرنے کے لیے اسکین کریں۔ حسبِ پسند رنگ، ہائی ریزولوشن PNG ڈاؤن لوڈ۔",
-  "id": "/loona-qr-codes/ur/app-store-qr-code-generator/",
+  "id": "/ur/app-store-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

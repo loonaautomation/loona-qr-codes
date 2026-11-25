@@ -2,7 +2,7 @@
   "name": "Loona イベントチケット QRコード生成ツール",
   "short_name": "イベントチケット QRコード生成ツール",
   "description": "Loona で無料のイベントチケット QRコードを即座に作成。登録不要、透かしなし、無期限。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/event-ticket-qr-code-generator/",
+  "id": "/ja/event-ticket-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

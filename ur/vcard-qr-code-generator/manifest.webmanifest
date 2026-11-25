@@ -2,7 +2,7 @@
   "name": "Loona vCard Contact QR Code Generator",
   "short_name": "vCard Contact QR Code",
   "description": "Loona کے ساتھ مفت vCard Contact QR Code فوراً بنائیں۔ کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، کبھی ختم نہیں ہوتا۔ اپنا مکمل رابطہ کارڈ فون میں محفوظ کرنے کے لیے اسکین کریں۔ حسبِ پسند رنگ، ہائی ریزولوشن PNG ڈاؤن لوڈ۔",
-  "id": "/loona-qr-codes/ur/vcard-qr-code-generator/",
+  "id": "/ur/vcard-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

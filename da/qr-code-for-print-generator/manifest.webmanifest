@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til printklar QR-kode",
   "short_name": "Printklar QR-kodegenerator",
   "description": "Opret en gratis trykklar QR-kode øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/qr-code-for-print-generator/",
+  "id": "/da/qr-code-for-print-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

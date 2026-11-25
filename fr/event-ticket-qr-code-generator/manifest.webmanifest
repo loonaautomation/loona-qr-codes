@@ -2,7 +2,7 @@
   "name": "Loona Générateur de code QR Billet d’événement",
   "short_name": "Générateur de code QR Billet d’événement",
   "description": "Créez un code QR Billet d’événement gratuit instantanément avec Loona. Aucune inscription, aucun filigrane, n’expire jamais. Couleurs personnalisées, téléchargement PNG haute résolution.",
-  "id": "/loona-qr-codes/fr/event-ticket-qr-code-generator/",
+  "id": "/fr/event-ticket-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

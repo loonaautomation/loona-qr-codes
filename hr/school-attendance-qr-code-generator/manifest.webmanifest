@@ -2,7 +2,7 @@
   "name": "Loona QR kod za školsku evidenciju i obrasce",
   "short_name": "QR za evidenciju prisutnosti i obrasce u školi",
   "description": "Stvorite besplatni QR kod za školsko pohađanje i obrasce trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/school-attendance-qr-code-generator/",
+  "id": "/hr/school-attendance-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

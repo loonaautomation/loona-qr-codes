@@ -2,7 +2,7 @@
   "name": "Loona Güzellik Salonu QR Kod Oluşturucu",
   "short_name": "Güzellik Salonu QR Kod Oluşturucu",
   "description": "Loona ile anında ücretsiz bir Güzellik Salonu QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/beauty-salon-qr-code-generator/",
+  "id": "/tr/beauty-salon-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

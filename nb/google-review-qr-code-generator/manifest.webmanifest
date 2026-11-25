@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator for Google-anmeldelse",
   "short_name": "QR-kode for Google-anmeldelse",
   "description": "Lag en gratis Google-anmeldelse-QR-kode med en gang med Loona. Ingen registrering, ingen vannmerke, utløper aldri. Fornøyde kunder legger igjen en Google-anmeldelse på sekunder. Tilpassede farger, nedlasting av PNG i høy oppløsning.",
-  "id": "/loona-qr-codes/nb/google-review-qr-code-generator/",
+  "id": "/nb/google-review-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

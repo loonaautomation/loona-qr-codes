@@ -2,7 +2,7 @@
   "name": "Loona Aztec Code Barcode Generator",
   "short_name": "Aztec Code Barcode Generator",
   "description": "مفت Aztec Code بارکوڈ جنریٹر۔ جہاں معیار میں ہوں وہاں درست چیک ہندسے، PNG اور SVG ڈاؤن لوڈ، کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں۔",
-  "id": "/loona-qr-codes/ur/aztec-code-generator/",
+  "id": "/ur/aztec-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

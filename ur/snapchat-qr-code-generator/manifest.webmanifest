@@ -2,7 +2,7 @@
   "name": "Loona Snapchat QR Code Generator",
   "short_name": "Snapchat QR Code Generator",
   "description": "Loona کے ساتھ مفت Snapchat QR Code فوراً بنائیں۔ کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، کبھی ختم نہیں ہوتا۔ Snapchat پر آپ کو شامل کرنے کے لیے اسکین کریں۔ حسبِ پسند رنگ، ہائی ریزولوشن PNG ڈاؤن لوڈ۔",
-  "id": "/loona-qr-codes/ur/snapchat-qr-code-generator/",
+  "id": "/ur/snapchat-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

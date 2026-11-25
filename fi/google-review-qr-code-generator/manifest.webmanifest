@@ -2,7 +2,7 @@
   "name": "Loona Google-arvio-QR-koodigeneraattori",
   "short_name": "Google-arvio-QR-koodi",
   "description": "Luo ilmainen Google-arvio-QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Tyytyväiset asiakkaat jättävät Google-arvion sekunneissa. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/google-review-qr-code-generator/",
+  "id": "/fi/google-review-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

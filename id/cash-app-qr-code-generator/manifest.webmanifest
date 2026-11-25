@@ -2,7 +2,7 @@
   "name": "Generator Kode QR Cash App Loona",
   "short_name": "Generator Kode QR Cash App",
   "description": "Buat kode QR Cash App gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/cash-app-qr-code-generator/",
+  "id": "/id/cash-app-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

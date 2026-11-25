@@ -2,7 +2,7 @@
   "name": "Loona Stregkodegenerator",
   "short_name": "Stregkodegenerator",
   "description": "Opret gratis stregkoder online med Loona: Code 128, Code 39, EAN-13, UPC-A og ITF-14. Kontrolcifre tilføjet automatisk, levende forhåndsvisning, download som PNG eller SVG. Ingen tilmelding, intet vandmærke, 100% privat i din browser.",
-  "id": "/loona-qr-codes/da/barcode-generator/",
+  "id": "/da/barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

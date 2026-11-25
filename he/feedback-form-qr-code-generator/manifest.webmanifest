@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona לטופס משוב",
   "short_name": "קוד QR לטופס משוב",
   "description": "צרו קוד QR חינמי של טופס משוב מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/feedback-form-qr-code-generator/",
+  "id": "/he/feedback-form-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

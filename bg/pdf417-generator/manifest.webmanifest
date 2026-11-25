@@ -2,7 +2,7 @@
   "name": "Генератор на баркодове PDF417 на Loona",
   "short_name": "Генератор на баркодове PDF417",
   "description": "Безплатен генератор на баркодове PDF417. Правилните контролни цифри, където стандартът ги има, изтегляне на PNG и SVG, без регистрация, без воден знак.",
-  "id": "/loona-qr-codes/bg/pdf417-generator/",
+  "id": "/bg/pdf417-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

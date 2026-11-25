@@ -2,7 +2,7 @@
   "name": "Loona Generador de códigos QR de currículum / portafolio",
   "short_name": "Código QR de currículum / portafolio",
   "description": "Crea un código QR de currículum / portafolio gratuito al instante con Loona. Sin registro, sin marca de agua, nunca caduca. Pon tu currículum o portafolio a un escaneo de distancia. Colores personalizados, descarga de PNG en alta resolución.",
-  "id": "/loona-qr-codes/es/resume-portfolio-qr-code-generator/",
+  "id": "/es/resume-portfolio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

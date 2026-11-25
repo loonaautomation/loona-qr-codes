@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR SMS Loona",
   "short_name": "Trình tạo mã QR SMS",
   "description": "Tạo mã QR SMS miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Quét để mở một tin nhắn văn bản viết sẵn. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/sms-qr-code-generator/",
+  "id": "/vi/sms-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

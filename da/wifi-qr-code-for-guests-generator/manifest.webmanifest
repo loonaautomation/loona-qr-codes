@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til gæste-WiFi (hjem og café)",
   "short_name": "Gæste-WiFi (hjem og café)-QR",
   "description": "Opret en gratis QR-kode til gæste-WiFi (hjem og café) øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/wifi-qr-code-for-guests-generator/",
+  "id": "/da/wifi-qr-code-for-guests-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

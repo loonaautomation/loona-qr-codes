@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодів для бібліотек",
   "short_name": "Генератор QR-кодів для бібліотек",
   "description": "Створіть безкоштовний QR-код бібліотеки миттєво з Loona. Без реєстрації, без водяного знака, строк дії ніколи не закінчується. Користувацькі кольори, завантаження PNG у високій роздільній здатності.",
-  "id": "/loona-qr-codes/uk/library-qr-code-generator/",
+  "id": "/uk/library-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

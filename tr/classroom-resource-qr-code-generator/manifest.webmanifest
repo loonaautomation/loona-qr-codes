@@ -2,7 +2,7 @@
   "name": "Loona Sınıf Kaynağı QR Kod Oluşturucu",
   "short_name": "Sınıf Kaynağı QR Kodu",
   "description": "Loona ile anında ücretsiz bir Sınıf Kaynağı QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/classroom-resource-qr-code-generator/",
+  "id": "/tr/classroom-resource-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona UPI-maksu-QR-koodigeneraattori",
   "short_name": "UPI-maksu-QR-koodigeneraattori",
   "description": "Luo ilmainen UPI-maksu-QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. UPI-maksu-QR Intian ja UPI-alueiden liikkeille. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/upi-payment-qr-code-generator/",
+  "id": "/fi/upi-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

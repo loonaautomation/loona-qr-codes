@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona ל-Bitcoin / קריפטו",
   "short_name": "קוד QR של Bitcoin / קריפטו",
   "description": "צרו קוד QR חינמי של Bitcoin / קריפטו מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. שתפו כתובת ארנק Bitcoin כ-QR. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/bitcoin-crypto-qr-code-generator/",
+  "id": "/he/bitcoin-crypto-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

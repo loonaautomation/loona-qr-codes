@@ -2,7 +2,7 @@
   "name": "Loona QR-kode til produktmanual og vejledning",
   "short_name": "Produktmanual og vejledning",
   "description": "Opret en gratis QR-kode til produktmanual og vejledning øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/product-manual-qr-code-generator/",
+  "id": "/da/product-manual-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

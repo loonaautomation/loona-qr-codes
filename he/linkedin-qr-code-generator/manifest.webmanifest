@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona ל-LinkedIn",
   "short_name": "מחולל קוד QR של LinkedIn",
   "description": "צרו קוד QR חינמי של LinkedIn מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. התחברו מקצועית בסריקה אחת. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/linkedin-qr-code-generator/",
+  "id": "/he/linkedin-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

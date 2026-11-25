@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona לתג זיהוי לחיית מחמד",
   "short_name": "מחולל קוד QR לתג זיהוי לחיית מחמד",
   "description": "צרו קוד QR חינמי של תג זיהוי חיית מחמד מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/pet-tag-qr-code-generator/",
+  "id": "/he/pet-tag-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Kenalan MeCard Loona",
   "short_name": "Kod QR Kenalan MeCard",
   "description": "Cipta kod Kenalan MeCard percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/mecard-qr-code-generator/",
+  "id": "/ms/mecard-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

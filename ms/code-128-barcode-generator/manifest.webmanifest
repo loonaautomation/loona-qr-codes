@@ -2,7 +2,7 @@
   "name": "Penjana Kod Bar Code 128 Loona",
   "short_name": "Penjana Kod Bar Code 128",
   "description": "Penjana kod bar Code 128 percuma. Digit semak betul di mana standard mempunyainya, muat turun PNG dan SVG, tiada pendaftaran, tiada tera air.",
-  "id": "/loona-qr-codes/ms/code-128-barcode-generator/",
+  "id": "/ms/code-128-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

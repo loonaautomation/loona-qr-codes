@@ -2,7 +2,7 @@
   "name": "Loona visitkort-QR-kodgenerator",
   "short_name": "Visitkort-QR-kod",
   "description": "Skapa direkt en gratis visitkort-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/business-card-qr-code-generator/",
+  "id": "/sv/business-card-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

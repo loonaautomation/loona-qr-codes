@@ -2,7 +2,7 @@
   "name": "เครื่องสร้างบาร์โค้ด Pharmacode ของ Loona",
   "short_name": "เครื่องสร้างบาร์โค้ด Pharmacode",
   "description": "เครื่องสร้างบาร์โค้ด Pharmacode ฟรี เลขตรวจสอบที่ถูกต้องในที่ที่มาตรฐานมีให้ ดาวน์โหลด PNG และ SVG ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ",
-  "id": "/loona-qr-codes/th/pharmacode-barcode-generator/",
+  "id": "/th/pharmacode-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

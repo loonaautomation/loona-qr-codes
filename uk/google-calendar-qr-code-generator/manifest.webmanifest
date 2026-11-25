@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодів подій Google Календаря",
   "short_name": "QR-код події Google Календаря",
   "description": "Створіть безкоштовний QR-код події Google Календаря миттєво з Loona. Без реєстрації, без водяного знака, строк дії ніколи не закінчується. Користувацькі кольори, завантаження PNG у високій роздільній здатності.",
-  "id": "/loona-qr-codes/uk/google-calendar-qr-code-generator/",
+  "id": "/uk/google-calendar-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

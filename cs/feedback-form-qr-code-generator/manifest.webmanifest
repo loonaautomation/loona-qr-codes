@@ -2,7 +2,7 @@
   "name": "Generátor QR kódů pro formuláře zpětné vazby Loona",
   "short_name": "QR kód pro formuláře zpětné vazby",
   "description": "Vytvořte si zdarma QR kód pro formuláře zpětné vazby okamžitě s Loonou. Bez registrace, bez vodoznaku, nikdy nevyprší. Vlastní barvy, stažení PNG ve vysokém rozlišení.",
-  "id": "/loona-qr-codes/cs/feedback-form-qr-code-generator/",
+  "id": "/cs/feedback-form-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

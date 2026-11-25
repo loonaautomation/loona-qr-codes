@@ -2,7 +2,7 @@
   "name": "Loona 名刺 QRコード生成ツール",
   "short_name": "名刺 QRコード",
   "description": "Loona で無料の名刺 QRコードを即座に作成。登録不要、透かしなし、無期限。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/business-card-qr-code-generator/",
+  "id": "/ja/business-card-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Bayaran Litecoin Loona",
   "short_name": "Kod QR Bayaran Litecoin",
   "description": "Cipta kod Bayaran Litecoin percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/litecoin-payment-qr-code-generator/",
+  "id": "/ms/litecoin-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

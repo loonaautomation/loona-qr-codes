@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Códigos QR para Banca de Mercado Agrícola",
   "short_name": "Código QR para Banca de Mercado Agrícola",
   "description": "Crie um código QR para Banca de Mercado Agrícola grátis instantaneamente com a Loona. Sem registo, sem marca de água, nunca expira. Cores personalizadas, transferência PNG em alta resolução.",
-  "id": "/loona-qr-codes/pt-pt/farmers-market-qr-code-generator/",
+  "id": "/pt-pt/farmers-market-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

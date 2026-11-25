@@ -2,7 +2,7 @@
   "name": "Loona Plain Text QR Code Generator",
   "short_name": "Plain Text QR Code Generator",
   "description": "Loona کے ساتھ مفت Plain Text QR Code فوراً بنائیں۔ کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، کبھی ختم نہیں ہوتا۔ کوئی بھی متن، کوڈ یا پیغام QR کوڈ کے اندر رکھیں۔ حسبِ پسند رنگ، ہائی ریزولوشن PNG ڈاؤن لوڈ۔",
-  "id": "/loona-qr-codes/ur/text-qr-code-generator/",
+  "id": "/ur/text-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Code 39 -viivakoodigeneraattori",
   "short_name": "Code 39 -viivakoodigeneraattori",
   "description": "Ilmainen Code 39 -viivakoodigeneraattori. Oikeat tarkistusnumerot siellä, missä standardissa ne on, PNG- ja SVG-lataus, ei rekisteröitymistä, ei vesileimaa.",
-  "id": "/loona-qr-codes/fi/code-39-barcode-generator/",
+  "id": "/fi/code-39-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

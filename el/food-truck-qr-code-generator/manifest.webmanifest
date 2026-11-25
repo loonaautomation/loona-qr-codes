@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Καντίνας Φαγητού",
   "short_name": "Γεννήτρια Κωδικού QR Καντίνας Φαγητού",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Καντίνας Φαγητού αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/food-truck-qr-code-generator/",
+  "id": "/el/food-truck-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

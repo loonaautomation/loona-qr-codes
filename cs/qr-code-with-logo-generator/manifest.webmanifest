@@ -2,7 +2,7 @@
   "name": "Generátor QR kódů s logem Loona",
   "short_name": "Generátor QR kódů s logem",
   "description": "Bezplatný generátor QR kódů s logem: přidejte své logo do středu QR kódu při úrovni opravy chyb H, vlastní barvy, stažení PNG 1024px, bez vodoznaku.",
-  "id": "/loona-qr-codes/cs/qr-code-with-logo-generator/",
+  "id": "/cs/qr-code-with-logo-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Générateur de code QR GitHub",
   "short_name": "Générateur de code QR GitHub",
   "description": "Créez un code QR GitHub gratuit instantanément avec Loona. Aucune inscription, aucun filigrane, n’expire jamais. Scannez pour ouvrir un profil GitHub, un dépôt ou une page de projet. Couleurs personnalisées, téléchargement PNG haute résolution.",
-  "id": "/loona-qr-codes/fr/github-qr-code-generator/",
+  "id": "/fr/github-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

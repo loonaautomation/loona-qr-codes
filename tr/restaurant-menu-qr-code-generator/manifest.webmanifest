@@ -2,7 +2,7 @@
   "name": "Loona Restoran Menüsü QR Kod Oluşturucu",
   "short_name": "Restoran Menüsü QR Kodu",
   "description": "Loona ile anında ücretsiz bir Restoran Menüsü QR Kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Her masada temassız menü. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/restaurant-menu-qr-code-generator/",
+  "id": "/tr/restaurant-menu-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

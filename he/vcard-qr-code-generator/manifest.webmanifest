@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona לאיש קשר vCard",
   "short_name": "קוד QR לאיש קשר vCard",
   "description": "צרו קוד QR חינמי של איש קשר vCard מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. סרקו כדי לשמור את כרטיס הקשר המלא שלכם לטלפון. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/vcard-qr-code-generator/",
+  "id": "/he/vcard-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

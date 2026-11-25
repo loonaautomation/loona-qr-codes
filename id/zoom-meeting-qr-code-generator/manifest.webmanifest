@@ -2,7 +2,7 @@
   "name": "Generator Kode QR Zoom / Rapat Loona",
   "short_name": "Kode QR Zoom / Rapat",
   "description": "Buat Kode QR Zoom / Rapat gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Pindai untuk bergabung ke rapat atau kelas. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/zoom-meeting-qr-code-generator/",
+  "id": "/id/zoom-meeting-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

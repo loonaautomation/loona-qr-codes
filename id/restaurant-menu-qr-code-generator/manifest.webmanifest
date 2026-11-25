@@ -2,7 +2,7 @@
   "name": "Generator Kode QR Menu Restoran Loona",
   "short_name": "Kode QR Menu Restoran",
   "description": "Buat Kode QR Menu Restoran gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Menu tanpa kontak di setiap meja. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/restaurant-menu-qr-code-generator/",
+  "id": "/id/restaurant-menu-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

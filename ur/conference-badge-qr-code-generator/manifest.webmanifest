@@ -2,7 +2,7 @@
   "name": "Loona Conference Badge QR Code Generator",
   "short_name": "Conference Badge QR Code",
   "description": "Loona کے ساتھ مفت Conference Badge QR code فوراً بنائیں۔ کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، کبھی ختم نہیں ہوتا۔ حسبِ پسند رنگ، ہائی ریزولوشن PNG ڈاؤن لوڈ۔",
-  "id": "/loona-qr-codes/ur/conference-badge-qr-code-generator/",
+  "id": "/ur/conference-badge-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

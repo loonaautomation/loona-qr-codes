@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Pinterest",
   "short_name": "Γεννήτρια Κωδικού QR Pinterest",
   "description": "Δημιουργήστε έναν δωρεάν Κωδικό QR Pinterest αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Σαρώστε για να ανοίξετε ένα προφίλ ή πίνακα Pinterest. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/pinterest-qr-code-generator/",
+  "id": "/el/pinterest-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

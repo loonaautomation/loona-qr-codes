@@ -2,7 +2,7 @@
   "name": "Loona Google Naptár Esemény QR-kód generátor",
   "short_name": "Google naptári esemény QR-kód",
   "description": "Hozzon létre ingyenes Google naptári esemény QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/google-calendar-qr-code-generator/",
+  "id": "/hu/google-calendar-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

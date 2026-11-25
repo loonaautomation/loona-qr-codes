@@ -2,7 +2,7 @@
   "name": "Loona XRP Ödeme QR Kod Oluşturucu",
   "short_name": "XRP Ödeme QR Kod Oluşturucu",
   "description": "Loona ile anında ücretsiz bir XRP Ödeme QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/xrp-payment-qr-code-generator/",
+  "id": "/tr/xrp-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

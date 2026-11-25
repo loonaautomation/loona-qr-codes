@@ -2,7 +2,7 @@
   "name": "Loona Guest WiFi (Home & Café) QR Code Generator",
   "short_name": "Guest WiFi (Home & Café) QR",
   "description": "Loona দিয়ে সঙ্গে সঙ্গে একটি বিনামূল্যের Guest WiFi (Home & Café) QR কোড তৈরি করুন। কোনো সাইনআপ নেই, কোনো ওয়াটারমার্ক নেই, মেয়াদ কখনো শেষ হয় না। কাস্টম রং, উচ্চ-রেজোলিউশন PNG ডাউনলোড।",
-  "id": "/loona-qr-codes/bn/wifi-qr-code-for-guests-generator/",
+  "id": "/bn/wifi-qr-code-for-guests-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

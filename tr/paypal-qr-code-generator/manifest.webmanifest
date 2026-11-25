@@ -2,7 +2,7 @@
   "name": "Loona PayPal QR Kod Oluşturucu",
   "short_name": "PayPal QR Kod Oluşturucu",
   "description": "Loona ile anında ücretsiz bir PayPal QR Kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Ödeme alın: PayPal.me sayfanızı açmak için tarayın. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/paypal-qr-code-generator/",
+  "id": "/tr/paypal-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

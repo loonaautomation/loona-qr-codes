@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Barcode Pharmacode",
   "short_name": "Γεννήτρια Barcode Pharmacode",
   "description": "Δωρεάν γεννήτρια γραμμωτού κωδικού Pharmacode. Σωστά ψηφία ελέγχου όπου το πρότυπο τα έχει, λήψη PNG και SVG, χωρίς εγγραφή, χωρίς υδατογράφημα.",
-  "id": "/loona-qr-codes/el/pharmacode-barcode-generator/",
+  "id": "/el/pharmacode-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

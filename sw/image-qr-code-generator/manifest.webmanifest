@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Picha cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wa Picha",
   "description": "Tengeneza Msimbo wa QR wa Picha wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Changanua ili kufungua picha, bango, picha ya menyu au picha ya bidhaa. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/image-qr-code-generator/",
+  "id": "/sw/image-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

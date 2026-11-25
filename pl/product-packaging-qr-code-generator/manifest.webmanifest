@@ -2,7 +2,7 @@
   "name": "Generator kodów QR opakowań produktów Loona",
   "short_name": "Kod QR opakowania produktu",
   "description": "Utwórz darmowy kod QR opakowania produktu błyskawicznie z Loona. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa. Kolory niestandardowe, pobieranie PNG w wysokiej rozdzielczości.",
-  "id": "/loona-qr-codes/pl/product-packaging-qr-code-generator/",
+  "id": "/pl/product-packaging-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

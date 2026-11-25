@@ -2,7 +2,7 @@
   "name": "קוד QR של Loona ל-WiFi של מלון ואורחים מלון ואורחים",
   "short_name": "מלון ואורחים מלון ואורחים",
   "description": "צרו קוד QR חינמי של WiFi של מלון ואורחים מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/hotel-wifi-qr-code-generator/",
+  "id": "/he/hotel-wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

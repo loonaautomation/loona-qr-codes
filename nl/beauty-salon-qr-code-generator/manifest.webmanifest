@@ -2,7 +2,7 @@
   "name": "Loona schoonheidssalon-QR-codegenerator",
   "short_name": "Schoonheidssalon-QR-codegenerator",
   "description": "Maak direct een gratis schoonheidssalon-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/beauty-salon-qr-code-generator/",
+  "id": "/nl/beauty-salon-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

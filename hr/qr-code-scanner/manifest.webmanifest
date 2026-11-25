@@ -2,7 +2,7 @@
   "name": "Loona skener QR kodova i crtičnih kodova",
   "short_name": "Skener QR kodova i crtičnih kodova",
   "description": "Skenirajte QR kodove i crtične kodove besplatno na mreži uz Loonu: koristite kameru ili prenesite fotografiju ili snimku zaslona. Dekodira URL-ove, WiFi, vCard kontakte, EAN-13, UPC-A, Code 128 i Code 39. 100% privatno — sve se dekodira na vašem uređaju, ništa se ne prenosi.",
-  "id": "/loona-qr-codes/hr/qr-code-scanner/",
+  "id": "/hr/qr-code-scanner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ITF-14 vonalkódgenerátor",
   "short_name": "ITF-14 vonalkódgenerátor",
   "description": "Ingyenes ITF-14 vonalkód generátor. Helyes ellenőrző számjegyek, ahol a szabványnak vannak, PNG- és SVG-letöltés, nincs regisztráció, nincs vízjel.",
-  "id": "/loona-qr-codes/hu/itf-14-barcode-generator/",
+  "id": "/hu/itf-14-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

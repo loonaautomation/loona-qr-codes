@@ -2,7 +2,7 @@
   "name": "Loona — Κωδικός QR Παρουσιολογίου & Φορμών Σχολείου",
   "short_name": "QR Παρουσιολογίου & Φορμών Σχολείου",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Σχολικής Παρουσίας & Φορμών αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/school-attendance-qr-code-generator/",
+  "id": "/el/school-attendance-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

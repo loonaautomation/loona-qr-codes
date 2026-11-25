@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Barcode PDF417",
   "short_name": "Γεννήτρια Barcode PDF417",
   "description": "Δωρεάν γεννήτρια γραμμωτού κωδικού PDF417. Σωστά ψηφία ελέγχου όπου το πρότυπο τα έχει, λήψη PNG και SVG, χωρίς εγγραφή, χωρίς υδατογράφημα.",
-  "id": "/loona-qr-codes/el/pdf417-generator/",
+  "id": "/el/pdf417-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

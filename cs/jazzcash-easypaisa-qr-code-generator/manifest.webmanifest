@@ -2,7 +2,7 @@
   "name": "QR kód pro JazzCash / EasyPaisa (Pákistán) Loona",
   "short_name": "QR kód pro JazzCash / EasyPaisa",
   "description": "Vytvořte si zdarma QR kód pro JazzCash nebo EasyPaisa pro Pákistán — bez registrace, bez vodoznaku, nikdy nevyprší. Vlastní barvy a stažení PNG ve vysokém rozlišení.",
-  "id": "/loona-qr-codes/cs/jazzcash-easypaisa-qr-code-generator/",
+  "id": "/cs/jazzcash-easypaisa-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

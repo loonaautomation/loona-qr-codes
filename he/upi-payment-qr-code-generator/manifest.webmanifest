@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona לתשלום UPI",
   "short_name": "מחולל קוד QR לתשלום UPI",
   "description": "צרו קוד QR חינמי של תשלום UPI מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. קוד QR של תשלום UPI לחנויות בהודו ובאזורי UPI. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/upi-payment-qr-code-generator/",
+  "id": "/he/upi-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

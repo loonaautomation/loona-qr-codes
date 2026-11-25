@@ -2,7 +2,7 @@
   "name": "Loona Cod QR WiFi Hotel & Oaspeți Hotel & Oaspeți",
   "short_name": "Hotel & Oaspeți Hotel & Oaspeți",
   "description": "Creează gratuit un cod QR pentru WiFi pentru hoteluri și oaspeți instantaneu cu Loona. Fără înregistrare, fără filigran, nu expiră niciodată. Culori personalizate, descărcare PNG la rezoluție înaltă.",
-  "id": "/loona-qr-codes/ro/hotel-wifi-qr-code-generator/",
+  "id": "/ro/hotel-wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодів стоматології та клініки",
   "short_name": "QR-код стоматології та клініки",
   "description": "Створіть безкоштовний QR-код стоматології та клініки миттєво з Loona. Без реєстрації, без водяного знака, строк дії ніколи не закінчується. Користувацькі кольори, завантаження PNG у високій роздільній здатності.",
-  "id": "/loona-qr-codes/uk/dental-clinic-qr-code-generator/",
+  "id": "/uk/dental-clinic-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

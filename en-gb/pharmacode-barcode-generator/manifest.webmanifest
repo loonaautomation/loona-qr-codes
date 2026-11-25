@@ -2,7 +2,7 @@
   "name": "Loona Pharmacode Barcode Generator",
   "short_name": "Pharmacode Barcode Generator",
   "description": "Free Pharmacode barcode generator. Correct check digits where the standard has them, PNG and SVG download, no signup, no watermark.",
-  "id": "/loona-qr-codes/en-gb/pharmacode-barcode-generator/",
+  "id": "/en-gb/pharmacode-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Generátor QR kódov pre visačky na batožinu",
   "short_name": "Generátor QR kódov pre visačky na batožinu",
   "description": "Vytvorte si zadarmo QR kód pre štítok na batožinu okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
-  "id": "/loona-qr-codes/sk/luggage-tag-qr-code-generator/",
+  "id": "/sk/luggage-tag-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

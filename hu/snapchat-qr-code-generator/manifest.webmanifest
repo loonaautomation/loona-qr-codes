@@ -2,7 +2,7 @@
   "name": "Loona Snapchat QR-kód generátor",
   "short_name": "Snapchat QR-kód generátor",
   "description": "Hozzon létre ingyenes Snapchat QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Olvassa be, hogy felvegyék a Snapchaton. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/snapchat-qr-code-generator/",
+  "id": "/hu/snapchat-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

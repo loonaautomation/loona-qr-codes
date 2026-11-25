@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Códigos QR do Facebook",
   "short_name": "Gerador de Códigos QR do Facebook",
   "description": "Crie um Código QR do Facebook grátis instantaneamente com a Loona. Sem registo, sem marca de água, nunca expira. Envie as pessoas diretamente para a sua página do Facebook. Cores personalizadas, transferência PNG em alta resolução.",
-  "id": "/loona-qr-codes/pt/facebook-qr-code-generator/",
+  "id": "/pt/facebook-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

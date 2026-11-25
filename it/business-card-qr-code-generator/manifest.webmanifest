@@ -2,7 +2,7 @@
   "name": "Loona — Generatore di codici QR per biglietti da visita",
   "short_name": "Codice QR per biglietti da visita",
   "description": "Crea all’istante un codice QR per biglietti da visita gratuito con Loona. Nessuna registrazione, nessuna filigrana, non scade mai. Colori personalizzati, download PNG ad alta risoluzione.",
-  "id": "/loona-qr-codes/it/business-card-qr-code-generator/",
+  "id": "/it/business-card-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

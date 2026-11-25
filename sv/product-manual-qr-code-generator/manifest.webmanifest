@@ -2,7 +2,7 @@
   "name": "Loona produktmanual & instruktioner-QR-kod",
   "short_name": "Produktmanual & instruktioner",
   "description": "Skapa direkt en gratis produktmanual- & instruktion-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/product-manual-qr-code-generator/",
+  "id": "/sv/product-manual-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

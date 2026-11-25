@@ -2,7 +2,7 @@
   "name": "Loona PayPal-QR-kodgenerator",
   "short_name": "PayPal QR-kodgenerator",
   "description": "Skapa direkt en gratis PayPal-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Få betalt: skanna för att öppna din PayPal.me-sida. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/paypal-qr-code-generator/",
+  "id": "/sv/paypal-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

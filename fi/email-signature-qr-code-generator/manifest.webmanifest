@@ -2,7 +2,7 @@
   "name": "Loona Sähköpostiallekirjoituksen QR-koodigeneraattori",
   "short_name": "Sähköpostiallekirjoituksen QR-koodi",
   "description": "Luo ilmainen sähköpostiallekirjoitus-QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/email-signature-qr-code-generator/",
+  "id": "/fi/email-signature-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

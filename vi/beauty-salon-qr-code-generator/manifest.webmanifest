@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Salon Làm đẹp Loona",
   "short_name": "Trình tạo mã QR Salon Làm đẹp",
   "description": "Tạo mã QR Salon Làm đẹp miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/beauty-salon-qr-code-generator/",
+  "id": "/vi/beauty-salon-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

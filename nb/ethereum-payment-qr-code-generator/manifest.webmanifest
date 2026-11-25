@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator for Ethereum-betaling",
   "short_name": "QR-kode for Ethereum-betaling",
   "description": "Lag en gratis QR-kode for Ethereum-betaling med en gang med Loona. Ingen registrering, ingen vannmerke, utløper aldri. Tilpassede farger, nedlasting av PNG i høy oppløsning.",
-  "id": "/loona-qr-codes/nb/ethereum-payment-qr-code-generator/",
+  "id": "/nb/ethereum-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

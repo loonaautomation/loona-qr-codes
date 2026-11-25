@@ -2,7 +2,7 @@
   "name": "Loona ITF-14-Barcode-Generator",
   "short_name": "ITF-14-Barcode-Generator",
   "description": "Kostenloser ITF-14-Barcode-Generator. Korrekte Prüfziffern, wo der Standard sie hat, PNG- und SVG-Download, keine Anmeldung, kein Wasserzeichen.",
-  "id": "/loona-qr-codes/de/itf-14-barcode-generator/",
+  "id": "/de/itf-14-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

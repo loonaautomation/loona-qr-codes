@@ -2,7 +2,7 @@
   "name": "Generator kodów QR mediów społecznościowych Loona",
   "short_name": "Generator kodów QR mediów społecznościowych",
   "description": "Utwórz darmowy kod QR mediów społecznościowych błyskawicznie z Loona. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa. Wybierz platformę, dodaj nazwę użytkownika, a jedno skanowanie otwiera Twój profil. Kolory niestandardowe, pobieranie PNG w wysokiej rozdzielczości.",
-  "id": "/loona-qr-codes/pl/social-media-qr-code-generator/",
+  "id": "/pl/social-media-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

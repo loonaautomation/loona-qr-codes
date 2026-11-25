@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Barua Pepe cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wa Barua Pepe",
   "description": "Tengeneza Msimbo wa QR wa Barua Pepe wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Changanua ili kufungua barua pepe iliyoelekezwa mapema, tayari kutumwa. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/email-qr-code-generator/",
+  "id": "/sw/email-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

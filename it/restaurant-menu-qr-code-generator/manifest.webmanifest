@@ -2,7 +2,7 @@
   "name": "Loona — Generatore di codici QR per menu di ristorante",
   "short_name": "Codice QR per menu di ristorante",
   "description": "Crea all’istante un codice QR per menu di ristorante gratuito con Loona. Nessuna registrazione, nessuna filigrana, non scade mai. Menu senza contatto su ogni tavolo. Colori personalizzati, download PNG ad alta risoluzione.",
-  "id": "/loona-qr-codes/it/restaurant-menu-qr-code-generator/",
+  "id": "/it/restaurant-menu-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

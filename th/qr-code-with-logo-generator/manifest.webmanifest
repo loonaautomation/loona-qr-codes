@@ -2,7 +2,7 @@
   "name": "เครื่องสร้างคิวอาร์โค้ดพร้อมโลโก้ของ Loona",
   "short_name": "เครื่องสร้างคิวอาร์โค้ดพร้อมโลโก้",
   "description": "เครื่องสร้างคิวอาร์โค้ดพร้อมโลโก้ฟรี: เพิ่มโลโก้ของคุณลงตรงกลางของคิวอาร์โค้ดที่ระดับการแก้ไขข้อผิดพลาด H สีที่กำหนดเอง ดาวน์โหลด PNG ขนาด 1024px ไม่มีลายน้ำ",
-  "id": "/loona-qr-codes/th/qr-code-with-logo-generator/",
+  "id": "/th/qr-code-with-logo-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

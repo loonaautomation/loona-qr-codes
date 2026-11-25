@@ -2,7 +2,7 @@
   "name": "Loona URL / Weboldal QR-kód generátor",
   "short_name": "URL / Weboldal QR-kód",
   "description": "Hozzon létre ingyenes URL / weboldal QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Alakítson bármely weboldallinket QR-kóddá. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/url-qr-code-generator/",
+  "id": "/hu/url-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

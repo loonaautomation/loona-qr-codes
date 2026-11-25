@@ -2,7 +2,7 @@
   "name": "Loona PayPal QR-kód generátor",
   "short_name": "PayPal QR-kód generátor",
   "description": "Hozzon létre ingyenes PayPal QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Kapjon fizetést: olvassa be PayPal.me oldala megnyitásához. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/paypal-qr-code-generator/",
+  "id": "/hu/paypal-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

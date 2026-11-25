@@ -2,7 +2,7 @@
   "name": "Loona QR Codes per tutti gli strumenti Loona",
   "short_name": "Codici QR per tutti gli strumenti Loona",
   "description": "Ottieni un codice QR gratuito già pronto per qualsiasi strumento Loona — 872 calcolatori, strumenti PDF, strumenti per immagini, strumenti di studio e app. Scegli uno strumento, scarica il suo codice QR come PNG ad alta risoluzione e stampalo. Nessuna registrazione, nessuna filigrana, non scade mai.",
-  "id": "/loona-qr-codes/it/tool-qr-codes/",
+  "id": "/it/tool-qr-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona QR-kod med vanlig text-generator",
   "short_name": "QR-kod med vanlig text-generator",
   "description": "Skapa direkt en gratis QR-kod med vanlig text med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Lägg vilken text, kod eller meddelande som helst inuti en QR-kod. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/text-qr-code-generator/",
+  "id": "/sv/text-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Generator Kode QR URL / Situs Web Loona",
   "short_name": "Kode QR URL / Situs Web",
   "description": "Buat Kode QR URL / Situs Web gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Ubah tautan situs web apa pun menjadi kode QR. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/url-qr-code-generator/",
+  "id": "/id/url-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

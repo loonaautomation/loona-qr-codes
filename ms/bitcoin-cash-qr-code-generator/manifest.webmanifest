@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Bayaran Bitcoin Cash Loona",
   "short_name": "Kod QR Bayaran Bitcoin Cash",
   "description": "Cipta kod Bayaran Bitcoin Cash percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/bitcoin-cash-qr-code-generator/",
+  "id": "/ms/bitcoin-cash-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

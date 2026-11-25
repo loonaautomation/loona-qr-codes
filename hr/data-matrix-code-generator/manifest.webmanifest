@@ -2,7 +2,7 @@
   "name": "Loona generator crtičnih kodova Data Matrix",
   "short_name": "Generator crtičnih kodova Data Matrix",
   "description": "Besplatni generator crtičnih kodova Data Matrix. Ispravne kontrolne znamenke gdje ih standard ima, preuzimanje PNG-a i SVG-a, bez registracije, bez vodenog žiga.",
-  "id": "/loona-qr-codes/hr/data-matrix-code-generator/",
+  "id": "/hr/data-matrix-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

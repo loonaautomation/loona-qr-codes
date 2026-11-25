@@ -2,7 +2,7 @@
   "name": "Loona TikTok-QR-codegenerator",
   "short_name": "TikTok-QR-codegenerator",
   "description": "Maak direct een gratis TikTok-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Scan om je TikTok-profiel te openen. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/tiktok-qr-code-generator/",
+  "id": "/nl/tiktok-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

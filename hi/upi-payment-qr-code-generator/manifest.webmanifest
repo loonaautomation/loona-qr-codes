@@ -2,7 +2,7 @@
   "name": "Loona UPI भुगतान QR कोड जनरेटर",
   "short_name": "UPI भुगतान QR कोड जनरेटर",
   "description": "Loona के साथ तुरंत एक मुफ़्त UPI भुगतान QR कोड बनाएँ। कोई साइन-अप नहीं, कोई वॉटरमार्क नहीं, कभी समाप्त नहीं होता। भारत और UPI क्षेत्रों की दुकानों के लिए UPI भुगतान QR। कस्टम रंग, उच्च-रिज़ॉल्यूशन PNG डाउनलोड।",
-  "id": "/loona-qr-codes/hi/upi-payment-qr-code-generator/",
+  "id": "/hi/upi-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

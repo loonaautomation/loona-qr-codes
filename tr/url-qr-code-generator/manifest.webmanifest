@@ -2,7 +2,7 @@
   "name": "Loona URL / Web Sitesi QR Kod Oluşturucu",
   "short_name": "URL / Web Sitesi QR Kodu",
   "description": "Loona ile anında ücretsiz bir URL / Web Sitesi QR Kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Herhangi bir web sitesi bağlantısını bir QR koda dönüştürün. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/url-qr-code-generator/",
+  "id": "/tr/url-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

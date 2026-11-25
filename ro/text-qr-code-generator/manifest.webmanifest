@@ -2,7 +2,7 @@
   "name": "Loona Generator de coduri QR cu text simplu",
   "short_name": "Generator de coduri QR cu text simplu",
   "description": "Creează gratuit un cod QR cu text simplu instantaneu cu Loona. Fără înregistrare, fără filigran, nu expiră niciodată. Pune orice text, cod sau mesaj într-un cod QR. Culori personalizate, descărcare PNG la rezoluție înaltă.",
-  "id": "/loona-qr-codes/ro/text-qr-code-generator/",
+  "id": "/ro/text-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

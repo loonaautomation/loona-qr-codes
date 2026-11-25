@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR TikTok",
   "short_name": "Γεννήτρια Κωδικού QR TikTok",
   "description": "Δημιουργήστε έναν δωρεάν Κωδικό QR TikTok αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Σαρώστε για να ανοίξετε το προφίλ σας στο TikTok. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/tiktok-qr-code-generator/",
+  "id": "/el/tiktok-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

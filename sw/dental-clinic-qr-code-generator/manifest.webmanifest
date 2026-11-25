@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Meno na Kliniki cha Loona",
   "short_name": "Msimbo wa QR wa Meno na Kliniki",
   "description": "Tengeneza msimbo wa QR wa Meno na Kliniki wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/dental-clinic-qr-code-generator/",
+  "id": "/sw/dental-clinic-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

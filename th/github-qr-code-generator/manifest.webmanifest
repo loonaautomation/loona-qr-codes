@@ -2,7 +2,7 @@
   "name": "เครื่องสร้างคิวอาร์โค้ด GitHub ของ Loona",
   "short_name": "เครื่องสร้างคิวอาร์โค้ด GitHub",
   "description": "สร้างคิวอาร์โค้ด GitHub ฟรีได้ทันทีด้วย Loona ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ สแกนเพื่อเปิดโปรไฟล์ ที่เก็บโค้ด หรือหน้าโปรเจกต์ GitHub สีที่กำหนดเอง ดาวน์โหลด PNG ความละเอียดสูง",
-  "id": "/loona-qr-codes/th/github-qr-code-generator/",
+  "id": "/th/github-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

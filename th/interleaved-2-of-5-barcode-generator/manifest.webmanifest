@@ -2,7 +2,7 @@
   "name": "เครื่องสร้างบาร์โค้ด Interleaved 2 of 5 ของ Loona",
   "short_name": "บาร์โค้ด Interleaved 2 of 5",
   "description": "เครื่องสร้างบาร์โค้ด Interleaved 2 of 5 ฟรี เลขตรวจสอบที่ถูกต้องในที่ที่มาตรฐานมีให้ ดาวน์โหลด PNG และ SVG ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ",
-  "id": "/loona-qr-codes/th/interleaved-2-of-5-barcode-generator/",
+  "id": "/th/interleaved-2-of-5-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

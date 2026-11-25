@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Códigos QR de Convite de Casamento",
   "short_name": "Código QR de Convite de Casamento",
   "description": "Crie um código QR de Convite de Casamento grátis instantaneamente com a Loona. Sem registro, sem marca de água, nunca expira. Cores personalizadas, transferência PNG em alta resolução.",
-  "id": "/loona-qr-codes/pt-br/wedding-invitation-qr-code-generator/",
+  "id": "/pt-br/wedding-invitation-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

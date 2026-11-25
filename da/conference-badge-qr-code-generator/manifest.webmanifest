@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til konferenceskilte",
   "short_name": "QR-kode til konferenceskilt",
   "description": "Opret en gratis konferenceskilt-QR-kode øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/conference-badge-qr-code-generator/",
+  "id": "/da/conference-badge-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

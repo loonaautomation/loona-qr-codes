@@ -2,7 +2,7 @@
   "name": "Loona YouTube QR Kod Oluşturucu",
   "short_name": "YouTube QR Kod Oluşturucu",
   "description": "Loona ile anında ücretsiz bir YouTube QR Kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Bir videoyu veya kanalı anında açmak için tarayın. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/youtube-qr-code-generator/",
+  "id": "/tr/youtube-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

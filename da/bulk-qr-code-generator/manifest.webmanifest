@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til masseproduktion",
   "short_name": "Batch-QR-kodegenerator",
   "description": "Opret op til 100 QR-koder på én gang, gratis: indsæt en liste eller upload en CSV med links og tekster, få et mærket ark med QR-koder, der kan udskrives. Ingen tilmelding, intet vandmærke, udløber aldrig, 100% privat i din browser.",
-  "id": "/loona-qr-codes/da/bulk-qr-code-generator/",
+  "id": "/da/bulk-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

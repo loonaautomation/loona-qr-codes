@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za food truckove",
   "short_name": "Generator QR kodova za food truckove",
   "description": "Stvorite besplatni QR kod za kamione s hranom trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/food-truck-qr-code-generator/",
+  "id": "/hr/food-truck-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

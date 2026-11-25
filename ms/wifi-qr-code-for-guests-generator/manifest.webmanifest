@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR WiFi Tetamu (Rumah & Kafe) Loona",
   "short_name": "QR WiFi Tetamu (Rumah & Kafe)",
   "description": "Cipta kod WiFi Tetamu (Rumah & Kafe) percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/wifi-qr-code-for-guests-generator/",
+  "id": "/ms/wifi-qr-code-for-guests-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

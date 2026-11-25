@@ -2,7 +2,7 @@
   "name": "Loona Telegram-QR-kodgenerator",
   "short_name": "Telegram QR-kodgenerator",
   "description": "Skapa direkt en gratis Telegram-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Skanna för att gå med i din Telegram-profil, -grupp eller -kanal. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/telegram-qr-code-generator/",
+  "id": "/sv/telegram-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

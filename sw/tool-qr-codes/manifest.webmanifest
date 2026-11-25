@@ -2,7 +2,7 @@
   "name": "Misimbo ya QR ya Loona kwa Zana Zote za Loona",
   "short_name": "Misimbo ya QR kwa Zana Zote za Loona",
   "description": "Pata msimbo wa QR wa bure ulio tayari kwa zana yoyote ya Loona — vikokotoo 872, zana za PDF, zana za picha, zana za masomo na programu. Chagua zana, pakua msimbo wake wa QR kama PNG yenye ubora wa juu na uichapishe. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe.",
-  "id": "/loona-qr-codes/sw/tool-qr-codes/",
+  "id": "/sw/tool-qr-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

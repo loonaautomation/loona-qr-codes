@@ -2,7 +2,7 @@
   "name": "Loona Skype Hívás QR-kód generátor",
   "short_name": "Skype Hívás QR-kód generátor",
   "description": "Hozzon létre ingyenes Skype-hívás QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/skype-qr-code-generator/",
+  "id": "/hu/skype-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF417 vonalkódgenerátor",
   "short_name": "PDF417 vonalkódgenerátor",
   "description": "Ingyenes PDF417 vonalkód generátor. Helyes ellenőrző számjegyek, ahol a szabványnak vannak, PNG- és SVG-letöltés, nincs regisztráció, nincs vízjel.",
-  "id": "/loona-qr-codes/hu/pdf417-generator/",
+  "id": "/hu/pdf417-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

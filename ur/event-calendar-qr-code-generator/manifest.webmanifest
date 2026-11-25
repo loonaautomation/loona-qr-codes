@@ -2,7 +2,7 @@
   "name": "Loona Event / Calendar QR Code Generator",
   "short_name": "Event / Calendar QR Code",
   "description": "Loona کے ساتھ مفت Event / Calendar QR Code فوراً بنائیں۔ کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، کبھی ختم نہیں ہوتا۔ ایونٹ کیلنڈر میں محفوظ کرنے کے لیے اسکین کریں۔ حسبِ پسند رنگ، ہائی ریزولوشن PNG ڈاؤن لوڈ۔",
-  "id": "/loona-qr-codes/ur/event-calendar-qr-code-generator/",
+  "id": "/ur/event-calendar-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодов аудио",
   "short_name": "Генератор QR-кодов Audio",
   "description": "Создайте бесплатный QR-код Audio мгновенно с Loona. Без регистрации, без водяного знака, никогда не истекает. Сканируйте, чтобы воспроизвести голосовую заметку, песню, подкаст или аудиогид. Настраиваемые цвета, скачивание PNG в высоком разрешении.",
-  "id": "/loona-qr-codes/ru/audio-qr-code-generator/",
+  "id": "/ru/audio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

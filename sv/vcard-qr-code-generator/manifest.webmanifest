@@ -2,7 +2,7 @@
   "name": "Loona vCard-kontakt-QR-kodgenerator",
   "short_name": "vCard-kontakt-QR-kod",
   "description": "Skapa direkt en gratis vCard-kontakt-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Skanna för att spara ditt fullständiga kontaktkort till en telefon. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/vcard-qr-code-generator/",
+  "id": "/sv/vcard-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

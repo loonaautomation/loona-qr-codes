@@ -2,7 +2,7 @@
   "name": "Loona QR Kod Boyut Hesaplayıcı",
   "short_name": "QR Kod Boyut Hesaplayıcı",
   "description": "Ücretsiz QR kod boyut hesaplayıcı: tarama mesafesini ve içerik türünü girin ve minimum baskı boyutunu cm cinsinden, önerilen PNG çözünürlüğünü ve sessiz bölge genişliğini alın.",
-  "id": "/loona-qr-codes/tr/qr-code-size-calculator/",
+  "id": "/tr/qr-code-size-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

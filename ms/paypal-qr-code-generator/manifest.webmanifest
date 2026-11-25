@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR PayPal Loona",
   "short_name": "Penjana Kod QR PayPal",
   "description": "Cipta kod QR PayPal percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Dapatkan bayaran: imbas untuk membuka halaman PayPal.me anda. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/paypal-qr-code-generator/",
+  "id": "/ms/paypal-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

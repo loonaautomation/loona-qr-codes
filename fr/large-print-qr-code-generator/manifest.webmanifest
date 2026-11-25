@@ -2,7 +2,7 @@
   "name": "Loona Générateur de code QR Grand Format",
   "short_name": "Générateur de code QR Grand Format",
   "description": "Créez un code QR Grand Format gratuit instantanément avec Loona. Aucune inscription, aucun filigrane, n’expire jamais. Couleurs personnalisées, téléchargement PNG haute résolution.",
-  "id": "/loona-qr-codes/fr/large-print-qr-code-generator/",
+  "id": "/fr/large-print-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

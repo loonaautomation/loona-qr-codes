@@ -2,7 +2,7 @@
   "name": "Loona Litecoin Fizetés QR-kód generátor",
   "short_name": "Litecoin Fizetés QR-kód",
   "description": "Hozzon létre ingyenes Litecoin fizetési QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/litecoin-payment-qr-code-generator/",
+  "id": "/hu/litecoin-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

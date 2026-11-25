@@ -2,7 +2,7 @@
   "name": "Generator Kode QR Panggilan Telepon Loona",
   "short_name": "Generator Kode QR Panggilan Telepon",
   "description": "Buat Kode QR Panggilan Telepon gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Pindai untuk memanggil nomor Anda seketika. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/phone-qr-code-generator/",
+  "id": "/id/phone-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

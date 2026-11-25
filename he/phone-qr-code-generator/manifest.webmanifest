@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona לשיחת טלפון",
   "short_name": "מחולל קוד QR לשיחת טלפון",
   "description": "צרו קוד QR חינמי של שיחת טלפון מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. סרקו כדי לחייג את המספר שלכם מיד. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/phone-qr-code-generator/",
+  "id": "/he/phone-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

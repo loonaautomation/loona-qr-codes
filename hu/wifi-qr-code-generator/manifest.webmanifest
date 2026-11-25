@@ -2,7 +2,7 @@
   "name": "Loona WiFi QR-kód generátor",
   "short_name": "WiFi QR-kód generátor",
   "description": "Hozzon létre ingyenes WiFi QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. A vendégek egyetlen beolvasással csatlakoznak a WiFihez, jelszógépelés nélkül. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/wifi-qr-code-generator/",
+  "id": "/hu/wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

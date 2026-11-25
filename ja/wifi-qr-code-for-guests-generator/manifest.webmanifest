@@ -2,7 +2,7 @@
   "name": "Loona ゲスト WiFi（自宅＆カフェ） QRコード生成ツール",
   "short_name": "ゲスト WiFi（自宅＆カフェ） QR",
   "description": "Loona で無料のゲスト WiFi（自宅＆カフェ） QRコードを即座に作成。登録不要、透かしなし、無期限。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/wifi-qr-code-for-guests-generator/",
+  "id": "/ja/wifi-qr-code-for-guests-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

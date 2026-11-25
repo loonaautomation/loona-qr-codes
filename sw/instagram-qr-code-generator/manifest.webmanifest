@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Instagram cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wa Instagram",
   "description": "Tengeneza Msimbo wa QR wa Instagram wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Kuza wafuasi kwa QR ya Instagram ya kuchanganua ili kufuata. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/instagram-qr-code-generator/",
+  "id": "/sw/instagram-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

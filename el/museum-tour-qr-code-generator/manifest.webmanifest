@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Μουσείου & Ξενάγησης",
   "short_name": "Κωδικός QR Μουσείου & Ξενάγησης",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Μουσείου & Ξενάγησης αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/museum-tour-qr-code-generator/",
+  "id": "/el/museum-tour-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

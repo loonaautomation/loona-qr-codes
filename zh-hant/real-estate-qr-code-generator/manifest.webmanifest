@@ -2,7 +2,7 @@
   "name": "Loona 房地產二維碼生成器",
   "short_name": "房地產二維碼生成器",
   "description": "用 Loona 立即建立一個免費的房地產二維碼。無需註冊，無水印，永不過期。自定義顏色，高解析度 PNG 下載。",
-  "id": "/loona-qr-codes/zh-hant/real-estate-qr-code-generator/",
+  "id": "/zh-hant/real-estate-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

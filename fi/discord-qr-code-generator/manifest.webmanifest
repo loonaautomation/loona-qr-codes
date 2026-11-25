@@ -2,7 +2,7 @@
   "name": "Loona Discord-QR-koodigeneraattori",
   "short_name": "Discord-QR-koodigeneraattori",
   "description": "Luo ilmainen Discord-QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Skannaa liittyäksesi Discord-palvelimelle kutsulinkillä. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/discord-qr-code-generator/",
+  "id": "/fi/discord-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

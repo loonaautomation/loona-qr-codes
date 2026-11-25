@@ -2,7 +2,7 @@
   "name": "Генератор на QR кодове с едър шрифт на Loona",
   "short_name": "Генератор на QR кодове с едър шрифт",
   "description": "Създайте безплатен QR код с едър шрифт мигновено с Loona. Без регистрация, без воден знак, никога не изтича. Персонализирани цветове, изтегляне на PNG с висока разделителна способност.",
-  "id": "/loona-qr-codes/bg/large-print-qr-code-generator/",
+  "id": "/bg/large-print-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

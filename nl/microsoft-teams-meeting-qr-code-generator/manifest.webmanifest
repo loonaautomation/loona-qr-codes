@@ -2,7 +2,7 @@
   "name": "Loona Microsoft Teams-vergader-QR-codegenerator",
   "short_name": "Microsoft Teams-vergader-QR",
   "description": "Maak direct een gratis Microsoft Teams-vergader-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/microsoft-teams-meeting-qr-code-generator/",
+  "id": "/nl/microsoft-teams-meeting-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Generátor QR kódov pre TikTok",
   "short_name": "Generátor QR kódov pre TikTok",
   "description": "Vytvorte si zadarmo QR kód pre TikTok okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Naskenujte a otvorte svoj profil na TikToku. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
-  "id": "/loona-qr-codes/sk/tiktok-qr-code-generator/",
+  "id": "/sk/tiktok-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

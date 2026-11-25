@@ -2,7 +2,7 @@
   "name": "Loona Generátor QR kódov pre SMS",
   "short_name": "Generátor QR kódov pre SMS",
   "description": "Vytvorte si zadarmo QR kód pre SMS okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Naskenujte a otvorte vopred napísanú textovú správu. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
-  "id": "/loona-qr-codes/sk/sms-qr-code-generator/",
+  "id": "/sk/sms-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR עם לוגו של Loona",
   "short_name": "מחולל קוד QR עם לוגו",
   "description": "מחולל קוד QR חינמי עם לוגו: הוסיפו את הלוגו שלכם למרכז קוד QR ברמת תיקון שגיאות H, צבעים מותאמים אישית, הורדת PNG ב-1024px, ללא סימן מים.",
-  "id": "/loona-qr-codes/he/qr-code-with-logo-generator/",
+  "id": "/he/qr-code-with-logo-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

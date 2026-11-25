@@ -2,7 +2,7 @@
   "name": "Loona Bitcoin / Crypto QR Code Generator",
   "short_name": "Bitcoin / Crypto QR Code",
   "description": "Loona کے ساتھ مفت Bitcoin / Crypto QR Code فوراً بنائیں۔ کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، کبھی ختم نہیں ہوتا۔ Bitcoin والیٹ ایڈریس QR کے طور پر شیئر کریں۔ حسبِ پسند رنگ، ہائی ریزولوشن PNG ڈاؤن لوڈ۔",
-  "id": "/loona-qr-codes/ur/bitcoin-crypto-qr-code-generator/",
+  "id": "/ur/bitcoin-crypto-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

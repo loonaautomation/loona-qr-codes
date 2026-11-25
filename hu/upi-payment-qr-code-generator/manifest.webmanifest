@@ -2,7 +2,7 @@
   "name": "Loona UPI Fizetés QR-kód generátor",
   "short_name": "UPI Fizetés QR-kód generátor",
   "description": "Hozzon létre ingyenes UPI fizetési QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. UPI fizetési QR indiai és UPI-régióbeli üzletekhez. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/upi-payment-qr-code-generator/",
+  "id": "/hu/upi-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

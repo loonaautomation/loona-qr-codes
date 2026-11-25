@@ -2,7 +2,7 @@
   "name": "Loona QR Kod ve Barkod Tarayıcı",
   "short_name": "QR Kod ve Barkod Tarayıcı",
   "description": "Loona ile QR kodları ve barkodları çevrimiçi ücretsiz tarayın: kameranızı kullanın veya bir fotoğraf veya ekran görüntüsü yükleyin. URL'leri, WiFi'ı, vCard kişilerini, EAN-13, UPC-A, Code 128 ve Code 39'u çözer. %100 gizli — her şey cihazınızda çözülür, hiçbir şey yüklenmez.",
-  "id": "/loona-qr-codes/tr/qr-code-scanner/",
+  "id": "/tr/qr-code-scanner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

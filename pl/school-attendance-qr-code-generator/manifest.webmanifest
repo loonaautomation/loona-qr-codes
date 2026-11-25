@@ -2,7 +2,7 @@
   "name": "Kod QR obecności szkolnej i formularzy Loona",
   "short_name": "Kod QR obecności szkolnej i formularzy",
   "description": "Utwórz darmowy kod QR obecności szkolnej i formularzy błyskawicznie z Loona. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa. Kolory niestandardowe, pobieranie PNG w wysokiej rozdzielczości.",
-  "id": "/loona-qr-codes/pl/school-attendance-qr-code-generator/",
+  "id": "/pl/school-attendance-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Cash App",
   "short_name": "Γεννήτρια Κωδικού QR Cash App",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Cash App αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/cash-app-qr-code-generator/",
+  "id": "/el/cash-app-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

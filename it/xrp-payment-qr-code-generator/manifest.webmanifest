@@ -2,7 +2,7 @@
   "name": "Loona — Generatore di codici QR per pagamenti XRP",
   "short_name": "Generatore di codici QR per pagamenti XRP",
   "description": "Crea all’istante un codice QR per pagamenti XRP gratuito con Loona. Nessuna registrazione, nessuna filigrana, non scade mai. Colori personalizzati, download PNG ad alta risoluzione.",
-  "id": "/loona-qr-codes/it/xrp-payment-qr-code-generator/",
+  "id": "/it/xrp-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

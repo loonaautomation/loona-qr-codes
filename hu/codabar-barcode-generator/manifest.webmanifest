@@ -2,7 +2,7 @@
   "name": "Loona Codabar vonalkódgenerátor",
   "short_name": "Codabar vonalkód generátor",
   "description": "Ingyenes Codabar vonalkód generátor. Helyes ellenőrző számjegyek, ahol a szabványnak vannak, PNG- és SVG-letöltés, nincs regisztráció, nincs vízjel.",
-  "id": "/loona-qr-codes/hu/codabar-barcode-generator/",
+  "id": "/hu/codabar-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

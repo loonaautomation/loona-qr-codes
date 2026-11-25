@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Spotify / Μουσικής",
   "short_name": "Κωδικός QR Spotify / Μουσικής",
   "description": "Δημιουργήστε έναν δωρεάν Κωδικό QR Spotify / Μουσικής αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Σαρώστε για να παίξετε ένα τραγούδι, λίστα αναπαραγωγής ή podcast. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/spotify-music-qr-code-generator/",
+  "id": "/el/spotify-music-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

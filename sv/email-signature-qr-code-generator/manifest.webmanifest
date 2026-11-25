@@ -2,7 +2,7 @@
   "name": "Loona e-postsignatur-QR-kodgenerator",
   "short_name": "E-postsignatur-QR-kod",
   "description": "Skapa direkt en gratis e-postsignatur-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/email-signature-qr-code-generator/",
+  "id": "/sv/email-signature-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

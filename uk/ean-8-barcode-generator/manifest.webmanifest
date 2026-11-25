@@ -2,7 +2,7 @@
   "name": "Loona Генератор штрих-кодів EAN-8",
   "short_name": "Генератор штрих-кодів EAN-8",
   "description": "Безкоштовний генератор штрих-кодів EAN-8. Правильні контрольні цифри там, де їх має стандарт, завантаження PNG і SVG, без реєстрації, без водяного знака.",
-  "id": "/loona-qr-codes/uk/ean-8-barcode-generator/",
+  "id": "/uk/ean-8-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

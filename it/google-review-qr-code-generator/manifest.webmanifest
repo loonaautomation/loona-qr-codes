@@ -2,7 +2,7 @@
   "name": "Loona — Generatore di codici QR per recensioni Google",
   "short_name": "Codice QR per recensioni Google",
   "description": "Crea all’istante un codice QR per recensioni Google gratuito con Loona. Nessuna registrazione, nessuna filigrana, non scade mai. I clienti soddisfatti lasciano una recensione Google in pochi secondi. Colori personalizzati, download PNG ad alta risoluzione.",
-  "id": "/loona-qr-codes/it/google-review-qr-code-generator/",
+  "id": "/it/google-review-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

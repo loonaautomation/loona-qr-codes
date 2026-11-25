@@ -2,7 +2,7 @@
   "name": "Loona Email QR Code Generator",
   "short_name": "Email QR Code Generator",
   "description": "Loona کے ساتھ مفت Email QR Code فوراً بنائیں۔ کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، کبھی ختم نہیں ہوتا۔ پہلے سے ایڈریس شدہ ای میل کھولنے کے لیے اسکین کریں، بھیجنے کے لیے تیار۔ حسبِ پسند رنگ، ہائی ریزولوشن PNG ڈاؤن لوڈ۔",
-  "id": "/loona-qr-codes/ur/email-qr-code-generator/",
+  "id": "/ur/email-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

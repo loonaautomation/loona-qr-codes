@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til Zoom / møde",
   "short_name": "QR-kode til Zoom / møde",
   "description": "Opret en gratis Zoom-/møde-QR-kode øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Scan for at deltage i et møde eller en klasse. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/zoom-meeting-qr-code-generator/",
+  "id": "/da/zoom-meeting-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

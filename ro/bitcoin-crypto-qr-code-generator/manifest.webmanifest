@@ -2,7 +2,7 @@
   "name": "Loona Generator de coduri QR Bitcoin / cripto",
   "short_name": "Cod QR Bitcoin / cripto",
   "description": "Creează gratuit un cod QR Bitcoin / cripto instantaneu cu Loona. Fără înregistrare, fără filigran, nu expiră niciodată. Distribuie o adresă de portofel Bitcoin ca un cod QR. Culori personalizate, descărcare PNG la rezoluție înaltă.",
-  "id": "/loona-qr-codes/ro/bitcoin-crypto-qr-code-generator/",
+  "id": "/ro/bitcoin-crypto-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

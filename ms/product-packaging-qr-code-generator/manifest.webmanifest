@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Pembungkusan Produk Loona",
   "short_name": "Kod QR Pembungkusan Produk",
   "description": "Cipta kod Pembungkusan Produk percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/product-packaging-qr-code-generator/",
+  "id": "/ms/product-packaging-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona EAN-13 Barcode Generator",
   "short_name": "EAN-13 Barcode Generator",
   "description": "مفت EAN-13 بارکوڈ جنریٹر۔ جہاں معیار میں ہوں وہاں درست چیک ہندسے، PNG اور SVG ڈاؤن لوڈ، کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں۔",
-  "id": "/loona-qr-codes/ur/ean-13-barcode-generator/",
+  "id": "/ur/ean-13-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Tapahtuma- / kalenteri-QR-koodigeneraattori",
   "short_name": "Tapahtuma- / kalenteri-QR-koodi",
   "description": "Luo ilmainen tapahtuma- / kalenteri-QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Skannaa tallentaaksesi tapahtuman kalenteriin. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/event-calendar-qr-code-generator/",
+  "id": "/fi/event-calendar-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

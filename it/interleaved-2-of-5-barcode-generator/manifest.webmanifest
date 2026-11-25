@@ -2,7 +2,7 @@
   "name": "Loona — Generatore di codici a barre Interleaved 2 of 5",
   "short_name": "Codice a barre Interleaved 2 of 5",
   "description": "Generatore gratuito di codici a barre Interleaved 2 of 5. Cifre di controllo corrette dove lo standard le prevede, download PNG e SVG, nessuna registrazione, nessuna filigrana.",
-  "id": "/loona-qr-codes/it/interleaved-2-of-5-barcode-generator/",
+  "id": "/it/interleaved-2-of-5-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

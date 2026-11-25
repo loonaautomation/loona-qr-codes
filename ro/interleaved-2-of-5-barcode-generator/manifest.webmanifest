@@ -2,7 +2,7 @@
   "name": "Loona Generator de coduri de bare Interleaved 2 of 5",
   "short_name": "Cod de bare Interleaved 2 of 5",
   "description": "Generator gratuit de coduri de bare Interleaved 2 of 5. Cifre de control corecte acolo unde standardul le are, descărcare PNG și SVG, fără înregistrare, fără filigran.",
-  "id": "/loona-qr-codes/ro/interleaved-2-of-5-barcode-generator/",
+  "id": "/ro/interleaved-2-of-5-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

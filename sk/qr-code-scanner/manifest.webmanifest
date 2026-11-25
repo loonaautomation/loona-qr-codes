@@ -2,7 +2,7 @@
   "name": "Loona Skener QR kódov a čiarových kódov",
   "short_name": "Skener QR kódov a čiarových kódov",
   "description": "Skenujte QR kódy a čiarové kódy zadarmo online s Loona: použite fotoaparát alebo nahrajte fotografiu či snímku obrazovky. Dekóduje URL, WiFi, kontakty vCard, EAN-13, UPC-A, Code 128 a Code 39. 100 % súkromné — všetko sa dekóduje na vašom zariadení, nič sa nenahráva.",
-  "id": "/loona-qr-codes/sk/qr-code-scanner/",
+  "id": "/sk/qr-code-scanner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

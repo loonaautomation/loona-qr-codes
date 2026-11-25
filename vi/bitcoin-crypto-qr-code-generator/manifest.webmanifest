@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Bitcoin / Crypto Loona",
   "short_name": "Mã QR Bitcoin / Crypto",
   "description": "Tạo mã QR Bitcoin / Crypto miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Chia sẻ địa chỉ ví Bitcoin dưới dạng QR. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/bitcoin-crypto-qr-code-generator/",
+  "id": "/vi/bitcoin-crypto-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

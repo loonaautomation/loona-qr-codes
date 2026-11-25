@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодів LinkedIn",
   "short_name": "Генератор QR-кодів LinkedIn",
   "description": "Створіть безкоштовний QR-код LinkedIn миттєво з Loona. Без реєстрації, без водяного знака, строк дії ніколи не закінчується. Налагоджуйте професійні зв’язки одним скануванням. Користувацькі кольори, завантаження PNG у високій роздільній здатності.",
-  "id": "/loona-qr-codes/uk/linkedin-qr-code-generator/",
+  "id": "/uk/linkedin-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF-QR-koodigeneraattori",
   "short_name": "PDF-QR-koodigeneraattori",
   "description": "Luo ilmainen PDF-QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Skannaa avataksesi tai ladataksesi PDF-tiedoston. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/pdf-qr-code-generator/",
+  "id": "/fi/pdf-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

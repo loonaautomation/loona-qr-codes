@@ -2,7 +2,7 @@
   "name": "Generator kodów QR podpisów e-mail Loona",
   "short_name": "Kod QR podpisu e-mail",
   "description": "Utwórz darmowy kod QR podpisu e-mail błyskawicznie z Loona. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa. Kolory niestandardowe, pobieranie PNG w wysokiej rozdzielczości.",
-  "id": "/loona-qr-codes/pl/email-signature-qr-code-generator/",
+  "id": "/pl/email-signature-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

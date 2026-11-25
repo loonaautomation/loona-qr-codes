@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til Facebook",
   "short_name": "QR-kodegenerator til Facebook",
   "description": "Opret en gratis Facebook-QR-kode øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Send folk direkte til din Facebook-side. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/facebook-qr-code-generator/",
+  "id": "/da/facebook-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

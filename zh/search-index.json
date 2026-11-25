@@ -1,7 +1,7 @@
 [
  {
   "n": "URL / 网站二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/url-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/url-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "将任何网站链接转化为二维码。",
   "k": "url website qr code generator url qr code generator",
@@ -10,7 +10,7 @@
  },
  {
   "n": "纯文本二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/text-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/text-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "将任何文本、代码或消息放在二维码内。",
   "k": "plain text qr code generator text qr code generator",
@@ -19,7 +19,7 @@
  },
  {
   "n": "WiFi 二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/wifi-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/wifi-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "客人一次扫码连接 WiFi，无需输入密码。",
   "k": "wifi qr code generator wifi qr code generator wifi",
@@ -28,7 +28,7 @@
  },
  {
   "n": "WhatsApp 二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/whatsapp-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/whatsapp-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "一次扫码开始 WhatsApp 聊天，无需保存号码。",
   "k": "whatsapp qr code generator whatsapp qr code generator whatsapp",
@@ -37,7 +37,7 @@
  },
  {
   "n": "vCard 联系人二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/vcard-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/vcard-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "扫码将您的完整联系人卡片保存到手机。",
   "k": "vcard contact qr code generator vcard qr code generator",
@@ -46,7 +46,7 @@
  },
  {
   "n": "电子邮件二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/email-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/email-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "扫码打开预先填写地址的电子邮件，准备发送。",
   "k": "email qr code generator email qr code generator",
@@ -55,7 +55,7 @@
  },
  {
   "n": "SMS 二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/sms-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/sms-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "扫码打开预先写好的短信。",
   "k": "sms qr code generator sms qr code generator",
@@ -64,7 +64,7 @@
  },
  {
   "n": "电话二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/phone-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/phone-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "扫码立即拨打您的号码。",
   "k": "phone call qr code generator phone qr code generator",
@@ -73,7 +73,7 @@
  },
  {
   "n": "Instagram 二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/instagram-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/instagram-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "用扫码关注的 Instagram 二维码增长关注者。",
   "k": "instagram qr code generator instagram qr code generator instagram",
@@ -82,7 +82,7 @@
  },
  {
   "n": "Facebook 二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/facebook-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/facebook-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "将人们直接发送到您的 Facebook 页面。",
   "k": "facebook qr code generator facebook qr code generator facebook",
@@ -91,7 +91,7 @@
  },
  {
   "n": "YouTube 二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/youtube-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/youtube-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "扫码立即打开视频或频道。",
   "k": "youtube qr code generator youtube qr code generator",
@@ -100,7 +100,7 @@
  },
  {
   "n": "TikTok 二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/tiktok-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/tiktok-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "扫码打开您的 TikTok 资料。",
   "k": "tiktok qr code generator tiktok qr code generator tiktok",
@@ -109,7 +109,7 @@
  },
  {
   "n": "X (Twitter) 二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/x-twitter-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/x-twitter-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "扫码打开您的 X 资料。",
   "k": "x twitter qr code generator x twitter qr code generator x",
@@ -118,7 +118,7 @@
  },
  {
   "n": "LinkedIn 二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/linkedin-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/linkedin-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "一次扫码，专业连接。",
   "k": "linkedin qr code generator linkedin qr code generator",
@@ -127,7 +127,7 @@
  },
  {
   "n": "Telegram 二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/telegram-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/telegram-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "扫码加入您的 Telegram 资料、群组或频道。",
   "k": "telegram qr code generator telegram qr code generator telegram",
@@ -136,7 +136,7 @@
  },
  {
   "n": "Snapchat 二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/snapchat-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/snapchat-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "扫码在 Snapchat 上添加您。",
   "k": "snapchat qr code generator snapchat qr code generator snapchat",
@@ -145,7 +145,7 @@
  },
  {
   "n": "Google 地图位置二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/google-maps-location-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/google-maps-location-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "扫码获取到您地点的路线。",
   "k": "google maps location qr code generator google maps location qr code generator",
@@ -154,7 +154,7 @@
  },
  {
   "n": "Google 评价二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/google-review-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/google-review-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "满意的顾客在几秒钟内留下 Google 评价。",
   "k": "google review qr code generator google review qr code generator google",
@@ -163,7 +163,7 @@
  },
  {
   "n": "餐厅菜单二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/restaurant-menu-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/restaurant-menu-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "每张桌子上的无接触菜单。",
   "k": "restaurant menu qr code generator restaurant menu qr code generator",
@@ -172,7 +172,7 @@
  },
  {
   "n": "PDF 二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/pdf-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/pdf-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "扫码打开或下载 PDF 文件。",
   "k": "pdf qr code generator pdf qr code generator pdf",
@@ -181,7 +181,7 @@
  },
  {
   "n": "App Store / Google Play 二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/app-store-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/app-store-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "扫码安装您的应用。",
   "k": "app store google play qr code generator app store qr code generator",
@@ -190,7 +190,7 @@
  },
  {
   "n": "Google 表单二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/google-form-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/google-form-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "扫码打开并填写 Google 表单。",
   "k": "google form qr code generator google form qr code generator google",
@@ -199,7 +199,7 @@
  },
  {
   "n": "Zoom / 会议二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/zoom-meeting-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/zoom-meeting-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "扫码加入会议或课堂。",
   "k": "zoom meeting qr code generator zoom meeting qr code generator",
@@ -208,7 +208,7 @@
  },
  {
   "n": "活动 / 日历二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/event-calendar-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/event-calendar-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "扫码将活动保存到日历。",
   "k": "event calendar qr code generator event calendar qr code generator",
@@ -217,7 +217,7 @@
  },
  {
   "n": "PayPal 二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/paypal-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/paypal-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "获得付款：扫码打开您的 PayPal.me 页面。",
   "k": "paypal qr code generator paypal qr code generator paypal me",
@@ -226,7 +226,7 @@
  },
  {
   "n": "UPI 付款二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/upi-payment-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/upi-payment-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "印度和 UPI 地区商店的 UPI 付款二维码。",
   "k": "upi payment qr code generator upi payment qr code generator upi upi",
@@ -235,7 +235,7 @@
  },
  {
   "n": "JazzCash / EasyPaisa 二维码（巴基斯坦）生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/jazzcash-easypaisa-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/jazzcash-easypaisa-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "以二维码形式分享您的 JazzCash 或 EasyPaisa 账户详情。",
   "k": "jazzcash easypaisa qr code pakistan generator jazzcash easypaisa qr code generator jazzcash easypaisa",
@@ -244,7 +244,7 @@
  },
  {
   "n": "Bitcoin / Crypto 二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/bitcoin-crypto-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/bitcoin-crypto-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "以二维码形式分享 Bitcoin 钱包地址。",
   "k": "bitcoin crypto qr code generator bitcoin crypto qr code generator bitcoin",
@@ -253,7 +253,7 @@
  },
  {
   "n": "Spotify / 音乐二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/spotify-music-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/spotify-music-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "扫码播放歌曲、播放列表或播客。",
   "k": "spotify music qr code generator spotify music qr code generator",
@@ -262,7 +262,7 @@
  },
  {
   "n": "简历 / 作品集二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/resume-portfolio-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/resume-portfolio-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "让您的简历或作品集只需一次扫码。",
   "k": "resume portfolio qr code generator resume portfolio qr code generator",
@@ -271,7 +271,7 @@
  },
  {
   "n": "图片二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/image-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/image-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "扫码打开或分享照片或图片链接。",
   "k": "image qr code generator image qr code generator",
@@ -280,7 +280,7 @@
  },
  {
   "n": "音频二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/audio-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/audio-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "扫码播放歌曲、语音笔记或音频文件。",
   "k": "audio qr code generator audio qr code generator",
@@ -289,7 +289,7 @@
  },
  {
   "n": "社交媒体二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/social-media-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/social-media-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "一个二维码，用于您的社交媒体资料链接。",
   "k": "social media qr code generator social media qr code generator",
@@ -298,7 +298,7 @@
  },
  {
   "n": "Pinterest 二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/pinterest-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/pinterest-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "扫码打开您的 Pinterest 资料或画板。",
   "k": "pinterest qr code generator pinterest qr code generator pinterest",
@@ -307,7 +307,7 @@
  },
  {
   "n": "Discord 二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/discord-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/discord-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "扫码加入您的 Discord 服务器或资料。",
   "k": "discord qr code generator discord qr code generator discord",
@@ -316,7 +316,7 @@
  },
  {
   "n": "GitHub 二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/github-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/github-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "扫码打开您的 GitHub 资料或仓库。",
   "k": "github qr code generator github qr code generator github",
@@ -325,7 +325,7 @@
  },
  {
   "n": "二维码和条形码扫描器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/qr-code-scanner/",
+  "u": "https://qr.loonaautomation.com/zh/qr-code-scanner/",
   "s": "Loona QR Codes",
   "d": "用摄像头扫描条码，或从照片或截图中解码二维码和条形码。",
   "k": "qr code barcode scanner qr code scanner",
@@ -334,7 +334,7 @@
  },
  {
   "n": "批量二维码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/bulk-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/zh/bulk-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "一次在可打印表中创建最多 100 个带标签的二维码。",
   "k": "bulk qr code generator bulk qr code generator 100",
@@ -343,7 +343,7 @@
  },
  {
   "n": "条形码生成器",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/barcode-generator/",
+  "u": "https://qr.loonaautomation.com/zh/barcode-generator/",
   "s": "Loona QR Codes",
   "d": "创建产品条形码 — Code 128、EAN-13、UPC 等。",
   "k": "barcode generator barcode generator 创建产品条形码 code 128 ean 13 upc 等",
@@ -352,7 +352,7 @@
  },
  {
   "n": "全部 Loona 工具 — 二维码",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/zh/tool-qr-codes/",
+  "u": "https://qr.loonaautomation.com/zh/tool-qr-codes/",
   "s": "Loona QR Codes",
   "d": "为任何 Loona 工具获取现成二维码 — 计算器、PDF 工具、图片工具等等。搜索全部 872 个 Loona 工具和应用，下载二维码并打印。",
   "k": "qr codes for all loona tools tool qr codes 为任何 loona 工具获取现成二维码 计算器 pdf 工具 图片工具等等 搜索全部 872 个 loona 工具和应用 下载二维码并打印",

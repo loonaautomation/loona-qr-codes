@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo Pau wa Pharmacode cha Loona",
   "short_name": "Kizalishaji cha Msimbo Pau wa Pharmacode",
   "description": "Kizalishaji cha bure cha msimbo pau wa Pharmacode. Rakamu sahihi za ukaguzi pale kiwango kinazo, upakuaji wa PNG na SVG, hakuna kujisajili, hakuna alama ya maji.",
-  "id": "/loona-qr-codes/sw/pharmacode-barcode-generator/",
+  "id": "/sw/pharmacode-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

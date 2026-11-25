@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Teks Biasa Loona",
   "short_name": "Penjana Kod QR Teks Biasa",
   "description": "Cipta kod QR Teks Biasa percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Letakkan sebarang teks, kod atau mesej di dalam kod QR. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/text-qr-code-generator/",
+  "id": "/ms/text-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

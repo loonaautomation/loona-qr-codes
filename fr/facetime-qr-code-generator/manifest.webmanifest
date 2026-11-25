@@ -2,7 +2,7 @@
   "name": "Loona Générateur de code QR FaceTime",
   "short_name": "Générateur de code QR FaceTime",
   "description": "Créez un code QR FaceTime gratuit instantanément avec Loona. Aucune inscription, aucun filigrane, n’expire jamais. Couleurs personnalisées, téléchargement PNG haute résolution.",
-  "id": "/loona-qr-codes/fr/facetime-qr-code-generator/",
+  "id": "/fr/facetime-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

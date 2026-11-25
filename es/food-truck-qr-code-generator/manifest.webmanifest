@@ -2,7 +2,7 @@
   "name": "Loona Generador de códigos QR para food trucks",
   "short_name": "Generador de códigos QR para food trucks",
   "description": "Crea un código QR para food trucks gratuito al instante con Loona. Sin registro, sin marca de agua, nunca caduca. Colores personalizados, descarga de PNG en alta resolución.",
-  "id": "/loona-qr-codes/es/food-truck-qr-code-generator/",
+  "id": "/es/food-truck-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

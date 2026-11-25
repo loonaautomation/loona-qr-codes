@@ -2,7 +2,7 @@
   "name": "Loona Google Haritalar Konum QR Kod Oluşturucu",
   "short_name": "Google Haritalar Konum QR Kodu",
   "description": "Loona ile anında ücretsiz bir Google Maps Location QR Kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Yerinize yol tarifi almak için tarayın. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/google-maps-location-qr-code-generator/",
+  "id": "/tr/google-maps-location-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

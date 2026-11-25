@@ -2,7 +2,7 @@
   "name": "Loona Générateur de code QR Bibliothèque",
   "short_name": "Générateur de code QR Bibliothèque",
   "description": "Créez un code QR Bibliothèque gratuit instantanément avec Loona. Aucune inscription, aucun filigrane, n’expire jamais. Couleurs personnalisées, téléchargement PNG haute résolution.",
-  "id": "/loona-qr-codes/fr/library-qr-code-generator/",
+  "id": "/fr/library-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

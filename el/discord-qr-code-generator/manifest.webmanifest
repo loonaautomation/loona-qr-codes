@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Discord",
   "short_name": "Γεννήτρια Κωδικού QR Discord",
   "description": "Δημιουργήστε έναν δωρεάν Κωδικό QR Discord αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Σαρώστε για να μπείτε σε έναν διακομιστή Discord με έναν σύνδεσμο πρόσκλησης. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/discord-qr-code-generator/",
+  "id": "/el/discord-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

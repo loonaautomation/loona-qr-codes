@@ -2,7 +2,7 @@
   "name": "Loona Генератор штрихкодов Code 128",
   "short_name": "Генератор штрих-кодов Code 128",
   "description": "Бесплатный генератор штрихкодов Code 128. Корректные контрольные цифры там, где они предусмотрены стандартом, скачивание в PNG и SVG, без регистрации, без водяных знаков.",
-  "id": "/loona-qr-codes/ru/code-128-barcode-generator/",
+  "id": "/ru/code-128-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

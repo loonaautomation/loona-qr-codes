@@ -2,7 +2,7 @@
   "name": "Loona Termékcsomagolás QR-kód generátor",
   "short_name": "Termékcsomagolás QR-kód",
   "description": "Hozzon létre ingyenes termékcsomagolás QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/product-packaging-qr-code-generator/",
+  "id": "/hu/product-packaging-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

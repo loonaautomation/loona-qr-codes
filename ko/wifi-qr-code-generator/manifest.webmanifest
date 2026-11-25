@@ -2,7 +2,7 @@
   "name": "Loona WiFi QR 코드 생성기",
   "short_name": "WiFi QR 코드 생성기",
   "description": "Loona로 무료 WiFi QR 코드를 즉시 만드세요. 가입 없음, 워터마크 없음, 절대 만료되지 않아요. 손님이 한 번의 스캔으로 WiFi에 연결해요. 비밀번호 입력이 필요 없어요. 맞춤 색상, 고해상도 PNG 다운로드예요.",
-  "id": "/loona-qr-codes/ko/wifi-qr-code-generator/",
+  "id": "/ko/wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

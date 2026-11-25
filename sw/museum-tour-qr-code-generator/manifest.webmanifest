@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Makumbusho na Mwongozo wa Ziara cha Loona",
   "short_name": "Msimbo wa QR wa Makumbusho na Mwongozo wa Ziara",
   "description": "Tengeneza msimbo wa QR wa Makumbusho na Mwongozo wa Ziara wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/museum-tour-qr-code-generator/",
+  "id": "/sw/museum-tour-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

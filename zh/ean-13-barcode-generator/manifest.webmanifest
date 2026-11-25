@@ -2,7 +2,7 @@
   "name": "Loona EAN-13 条形码生成器",
   "short_name": "EAN-13 条形码生成器",
   "description": "免费 EAN-13 条形码生成器。标准有校验位的地方提供正确的校验位，PNG 和 SVG 下载，无需注册，无水印。",
-  "id": "/loona-qr-codes/zh/ean-13-barcode-generator/",
+  "id": "/zh/ean-13-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za LinkedIn",
   "short_name": "Generator QR kodova za LinkedIn",
   "description": "Stvorite besplatni QR kod za LinkedIn trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Povežite se profesionalno jednim skeniranjem. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/linkedin-qr-code-generator/",
+  "id": "/hr/linkedin-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

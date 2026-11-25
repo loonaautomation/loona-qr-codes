@@ -2,7 +2,7 @@
   "name": "Generátor QR kódů pro vstupenky na události Loona",
   "short_name": "Generátor QR kódů pro vstupenky na události",
   "description": "Vytvořte si zdarma QR kód pro vstupenky na události okamžitě s Loonou. Bez registrace, bez vodoznaku, nikdy nevyprší. Vlastní barvy, stažení PNG ve vysokém rozlišení.",
-  "id": "/loona-qr-codes/cs/event-ticket-qr-code-generator/",
+  "id": "/cs/event-ticket-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

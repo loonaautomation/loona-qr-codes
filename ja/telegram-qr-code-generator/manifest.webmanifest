@@ -2,7 +2,7 @@
   "name": "Loona Telegram QRコード生成ツール",
   "short_name": "Telegram QRコード生成ツール",
   "description": "Loona で無料の Telegram QRコードを即座に作成。登録不要、透かしなし、無期限。スキャンして Telegram のプロフィール、グループ、チャンネルに参加。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/telegram-qr-code-generator/",
+  "id": "/ja/telegram-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

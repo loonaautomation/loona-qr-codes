@@ -2,7 +2,7 @@
   "name": "Loona Interleaved 2 of 5 streckkodgenerator",
   "short_name": "Interleaved 2 of 5 streckkod",
   "description": "Gratis Interleaved 2 of 5 streckkodgenerator. Korrekta kontrollsiffror där standarden har dem, PNG- och SVG-nedladdning, ingen registrering, ingen vattenstämpel.",
-  "id": "/loona-qr-codes/sv/interleaved-2-of-5-barcode-generator/",
+  "id": "/sv/interleaved-2-of-5-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

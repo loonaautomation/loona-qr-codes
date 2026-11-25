@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Barcode Κωδικού Aztec",
   "short_name": "Γεννήτρια Γραμμωτού Κωδικού Aztec Code",
   "description": "Δωρεάν γεννήτρια γραμμωτού κωδικού Aztec Code. Σωστά ψηφία ελέγχου όπου το πρότυπο τα έχει, λήψη PNG και SVG, χωρίς εγγραφή, χωρίς υδατογράφημα.",
-  "id": "/loona-qr-codes/el/aztec-code-generator/",
+  "id": "/el/aztec-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

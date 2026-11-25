@@ -2,7 +2,7 @@
   "name": "Loona Sosyal Medya QR Kod Oluşturucu",
   "short_name": "Sosyal Medya QR Kod Oluşturucu",
   "description": "Loona ile anında ücretsiz bir Sosyal Medya QR Kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Bir platform seçin, kullanıcı adınızı ekleyin ve tek bir tarama profilinizi açar. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/social-media-qr-code-generator/",
+  "id": "/tr/social-media-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

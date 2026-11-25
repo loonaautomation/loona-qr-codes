@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Códigos QR Solana Pay",
   "short_name": "Gerador de Códigos QR Solana Pay",
   "description": "Crie um código QR Solana Pay grátis instantaneamente com a Loona. Sem registo, sem marca de água, nunca expira. Cores personalizadas, transferência PNG em alta resolução.",
-  "id": "/loona-qr-codes/pt-pt/solana-pay-qr-code-generator/",
+  "id": "/pt-pt/solana-pay-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

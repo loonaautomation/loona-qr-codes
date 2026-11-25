@@ -2,7 +2,7 @@
   "name": "Loona Szépségszalon QR-kód generátor",
   "short_name": "Szépségszalon QR-kód generátor",
   "description": "Hozzon létre ingyenes szépségszalon QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/beauty-salon-qr-code-generator/",
+  "id": "/hu/beauty-salon-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

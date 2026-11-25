@@ -2,7 +2,7 @@
   "name": "Loona Bitcoin Cash -maksu-QR-koodigeneraattori",
   "short_name": "Bitcoin Cash -maksu-QR-koodi",
   "description": "Luo ilmainen Bitcoin Cash -maksu-QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/bitcoin-cash-qr-code-generator/",
+  "id": "/fi/bitcoin-cash-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Facebook QR-kód generátor",
   "short_name": "Facebook QR-kód generátor",
   "description": "Hozzon létre ingyenes Facebook QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Küldje az embereket egyenesen a Facebook-oldalára. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/facebook-qr-code-generator/",
+  "id": "/hu/facebook-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

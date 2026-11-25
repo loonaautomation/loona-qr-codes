@@ -2,7 +2,7 @@
   "name": "Kode QR Kehadiran & Formulir Sekolah Loona",
   "short_name": "QR Kehadiran & Formulir Sekolah",
   "description": "Buat kode QR Kehadiran & Formulir Sekolah gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/school-attendance-qr-code-generator/",
+  "id": "/id/school-attendance-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

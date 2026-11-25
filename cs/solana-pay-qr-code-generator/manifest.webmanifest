@@ -2,7 +2,7 @@
   "name": "Generátor QR kódů pro Solana Pay Loona",
   "short_name": "Generátor QR kódů pro Solana Pay",
   "description": "Vytvořte si zdarma QR kód pro Solana Pay okamžitě s Loonou. Bez registrace, bez vodoznaku, nikdy nevyprší. Vlastní barvy, stažení PNG ve vysokém rozlišení.",
-  "id": "/loona-qr-codes/cs/solana-pay-qr-code-generator/",
+  "id": "/cs/solana-pay-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Free Library QR Code Generator",
   "short_name": "Free Library QR Code Generator",
   "description": "Create a free Library QR code instantly with Loona. No signup, no watermark, never expires. Custom colors, high-resolution PNG download.",
-  "id": "/loona-qr-codes/en-us/library-qr-code-generator/",
+  "id": "/en-us/library-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

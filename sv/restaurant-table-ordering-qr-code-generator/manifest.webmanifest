@@ -2,7 +2,7 @@
   "name": "Loona QR-kod för bordsbeställning på restaurang",
   "short_name": "Bordsbeställning på restaurang-QR",
   "description": "Skapa direkt en gratis QR-kod för bordsbeställning på restaurang med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/restaurant-table-ordering-qr-code-generator/",
+  "id": "/sv/restaurant-table-ordering-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

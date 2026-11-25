@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодов PDF",
   "short_name": "Генератор QR-кодов PDF",
   "description": "Создайте бесплатный QR-код PDF мгновенно с Loona. Без регистрации, без водяного знака, никогда не истекает. Сканируйте, чтобы открыть или скачать файл PDF. Настраиваемые цвета, скачивание PNG в высоком разрешении.",
-  "id": "/loona-qr-codes/ru/pdf-qr-code-generator/",
+  "id": "/ru/pdf-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

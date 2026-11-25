@@ -2,7 +2,7 @@
   "name": "Loona Telefon Araması QR Kod Oluşturucu",
   "short_name": "Telefon Araması QR Kod Oluşturucu",
   "description": "Loona ile anında ücretsiz bir Telefon Araması QR Kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Numaranızı anında çevirmek için tarayın. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/phone-qr-code-generator/",
+  "id": "/tr/phone-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

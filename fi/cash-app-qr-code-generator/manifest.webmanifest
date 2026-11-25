@@ -2,7 +2,7 @@
   "name": "Loona Cash App -QR-koodigeneraattori",
   "short_name": "Cash App -QR-koodigeneraattori",
   "description": "Luo ilmainen Cash App -QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/cash-app-qr-code-generator/",
+  "id": "/fi/cash-app-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

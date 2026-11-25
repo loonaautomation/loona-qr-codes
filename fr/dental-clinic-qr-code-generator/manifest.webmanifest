@@ -2,7 +2,7 @@
   "name": "Loona Générateur de code QR Dentaire et Clinique",
   "short_name": "Code QR Dentaire et Clinique",
   "description": "Créez un code QR Dentaire et Clinique gratuit instantanément avec Loona. Aucune inscription, aucun filigrane, n’expire jamais. Couleurs personnalisées, téléchargement PNG haute résolution.",
-  "id": "/loona-qr-codes/fr/dental-clinic-qr-code-generator/",
+  "id": "/fr/dental-clinic-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

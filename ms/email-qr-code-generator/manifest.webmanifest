@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR E-mel Loona",
   "short_name": "Penjana Kod QR E-mel",
   "description": "Cipta kod QR E-mel percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Imbas untuk membuka e-mel yang sudah dialamatkan, sedia untuk dihantar. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/email-qr-code-generator/",
+  "id": "/ms/email-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona メール QRコード生成ツール",
   "short_name": "メール QRコード生成ツール",
   "description": "Loona で無料のメール QRコードを即座に作成。登録不要、透かしなし、無期限。スキャンして宛先入力済みのメールを開き、送信可能な状態に。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/email-qr-code-generator/",
+  "id": "/ja/email-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

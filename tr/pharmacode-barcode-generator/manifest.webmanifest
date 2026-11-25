@@ -2,7 +2,7 @@
   "name": "Loona Pharmacode Barkod Oluşturucu",
   "short_name": "Pharmacode Barkod Oluşturucu",
   "description": "Ücretsiz Pharmacode barkod oluşturucu. Standartta olduğu yerde doğru kontrol basamakları, PNG ve SVG indirme, kayıt yok, filigran yok.",
-  "id": "/loona-qr-codes/tr/pharmacode-barcode-generator/",
+  "id": "/tr/pharmacode-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

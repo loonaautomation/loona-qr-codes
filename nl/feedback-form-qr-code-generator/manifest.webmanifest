@@ -2,7 +2,7 @@
   "name": "Loona feedbackformulier-QR-codegenerator",
   "short_name": "Feedbackformulier-QR-code",
   "description": "Maak direct een gratis feedbackformulier-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/feedback-form-qr-code-generator/",
+  "id": "/nl/feedback-form-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

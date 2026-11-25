@@ -2,7 +2,7 @@
   "name": "Generátor QR kódov pre posilňovňu a fitness Loona",
   "short_name": "QR kód pre posilňovňu a fitness",
   "description": "Vytvorte si zadarmo QR kód pre posilňovňu a fitness okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
-  "id": "/loona-qr-codes/sk/gym-fitness-qr-code-generator/",
+  "id": "/sk/gym-fitness-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

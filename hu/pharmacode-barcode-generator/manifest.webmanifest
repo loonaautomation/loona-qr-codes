@@ -2,7 +2,7 @@
   "name": "Loona Pharmacode vonalkódgenerátor",
   "short_name": "Pharmacode vonalkódgenerátor",
   "description": "Ingyenes Pharmacode vonalkód generátor. Helyes ellenőrző számjegyek, ahol a szabványnak vannak, PNG- és SVG-letöltés, nincs regisztráció, nincs vízjel.",
-  "id": "/loona-qr-codes/hu/pharmacode-barcode-generator/",
+  "id": "/hu/pharmacode-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

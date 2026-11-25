@@ -2,7 +2,7 @@
   "name": "Loona Ääni-QR-koodigeneraattori",
   "short_name": "Ääni-QR-koodigeneraattori",
   "description": "Luo ilmainen ääni-QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Skannaa toistaaksesi ääniviestin, kappaleen, podcastin tai äänioppaan. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/audio-qr-code-generator/",
+  "id": "/fi/audio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

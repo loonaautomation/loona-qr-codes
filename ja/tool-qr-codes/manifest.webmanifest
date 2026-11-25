@@ -2,7 +2,7 @@
   "name": "すべての Loona ツール用の Loona QRコード",
   "short_name": "すべての Loona ツール用の QRコード",
   "description": "任意の Loona ツール用の無料の既製 QRコードを取得 — 872 種類の計算ツール、PDF ツール、画像ツール、学習ツール、アプリ。ツールを選び、その QRコードを高解像度 PNG としてダウンロードし、印刷してください。登録不要、透かしなし、無期限。",
-  "id": "/loona-qr-codes/ja/tool-qr-codes/",
+  "id": "/ja/tool-qr-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

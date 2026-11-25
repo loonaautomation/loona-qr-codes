@@ -2,7 +2,7 @@
   "name": "QR kód pro WiFi Hotel & Hosté Hotel & Hosté Loona",
   "short_name": "Hotel & Hosté Hotel & Hosté",
   "description": "Vytvořte si zdarma QR kód pro WiFi pro hotely a hosty okamžitě s Loonou. Bez registrace, bez vodoznaku, nikdy nevyprší. Vlastní barvy, stažení PNG ve vysokém rozlišení.",
-  "id": "/loona-qr-codes/cs/hotel-wifi-qr-code-generator/",
+  "id": "/cs/hotel-wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

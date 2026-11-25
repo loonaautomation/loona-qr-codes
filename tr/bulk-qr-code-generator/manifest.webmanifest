@@ -2,7 +2,7 @@
   "name": "Loona Toplu QR Kod Oluşturucu",
   "short_name": "Toplu QR Kod Oluşturucu",
   "description": "Aynı anda 100'e kadar QR kod oluşturun, ücretsiz: bir liste yapıştırın veya bağlantı ve metinlerden oluşan bir CSV yükleyin, etiketli yazdırılabilir bir QR kod sayfası alın. Kayıt yok, filigran yok, asla süresi dolmaz, tarayıcınızda %100 gizli.",
-  "id": "/loona-qr-codes/tr/bulk-qr-code-generator/",
+  "id": "/tr/bulk-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

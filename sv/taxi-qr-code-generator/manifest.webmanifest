@@ -2,7 +2,7 @@
   "name": "Loona taxi & åktur-QR-kodgenerator",
   "short_name": "Taxi & åktur-QR-kodgenerator",
   "description": "Skapa direkt en gratis taxi- & åktur-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/taxi-qr-code-generator/",
+  "id": "/sv/taxi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

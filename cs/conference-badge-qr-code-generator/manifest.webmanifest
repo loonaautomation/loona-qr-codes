@@ -2,7 +2,7 @@
   "name": "Generátor QR kódů pro konferenční visačky Loona",
   "short_name": "QR kód pro konferenční visačky",
   "description": "Vytvořte si zdarma QR kód pro konferenční visačky okamžitě s Loonou. Bez registrace, bez vodoznaku, nikdy nevyprší. Vlastní barvy, stažení PNG ve vysokém rozlišení.",
-  "id": "/loona-qr-codes/cs/conference-badge-qr-code-generator/",
+  "id": "/cs/conference-badge-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator for CV / portefølje",
   "short_name": "QR-kode for CV / portefølje",
   "description": "Lag en gratis QR-kode for CV og portefølje med en gang med Loona. Ingen registrering, ingen vannmerke, utløper aldri. Legg CV-en eller porteføljen din én skanning unna. Tilpassede farger, nedlasting av PNG i høy oppløsning.",
-  "id": "/loona-qr-codes/nb/resume-portfolio-qr-code-generator/",
+  "id": "/nb/resume-portfolio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

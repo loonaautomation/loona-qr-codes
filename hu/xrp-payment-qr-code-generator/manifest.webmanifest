@@ -2,7 +2,7 @@
   "name": "Loona XRP Fizetés QR-kód generátor",
   "short_name": "XRP Fizetés QR-kód generátor",
   "description": "Hozzon létre ingyenes XRP fizetési QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/xrp-payment-qr-code-generator/",
+  "id": "/hu/xrp-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

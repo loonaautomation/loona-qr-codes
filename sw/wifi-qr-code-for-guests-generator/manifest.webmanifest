@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa WiFi ya Wageni (Nyumbani na Mkahawa) cha Loona",
   "short_name": "QR ya WiFi ya Wageni (Nyumbani na Mkahawa)",
   "description": "Tengeneza msimbo wa QR wa WiFi ya Wageni (Nyumbani na Mkahawa) wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/wifi-qr-code-for-guests-generator/",
+  "id": "/sw/wifi-qr-code-for-guests-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

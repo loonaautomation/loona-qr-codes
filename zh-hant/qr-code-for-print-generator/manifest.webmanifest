@@ -2,7 +2,7 @@
   "name": "Loona 列印就緒二維碼生成器",
   "short_name": "列印就緒二維碼生成器",
   "description": "用 Loona 立即建立一個免費的列印就緒二維碼。無需註冊，無水印，永不過期。自定義顏色，高解析度 PNG 下載。",
-  "id": "/loona-qr-codes/zh-hant/qr-code-for-print-generator/",
+  "id": "/zh-hant/qr-code-for-print-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Tüm QR Kod ve Barkod Oluşturucular",
   "short_name": "Tüm QR Kod ve Barkod",
   "description": "Tam Loona QR kütüphanesi: barkod oluşturucular (Code 128, EAN-13, UPC, Data Matrix, PDF417), ödeme QR kodları (SEPA, UPI, kripto, Venmo), sektör kullanım örnekleri ve baskı araçları.",
-  "id": "/loona-qr-codes/tr/qr-code-generators/",
+  "id": "/tr/qr-code-generators/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

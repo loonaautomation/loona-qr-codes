@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa LinkedIn cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wa LinkedIn",
   "description": "Tengeneza Msimbo wa QR wa LinkedIn wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Ungana kitaalamu kwa kuchanganua mara moja. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/linkedin-qr-code-generator/",
+  "id": "/sw/linkedin-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

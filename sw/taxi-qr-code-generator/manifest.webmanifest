@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Teksi na Usafiri cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wa Teksi na Usafiri",
   "description": "Tengeneza msimbo wa QR wa Teksi na Usafiri wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/taxi-qr-code-generator/",
+  "id": "/sw/taxi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Генератор штрихкодов Aztec Code",
   "short_name": "Генератор штрих-кодов Aztec Code",
   "description": "Бесплатный генератор штрихкодов Aztec Code. Корректные контрольные цифры там, где они предусмотрены стандартом, скачивание в PNG и SVG, без регистрации, без водяных знаков.",
-  "id": "/loona-qr-codes/ru/aztec-code-generator/",
+  "id": "/ru/aztec-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

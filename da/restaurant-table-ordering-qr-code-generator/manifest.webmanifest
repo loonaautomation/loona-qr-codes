@@ -2,7 +2,7 @@
   "name": "Loona QR-kode til bordbestilling på restaurant",
   "short_name": "QR-kode til bordbestilling på restaurant",
   "description": "Opret en gratis QR-kode til bordbestilling på restaurant øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/restaurant-table-ordering-qr-code-generator/",
+  "id": "/da/restaurant-table-ordering-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

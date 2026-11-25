@@ -2,7 +2,7 @@
   "name": "Loona Dogecoin-betaal-QR-codegenerator",
   "short_name": "Dogecoin-betaal-QR-code",
   "description": "Maak direct een gratis Dogecoin-betaal-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/dogecoin-payment-qr-code-generator/",
+  "id": "/nl/dogecoin-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

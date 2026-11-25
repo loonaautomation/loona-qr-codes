@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR TikTok Loona",
   "short_name": "Trình tạo mã QR TikTok",
   "description": "Tạo mã QR TikTok miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Quét để mở hồ sơ TikTok của bạn. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/tiktok-qr-code-generator/",
+  "id": "/vi/tiktok-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

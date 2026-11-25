@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодов резюме / портфолио",
   "short_name": "QR-код резюме / портфолио",
   "description": "Создайте бесплатный QR-код Resume / Portfolio мгновенно с Loona. Без регистрации, без водяного знака, никогда не истекает. Сделайте ваше резюме или портфолио доступным в одно сканирование. Настраиваемые цвета, скачивание PNG в высоком разрешении.",
-  "id": "/loona-qr-codes/ru/resume-portfolio-qr-code-generator/",
+  "id": "/ru/resume-portfolio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator for parkeringsbetaling",
   "short_name": "QR-kode for parkeringsbetaling",
   "description": "Lag en gratis QR-kode for parkeringsbetaling med en gang med Loona. Ingen registrering, ingen vannmerke, utløper aldri. Tilpassede farger, nedlasting av PNG i høy oppløsning.",
-  "id": "/loona-qr-codes/nb/parking-payment-qr-code-generator/",
+  "id": "/nb/parking-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

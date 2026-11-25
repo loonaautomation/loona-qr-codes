@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Panggilan Telefon Loona",
   "short_name": "Penjana Kod QR Panggilan Telefon",
   "description": "Cipta kod QR Panggilan Telefon percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Imbas untuk mendail nombor anda serta-merta. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/phone-qr-code-generator/",
+  "id": "/ms/phone-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

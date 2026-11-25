@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Εκδήλωσης Ημερολογίου Google",
   "short_name": "Κωδικός QR Εκδήλωσης Ημερολογίου Google",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Εκδήλωσης Ημερολογίου Google αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/google-calendar-qr-code-generator/",
+  "id": "/el/google-calendar-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

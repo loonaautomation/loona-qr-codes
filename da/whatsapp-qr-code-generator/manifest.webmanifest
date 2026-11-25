@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til WhatsApp",
   "short_name": "QR-kodegenerator til WhatsApp",
   "description": "Opret en gratis WhatsApp-QR-kode øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Start en WhatsApp-chat med én scanning, uden at gemme nummeret. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/whatsapp-qr-code-generator/",
+  "id": "/da/whatsapp-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

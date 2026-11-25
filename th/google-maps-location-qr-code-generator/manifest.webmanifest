@@ -2,7 +2,7 @@
   "name": "เครื่องสร้างคิวอาร์โค้ดตำแหน่ง Google Maps ของ Loona",
   "short_name": "คิวอาร์โค้ดตำแหน่ง Google Maps",
   "description": "สร้างคิวอาร์โค้ดตำแหน่ง Google Maps ฟรีได้ทันทีด้วย Loona ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ สแกนเพื่อรับเส้นทางไปยังสถานที่ของคุณ สีที่กำหนดเอง ดาวน์โหลด PNG ความละเอียดสูง",
-  "id": "/loona-qr-codes/th/google-maps-location-qr-code-generator/",
+  "id": "/th/google-maps-location-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

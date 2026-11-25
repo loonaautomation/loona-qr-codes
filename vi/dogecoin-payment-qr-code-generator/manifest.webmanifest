@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Thanh toán Dogecoin Loona",
   "short_name": "Mã QR Thanh toán Dogecoin",
   "description": "Tạo mã QR Thanh toán Dogecoin miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/dogecoin-payment-qr-code-generator/",
+  "id": "/vi/dogecoin-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

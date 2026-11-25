@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til SMS",
   "short_name": "QR-kodegenerator til SMS",
   "description": "Opret en gratis SMS-QR-kode øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Scan for at åbne en forhåndsskrevet sms. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/sms-qr-code-generator/",
+  "id": "/da/sms-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

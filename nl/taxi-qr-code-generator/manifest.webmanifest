@@ -2,7 +2,7 @@
   "name": "Loona taxi- en rit-QR-codegenerator",
   "short_name": "Taxi- en rit-QR-codegenerator",
   "description": "Maak direct een gratis taxi- en rit-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/taxi-qr-code-generator/",
+  "id": "/nl/taxi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

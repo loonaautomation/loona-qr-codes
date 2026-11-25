@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодов WhatsApp",
   "short_name": "Генератор QR-кодов WhatsApp",
   "description": "Создайте бесплатный QR-код WhatsApp мгновенно с Loona. Без регистрации, без водяного знака, никогда не истекает. Начните чат WhatsApp одним сканированием, без сохранения номера. Настраиваемые цвета, скачивание PNG в высоком разрешении.",
-  "id": "/loona-qr-codes/ru/whatsapp-qr-code-generator/",
+  "id": "/ru/whatsapp-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

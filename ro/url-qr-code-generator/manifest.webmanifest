@@ -2,7 +2,7 @@
   "name": "Loona Generator de coduri QR pentru URL / site web",
   "short_name": "Cod QR pentru URL / site web",
   "description": "Creează gratuit un cod QR pentru URL / site web instantaneu cu Loona. Fără înregistrare, fără filigran, nu expiră niciodată. Transformă orice link de site web într-un cod QR. Culori personalizate, descărcare PNG la rezoluție înaltă.",
-  "id": "/loona-qr-codes/ro/url-qr-code-generator/",
+  "id": "/ro/url-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

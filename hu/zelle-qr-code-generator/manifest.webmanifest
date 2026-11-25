@@ -2,7 +2,7 @@
   "name": "Loona Zelle QR-kód generátor",
   "short_name": "Zelle QR-kód generátor",
   "description": "Hozzon létre ingyenes Zelle QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/zelle-qr-code-generator/",
+  "id": "/hu/zelle-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

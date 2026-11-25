@@ -2,7 +2,7 @@
   "name": "Loona restaurangmeny-QR-kodgenerator",
   "short_name": "Restaurangmeny-QR-kod",
   "description": "Skapa direkt en gratis restaurangmeny-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Beröringsfri meny på varje bord. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/restaurant-menu-qr-code-generator/",
+  "id": "/sv/restaurant-menu-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

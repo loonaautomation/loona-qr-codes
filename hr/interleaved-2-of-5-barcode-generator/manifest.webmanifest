@@ -2,7 +2,7 @@
   "name": "Loona generator crtičnih kodova Interleaved 2 of 5",
   "short_name": "Crtični kod Interleaved 2 of 5",
   "description": "Besplatni generator crtičnih kodova Interleaved 2 of 5. Ispravne kontrolne znamenke gdje ih standard ima, preuzimanje PNG-a i SVG-a, bez registracije, bez vodenog žiga.",
-  "id": "/loona-qr-codes/hr/interleaved-2-of-5-barcode-generator/",
+  "id": "/hr/interleaved-2-of-5-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

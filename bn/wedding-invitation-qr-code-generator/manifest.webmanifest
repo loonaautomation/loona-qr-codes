@@ -2,7 +2,7 @@
   "name": "Loona Wedding Invitation QR Code Generator",
   "short_name": "বিয়ের আমন্ত্রণ QR Code",
   "description": "Loona দিয়ে সঙ্গে সঙ্গে একটি বিনামূল্যের Wedding Invitation QR কোড তৈরি করুন। কোনো সাইনআপ নেই, কোনো ওয়াটারমার্ক নেই, মেয়াদ কখনো শেষ হয় না। কাস্টম রং, উচ্চ-রেজোলিউশন PNG ডাউনলোড।",
-  "id": "/loona-qr-codes/bn/wedding-invitation-qr-code-generator/",
+  "id": "/bn/wedding-invitation-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

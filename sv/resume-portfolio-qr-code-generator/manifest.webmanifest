@@ -2,7 +2,7 @@
   "name": "Loona CV-/portfölj-QR-kodgenerator",
   "short_name": "CV-/portfölj-QR-kod",
   "description": "Skapa direkt en gratis CV-/portfölj-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Lägg ditt CV eller din portfölj en skanning bort. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/resume-portfolio-qr-code-generator/",
+  "id": "/sv/resume-portfolio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

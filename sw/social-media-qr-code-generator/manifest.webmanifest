@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Mitandao ya Kijamii cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wa Mitandao ya Kijamii",
   "description": "Tengeneza Msimbo wa QR wa Mitandao ya Kijamii wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Chagua jukwaa, ongeza jina lako la mtumiaji, na kuchanganua mara moja hufungua wasifu wako. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/social-media-qr-code-generator/",
+  "id": "/sw/social-media-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

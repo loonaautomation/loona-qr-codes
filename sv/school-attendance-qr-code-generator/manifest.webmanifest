@@ -2,7 +2,7 @@
   "name": "Loona skolnärvaro & formulär-QR-kod",
   "short_name": "Skolnärvaro & formulär-QR",
   "description": "Skapa direkt en gratis QR-kod för skolnärvaro & formulär med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/school-attendance-qr-code-generator/",
+  "id": "/sv/school-attendance-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

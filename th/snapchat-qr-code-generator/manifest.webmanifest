@@ -2,7 +2,7 @@
   "name": "เครื่องสร้างคิวอาร์โค้ด Snapchat ของ Loona",
   "short_name": "เครื่องสร้างคิวอาร์โค้ด Snapchat",
   "description": "สร้างคิวอาร์โค้ด Snapchat ฟรีได้ทันทีด้วย Loona ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ สแกนเพื่อเพิ่มคุณบน Snapchat สีที่กำหนดเอง ดาวน์โหลด PNG ความละเอียดสูง",
-  "id": "/loona-qr-codes/th/snapchat-qr-code-generator/",
+  "id": "/th/snapchat-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

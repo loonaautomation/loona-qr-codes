@@ -2,7 +2,7 @@
   "name": "Loona Telegram 二维码生成器",
   "short_name": "Telegram 二维码生成器",
   "description": "用 Loona 立即创建一个免费的 Telegram 二维码。无需注册，无水印，永不过期。扫码加入您的 Telegram 个人资料、群组或频道。自定义颜色，高分辨率 PNG 下载。",
-  "id": "/loona-qr-codes/zh/telegram-qr-code-generator/",
+  "id": "/zh/telegram-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

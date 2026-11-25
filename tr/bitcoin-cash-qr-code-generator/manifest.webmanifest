@@ -2,7 +2,7 @@
   "name": "Loona Bitcoin Cash Ödeme QR Kod Oluşturucu",
   "short_name": "Bitcoin Cash Ödeme QR Kodu",
   "description": "Loona ile anında ücretsiz bir Bitcoin Cash Ödeme QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/bitcoin-cash-qr-code-generator/",
+  "id": "/tr/bitcoin-cash-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

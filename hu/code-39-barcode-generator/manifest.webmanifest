@@ -2,7 +2,7 @@
   "name": "Loona Code 39 vonalkódgenerátor",
   "short_name": "Code 39 vonalkód generátor",
   "description": "Ingyenes Code 39 vonalkód generátor. Helyes ellenőrző számjegyek, ahol a szabványnak vannak, PNG- és SVG-letöltés, nincs regisztráció, nincs vízjel.",
-  "id": "/loona-qr-codes/hu/code-39-barcode-generator/",
+  "id": "/hu/code-39-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

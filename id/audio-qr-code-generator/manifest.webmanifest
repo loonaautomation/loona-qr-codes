@@ -2,7 +2,7 @@
   "name": "Generator Kode QR Audio Loona",
   "short_name": "Generator Kode QR Audio",
   "description": "Buat Kode QR Audio gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Pindai untuk memutar catatan suara, lagu, podcast, atau panduan audio. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/audio-qr-code-generator/",
+  "id": "/id/audio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR App Store / Google Play",
   "short_name": "QR App Store / Google Play",
   "description": "Δημιουργήστε έναν δωρεάν Κωδικό QR App Store / Google Play αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Σαρώστε για να εγκαταστήσετε την εφαρμογή σας. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/app-store-qr-code-generator/",
+  "id": "/el/app-store-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

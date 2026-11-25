@@ -2,7 +2,7 @@
   "name": "Loona App Store / Google Play QR Kod Oluşturucu",
   "short_name": "App Store / Google Play QR",
   "description": "Loona ile anında ücretsiz bir App Store / Google Play QR Kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Uygulamanızı yüklemek için tarayın. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/app-store-qr-code-generator/",
+  "id": "/tr/app-store-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

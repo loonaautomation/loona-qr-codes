@@ -2,7 +2,7 @@
   "name": "Loona Generator de coduri QR pentru semnături de e-mail",
   "short_name": "Cod QR pentru semnături de e-mail",
   "description": "Creează gratuit un cod QR pentru semnături de e-mail instantaneu cu Loona. Fără înregistrare, fără filigran, nu expiră niciodată. Culori personalizate, descărcare PNG la rezoluție înaltă.",
-  "id": "/loona-qr-codes/ro/email-signature-qr-code-generator/",
+  "id": "/ro/email-signature-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Parkolási Fizetés QR-kód generátor",
   "short_name": "Parkolási Fizetés QR-kód",
   "description": "Hozzon létre ingyenes parkolási fizetési QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/parking-payment-qr-code-generator/",
+  "id": "/hu/parking-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

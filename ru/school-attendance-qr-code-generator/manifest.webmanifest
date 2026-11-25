@@ -2,7 +2,7 @@
   "name": "Loona QR-код посещаемости школы &amp; форм",
   "short_name": "QR посещаемости школы &amp; форм",
   "description": "Создайте бесплатный QR-код посещаемости школы &amp; форм мгновенно с Loona. Без регистрации, без водяного знака, никогда не истекает. Настраиваемые цвета, скачивание PNG в высоком разрешении.",
-  "id": "/loona-qr-codes/ru/school-attendance-qr-code-generator/",
+  "id": "/ru/school-attendance-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

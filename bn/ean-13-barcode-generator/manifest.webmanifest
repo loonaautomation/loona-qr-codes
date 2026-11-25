@@ -2,7 +2,7 @@
   "name": "Loona EAN-13 Barcode Generator",
   "short_name": "EAN-13 Barcode Generator",
   "description": "বিনামূল্যে EAN-13 বারকোড জেনারেটর। মান যেখানে যাচাই সংখ্যা রাখে সেখানে সঠিক, PNG ও SVG ডাউনলোড, কোনো সাইনআপ নেই, কোনো ওয়াটারমার্ক নেই।",
-  "id": "/loona-qr-codes/bn/ean-13-barcode-generator/",
+  "id": "/bn/ean-13-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

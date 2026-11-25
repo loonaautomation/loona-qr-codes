@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona ל-Solana Pay",
   "short_name": "מחולל קוד QR של Solana Pay",
   "description": "צרו קוד QR חינמי של Solana Pay מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/solana-pay-qr-code-generator/",
+  "id": "/he/solana-pay-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

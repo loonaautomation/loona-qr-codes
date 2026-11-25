@@ -2,7 +2,7 @@
   "name": "เครื่องสร้างคิวอาร์โค้ดป้ายชื่อผู้เข้าร่วมงานประชุมของ Loona",
   "short_name": "คิวอาร์โค้ดป้ายชื่อผู้เข้าร่วมงานประชุม",
   "description": "สร้างคิวอาร์โค้ดป้ายชื่อผู้เข้าร่วมงานประชุมฟรีได้ทันทีด้วย Loona ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ สีที่กำหนดเอง ดาวน์โหลด PNG ความละเอียดสูง",
-  "id": "/loona-qr-codes/th/conference-badge-qr-code-generator/",
+  "id": "/th/conference-badge-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

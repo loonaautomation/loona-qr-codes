@@ -2,7 +2,7 @@
   "name": "Loona Vendég WiFi (Otthon és Kávézó) QR-kód generátor",
   "short_name": "Vendég WiFi (otthon és kávézó) QR",
   "description": "Hozzon létre ingyenes vendég WiFi (otthon és kávézó) QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/wifi-qr-code-for-guests-generator/",
+  "id": "/hu/wifi-qr-code-for-guests-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

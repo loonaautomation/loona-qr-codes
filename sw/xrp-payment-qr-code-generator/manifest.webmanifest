@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Malipo ya XRP cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wa Malipo ya XRP",
   "description": "Tengeneza msimbo wa QR wa Malipo ya XRP wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/xrp-payment-qr-code-generator/",
+  "id": "/sw/xrp-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

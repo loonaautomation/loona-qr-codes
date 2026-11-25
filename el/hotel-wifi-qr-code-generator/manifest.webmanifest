@@ -2,7 +2,7 @@
   "name": "Loona — Κωδικός QR WiFi Ξενοδοχείου & Επισκεπτών Ξενοδοχείου",
   "short_name": "Ξενοδοχείο & Επισκέπτης Ξενοδοχείο & Επισκέπτης",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR WiFi Ξενοδοχείου & Επισκεπτών αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/hotel-wifi-qr-code-generator/",
+  "id": "/el/hotel-wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

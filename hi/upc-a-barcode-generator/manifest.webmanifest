@@ -2,7 +2,7 @@
   "name": "Loona UPC-A बारकोड जनरेटर",
   "short_name": "UPC-A बारकोड जनरेटर",
   "description": "मुफ़्त UPC-A बारकोड जनरेटर। जहाँ मानक में जाँच अंक होते हैं वहाँ सही जाँच अंक, PNG और SVG डाउनलोड, कोई साइन-अप नहीं, कोई वॉटरमार्क नहीं।",
-  "id": "/loona-qr-codes/hi/upc-a-barcode-generator/",
+  "id": "/hi/upc-a-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

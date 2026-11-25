@@ -2,7 +2,7 @@
   "name": "Loona huisdier-ID-label-QR-codegenerator",
   "short_name": "Huisdier-ID-label-QR-codegenerator",
   "description": "Maak direct een gratis huisdier-ID-label-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/pet-tag-qr-code-generator/",
+  "id": "/nl/pet-tag-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

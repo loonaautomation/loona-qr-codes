@@ -2,7 +2,7 @@
   "name": "Loona UPC-A-barcodegenerator",
   "short_name": "UPC-A-barcodegenerator",
   "description": "Gratis UPC-A-barcodegenerator. Juiste controlecijfers waar de standaard ze heeft, PNG- en SVG-download, geen registratie, geen watermerk.",
-  "id": "/loona-qr-codes/nl/upc-a-barcode-generator/",
+  "id": "/nl/upc-a-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Générateur de code QR Réseaux sociaux",
   "short_name": "Générateur de code QR Réseaux sociaux",
   "description": "Créez un code QR Réseaux sociaux gratuit instantanément avec Loona. Aucune inscription, aucun filigrane, n’expire jamais. Choisissez une plateforme, ajoutez votre nom d’utilisateur, et un seul scan ouvre votre profil. Couleurs personnalisées, téléchargement PNG haute résolution.",
-  "id": "/loona-qr-codes/fr/social-media-qr-code-generator/",
+  "id": "/fr/social-media-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

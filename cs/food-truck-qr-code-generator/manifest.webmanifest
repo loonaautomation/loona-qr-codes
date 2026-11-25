@@ -2,7 +2,7 @@
   "name": "Generátor QR kódů pro food trucky Loona",
   "short_name": "Generátor QR kódů pro food trucky",
   "description": "Vytvořte si zdarma QR kód pro food trucky okamžitě s Loonou. Bez registrace, bez vodoznaku, nikdy nevyprší. Vlastní barvy, stažení PNG ve vysokém rozlišení.",
-  "id": "/loona-qr-codes/cs/food-truck-qr-code-generator/",
+  "id": "/cs/food-truck-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

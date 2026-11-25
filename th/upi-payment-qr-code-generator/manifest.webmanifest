@@ -2,7 +2,7 @@
   "name": "เครื่องสร้างคิวอาร์โค้ดชำระเงิน UPI ของ Loona",
   "short_name": "เครื่องสร้างคิวอาร์โค้ดการชำระเงิน UPI",
   "description": "สร้างคิวอาร์โค้ดชำระเงิน UPI ฟรีได้ทันทีด้วย Loona ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ คิวอาร์โค้ดชำระเงิน UPI สำหรับร้านค้าในอินเดียและภูมิภาค UPI สีที่กำหนดเอง ดาวน์โหลด PNG ความละเอียดสูง",
-  "id": "/loona-qr-codes/th/upi-payment-qr-code-generator/",
+  "id": "/th/upi-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

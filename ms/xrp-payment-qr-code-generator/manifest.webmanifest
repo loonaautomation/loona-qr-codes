@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Bayaran XRP Loona",
   "short_name": "Penjana Kod QR Bayaran XRP",
   "description": "Cipta kod Bayaran XRP percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/xrp-payment-qr-code-generator/",
+  "id": "/ms/xrp-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

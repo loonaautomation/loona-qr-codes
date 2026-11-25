@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za pakiranje proizvoda",
   "short_name": "QR kod za pakiranje proizvoda",
   "description": "Stvorite besplatni QR kod za pakiranje proizvoda trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/product-packaging-qr-code-generator/",
+  "id": "/hr/product-packaging-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

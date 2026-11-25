@@ -2,7 +2,7 @@
   "name": "Loona Código QR de Pedido à Mesa de Restaurante",
   "short_name": "QR de Pedido à Mesa de Restaurante",
   "description": "Crie um código QR de Pedido à Mesa de Restaurante grátis instantaneamente com a Loona. Sem registo, sem marca de água, nunca expira. Cores personalizadas, transferência PNG em alta resolução.",
-  "id": "/loona-qr-codes/pt/restaurant-table-ordering-qr-code-generator/",
+  "id": "/pt/restaurant-table-ordering-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

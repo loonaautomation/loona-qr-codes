@@ -2,7 +2,7 @@
   "name": "Loona Aztec Kod Barkod Oluşturucu",
   "short_name": "Aztec Kod Barkod Oluşturucu",
   "description": "Ücretsiz Aztec Kod barkod oluşturucu. Standartta olduğu yerde doğru kontrol basamakları, PNG ve SVG indirme, kayıt yok, filigran yok.",
-  "id": "/loona-qr-codes/tr/aztec-code-generator/",
+  "id": "/tr/aztec-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

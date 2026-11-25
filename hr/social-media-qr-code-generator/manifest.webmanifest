@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za društvene mreže",
   "short_name": "Generator QR kodova za društvene mreže",
   "description": "Stvorite besplatni QR kod za društvene mreže trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Odaberite platformu, dodajte svoje korisničko ime i jedno skeniranje otvara vaš profil. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/social-media-qr-code-generator/",
+  "id": "/hr/social-media-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

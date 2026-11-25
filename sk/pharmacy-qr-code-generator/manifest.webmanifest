@@ -2,7 +2,7 @@
   "name": "Loona Generátor QR kódov pre lekáreň",
   "short_name": "Generátor QR kódov pre lekáreň",
   "description": "Vytvorte si zadarmo QR kód pre lekáreň okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
-  "id": "/loona-qr-codes/sk/pharmacy-qr-code-generator/",
+  "id": "/sk/pharmacy-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator med logo",
   "short_name": "QR-kodegenerator med logo",
   "description": "Gratis QR-kodegenerator med logo: legg logoen din i midten av en QR-kode på feilkorrigeringsnivå H, egendefinerte farger, nedlasting av PNG på 1024px, ingen vannmerke.",
-  "id": "/loona-qr-codes/nb/qr-code-with-logo-generator/",
+  "id": "/nb/qr-code-with-logo-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

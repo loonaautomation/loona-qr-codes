@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) QR Code Generator",
   "short_name": "X (Twitter) QR Code Generator",
   "description": "Loona کے ساتھ مفت X (Twitter) QR Code فوراً بنائیں۔ کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، کبھی ختم نہیں ہوتا۔ اپنا X پروفائل کھولنے کے لیے اسکین کریں۔ حسبِ پسند رنگ، ہائی ریزولوشن PNG ڈاؤن لوڈ۔",
-  "id": "/loona-qr-codes/ur/x-twitter-qr-code-generator/",
+  "id": "/ur/x-twitter-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

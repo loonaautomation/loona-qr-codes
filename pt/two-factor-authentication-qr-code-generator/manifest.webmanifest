@@ -2,7 +2,7 @@
   "name": "Loona Código QR de Autenticação de Dois Fatores (TOTP)",
   "short_name": "Autenticação de Dois Fatores",
   "description": "Crie um código QR de Autenticação de Dois Fatores (TOTP) grátis instantaneamente com a Loona. Sem registo, sem marca de água, nunca expira. Cores personalizadas, transferência PNG em alta resolução.",
-  "id": "/loona-qr-codes/pt/two-factor-authentication-qr-code-generator/",
+  "id": "/pt/two-factor-authentication-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Free Barcode Generator",
   "short_name": "Free Barcode Generator",
   "description": "Create free barcodes online with Loona: Code 128, Code 39, EAN-13, UPC-A and ITF-14. Check digits added automatically, live preview, download as PNG or SVG. No signup, no watermark, 100% private in your browser.",
-  "id": "/loona-qr-codes/en-us/barcode-generator/",
+  "id": "/en-us/barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

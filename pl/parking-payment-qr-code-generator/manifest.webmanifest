@@ -2,7 +2,7 @@
   "name": "Generator kodów QR płatności parkingowych Loona",
   "short_name": "Kod QR płatności parkingowej",
   "description": "Utwórz darmowy kod QR płatności parkingowej błyskawicznie z Loona. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa. Kolory niestandardowe, pobieranie PNG w wysokiej rozdzielczości.",
-  "id": "/loona-qr-codes/pl/parking-payment-qr-code-generator/",
+  "id": "/pl/parking-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

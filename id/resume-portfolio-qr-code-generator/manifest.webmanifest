@@ -2,7 +2,7 @@
   "name": "Generator Kode QR Resume / Portofolio Loona",
   "short_name": "Kode QR Resume / Portofolio",
   "description": "Buat Kode QR Resume / Portofolio gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Letakkan resume atau portofolio Anda satu pemindaian lagi. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/resume-portfolio-qr-code-generator/",
+  "id": "/id/resume-portfolio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

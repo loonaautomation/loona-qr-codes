@@ -2,7 +2,7 @@
   "name": "Loona QR-код посібників та інструкцій до товарів",
   "short_name": "Посібники та інструкції до товарів",
   "description": "Створіть безкоштовний QR-код посібника та інструкцій до товару миттєво з Loona. Без реєстрації, без водяного знака, строк дії ніколи не закінчується. Користувацькі кольори, завантаження PNG у високій роздільній здатності.",
-  "id": "/loona-qr-codes/uk/product-manual-qr-code-generator/",
+  "id": "/uk/product-manual-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

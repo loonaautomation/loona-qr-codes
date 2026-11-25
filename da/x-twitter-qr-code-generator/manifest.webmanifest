@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til X (Twitter)",
   "short_name": "QR-kodegenerator til X (Twitter)",
   "description": "Opret en gratis X (Twitter)-QR-kode øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Scan for at åbne din X-profil. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/x-twitter-qr-code-generator/",
+  "id": "/da/x-twitter-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

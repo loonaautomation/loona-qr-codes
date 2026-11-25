@@ -2,7 +2,7 @@
   "name": "Loona Google-recension-QR-kodgenerator",
   "short_name": "Google-recension-QR-kod",
   "description": "Skapa direkt en gratis Google-recension-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Nöjda kunder lämnar en Google-recension på några sekunder. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/google-review-qr-code-generator/",
+  "id": "/sv/google-review-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

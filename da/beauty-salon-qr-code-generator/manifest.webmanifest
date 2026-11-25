@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til skønhedssalon",
   "short_name": "QR-kodegenerator til skønhedssalon",
   "description": "Opret en gratis QR-kode til skønhedssalon øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/beauty-salon-qr-code-generator/",
+  "id": "/da/beauty-salon-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

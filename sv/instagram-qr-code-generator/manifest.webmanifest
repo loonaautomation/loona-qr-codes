@@ -2,7 +2,7 @@
   "name": "Loona Instagram-QR-kodgenerator",
   "short_name": "Instagram QR-kodgenerator",
   "description": "Skapa direkt en gratis Instagram-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Väx följare med en Instagram-QR att skanna för att följa. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/instagram-qr-code-generator/",
+  "id": "/sv/instagram-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

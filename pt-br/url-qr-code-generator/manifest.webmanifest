@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Códigos QR de URL / Site",
   "short_name": "Código QR de URL / Site",
   "description": "Crie um Código QR de URL / Site grátis instantaneamente com a Loona. Sem registro, sem marca de água, nunca expira. Transforme qualquer ligação de site num código QR. Cores personalizadas, transferência PNG em alta resolução.",
-  "id": "/loona-qr-codes/pt-br/url-qr-code-generator/",
+  "id": "/pt-br/url-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

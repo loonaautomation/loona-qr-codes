@@ -2,7 +2,7 @@
   "name": "Loona Générateur de code QR Étal de marché fermier",
   "short_name": "Code QR Étal de marché fermier",
   "description": "Créez un code QR Étal de marché fermier gratuit instantanément avec Loona. Aucune inscription, aucun filigrane, n’expire jamais. Couleurs personnalisées, téléchargement PNG haute résolution.",
-  "id": "/loona-qr-codes/fr/farmers-market-qr-code-generator/",
+  "id": "/fr/farmers-market-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

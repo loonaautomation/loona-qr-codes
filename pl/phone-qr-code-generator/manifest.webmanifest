@@ -2,7 +2,7 @@
   "name": "Generator kodów QR połączeń telefonicznych Loona",
   "short_name": "Generator kodów QR połączeń telefonicznych",
   "description": "Utwórz darmowy kod QR połączenia telefonicznego błyskawicznie z Loona. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa. Skanuj, aby wybrać swój numer błyskawicznie. Kolory niestandardowe, pobieranie PNG w wysokiej rozdzielczości.",
-  "id": "/loona-qr-codes/pl/phone-qr-code-generator/",
+  "id": "/pl/phone-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

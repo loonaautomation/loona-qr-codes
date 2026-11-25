@@ -2,7 +2,7 @@
   "name": "Kod QR Kehadiran & Borang Sekolah Loona",
   "short_name": "QR Kehadiran & Borang Sekolah",
   "description": "Cipta kod Kehadiran & Borang Sekolah percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/school-attendance-qr-code-generator/",
+  "id": "/ms/school-attendance-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

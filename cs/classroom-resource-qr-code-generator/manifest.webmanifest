@@ -2,7 +2,7 @@
   "name": "Generátor QR kódů pro materiály do učebny Loona",
   "short_name": "QR kód pro materiály do učebny",
   "description": "Vytvořte si zdarma QR kód pro materiály do učebny okamžitě s Loonou. Bez registrace, bez vodoznaku, nikdy nevyprší. Vlastní barvy, stažení PNG ve vysokém rozlišení.",
-  "id": "/loona-qr-codes/cs/classroom-resource-qr-code-generator/",
+  "id": "/cs/classroom-resource-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

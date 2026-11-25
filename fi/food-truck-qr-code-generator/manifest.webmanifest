@@ -2,7 +2,7 @@
   "name": "Loona Ruokarekka-QR-koodigeneraattori",
   "short_name": "Ruokarekan QR-koodigeneraattori",
   "description": "Luo ilmainen ruokarekan QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/food-truck-qr-code-generator/",
+  "id": "/fi/food-truck-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

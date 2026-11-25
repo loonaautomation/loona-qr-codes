@@ -2,7 +2,7 @@
   "name": "Loona Zelle QR Code Generator",
   "short_name": "Zelle QR Code Generator",
   "description": "Loona کے ساتھ مفت Zelle QR code فوراً بنائیں۔ کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، کبھی ختم نہیں ہوتا۔ حسبِ پسند رنگ، ہائی ریزولوشن PNG ڈاؤن لوڈ۔",
-  "id": "/loona-qr-codes/ur/zelle-qr-code-generator/",
+  "id": "/ur/zelle-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR WiFi Loona",
   "short_name": "Penjana Kod QR WiFi",
   "description": "Cipta kod QR WiFi percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Tetamu menyambung ke WiFi dengan satu imbasan, tiada menaip kata laluan. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/wifi-qr-code-generator/",
+  "id": "/ms/wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

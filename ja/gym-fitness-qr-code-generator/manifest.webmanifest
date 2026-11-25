@@ -2,7 +2,7 @@
   "name": "Loona ジム＆フィットネス QRコード生成ツール",
   "short_name": "ジム＆フィットネス QRコード",
   "description": "Loona で無料のジム＆フィットネス QRコードを即座に作成。登録不要、透かしなし、無期限。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/gym-fitness-qr-code-generator/",
+  "id": "/ja/gym-fitness-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

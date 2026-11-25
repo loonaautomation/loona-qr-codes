@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona ל-Zelle",
   "short_name": "מחולל קוד QR של Zelle",
   "description": "צרו קוד QR חינמי של Zelle מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/zelle-qr-code-generator/",
+  "id": "/he/zelle-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

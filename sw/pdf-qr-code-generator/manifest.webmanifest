@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa PDF cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wa PDF",
   "description": "Tengeneza Msimbo wa QR wa PDF wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Changanua ili kufungua au kupakua faili ya PDF. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/pdf-qr-code-generator/",
+  "id": "/sw/pdf-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

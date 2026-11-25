@@ -2,7 +2,7 @@
   "name": "Loona 電話発信 QRコード生成ツール",
   "short_name": "電話発信 QRコード生成ツール",
   "description": "Loona で無料の電話発信 QRコードを即座に作成。登録不要、透かしなし、無期限。スキャンしてあなたの番号に即座に発信。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/phone-qr-code-generator/",
+  "id": "/ja/phone-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

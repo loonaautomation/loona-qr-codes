@@ -2,7 +2,7 @@
   "name": "Generator kodów QR obrazów Loona",
   "short_name": "Generator kodów QR obrazów",
   "description": "Utwórz darmowy kod QR obrazu błyskawicznie z Loona. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa. Skanuj, aby otworzyć zdjęcie, plakat, obraz menu lub zdjęcie produktu. Kolory niestandardowe, pobieranie PNG w wysokiej rozdzielczości.",
-  "id": "/loona-qr-codes/pl/image-qr-code-generator/",
+  "id": "/pl/image-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

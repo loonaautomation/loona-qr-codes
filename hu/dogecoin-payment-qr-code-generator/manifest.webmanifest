@@ -2,7 +2,7 @@
   "name": "Loona Dogecoin Fizetés QR-kód generátor",
   "short_name": "Dogecoin fizetési QR-kód",
   "description": "Hozzon létre ingyenes Dogecoin fizetési QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/dogecoin-payment-qr-code-generator/",
+  "id": "/hu/dogecoin-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

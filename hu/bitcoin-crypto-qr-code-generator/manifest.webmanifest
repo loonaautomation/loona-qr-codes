@@ -2,7 +2,7 @@
   "name": "Loona Bitcoin / Kripto QR-kód generátor",
   "short_name": "Bitcoin / kriptó QR-kód",
   "description": "Hozzon létre ingyenes Bitcoin / kriptó QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Osszon meg Bitcoin-pénztárcacímet QR-kódként. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/bitcoin-crypto-qr-code-generator/",
+  "id": "/hu/bitcoin-crypto-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

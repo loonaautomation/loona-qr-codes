@@ -2,7 +2,7 @@
   "name": "Loona generator crtičnih kodova Pharmacode",
   "short_name": "Generator crtičnih kodova Pharmacode",
   "description": "Besplatni generator crtičnih kodova Pharmacode. Ispravne kontrolne znamenke gdje ih standard ima, preuzimanje PNG-a i SVG-a, bez registracije, bez vodenog žiga.",
-  "id": "/loona-qr-codes/hr/pharmacode-barcode-generator/",
+  "id": "/hr/pharmacode-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

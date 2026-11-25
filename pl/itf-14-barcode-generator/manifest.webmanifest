@@ -2,7 +2,7 @@
   "name": "Generator kodów kreskowych ITF-14 Loona",
   "short_name": "Generator kodów kreskowych ITF-14",
   "description": "Darmowy generator kodów kreskowych ITF-14. Poprawne cyfry kontrolne tam, gdzie standard je ma, pobieranie PNG i SVG, bez rejestracji, bez znaku wodnego.",
-  "id": "/loona-qr-codes/pl/itf-14-barcode-generator/",
+  "id": "/pl/itf-14-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

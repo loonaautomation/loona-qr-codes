@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za Instagram",
   "short_name": "Generator QR kodova za Instagram",
   "description": "Stvorite besplatni QR kod za Instagram trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Rastite pratitelje QR kodom za skeniranje-i-praćenje na Instagramu. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/instagram-qr-code-generator/",
+  "id": "/hr/instagram-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

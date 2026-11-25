@@ -2,7 +2,7 @@
   "name": "Loona QR-код шкільної відвідуваності й форм",
   "short_name": "QR шкільної відвідуваності й форм",
   "description": "Створіть безкоштовний QR-код шкільної відвідуваності й форм миттєво з Loona. Без реєстрації, без водяного знака, строк дії ніколи не закінчується. Користувацькі кольори, завантаження PNG у високій роздільній здатності.",
-  "id": "/loona-qr-codes/uk/school-attendance-qr-code-generator/",
+  "id": "/uk/school-attendance-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

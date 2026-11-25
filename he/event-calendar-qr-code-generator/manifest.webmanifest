@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona לאירוע / לוח שנה",
   "short_name": "קוד QR של אירוע / יומן",
   "description": "צרו קוד QR חינמי של אירוע / יומן מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. סרקו כדי לשמור אירוע ביומן. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/event-calendar-qr-code-generator/",
+  "id": "/he/event-calendar-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

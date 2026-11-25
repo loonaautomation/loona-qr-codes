@@ -2,7 +2,7 @@
   "name": "Loona Generátor QR kódov pre YouTube",
   "short_name": "Generátor QR kódov pre YouTube",
   "description": "Vytvorte si zadarmo QR kód pre YouTube okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Naskenujte a okamžite otvorte video alebo kanál. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
-  "id": "/loona-qr-codes/sk/youtube-qr-code-generator/",
+  "id": "/sk/youtube-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

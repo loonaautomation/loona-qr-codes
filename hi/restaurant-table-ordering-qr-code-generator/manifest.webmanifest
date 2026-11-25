@@ -2,7 +2,7 @@
   "name": "Loona रेस्तरां मेज़ ऑर्डरिंग QR कोड",
   "short_name": "रेस्तरां मेज़ ऑर्डरिंग QR",
   "description": "Loona के साथ तुरंत एक मुफ़्त रेस्तरां मेज़ ऑर्डरिंग QR कोड बनाएँ। कोई साइन-अप नहीं, कोई वॉटरमार्क नहीं, कभी समाप्त नहीं होता। कस्टम रंग, उच्च-रिज़ॉल्यूशन PNG डाउनलोड।",
-  "id": "/loona-qr-codes/hi/restaurant-table-ordering-qr-code-generator/",
+  "id": "/hi/restaurant-table-ordering-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

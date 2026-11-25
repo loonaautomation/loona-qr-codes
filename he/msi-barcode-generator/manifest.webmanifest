@@ -2,7 +2,7 @@
   "name": "מחולל ברקוד MSI Plessey של Loona",
   "short_name": "מחולל ברקוד MSI Plessey",
   "description": "מחולל ברקוד MSI Plessey חינמי. ספרות ביקורת נכונות היכן שהתקן כולל אותן, הורדת PNG ו-SVG, ללא הרשמה, ללא סימן מים.",
-  "id": "/loona-qr-codes/he/msi-barcode-generator/",
+  "id": "/he/msi-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

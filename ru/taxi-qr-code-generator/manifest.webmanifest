@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодов такси &amp; поездок",
   "short_name": "Генератор QR-кодов для такси и поездок",
   "description": "Создайте бесплатный QR-код такси &amp; поездок мгновенно с Loona. Без регистрации, без водяного знака, никогда не истекает. Настраиваемые цвета, скачивание PNG в высоком разрешении.",
-  "id": "/loona-qr-codes/ru/taxi-qr-code-generator/",
+  "id": "/ru/taxi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

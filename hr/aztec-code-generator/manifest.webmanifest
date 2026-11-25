@@ -2,7 +2,7 @@
   "name": "Loona generator crtičnih kodova Aztec Code",
   "short_name": "Generator crtičnih kodova Aztec Code",
   "description": "Besplatni generator crtičnih kodova Aztec Code. Ispravne kontrolne znamenke gdje ih standard ima, preuzimanje PNG-a i SVG-a, bez registracije, bez vodenog žiga.",
-  "id": "/loona-qr-codes/hr/aztec-code-generator/",
+  "id": "/hr/aztec-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

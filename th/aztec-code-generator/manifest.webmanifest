@@ -2,7 +2,7 @@
   "name": "เครื่องสร้างบาร์โค้ด Aztec ของ Loona",
   "short_name": "เครื่องสร้างบาร์โค้ด Aztec",
   "description": "เครื่องสร้างบาร์โค้ด Aztec ฟรี เลขตรวจสอบที่ถูกต้องในที่ที่มาตรฐานมีให้ ดาวน์โหลด PNG และ SVG ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ",
-  "id": "/loona-qr-codes/th/aztec-code-generator/",
+  "id": "/th/aztec-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

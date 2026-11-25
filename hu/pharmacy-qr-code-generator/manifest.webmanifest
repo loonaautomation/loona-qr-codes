@@ -2,7 +2,7 @@
   "name": "Loona Gyógyszertár QR-kód generátor",
   "short_name": "Gyógyszertár QR-kód generátor",
   "description": "Hozzon létre ingyenes gyógyszertár QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/pharmacy-qr-code-generator/",
+  "id": "/hu/pharmacy-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

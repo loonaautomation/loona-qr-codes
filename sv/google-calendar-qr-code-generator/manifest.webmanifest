@@ -2,7 +2,7 @@
   "name": "Loona Google Calendar-evenemang-QR-kodgenerator",
   "short_name": "Google Calendar-evenemang-QR-kod",
   "description": "Skapa direkt en gratis Google Calendar-evenemang-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/google-calendar-qr-code-generator/",
+  "id": "/sv/google-calendar-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

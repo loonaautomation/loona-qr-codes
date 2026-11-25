@@ -2,7 +2,7 @@
   "name": "Loona Generator de coduri QR pentru apeluri Skype",
   "short_name": "Generator de coduri QR pentru apeluri Skype",
   "description": "Creează gratuit un cod QR pentru apeluri Skype instantaneu cu Loona. Fără înregistrare, fără filigran, nu expiră niciodată. Culori personalizate, descărcare PNG la rezoluție înaltă.",
-  "id": "/loona-qr-codes/ro/skype-qr-code-generator/",
+  "id": "/ro/skype-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

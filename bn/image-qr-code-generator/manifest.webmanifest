@@ -2,7 +2,7 @@
   "name": "Loona Image QR Code Generator",
   "short_name": "Image QR Code Generator",
   "description": "Loona দিয়ে সঙ্গে সঙ্গে একটি বিনামূল্যের Image QR Code তৈরি করুন। কোনো সাইনআপ নেই, কোনো ওয়াটারমার্ক নেই, মেয়াদ কখনো শেষ হয় না। একটি ছবি, পোস্টার, মেনুর ছবি বা পণ্যের ছবি খুলতে স্ক্যান করুন। কাস্টম রং, উচ্চ-রেজোলিউশন PNG ডাউনলোড।",
-  "id": "/loona-qr-codes/bn/image-qr-code-generator/",
+  "id": "/bn/image-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

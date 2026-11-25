@@ -2,7 +2,7 @@
   "name": "Loona Torimyyjäkojun QR-koodigeneraattori",
   "short_name": "Torikojun QR-koodi",
   "description": "Luo ilmainen torikojun QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/farmers-market-qr-code-generator/",
+  "id": "/fi/farmers-market-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

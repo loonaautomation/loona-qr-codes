@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодів із логотипом",
   "short_name": "Генератор QR-кодів із логотипом",
   "description": "Безкоштовний генератор QR-кодів із логотипом: додайте свій логотип у центр QR-коду на рівні виправлення помилок H, користувацькі кольори, завантаження PNG 1024px, без водяного знака.",
-  "id": "/loona-qr-codes/uk/qr-code-with-logo-generator/",
+  "id": "/uk/qr-code-with-logo-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

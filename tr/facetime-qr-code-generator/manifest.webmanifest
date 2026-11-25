@@ -2,7 +2,7 @@
   "name": "Loona FaceTime QR Kod Oluşturucu",
   "short_name": "FaceTime QR Kod Oluşturucu",
   "description": "Loona ile anında ücretsiz bir FaceTime QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/facetime-qr-code-generator/",
+  "id": "/tr/facetime-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

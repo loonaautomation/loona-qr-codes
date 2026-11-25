@@ -2,7 +2,7 @@
   "name": "Generator kodów kreskowych PDF417 Loona",
   "short_name": "Generator kodów kreskowych PDF417",
   "description": "Darmowy generator kodów kreskowych PDF417. Poprawne cyfry kontrolne tam, gdzie standard je ma, pobieranie PNG i SVG, bez rejestracji, bez znaku wodnego.",
-  "id": "/loona-qr-codes/pl/pdf417-generator/",
+  "id": "/pl/pdf417-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

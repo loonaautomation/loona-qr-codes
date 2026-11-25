@@ -2,7 +2,7 @@
   "name": "Loona Generator de coduri QR pentru plăți UPI",
   "short_name": "Generator de coduri QR pentru plăți UPI",
   "description": "Creează gratuit un cod QR pentru plăți UPI instantaneu cu Loona. Fără înregistrare, fără filigran, nu expiră niciodată. Cod QR pentru plăți UPI, pentru magazine din India și regiunile UPI. Culori personalizate, descărcare PNG la rezoluție înaltă.",
-  "id": "/loona-qr-codes/ro/upi-payment-qr-code-generator/",
+  "id": "/ro/upi-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

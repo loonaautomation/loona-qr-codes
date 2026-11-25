@@ -2,7 +2,7 @@
   "name": "Loona Event Ticket QR Code Generator",
   "short_name": "Event Ticket QR Code Generator",
   "description": "Create a free Event Ticket QR code instantly with Loona. No signup, no watermark, never expires. Custom colours, high-resolution PNG download.",
-  "id": "/loona-qr-codes/event-ticket-qr-code-generator/",
+  "id": "/event-ticket-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

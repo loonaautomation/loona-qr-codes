@@ -2,7 +2,7 @@
   "name": "Loona QR-koodin kokolaskuri",
   "short_name": "QR-koodin kokolaskuri",
   "description": "Ilmainen QR-koodin kokolaskuri: syötä skannausetäisyys ja sisällön tyyppi saadaksesi pienimmän tulostuskoon senttimetreinä, suositellun PNG-resoluution ja hiljaisen alueen leveyden.",
-  "id": "/loona-qr-codes/fi/qr-code-size-calculator/",
+  "id": "/fi/qr-code-size-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

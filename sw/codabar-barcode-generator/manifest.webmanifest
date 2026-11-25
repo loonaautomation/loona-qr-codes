@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo Pau wa Codabar cha Loona",
   "short_name": "Kizalishaji cha Msimbo Pau wa Codabar",
   "description": "Kizalishaji cha bure cha msimbo pau wa Codabar. Rakamu sahihi za ukaguzi pale kiwango kinazo, upakuaji wa PNG na SVG, hakuna kujisajili, hakuna alama ya maji.",
-  "id": "/loona-qr-codes/sw/codabar-barcode-generator/",
+  "id": "/sw/codabar-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

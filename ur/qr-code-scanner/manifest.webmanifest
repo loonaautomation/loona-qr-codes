@@ -2,7 +2,7 @@
   "name": "Loona QR Code & Barcode Scanner",
   "short_name": "QR Code & Barcode Scanner",
   "description": "Loona کے ساتھ QR کوڈز اور بارکوڈز آن لائن مفت اسکین کریں: اپنا کیمرا استعمال کریں یا تصویر یا اسکرین شاٹ اپ لوڈ کریں۔ URLs، WiFi، vCard رابطے، EAN-13، UPC-A، Code 128 اور Code 39 ڈیکوڈ کرتا ہے۔ 100% پرائیویٹ — سب کچھ آپ کے آلے پر ڈیکوڈ ہوتا ہے، کچھ اپ لوڈ نہیں ہوتا۔",
-  "id": "/loona-qr-codes/ur/qr-code-scanner/",
+  "id": "/ur/qr-code-scanner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

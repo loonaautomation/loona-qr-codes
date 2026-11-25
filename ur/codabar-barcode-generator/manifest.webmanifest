@@ -2,7 +2,7 @@
   "name": "Loona Codabar Barcode Generator",
   "short_name": "Codabar Barcode Generator",
   "description": "مفت Codabar بارکوڈ جنریٹر۔ جہاں معیار میں ہوں وہاں درست چیک ہندسے، PNG اور SVG ڈاؤن لوڈ، کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں۔",
-  "id": "/loona-qr-codes/ur/codabar-barcode-generator/",
+  "id": "/ur/codabar-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

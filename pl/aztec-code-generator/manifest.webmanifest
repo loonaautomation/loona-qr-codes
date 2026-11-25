@@ -2,7 +2,7 @@
   "name": "Generator kodów kreskowych Aztec Loona",
   "short_name": "Generator kodów kreskowych Aztec",
   "description": "Darmowy generator kodów kreskowych Aztec. Poprawne cyfry kontrolne tam, gdzie standard je ma, pobieranie PNG i SVG, bez rejestracji, bez znaku wodnego.",
-  "id": "/loona-qr-codes/pl/aztec-code-generator/",
+  "id": "/pl/aztec-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

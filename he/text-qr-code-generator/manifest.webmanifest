@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona לטקסט רגיל",
   "short_name": "מחולל קוד QR לטקסט רגיל",
   "description": "צרו קוד QR חינמי של טקסט פשוט מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. שימו כל טקסט, קוד או הודעה בתוך קוד QR. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/text-qr-code-generator/",
+  "id": "/he/text-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

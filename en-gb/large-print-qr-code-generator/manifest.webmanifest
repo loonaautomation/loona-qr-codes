@@ -2,7 +2,7 @@
   "name": "Loona Large Print QR Code Generator",
   "short_name": "Large Print QR Code Generator",
   "description": "Create a free Large Print QR code instantly with Loona. No signup, no watermark, never expires. Custom colours, high-resolution PNG download.",
-  "id": "/loona-qr-codes/en-gb/large-print-qr-code-generator/",
+  "id": "/en-gb/large-print-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

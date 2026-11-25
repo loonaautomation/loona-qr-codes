@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Ακινήτων",
   "short_name": "Γεννήτρια Κωδικού QR Ακινήτων",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Ακινήτων αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/real-estate-qr-code-generator/",
+  "id": "/el/real-estate-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

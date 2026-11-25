@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona ל-Instagram",
   "short_name": "מחולל קוד QR של Instagram",
   "description": "צרו קוד QR חינמי של Instagram מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. גדלו עוקבים עם QR של Instagram של סריקה-לעקיבה. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/instagram-qr-code-generator/",
+  "id": "/he/instagram-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

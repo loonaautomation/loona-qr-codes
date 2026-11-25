@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn-QR-koodigeneraattori",
   "short_name": "LinkedIn-QR-koodigeneraattori",
   "description": "Luo ilmainen LinkedIn-QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Muodosta ammattiyhteys yhdellä skannauksella. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/linkedin-qr-code-generator/",
+  "id": "/fi/linkedin-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

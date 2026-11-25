@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona ל-Zoom / פגישה",
   "short_name": "קוד QR של Zoom / פגישה",
   "description": "צרו קוד QR חינמי של Zoom / פגישה מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. סרקו כדי להצטרף לפגישה או לשיעור. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/zoom-meeting-qr-code-generator/",
+  "id": "/he/zoom-meeting-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona App Store / Google Play QRコード生成ツール",
   "short_name": "App Store / Google Play QR",
   "description": "Loona で無料の App Store / Google Play QRコードを即座に作成。登録不要、透かしなし、無期限。スキャンしてアプリをインストール。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/app-store-qr-code-generator/",
+  "id": "/ja/app-store-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

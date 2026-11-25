@@ -2,7 +2,7 @@
   "name": "Generator kodów QR płatności Dogecoin Loona",
   "short_name": "Kod QR płatności Dogecoin",
   "description": "Utwórz darmowy kod QR płatności Dogecoin błyskawicznie z Loona. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa. Kolory niestandardowe, pobieranie PNG w wysokiej rozdzielczości.",
-  "id": "/loona-qr-codes/pl/dogecoin-payment-qr-code-generator/",
+  "id": "/pl/dogecoin-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

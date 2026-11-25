@@ -2,7 +2,7 @@
   "name": "Loona Free Bulk QR Code Generator",
   "short_name": "Free Bulk QR Code Generator",
   "description": "Create up to 100 QR codes at once, free: paste a list or upload a CSV of links and texts, get a labeled printable sheet of QR codes. No signup, no watermark, never expires, 100% private in your browser.",
-  "id": "/loona-qr-codes/en-us/bulk-qr-code-generator/",
+  "id": "/en-us/bulk-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

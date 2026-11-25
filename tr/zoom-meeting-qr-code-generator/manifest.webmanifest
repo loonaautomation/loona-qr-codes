@@ -2,7 +2,7 @@
   "name": "Loona Zoom / Toplantı QR Kod Oluşturucu",
   "short_name": "Zoom / Toplantı QR Kodu",
   "description": "Loona ile anında ücretsiz bir Zoom / Toplantı QR Kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Bir toplantıya veya derse katılmak için tarayın. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/zoom-meeting-qr-code-generator/",
+  "id": "/tr/zoom-meeting-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

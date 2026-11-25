@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona ל-Pinterest",
   "short_name": "מחולל קוד QR של Pinterest",
   "description": "צרו קוד QR חינמי של Pinterest מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. סרקו כדי לפתוח פרופיל או לוח Pinterest. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/pinterest-qr-code-generator/",
+  "id": "/he/pinterest-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

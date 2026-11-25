@@ -2,7 +2,7 @@
   "name": "Loona PDF QR Code Generator",
   "short_name": "PDF QR Code Generator",
   "description": "Loona দিয়ে সঙ্গে সঙ্গে একটি বিনামূল্যের PDF QR Code তৈরি করুন। কোনো সাইনআপ নেই, কোনো ওয়াটারমার্ক নেই, মেয়াদ কখনো শেষ হয় না। একটি PDF ফাইল খুলতে বা ডাউনলোড করতে স্ক্যান করুন। কাস্টম রং, উচ্চ-রেজোলিউশন PNG ডাউনলোড।",
-  "id": "/loona-qr-codes/bn/pdf-qr-code-generator/",
+  "id": "/bn/pdf-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

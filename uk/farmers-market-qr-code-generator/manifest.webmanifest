@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодів прилавків фермерського ринку",
   "short_name": "QR-код прилавка фермерського ринку",
   "description": "Створіть безкоштовний QR-код прилавка фермерського ринку миттєво з Loona. Без реєстрації, без водяного знака, строк дії ніколи не закінчується. Користувацькі кольори, завантаження PNG у високій роздільній здатності.",
-  "id": "/loona-qr-codes/uk/farmers-market-qr-code-generator/",
+  "id": "/uk/farmers-market-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

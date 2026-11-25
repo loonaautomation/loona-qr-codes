@@ -2,7 +2,7 @@
   "name": "Generator Kode Batang MSI Plessey Loona",
   "short_name": "Generator Kode Batang MSI Plessey",
   "description": "Generator kode batang MSI Plessey gratis. Digit pemeriksa yang benar di tempat standar memilikinya, unduhan PNG dan SVG, tanpa pendaftaran, tanpa watermark.",
-  "id": "/loona-qr-codes/id/msi-barcode-generator/",
+  "id": "/id/msi-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

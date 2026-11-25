@@ -1,7 +1,7 @@
 [
  {
   "n": "Generator kodów QR URL / strony internetowej",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/url-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/url-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Zamień dowolny link do strony w kod QR.",
   "k": "url website qr code generator url qr code generator zamien dowolny link do strony w kod qr",
@@ -10,7 +10,7 @@
  },
  {
   "n": "Generator kodów QR zwykłego tekstu",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/text-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/text-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Umieść dowolny tekst, kod lub wiadomość wewnątrz kodu QR.",
   "k": "plain text qr code generator text qr code generator umiesc dowolny tekst kod lub wiadomosc wewnatrz kodu qr",
@@ -19,7 +19,7 @@
  },
  {
   "n": "Generator kodów QR WiFi",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/wifi-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/wifi-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Goście łączą się z WiFi jednym skanowaniem, bez wpisywania hasła.",
   "k": "wifi qr code generator wifi qr code generator goscie acza sie z wifi jednym skanowaniem bez wpisywania has a",
@@ -28,7 +28,7 @@
  },
  {
   "n": "Generator kodów QR WhatsApp",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/whatsapp-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/whatsapp-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Rozpocznij czat WhatsApp jednym skanowaniem, bez zapisywania numeru.",
   "k": "whatsapp qr code generator whatsapp qr code generator rozpocznij czat whatsapp jednym skanowaniem bez zapisywania numeru",
@@ -37,7 +37,7 @@
  },
  {
   "n": "Generator kodów QR kontaktu vCard",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/vcard-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/vcard-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanuj, aby zapisać pełną wizytówkę w telefonie.",
   "k": "vcard contact qr code generator vcard qr code generator skanuj aby zapisac pe na wizytowke w telefonie",
@@ -46,7 +46,7 @@
  },
  {
   "n": "Generator kodów QR e-mail",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/email-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/email-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanuj, aby otworzyć wstępnie zaadresowany e-mail, gotowy do wysłania.",
   "k": "email qr code generator email qr code generator skanuj aby otworzyc wstepnie zaadresowany e mail gotowy do wys ania",
@@ -55,7 +55,7 @@
  },
  {
   "n": "Generator kodów QR SMS",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/sms-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/sms-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanuj, aby otworzyć wstępnie napisaną wiadomość tekstową.",
   "k": "sms qr code generator sms qr code generator skanuj aby otworzyc wstepnie napisana wiadomosc tekstowa",
@@ -64,7 +64,7 @@
  },
  {
   "n": "Generator kodów QR połączeń telefonicznych",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/phone-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/phone-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanuj, aby wybrać swój numer błyskawicznie.",
   "k": "phone call qr code generator phone qr code generator skanuj aby wybrac swoj numer b yskawicznie",
@@ -73,7 +73,7 @@
  },
  {
   "n": "Generator kodów QR Instagram",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/instagram-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/instagram-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Zdobywaj obserwujących kodem QR Instagram skanuj-aby-obserwować.",
   "k": "instagram qr code generator instagram qr code generator zdobywaj obserwujacych kodem qr instagram skanuj aby obserwowac",
@@ -82,7 +82,7 @@
  },
  {
   "n": "Generator kodów QR Facebook",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/facebook-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/facebook-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Wysyłaj ludzi prosto na swoją stronę Facebook.",
   "k": "facebook qr code generator facebook qr code generator wysy aj ludzi prosto na swoja strone facebook",
@@ -91,7 +91,7 @@
  },
  {
   "n": "Generator kodów QR YouTube",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/youtube-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/youtube-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanuj, aby błyskawicznie otworzyć film lub kanał.",
   "k": "youtube qr code generator youtube qr code generator skanuj aby b yskawicznie otworzyc film lub kana",
@@ -100,7 +100,7 @@
  },
  {
   "n": "Generator kodów QR TikTok",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/tiktok-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/tiktok-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanuj, aby otworzyć swój profil TikTok.",
   "k": "tiktok qr code generator tiktok qr code generator skanuj aby otworzyc swoj profil tiktok",
@@ -109,7 +109,7 @@
  },
  {
   "n": "Generator kodów QR X (Twitter)",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/x-twitter-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/x-twitter-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanuj, aby otworzyć swój profil X.",
   "k": "x twitter qr code generator x twitter qr code generator skanuj aby otworzyc swoj profil x",
@@ -118,7 +118,7 @@
  },
  {
   "n": "Generator kodów QR LinkedIn",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/linkedin-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/linkedin-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Łącz się zawodowo jednym skanowaniem.",
   "k": "linkedin qr code generator linkedin qr code generator acz sie zawodowo jednym skanowaniem",
@@ -127,7 +127,7 @@
  },
  {
   "n": "Generator kodów QR Telegram",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/telegram-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/telegram-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanuj, aby dołączyć do swojego profilu, grupy lub kanału Telegram.",
   "k": "telegram qr code generator telegram qr code generator skanuj aby do aczyc do swojego profilu grupy lub kana u telegram",
@@ -136,7 +136,7 @@
  },
  {
   "n": "Generator kodów QR Snapchat",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/snapchat-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/snapchat-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanuj, aby dodać Cię na Snapchacie.",
   "k": "snapchat qr code generator snapchat qr code generator skanuj aby dodac cie na snapchacie",
@@ -145,7 +145,7 @@
  },
  {
   "n": "Generator kodów QR lokalizacji Map Google",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/google-maps-location-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/google-maps-location-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanuj, aby uzyskać wskazówki dojazdu do Twojego miejsca.",
   "k": "google maps location qr code generator google maps location qr code generator skanuj aby uzyskac wskazowki dojazdu do twojego miejsca",
@@ -154,7 +154,7 @@
  },
  {
   "n": "Generator kodów QR opinii Google",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/google-review-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/google-review-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Zadowoleni klienci zostawiają opinię Google w kilka sekund.",
   "k": "google review qr code generator google review qr code generator zadowoleni klienci zostawiaja opinie google w kilka sekund",
@@ -163,7 +163,7 @@
  },
  {
   "n": "Generator kodów QR menu restauracji",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/restaurant-menu-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/restaurant-menu-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Menu bezdotykowe na każdym stoliku.",
   "k": "restaurant menu qr code generator restaurant menu qr code generator menu bezdotykowe na kazdym stoliku",
@@ -172,7 +172,7 @@
  },
  {
   "n": "Generator kodów QR PDF",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/pdf-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/pdf-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanuj, aby otworzyć lub pobrać plik PDF.",
   "k": "pdf qr code generator pdf qr code generator skanuj aby otworzyc lub pobrac plik pdf",
@@ -181,7 +181,7 @@
  },
  {
   "n": "Generator kodów QR App Store / Google Play",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/app-store-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/app-store-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanuj, aby zainstalować aplikację.",
   "k": "app store google play qr code generator app store qr code generator skanuj aby zainstalowac aplikacje",
@@ -190,7 +190,7 @@
  },
  {
   "n": "Generator kodów QR Formularzy Google",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/google-form-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/google-form-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanuj, aby otworzyć i wypełnić Formularz Google.",
   "k": "google form qr code generator google form qr code generator skanuj aby otworzyc i wype nic formularz google",
@@ -199,7 +199,7 @@
  },
  {
   "n": "Generator kodów QR Zoom / spotkanie",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/zoom-meeting-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/zoom-meeting-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanuj, aby dołączyć do spotkania lub zajęć.",
   "k": "zoom meeting qr code generator zoom meeting qr code generator skanuj aby do aczyc do spotkania lub zajec",
@@ -208,7 +208,7 @@
  },
  {
   "n": "Generator kodów QR wydarzeń / kalendarza",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/event-calendar-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/event-calendar-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanuj, aby zapisać wydarzenie w kalendarzu.",
   "k": "event calendar qr code generator event calendar qr code generator skanuj aby zapisac wydarzenie w kalendarzu",
@@ -217,7 +217,7 @@
  },
  {
   "n": "Generator kodów QR PayPal",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/paypal-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/paypal-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Otrzymuj płatności: skanuj, aby otworzyć swoją stronę PayPal.me.",
   "k": "paypal qr code generator paypal qr code generator otrzymuj p atnosci skanuj aby otworzyc swoja strone paypal me",
@@ -226,7 +226,7 @@
  },
  {
   "n": "Generator kodów QR płatności UPI",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/upi-payment-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/upi-payment-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Kod QR płatności UPI dla sklepów w Indiach i regionach UPI.",
   "k": "upi payment qr code generator upi payment qr code generator kod qr p atnosci upi dla sklepow w indiach i regionach upi",
@@ -235,7 +235,7 @@
  },
  {
   "n": "Generator kodów QR JazzCash / EasyPaisa (Pakistan)",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/jazzcash-easypaisa-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/jazzcash-easypaisa-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Udostępnij dane konta JazzCash lub EasyPaisa jako kod QR.",
   "k": "jazzcash easypaisa qr code pakistan generator jazzcash easypaisa qr code generator udostepnij dane konta jazzcash lub easypaisa jako kod qr",
@@ -244,7 +244,7 @@
  },
  {
   "n": "Generator kodów QR Bitcoin / krypto",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/bitcoin-crypto-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/bitcoin-crypto-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Udostępnij adres portfela Bitcoin jako kod QR.",
   "k": "bitcoin crypto qr code generator bitcoin crypto qr code generator udostepnij adres portfela bitcoin jako kod qr",
@@ -253,7 +253,7 @@
  },
  {
   "n": "Generator kodów QR Spotify / muzyki",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/spotify-music-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/spotify-music-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanuj, aby odtworzyć piosenkę, playlistę lub podcast.",
   "k": "spotify music qr code generator spotify music qr code generator skanuj aby odtworzyc piosenke playliste lub podcast",
@@ -262,7 +262,7 @@
  },
  {
   "n": "Generator kodów QR CV / portfolio",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/resume-portfolio-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/resume-portfolio-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Umieść swoje CV lub portfolio o jedno skanowanie od odbiorcy.",
   "k": "resume portfolio qr code generator resume portfolio qr code generator umiesc swoje cv lub portfolio o jedno skanowanie od odbiorcy",
@@ -271,7 +271,7 @@
  },
  {
   "n": "Generator kodów QR obrazów",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/image-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/image-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanuj, aby otworzyć lub udostępnić link zdjęcia lub obrazu.",
   "k": "image qr code generator image qr code generator skanuj aby otworzyc lub udostepnic link zdjecia lub obrazu",
@@ -280,7 +280,7 @@
  },
  {
   "n": "Generator kodów QR audio",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/audio-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/audio-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanuj, aby odtworzyć piosenkę, notatkę głosową lub plik audio.",
   "k": "audio qr code generator audio qr code generator skanuj aby odtworzyc piosenke notatke g osowa lub plik audio",
@@ -289,7 +289,7 @@
  },
  {
   "n": "Generator kodów QR mediów społecznościowych",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/social-media-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/social-media-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Jeden kod QR dla linków do Twoich profili społecznościowych.",
   "k": "social media qr code generator social media qr code generator jeden kod qr dla linkow do twoich profili spo ecznosciowych",
@@ -298,7 +298,7 @@
  },
  {
   "n": "Generator kodów QR Pinterest",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/pinterest-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/pinterest-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanuj, aby otworzyć swój profil lub tablicę Pinterest.",
   "k": "pinterest qr code generator pinterest qr code generator skanuj aby otworzyc swoj profil lub tablice pinterest",
@@ -307,7 +307,7 @@
  },
  {
   "n": "Generator kodów QR Discord",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/discord-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/discord-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanuj, aby dołączyć do swojego serwera lub profilu Discord.",
   "k": "discord qr code generator discord qr code generator skanuj aby do aczyc do swojego serwera lub profilu discord",
@@ -316,7 +316,7 @@
  },
  {
   "n": "Generator kodów QR GitHub",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/github-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/github-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Skanuj, aby otworzyć swój profil lub repozytorium GitHub.",
   "k": "github qr code generator github qr code generator skanuj aby otworzyc swoj profil lub repozytorium github",
@@ -325,7 +325,7 @@
  },
  {
   "n": "Skaner kodów QR i kreskowych",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/qr-code-scanner/",
+  "u": "https://qr.loonaautomation.com/pl/qr-code-scanner/",
   "s": "Loona QR Codes",
   "d": "Skanuj kody aparatem albo dekoduj kody QR i kody kreskowe ze zdjęcia lub zrzutu ekranu.",
   "k": "qr code barcode scanner qr code scanner skanuj kody aparatem albo dekoduj kody qr i kody kreskowe ze zdjecia lub zrzutu ekranu",
@@ -334,7 +334,7 @@
  },
  {
   "n": "Generator wsadowych kodów QR",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/bulk-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/pl/bulk-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Twórz do 100 oznaczonych kodów QR naraz w arkuszu do druku.",
   "k": "bulk qr code generator bulk qr code generator tworz do 100 oznaczonych kodow qr naraz w arkuszu do druku",
@@ -343,7 +343,7 @@
  },
  {
   "n": "Generator kodów kreskowych",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/barcode-generator/",
+  "u": "https://qr.loonaautomation.com/pl/barcode-generator/",
   "s": "Loona QR Codes",
   "d": "Twórz kody kreskowe produktów — Code 128, EAN-13, UPC i więcej.",
   "k": "barcode generator barcode generator tworz kody kreskowe produktow code 128 ean 13 upc i wiecej",
@@ -352,7 +352,7 @@
  },
  {
   "n": "Wszystkie narzędzia Loona — kody QR",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/pl/tool-qr-codes/",
+  "u": "https://qr.loonaautomation.com/pl/tool-qr-codes/",
   "s": "Loona QR Codes",
   "d": "Zdobądź gotowy kod QR dla dowolnego narzędzia Loona — kalkulatorów, narzędzi PDF, narzędzi obrazów i więcej. Przeszukaj wszystkie 872 narzędzi i aplikacji Loona, pobierz kod QR i wydrukuj.",
   "k": "qr codes for all loona tools tool qr codes zdobadz gotowy kod qr dla dowolnego narzedzia loona kalkulatorow narzedzi pdf narzedzi obrazow i wiecej przeszukaj wszystkie 872 narzedzi i aplikacji loona pobierz kod qr i wydrukuj",

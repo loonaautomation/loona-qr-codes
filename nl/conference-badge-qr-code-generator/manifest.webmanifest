@@ -2,7 +2,7 @@
   "name": "Loona conferentiebadge-QR-codegenerator",
   "short_name": "Conferentiebadge-QR-code",
   "description": "Maak direct een gratis conferentiebadge-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/conference-badge-qr-code-generator/",
+  "id": "/nl/conference-badge-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

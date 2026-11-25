@@ -2,7 +2,7 @@
   "name": "Loona Google Maps Location QR Code Generator",
   "short_name": "Google Maps Location QR Code",
   "description": "Loona দিয়ে সঙ্গে সঙ্গে একটি বিনামূল্যের Google Maps Location QR Code তৈরি করুন। কোনো সাইনআপ নেই, কোনো ওয়াটারমার্ক নেই, মেয়াদ কখনো শেষ হয় না। আপনার জায়গায় দিকনির্দেশ পেতে স্ক্যান করুন। কাস্টম রং, উচ্চ-রেজোলিউশন PNG ডাউনলোড।",
-  "id": "/loona-qr-codes/bn/google-maps-location-qr-code-generator/",
+  "id": "/bn/google-maps-location-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

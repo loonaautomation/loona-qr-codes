@@ -2,7 +2,7 @@
   "name": "Generator Kode QR PayPal Loona",
   "short_name": "Generator Kode QR PayPal",
   "description": "Buat Kode QR PayPal gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Dapatkan bayaran: pindai untuk membuka halaman PayPal.me Anda. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/paypal-qr-code-generator/",
+  "id": "/id/paypal-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

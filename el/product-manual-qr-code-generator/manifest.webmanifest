@@ -2,7 +2,7 @@
   "name": "Loona — Κωδικός QR Εγχειριδίου Προϊόντος & Οδηγιών",
   "short_name": "Εγχειρίδιο Προϊόντος & Οδηγίες",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Εγχειριδίου Προϊόντος & Οδηγιών αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/product-manual-qr-code-generator/",
+  "id": "/el/product-manual-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

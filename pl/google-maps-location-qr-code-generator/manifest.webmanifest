@@ -2,7 +2,7 @@
   "name": "Generator kodów QR lokalizacji Map Google Loona",
   "short_name": "Kod QR lokalizacji Map Google",
   "description": "Utwórz darmowy kod QR lokalizacji Map Google błyskawicznie z Loona. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa. Skanuj, aby uzyskać wskazówki dojazdu do Twojego miejsca. Kolory niestandardowe, pobieranie PNG w wysokiej rozdzielczości.",
-  "id": "/loona-qr-codes/pl/google-maps-location-qr-code-generator/",
+  "id": "/pl/google-maps-location-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

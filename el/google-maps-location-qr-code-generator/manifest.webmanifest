@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Τοποθεσίας Χαρτών Google",
   "short_name": "Κωδικός QR Τοποθεσίας Χαρτών Google",
   "description": "Δημιουργήστε έναν δωρεάν Κωδικό QR Τοποθεσίας Χαρτών Google αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Σαρώστε για οδηγίες προς τον τόπο σας. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/google-maps-location-qr-code-generator/",
+  "id": "/el/google-maps-location-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Generator de coduri de bare",
   "short_name": "Generator de coduri de bare",
   "description": "Creează coduri de bare online gratuit cu Loona: Code 128, Code 39, EAN-13, UPC-A și ITF-14. Cifre de control adăugate automat, previzualizare live, descărcare ca PNG sau SVG. Fără înregistrare, fără filigran, 100% privat în browserul tău.",
-  "id": "/loona-qr-codes/ro/barcode-generator/",
+  "id": "/ro/barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

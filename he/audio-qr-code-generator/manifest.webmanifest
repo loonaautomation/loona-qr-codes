@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR לשמע של Loona",
   "short_name": "מחולל קוד QR של שמע",
   "description": "צרו קוד QR חינמי של שמע מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. סרקו כדי להשמיע פתק קולי, שיר, פודקאסט או מדריך שמע. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/audio-qr-code-generator/",
+  "id": "/he/audio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

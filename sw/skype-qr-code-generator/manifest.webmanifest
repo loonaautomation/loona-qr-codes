@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Simu ya Skype cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wa Simu ya Skype",
   "description": "Tengeneza msimbo wa QR wa Simu ya Skype wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/skype-qr-code-generator/",
+  "id": "/sw/skype-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

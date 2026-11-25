@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодов подписи электронной почты",
   "short_name": "QR-код подписи электронной почты",
   "description": "Создайте бесплатный QR-код подписи электронной почты мгновенно с Loona. Без регистрации, без водяного знака, никогда не истекает. Настраиваемые цвета, скачивание PNG в высоком разрешении.",
-  "id": "/loona-qr-codes/ru/email-signature-qr-code-generator/",
+  "id": "/ru/email-signature-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

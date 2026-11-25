@@ -2,7 +2,7 @@
   "name": "Loona Générateur de code QR Instagram",
   "short_name": "Générateur de code QR Instagram",
   "description": "Créez un code QR Instagram gratuit instantanément avec Loona. Aucune inscription, aucun filigrane, n’expire jamais. Gagnez des abonnés avec un QR Instagram à scanner pour suivre. Couleurs personnalisées, téléchargement PNG haute résolution.",
-  "id": "/loona-qr-codes/fr/instagram-qr-code-generator/",
+  "id": "/fr/instagram-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Générateur de code QR Texte brut",
   "short_name": "Générateur de code QR Texte brut",
   "description": "Créez un code QR Texte brut gratuit instantanément avec Loona. Aucune inscription, aucun filigrane, n’expire jamais. Mettez n’importe quel texte, code ou message dans un code QR. Couleurs personnalisées, téléchargement PNG haute résolution.",
-  "id": "/loona-qr-codes/fr/text-qr-code-generator/",
+  "id": "/fr/text-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

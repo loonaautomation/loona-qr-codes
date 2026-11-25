@@ -2,7 +2,7 @@
   "name": "Loona Pinterest QR-kód generátor",
   "short_name": "Pinterest QR-kód generátor",
   "description": "Hozzon létre ingyenes Pinterest QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Olvassa be Pinterest-profil vagy -tábla megnyitásához. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/pinterest-qr-code-generator/",
+  "id": "/hu/pinterest-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

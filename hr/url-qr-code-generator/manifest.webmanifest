@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za URL / web stranicu",
   "short_name": "QR kod za URL / web-mjesto",
   "description": "Stvorite besplatni QR kod za URL / web stranicu trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Pretvorite bilo koju poveznicu na web stranicu u QR kod. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/url-qr-code-generator/",
+  "id": "/hr/url-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

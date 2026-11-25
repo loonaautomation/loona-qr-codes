@@ -2,7 +2,7 @@
   "name": "Генератор на UPI QR кодове за плащане на Loona",
   "short_name": "Генератор на QR кодове за плащане UPI",
   "description": "Създайте безплатен UPI QR код за плащане мигновено с Loona. Без регистрация, без воден знак, никога не изтича. UPI QR код за плащане за магазини в Индия и UPI региони. Персонализирани цветове, изтегляне на PNG с висока разделителна способност.",
-  "id": "/loona-qr-codes/bg/upi-payment-qr-code-generator/",
+  "id": "/bg/upi-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

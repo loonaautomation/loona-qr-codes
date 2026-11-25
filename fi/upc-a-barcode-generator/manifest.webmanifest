@@ -2,7 +2,7 @@
   "name": "Loona UPC-A-viivakoodigeneraattori",
   "short_name": "UPC-A-viivakoodigeneraattori",
   "description": "Ilmainen UPC-A-viivakoodigeneraattori. Oikeat tarkistusnumerot siellä, missä standardissa ne on, PNG- ja SVG-lataus, ei rekisteröitymistä, ei vesileimaa.",
-  "id": "/loona-qr-codes/fi/upc-a-barcode-generator/",
+  "id": "/fi/upc-a-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

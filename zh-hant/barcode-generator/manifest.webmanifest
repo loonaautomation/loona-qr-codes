@@ -2,7 +2,7 @@
   "name": "Loona 條形碼生成器",
   "short_name": "條形碼生成器",
   "description": "用 Loona 線上建立免費條形碼：Code 128、Code 39、EAN-13、UPC-A 和 ITF-14。自動新增校驗位，實時預覽，下載為 PNG 或 SVG。無需註冊，無水印，在您的瀏覽器中 100% 私密。",
-  "id": "/loona-qr-codes/zh-hant/barcode-generator/",
+  "id": "/zh-hant/barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Thực đơn Nhà hàng Loona",
   "short_name": "Mã QR Thực đơn Nhà hàng",
   "description": "Tạo mã QR Thực đơn Nhà hàng miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Thực đơn không chạm trên mỗi bàn. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/restaurant-menu-qr-code-generator/",
+  "id": "/vi/restaurant-menu-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

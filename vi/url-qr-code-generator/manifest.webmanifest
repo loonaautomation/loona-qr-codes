@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR URL / Website Loona",
   "short_name": "Mã QR URL / Website",
   "description": "Tạo mã QR URL / Website miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Biến bất kỳ liên kết trang web nào thành mã QR. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/url-qr-code-generator/",
+  "id": "/vi/url-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

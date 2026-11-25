@@ -2,7 +2,7 @@
   "name": "Loona Generátor QR kódov pre sociálne siete",
   "short_name": "Generátor QR kódov pre sociálne siete",
   "description": "Vytvorte si zadarmo QR kód pre sociálne médiá okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Vyberte platformu, pridajte svoje používateľské meno a jedno naskenovanie otvorí váš profil. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
-  "id": "/loona-qr-codes/sk/social-media-qr-code-generator/",
+  "id": "/sk/social-media-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

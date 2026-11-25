@@ -2,7 +2,7 @@
   "name": "Loona produktförpackning-QR-kodgenerator",
   "short_name": "Produktförpackning-QR-kod",
   "description": "Skapa direkt en gratis produktförpackning-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/product-packaging-qr-code-generator/",
+  "id": "/sv/product-packaging-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

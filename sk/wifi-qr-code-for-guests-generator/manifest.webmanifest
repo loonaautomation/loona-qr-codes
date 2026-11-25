@@ -2,7 +2,7 @@
   "name": "Generátor QR kódov pre hosťovskú WiFi (domov a kaviareň) Loona",
   "short_name": "QR hosťovskej WiFi (domov a kaviareň)",
   "description": "Vytvorte si zadarmo QR kód pre hosťovskú WiFi (domov a kaviareň) okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
-  "id": "/loona-qr-codes/sk/wifi-qr-code-for-guests-generator/",
+  "id": "/sk/wifi-qr-code-for-guests-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

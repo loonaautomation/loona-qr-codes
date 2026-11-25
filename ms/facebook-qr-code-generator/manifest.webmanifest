@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Facebook Loona",
   "short_name": "Penjana Kod QR Facebook",
   "description": "Cipta kod QR Facebook percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Hantar orang terus ke halaman Facebook anda. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/facebook-qr-code-generator/",
+  "id": "/ms/facebook-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

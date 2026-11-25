@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za Google obrazac",
   "short_name": "Generator QR kodova za Google obrazac",
   "description": "Stvorite besplatni QR kod za Google obrasce trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Skenirajte za otvaranje i ispunjavanje Google obrasca. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/google-form-qr-code-generator/",
+  "id": "/hr/google-form-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

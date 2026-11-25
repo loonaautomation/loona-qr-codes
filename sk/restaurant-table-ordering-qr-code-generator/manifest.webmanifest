@@ -2,7 +2,7 @@
   "name": "Loona QR kód pre objednávanie pri stole v reštaurácii",
   "short_name": "QR pre objednávanie pri stole v reštaurácii",
   "description": "Vytvorte si zadarmo QR kód pre objednávanie pri stole v reštaurácii okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
-  "id": "/loona-qr-codes/sk/restaurant-table-ordering-qr-code-generator/",
+  "id": "/sk/restaurant-table-ordering-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

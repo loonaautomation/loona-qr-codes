@@ -2,7 +2,7 @@
   "name": "Loona Barkod Oluşturucu",
   "short_name": "Barkod Oluşturucu",
   "description": "Loona ile çevrimiçi ücretsiz barkodlar oluşturun: Code 128, Code 39, EAN-13, UPC-A ve ITF-14. Kontrol basamakları otomatik eklenir, canlı önizleme, PNG veya SVG olarak indirin. Kayıt yok, filigran yok, tarayıcınızda %100 gizli.",
-  "id": "/loona-qr-codes/tr/barcode-generator/",
+  "id": "/tr/barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

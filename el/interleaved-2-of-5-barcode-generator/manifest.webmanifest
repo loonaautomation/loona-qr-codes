@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Barcode Interleaved 2 of 5",
   "short_name": "Γραμμωτός Κωδικός Interleaved 2 of 5",
   "description": "Δωρεάν γεννήτρια γραμμωτού κωδικού Interleaved 2 of 5. Σωστά ψηφία ελέγχου όπου το πρότυπο τα έχει, λήψη PNG και SVG, χωρίς εγγραφή, χωρίς υδατογράφημα.",
-  "id": "/loona-qr-codes/el/interleaved-2-of-5-barcode-generator/",
+  "id": "/el/interleaved-2-of-5-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

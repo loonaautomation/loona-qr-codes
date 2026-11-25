@@ -2,7 +2,7 @@
   "name": "קוד QR של Loona להזמנה משולחן במסעדה",
   "short_name": "קוד QR להזמנה משולחן במסעדה",
   "description": "צרו קוד QR חינמי של הזמנה משולחן מסעדה מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/restaurant-table-ordering-qr-code-generator/",
+  "id": "/he/restaurant-table-ordering-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

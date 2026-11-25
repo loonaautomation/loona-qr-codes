@@ -2,7 +2,7 @@
   "name": "Loona Templom és Jótékonysági Adományozás QR-kód generátor",
   "short_name": "Egyházi és jótékonysági adományozás QR",
   "description": "Hozzon létre ingyenes egyházi és jótékonysági adományozás QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/church-donation-qr-code-generator/",
+  "id": "/hu/church-donation-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

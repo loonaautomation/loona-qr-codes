@@ -2,7 +2,7 @@
   "name": "Loona QR-Code- & Barcode-Scanner",
   "short_name": "QR-Code- & Barcode-Scanner",
   "description": "Scannen Sie QR-Codes und Barcodes kostenlos online mit Loona: Verwenden Sie Ihre Kamera oder laden Sie ein Foto oder einen Screenshot hoch. Decodiert URLs, WLAN, vCard-Kontakte, EAN-13, UPC-A, Code 128 und Code 39. 100 % privat — alles wird auf Ihrem Gerät decodiert, nichts wird hochgeladen.",
-  "id": "/loona-qr-codes/de/qr-code-scanner/",
+  "id": "/de/qr-code-scanner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

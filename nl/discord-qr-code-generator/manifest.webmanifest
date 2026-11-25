@@ -2,7 +2,7 @@
   "name": "Loona Discord-QR-codegenerator",
   "short_name": "Discord-QR-codegenerator",
   "description": "Maak direct een gratis Discord-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Scan om met een uitnodigingslink lid te worden van een Discord-server. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/discord-qr-code-generator/",
+  "id": "/nl/discord-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

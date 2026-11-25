@@ -2,7 +2,7 @@
   "name": "เครื่องสร้างบาร์โค้ดของ Loona",
   "short_name": "เครื่องสร้างบาร์โค้ด",
   "description": "สร้างบาร์โค้ดออนไลน์ฟรีด้วย Loona: Code 128, Code 39, EAN-13, UPC-A และ ITF-14 เลขตรวจสอบถูกเพิ่มโดยอัตโนมัติ ตัวอย่างสด ดาวน์โหลดเป็น PNG หรือ SVG ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ เป็นส่วนตัว 100% ในเบราว์เซอร์ของคุณ",
-  "id": "/loona-qr-codes/th/barcode-generator/",
+  "id": "/th/barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

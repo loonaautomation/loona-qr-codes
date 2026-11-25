@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR X (Twitter)",
   "short_name": "Γεννήτρια Κωδικού QR X (Twitter)",
   "description": "Δημιουργήστε έναν δωρεάν Κωδικό QR X (Twitter) αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Σαρώστε για να ανοίξετε το προφίλ σας στο X. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/x-twitter-qr-code-generator/",
+  "id": "/el/x-twitter-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

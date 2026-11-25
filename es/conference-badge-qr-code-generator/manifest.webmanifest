@@ -2,7 +2,7 @@
   "name": "Loona Generador de códigos QR de acreditaciones de conferencia",
   "short_name": "Código QR de acreditación de conferencia",
   "description": "Crea un código QR de acreditación de conferencia gratuito al instante con Loona. Sin registro, sin marca de agua, nunca caduca. Colores personalizados, descarga de PNG en alta resolución.",
-  "id": "/loona-qr-codes/es/conference-badge-qr-code-generator/",
+  "id": "/es/conference-badge-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

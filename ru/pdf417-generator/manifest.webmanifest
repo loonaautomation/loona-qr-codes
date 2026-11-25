@@ -2,7 +2,7 @@
   "name": "Loona Генератор штрихкодов PDF417",
   "short_name": "Генератор штрихкодов PDF417",
   "description": "Бесплатный генератор штрихкодов PDF417. Корректные контрольные цифры там, где они предусмотрены стандартом, скачивание в PNG и SVG, без регистрации, без водяных знаков.",
-  "id": "/loona-qr-codes/ru/pdf417-generator/",
+  "id": "/ru/pdf417-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

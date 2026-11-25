@@ -2,7 +2,7 @@
   "name": "เครื่องสร้างคิวอาร์โค้ด SMS ของ Loona",
   "short_name": "เครื่องสร้างคิวอาร์โค้ด SMS",
   "description": "สร้างคิวอาร์โค้ด SMS ฟรีได้ทันทีด้วย Loona ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ สแกนเพื่อเปิดข้อความที่เขียนไว้ล่วงหน้า สีที่กำหนดเอง ดาวน์โหลด PNG ความละเอียดสูง",
-  "id": "/loona-qr-codes/th/sms-qr-code-generator/",
+  "id": "/th/sms-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

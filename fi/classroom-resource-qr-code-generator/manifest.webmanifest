@@ -2,7 +2,7 @@
   "name": "Loona Luokkahuoneresurssin QR-koodigeneraattori",
   "short_name": "Luokkahuoneresurssin QR-koodi",
   "description": "Luo ilmainen luokkahuoneresurssin QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/classroom-resource-qr-code-generator/",
+  "id": "/fi/classroom-resource-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

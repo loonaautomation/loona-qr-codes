@@ -2,7 +2,7 @@
   "name": "מחולל ברקוד EAN-13 של Loona",
   "short_name": "מחולל ברקוד EAN-13",
   "description": "מחולל ברקוד EAN-13 חינמי. ספרות ביקורת נכונות היכן שהתקן כולל אותן, הורדת PNG ו-SVG, ללא הרשמה, ללא סימן מים.",
-  "id": "/loona-qr-codes/he/ean-13-barcode-generator/",
+  "id": "/he/ean-13-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Telegram Loona",
   "short_name": "Penjana Kod QR Telegram",
   "description": "Cipta kod QR Telegram percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Imbas untuk menyertai profil, kumpulan atau saluran Telegram anda. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/telegram-qr-code-generator/",
+  "id": "/ms/telegram-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

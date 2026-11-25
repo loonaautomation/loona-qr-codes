@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa WiFi cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wa WiFi",
   "description": "Tengeneza Msimbo wa QR wa WiFi wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Wageni huunganishwa na WiFi kwa kuchanganua mara moja, bila kuandika nenosiri. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/wifi-qr-code-generator/",
+  "id": "/sw/wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

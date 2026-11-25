@@ -2,7 +2,7 @@
   "name": "Loona — Generatore di codici QR Google Form",
   "short_name": "Generatore di codici QR Google Form",
   "description": "Crea all’istante un codice QR Google Form gratuito con Loona. Nessuna registrazione, nessuna filigrana, non scade mai. Scansiona per aprire e compilare un Google Form. Colori personalizzati, download PNG ad alta risoluzione.",
-  "id": "/loona-qr-codes/it/google-form-qr-code-generator/",
+  "id": "/it/google-form-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

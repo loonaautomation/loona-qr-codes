@@ -2,7 +2,7 @@
   "name": "Loona PayPal-QR-koodigeneraattori",
   "short_name": "PayPal-QR-koodigeneraattori",
   "description": "Luo ilmainen PayPal-QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Saa maksusi: skannaa avataksesi PayPal.me-sivusi. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/paypal-qr-code-generator/",
+  "id": "/fi/paypal-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

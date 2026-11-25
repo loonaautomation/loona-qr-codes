@@ -2,7 +2,7 @@
   "name": "Loona Microsoft Teams Toplantı QR Kod Oluşturucu",
   "short_name": "Microsoft Teams Toplantı QR",
   "description": "Loona ile anında ücretsiz bir Microsoft Teams Toplantı QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/microsoft-teams-meeting-qr-code-generator/",
+  "id": "/tr/microsoft-teams-meeting-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

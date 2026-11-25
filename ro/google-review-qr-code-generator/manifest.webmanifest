@@ -2,7 +2,7 @@
   "name": "Loona Generator de coduri QR pentru recenzii Google",
   "short_name": "Cod QR pentru recenzii Google",
   "description": "Creează gratuit un cod QR pentru recenzii Google instantaneu cu Loona. Fără înregistrare, fără filigran, nu expiră niciodată. Clienții mulțumiți lasă o recenzie Google în câteva secunde. Culori personalizate, descărcare PNG la rezoluție înaltă.",
-  "id": "/loona-qr-codes/ro/google-review-qr-code-generator/",
+  "id": "/ro/google-review-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

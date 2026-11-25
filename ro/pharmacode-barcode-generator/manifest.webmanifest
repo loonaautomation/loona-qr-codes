@@ -2,7 +2,7 @@
   "name": "Loona Generator de coduri de bare Pharmacode",
   "short_name": "Generator de coduri de bare Pharmacode",
   "description": "Generator gratuit de coduri de bare Pharmacode. Cifre de control corecte acolo unde standardul le are, descărcare PNG și SVG, fără înregistrare, fără filigran.",
-  "id": "/loona-qr-codes/ro/pharmacode-barcode-generator/",
+  "id": "/ro/pharmacode-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

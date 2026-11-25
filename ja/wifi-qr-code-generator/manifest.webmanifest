@@ -2,7 +2,7 @@
   "name": "Loona WiFi QRコード生成ツール",
   "short_name": "WiFi QRコード生成ツール",
   "description": "Loona で無料の WiFi QRコードを即座に作成。登録不要、透かしなし、無期限。ゲストは一度のスキャンで WiFi に接続、パスワード入力は不要。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/wifi-qr-code-generator/",
+  "id": "/ja/wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

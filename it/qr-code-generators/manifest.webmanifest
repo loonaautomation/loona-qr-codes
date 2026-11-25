@@ -2,7 +2,7 @@
   "name": "Loona — Tutti i generatori di codici QR e a barre",
   "short_name": "Tutti i codici QR &amp; a barre",
   "description": "La libreria QR Loona completa: generatori di codici a barre (Code 128, EAN-13, UPC, Data Matrix, PDF417), codici QR di pagamento (SEPA, UPI, criptovalute, Venmo), casi d’uso industriali e strumenti di stampa.",
-  "id": "/loona-qr-codes/it/qr-code-generators/",
+  "id": "/it/qr-code-generators/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

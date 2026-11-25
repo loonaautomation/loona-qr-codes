@@ -2,7 +2,7 @@
   "name": "Loona Generator de coduri de bare Codabar",
   "short_name": "Generator de coduri de bare Codabar",
   "description": "Generator gratuit de coduri de bare Codabar. Cifre de control corecte acolo unde standardul le are, descărcare PNG și SVG, fără înregistrare, fără filigran.",
-  "id": "/loona-qr-codes/ro/codabar-barcode-generator/",
+  "id": "/ro/codabar-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

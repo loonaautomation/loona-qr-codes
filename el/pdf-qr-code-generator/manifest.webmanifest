@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR PDF",
   "short_name": "Γεννήτρια Κωδικού QR PDF",
   "description": "Δημιουργήστε έναν δωρεάν Κωδικό QR PDF αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Σαρώστε για να ανοίξετε ή να κατεβάσετε ένα αρχείο PDF. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/pdf-qr-code-generator/",
+  "id": "/el/pdf-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

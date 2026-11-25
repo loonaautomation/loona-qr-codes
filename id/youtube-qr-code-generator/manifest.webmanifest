@@ -2,7 +2,7 @@
   "name": "Generator Kode QR YouTube Loona",
   "short_name": "Generator Kode QR YouTube",
   "description": "Buat Kode QR YouTube gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Pindai untuk membuka video atau kanal seketika. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/youtube-qr-code-generator/",
+  "id": "/id/youtube-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

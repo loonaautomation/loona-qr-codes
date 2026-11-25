@@ -2,7 +2,7 @@
   "name": "Loona Generador de códigos QR de Snapchat",
   "short_name": "Generador de códigos QR de Snapchat",
   "description": "Crea un código QR de Snapchat gratuito al instante con Loona. Sin registro, sin marca de agua, nunca caduca. Escanea para añadirte en Snapchat. Colores personalizados, descarga de PNG en alta resolución.",
-  "id": "/loona-qr-codes/es/snapchat-qr-code-generator/",
+  "id": "/es/snapchat-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

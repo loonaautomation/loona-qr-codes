@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til Google Kalender-arrangement",
   "short_name": "QR-kode til Google Kalender-arrangement",
   "description": "Opret en gratis QR-kode til Google Calendar-arrangement øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/google-calendar-qr-code-generator/",
+  "id": "/da/google-calendar-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

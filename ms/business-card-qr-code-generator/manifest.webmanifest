@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Kad Perniagaan Loona",
   "short_name": "Kod QR Kad Perniagaan",
   "description": "Cipta kod Kad Perniagaan percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/business-card-qr-code-generator/",
+  "id": "/ms/business-card-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

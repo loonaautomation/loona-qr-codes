@@ -2,7 +2,7 @@
   "name": "Loona कक्षा संसाधन QR कोड जनरेटर",
   "short_name": "कक्षा संसाधन QR कोड",
   "description": "Loona के साथ तुरंत एक मुफ़्त कक्षा संसाधन QR कोड बनाएँ। कोई साइन-अप नहीं, कोई वॉटरमार्क नहीं, कभी समाप्त नहीं होता। कस्टम रंग, उच्च-रिज़ॉल्यूशन PNG डाउनलोड।",
-  "id": "/loona-qr-codes/hi/classroom-resource-qr-code-generator/",
+  "id": "/hi/classroom-resource-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

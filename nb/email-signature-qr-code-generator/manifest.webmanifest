@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator for e-postsignatur",
   "short_name": "QR-kode for e-postsignatur",
   "description": "Lag en gratis QR-kode for e-postsignatur med en gang med Loona. Ingen registrering, ingen vannmerke, utløper aldri. Tilpassede farger, nedlasting av PNG i høy oppløsning.",
-  "id": "/loona-qr-codes/nb/email-signature-qr-code-generator/",
+  "id": "/nb/email-signature-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

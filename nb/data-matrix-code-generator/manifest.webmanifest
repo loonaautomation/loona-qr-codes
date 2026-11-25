@@ -2,7 +2,7 @@
   "name": "Loona Data Matrix strekkodegenerator",
   "short_name": "Data Matrix strekkodegenerator",
   "description": "Gratis Data Matrix strekkodegenerator. Korrekte kontrollsifre der standarden har dem, nedlasting av PNG og SVG, ingen registrering, ingen vannmerke.",
-  "id": "/loona-qr-codes/nb/data-matrix-code-generator/",
+  "id": "/nb/data-matrix-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

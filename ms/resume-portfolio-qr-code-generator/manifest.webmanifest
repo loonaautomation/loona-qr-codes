@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Resume / Portfolio Loona",
   "short_name": "Kod QR Resume / Portfolio",
   "description": "Cipta kod QR Resume / Portfolio percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Letakkan resume atau portfolio anda satu imbasan sahaja. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/resume-portfolio-qr-code-generator/",
+  "id": "/ms/resume-portfolio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

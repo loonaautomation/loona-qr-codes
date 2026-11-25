@@ -2,7 +2,7 @@
   "name": "Loona 歯科＆クリニック QRコード生成ツール",
   "short_name": "歯科＆クリニック QRコード",
   "description": "Loona で無料の歯科＆クリニック QRコードを即座に作成。登録不要、透かしなし、無期限。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/dental-clinic-qr-code-generator/",
+  "id": "/ja/dental-clinic-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

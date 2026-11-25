@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR WiFi Επισκεπτών (Σπίτι & Καφέ)",
   "short_name": "QR WiFi Επισκεπτών (Σπίτι & Καφέ)",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR WiFi Επισκεπτών (Σπίτι & Καφέ) αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/wifi-qr-code-for-guests-generator/",
+  "id": "/el/wifi-qr-code-for-guests-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

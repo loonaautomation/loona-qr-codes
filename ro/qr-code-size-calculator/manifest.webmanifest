@@ -2,7 +2,7 @@
   "name": "Loona Calculator al dimensiunii codurilor QR",
   "short_name": "Calculator al dimensiunii codurilor QR",
   "description": "Calculator gratuit al dimensiunii codurilor QR: introdu distanța de scanare și tipul de conținut pentru a obține dimensiunea minimă de tipărire în cm, rezoluția PNG recomandată și lățimea zonei libere.",
-  "id": "/loona-qr-codes/ro/qr-code-size-calculator/",
+  "id": "/ro/qr-code-size-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

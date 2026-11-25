@@ -2,7 +2,7 @@
   "name": "Loona QRコード サイズ計算ツール",
   "short_name": "QRコード サイズ計算ツール",
   "description": "無料の QRコード サイズ計算ツール：スキャン距離とコンテンツの種類を入力すると、最小印刷サイズ（cm）、推奨 PNG 解像度、クワイエットゾーンの幅が得られます。",
-  "id": "/loona-qr-codes/ja/qr-code-size-calculator/",
+  "id": "/ja/qr-code-size-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona EAN-8 बारकोड जनरेटर",
   "short_name": "EAN-8 बारकोड जनरेटर",
   "description": "मुफ़्त EAN-8 बारकोड जनरेटर। जहाँ मानक में जाँच अंक होते हैं वहाँ सही जाँच अंक, PNG और SVG डाउनलोड, कोई साइन-अप नहीं, कोई वॉटरमार्क नहीं।",
-  "id": "/loona-qr-codes/hi/ean-8-barcode-generator/",
+  "id": "/hi/ean-8-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

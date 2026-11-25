@@ -2,7 +2,7 @@
   "name": "Loona ロゴ付き QRコード生成ツール",
   "short_name": "ロゴ付き QRコード生成ツール",
   "description": "無料のロゴ付き QRコード生成ツール：誤り訂正レベル H で QRコードの中央にロゴを追加し、カスタムカラー、1024px PNG ダウンロード、透かしなし。",
-  "id": "/loona-qr-codes/ja/qr-code-with-logo-generator/",
+  "id": "/ja/qr-code-with-logo-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

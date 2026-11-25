@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Beji ya Kongamano cha Loona",
   "short_name": "Msimbo wa QR wa Beji ya Kongamano",
   "description": "Tengeneza msimbo wa QR wa Beji ya Kongamano wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/conference-badge-qr-code-generator/",
+  "id": "/sw/conference-badge-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

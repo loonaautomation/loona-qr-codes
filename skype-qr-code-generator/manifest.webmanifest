@@ -2,7 +2,7 @@
   "name": "Loona Skype Call QR Code Generator",
   "short_name": "Skype Call QR Code Generator",
   "description": "Create a free Skype Call QR code instantly with Loona. No signup, no watermark, never expires. Custom colours, high-resolution PNG download.",
-  "id": "/loona-qr-codes/skype-qr-code-generator/",
+  "id": "/skype-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

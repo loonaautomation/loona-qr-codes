@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодов WiFi",
   "short_name": "Генератор QR-кодов WiFi",
   "description": "Создайте бесплатный QR-код WiFi мгновенно с Loona. Без регистрации, без водяного знака, никогда не истекает. Гости подключаются к WiFi одним сканированием, без ввода пароля. Настраиваемые цвета, скачивание PNG в высоком разрешении.",
-  "id": "/loona-qr-codes/ru/wifi-qr-code-generator/",
+  "id": "/ru/wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

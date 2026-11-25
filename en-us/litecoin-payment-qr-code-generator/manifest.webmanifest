@@ -2,7 +2,7 @@
   "name": "Loona Free Litecoin Payment QR Code Generator",
   "short_name": "Free Litecoin Payment QR Code Generator",
   "description": "Create a free Litecoin Payment QR code instantly with Loona. No signup, no watermark, never expires. Custom colors, high-resolution PNG download.",
-  "id": "/loona-qr-codes/en-us/litecoin-payment-qr-code-generator/",
+  "id": "/en-us/litecoin-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

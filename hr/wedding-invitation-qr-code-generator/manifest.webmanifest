@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za pozivnice za vjenčanje",
   "short_name": "QR kod za pozivnicu za vjenčanje",
   "description": "Stvorite besplatni QR kod za pozivnice za vjenčanje trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/wedding-invitation-qr-code-generator/",
+  "id": "/hr/wedding-invitation-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

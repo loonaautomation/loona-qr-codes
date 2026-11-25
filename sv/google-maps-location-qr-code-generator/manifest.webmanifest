@@ -2,7 +2,7 @@
   "name": "Loona Google Maps-plats-QR-kodgenerator",
   "short_name": "Google Maps-plats-QR-kod",
   "description": "Skapa direkt en gratis Google Maps-plats-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Skanna för att få vägbeskrivningar till din plats. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/google-maps-location-qr-code-generator/",
+  "id": "/sv/google-maps-location-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

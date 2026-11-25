@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za knjižnice",
   "short_name": "Generator QR kodova za knjižnice",
   "description": "Stvorite besplatni QR kod za knjižnice trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/library-qr-code-generator/",
+  "id": "/hr/library-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

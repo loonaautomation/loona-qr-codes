@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Códigos QR de Assinatura de Correio Eletrónico",
   "short_name": "Código QR de Assinatura de Correio Eletrónico",
   "description": "Crie um código QR de Assinatura de Correio Eletrónico grátis instantaneamente com a Loona. Sem registo, sem marca de água, nunca expira. Cores personalizadas, transferência PNG em alta resolução.",
-  "id": "/loona-qr-codes/pt-pt/email-signature-qr-code-generator/",
+  "id": "/pt-pt/email-signature-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

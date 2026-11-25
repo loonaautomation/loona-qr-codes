@@ -2,7 +2,7 @@
   "name": "Loona Skype Call QR Code Generator",
   "short_name": "Skype Call QR Code Generator",
   "description": "Loona দিয়ে সঙ্গে সঙ্গে একটি বিনামূল্যের Skype Call QR কোড তৈরি করুন। কোনো সাইনআপ নেই, কোনো ওয়াটারমার্ক নেই, মেয়াদ কখনো শেষ হয় না। কাস্টম রং, উচ্চ-রেজোলিউশন PNG ডাউনলোড।",
-  "id": "/loona-qr-codes/bn/skype-qr-code-generator/",
+  "id": "/bn/skype-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

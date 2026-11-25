@@ -2,7 +2,7 @@
   "name": "Loona 駐車料金支払い QRコード生成ツール",
   "short_name": "駐車料金支払い QRコード",
   "description": "Loona で無料の駐車料金支払い QRコードを即座に作成。登録不要、透かしなし、無期限。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/parking-payment-qr-code-generator/",
+  "id": "/ja/parking-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Fomu ya Maoni cha Loona",
   "short_name": "Msimbo wa QR wa Fomu ya Maoni",
   "description": "Tengeneza msimbo wa QR wa Fomu ya Maoni wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/feedback-form-qr-code-generator/",
+  "id": "/sw/feedback-form-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

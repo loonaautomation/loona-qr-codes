@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Trak Makanan Loona",
   "short_name": "Penjana Kod QR Trak Makanan",
   "description": "Cipta kod Trak Makanan percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/food-truck-qr-code-generator/",
+  "id": "/ms/food-truck-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za Pinterest",
   "short_name": "Generator QR kodova za Pinterest",
   "description": "Stvorite besplatni QR kod za Pinterest trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Skenirajte za otvaranje Pinterest profila ili ploče. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/pinterest-qr-code-generator/",
+  "id": "/hr/pinterest-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

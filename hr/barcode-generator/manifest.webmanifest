@@ -2,7 +2,7 @@
   "name": "Loona generator crtičnih kodova",
   "short_name": "Generator crtičnih kodova",
   "description": "Stvarajte besplatne crtične kodove na mreži uz Loonu: Code 128, Code 39, EAN-13, UPC-A i ITF-14. Kontrolne znamenke dodaju se automatski, pregled uživo, preuzimanje kao PNG ili SVG. Bez registracije, bez vodenog žiga, 100% privatno u vašem pregledniku.",
-  "id": "/loona-qr-codes/hr/barcode-generator/",
+  "id": "/hr/barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

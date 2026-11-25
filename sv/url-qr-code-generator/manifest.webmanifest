@@ -2,7 +2,7 @@
   "name": "Loona URL-/webbplats-QR-kodgenerator",
   "short_name": "URL / Webbplats-QR-kod",
   "description": "Skapa direkt en gratis URL-/webbplats-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Förvandla vilken webbplatslänk som helst till en QR-kod. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/url-qr-code-generator/",
+  "id": "/sv/url-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

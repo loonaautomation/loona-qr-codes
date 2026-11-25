@@ -2,7 +2,7 @@
   "name": "Loona Tischbestellungs-QR-Code für Restaurants",
   "short_name": "Tischbestellungs-QR-Code für Restaurants",
   "description": "Erstellen Sie sofort kostenlos einen Tischbestellungs-QR-Code für Restaurants mit Loona. Keine Anmeldung, kein Wasserzeichen, läuft niemals ab. Benutzerdefinierte Farben, hochauflösender PNG-Download.",
-  "id": "/loona-qr-codes/de/restaurant-table-ordering-qr-code-generator/",
+  "id": "/de/restaurant-table-ordering-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

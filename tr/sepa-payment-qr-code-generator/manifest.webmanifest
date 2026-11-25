@@ -2,7 +2,7 @@
   "name": "Loona SEPA (EPC) Ödeme QR Kod Oluşturucu",
   "short_name": "SEPA (EPC) Ödeme QR Kodu",
   "description": "Loona ile anında ücretsiz bir SEPA (EPC) Ödeme QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/sepa-payment-qr-code-generator/",
+  "id": "/tr/sepa-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

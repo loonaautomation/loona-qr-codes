@@ -2,7 +2,7 @@
   "name": "Loona generator crtičnih kodova Codabar",
   "short_name": "Generator crtičnih kodova Codabar",
   "description": "Besplatni generator crtičnih kodova Codabar. Ispravne kontrolne znamenke gdje ih standard ima, preuzimanje PNG-a i SVG-a, bez registracije, bez vodenog žiga.",
-  "id": "/loona-qr-codes/hr/codabar-barcode-generator/",
+  "id": "/hr/codabar-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

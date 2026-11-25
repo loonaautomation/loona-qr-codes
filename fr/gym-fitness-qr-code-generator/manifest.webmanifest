@@ -2,7 +2,7 @@
   "name": "Loona Générateur de code QR Salle de sport et Fitness",
   "short_name": "Code QR Salle de sport et Fitness",
   "description": "Créez un code QR Salle de sport et Fitness gratuit instantanément avec Loona. Aucune inscription, aucun filigrane, n’expire jamais. Couleurs personnalisées, téléchargement PNG haute résolution.",
-  "id": "/loona-qr-codes/fr/gym-fitness-qr-code-generator/",
+  "id": "/fr/gym-fitness-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Генератор Print-Ready QR-кодів",
   "short_name": "Генератор Print-Ready QR-кодів",
   "description": "Створіть безкоштовний QR-код Print-Ready миттєво з Loona. Без реєстрації, без водяного знака, строк дії ніколи не закінчується. Користувацькі кольори, завантаження PNG у високій роздільній здатності.",
-  "id": "/loona-qr-codes/uk/qr-code-for-print-generator/",
+  "id": "/uk/qr-code-for-print-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

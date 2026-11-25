@@ -2,7 +2,7 @@
   "name": "Všechny generátory QR kódů & čárových kódů Loona",
   "short_name": "Všechny QR kódy & čárové kódy",
   "description": "Úplná knihovna QR kódů Loona: generátory čárových kódů (Code 128, EAN-13, UPC, Data Matrix, PDF417), platební QR kódy (SEPA, UPI, krypto, Venmo), případy použití v odvětvích a tiskové nástroje.",
-  "id": "/loona-qr-codes/cs/qr-code-generators/",
+  "id": "/cs/qr-code-generators/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

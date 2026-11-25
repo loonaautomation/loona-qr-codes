@@ -2,7 +2,7 @@
   "name": "Loona Tulostusvalmis-QR-koodigeneraattori",
   "short_name": "Tulostusvalmis-QR-koodigeneraattori",
   "description": "Luo ilmainen tulostusvalmis QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/qr-code-for-print-generator/",
+  "id": "/fi/qr-code-for-print-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

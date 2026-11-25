@@ -2,7 +2,7 @@
   "name": "Loona Éttermi menü QR-kód generátor",
   "short_name": "Éttermi menü QR-kód",
   "description": "Hozzon létre ingyenes éttermi menü QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Érintésmentes menü minden asztalon. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/restaurant-menu-qr-code-generator/",
+  "id": "/hu/restaurant-menu-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

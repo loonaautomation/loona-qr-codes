@@ -2,7 +2,7 @@
   "name": "Loona Ethereum 支払い QRコード生成ツール",
   "short_name": "Ethereum 支払い QRコード",
   "description": "Loona で無料の Ethereum 支払い QRコードを即座に作成。登録不要、透かしなし、無期限。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/ethereum-payment-qr-code-generator/",
+  "id": "/ja/ethereum-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

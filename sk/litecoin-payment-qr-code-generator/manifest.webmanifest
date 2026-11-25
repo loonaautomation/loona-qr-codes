@@ -2,7 +2,7 @@
   "name": "Loona Generátor QR kódov pre platbu Litecoin",
   "short_name": "Platobný QR kód Litecoin",
   "description": "Vytvorte si zadarmo platobný QR kód Litecoin okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
-  "id": "/loona-qr-codes/sk/litecoin-payment-qr-code-generator/",
+  "id": "/sk/litecoin-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Kalkulator Saiz Kod QR Loona",
   "short_name": "Kalkulator Saiz Kod QR",
   "description": "Kalkulator saiz kod QR percuma: masukkan jarak pengimbasan dan jenis kandungan untuk mendapatkan saiz cetakan minimum dalam cm, resolusi PNG yang disyorkan dan lebar zon senyap.",
-  "id": "/loona-qr-codes/ms/qr-code-size-calculator/",
+  "id": "/ms/qr-code-size-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

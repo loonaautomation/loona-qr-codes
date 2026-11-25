@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Facebook Loona",
   "short_name": "Trình tạo mã QR Facebook",
   "description": "Tạo mã QR Facebook miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Đưa mọi người thẳng tới trang Facebook của bạn. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/facebook-qr-code-generator/",
+  "id": "/vi/facebook-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

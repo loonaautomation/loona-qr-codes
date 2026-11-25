@@ -2,7 +2,7 @@
   "name": "Loona Générateur de code QR Appel téléphonique",
   "short_name": "Générateur de code QR Appel téléphonique",
   "description": "Créez un code QR Appel téléphonique gratuit instantanément avec Loona. Aucune inscription, aucun filigrane, n’expire jamais. Scannez pour composer votre numéro instantanément. Couleurs personnalisées, téléchargement PNG haute résolution.",
-  "id": "/loona-qr-codes/fr/phone-qr-code-generator/",
+  "id": "/fr/phone-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

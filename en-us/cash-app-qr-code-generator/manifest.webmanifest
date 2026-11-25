@@ -2,7 +2,7 @@
   "name": "Loona Free Cash App QR Code Generator",
   "short_name": "Free Cash App QR Code Generator",
   "description": "Create a free Cash App QR code instantly with Loona. No signup, no watermark, never expires. Custom colors, high-resolution PNG download.",
-  "id": "/loona-qr-codes/en-us/cash-app-qr-code-generator/",
+  "id": "/en-us/cash-app-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

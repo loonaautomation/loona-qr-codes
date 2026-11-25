@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til almindelig tekst",
   "short_name": "QR-kodegenerator til almindelig tekst",
   "description": "Opret en gratis QR-kode med almindelig tekst øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Læg enhver tekst, kode eller besked ind i en QR-kode. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/text-qr-code-generator/",
+  "id": "/da/text-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

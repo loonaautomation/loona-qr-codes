@@ -2,7 +2,7 @@
   "name": "Loona Éttermi Asztali Rendelés QR-kód",
   "short_name": "Éttermi Asztali Rendelés QR",
   "description": "Hozzon létre ingyenes éttermi asztali rendelés QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/restaurant-table-ordering-qr-code-generator/",
+  "id": "/hu/restaurant-table-ordering-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

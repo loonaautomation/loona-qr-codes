@@ -2,7 +2,7 @@
   "name": "Kod QR Pengesahan Dua Faktor (TOTP) Loona",
   "short_name": "Pengesahan Dua Faktor",
   "description": "Cipta kod Pengesahan Dua Faktor (TOTP) percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/two-factor-authentication-qr-code-generator/",
+  "id": "/ms/two-factor-authentication-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

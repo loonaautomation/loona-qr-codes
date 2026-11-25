@@ -2,7 +2,7 @@
   "name": "Generátor QR kódů pro Snapchat Loona",
   "short_name": "Generátor QR kódů pro Snapchat",
   "description": "Vytvořte si zdarma QR kód pro Snapchat okamžitě s Loonou. Bez registrace, bez vodoznaku, nikdy nevyprší. Naskenujte a přidejte si vás na Snapchatu. Vlastní barvy, stažení PNG ve vysokém rozlišení.",
-  "id": "/loona-qr-codes/cs/snapchat-qr-code-generator/",
+  "id": "/cs/snapchat-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

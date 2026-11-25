@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til apotek",
   "short_name": "QR-kodegenerator til apotek",
   "description": "Opret en gratis apoteks-QR-kode øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/pharmacy-qr-code-generator/",
+  "id": "/da/pharmacy-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

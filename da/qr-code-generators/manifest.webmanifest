@@ -2,7 +2,7 @@
   "name": "Loona Alle QR-kode- og stregkodegeneratorer",
   "short_name": "Alle QR-koder og stregkoder",
   "description": "Det fulde Loona QR-bibliotek: stregkodegeneratorer (Code 128, EAN-13, UPC, Data Matrix, PDF417), betalings-QR-koder (SEPA, UPI, krypto, Venmo), brancheanvendelser og trykværktøjer.",
-  "id": "/loona-qr-codes/da/qr-code-generators/",
+  "id": "/da/qr-code-generators/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

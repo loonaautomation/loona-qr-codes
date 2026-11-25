@@ -2,7 +2,7 @@
   "name": "Loona Apteekki-QR-koodigeneraattori",
   "short_name": "Apteekki-QR-koodigeneraattori",
   "description": "Luo ilmainen apteekin QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/pharmacy-qr-code-generator/",
+  "id": "/fi/pharmacy-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

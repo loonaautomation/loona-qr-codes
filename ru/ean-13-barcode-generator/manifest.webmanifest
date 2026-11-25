@@ -2,7 +2,7 @@
   "name": "Loona Генератор штрихкодов EAN-13",
   "short_name": "Генератор штрихкодов EAN-13",
   "description": "Бесплатный генератор штрихкодов EAN-13. Корректные контрольные цифры там, где они предусмотрены стандартом, скачивание в PNG и SVG, без регистрации, без водяных знаков.",
-  "id": "/loona-qr-codes/ru/ean-13-barcode-generator/",
+  "id": "/ru/ean-13-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

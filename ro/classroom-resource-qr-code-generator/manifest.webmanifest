@@ -2,7 +2,7 @@
   "name": "Loona Generator de coduri QR pentru resurse de clasă",
   "short_name": "Cod QR pentru resurse de clasă",
   "description": "Creează gratuit un cod QR pentru resurse de clasă instantaneu cu Loona. Fără înregistrare, fără filigran, nu expiră niciodată. Culori personalizate, descărcare PNG la rezoluție înaltă.",
-  "id": "/loona-qr-codes/ro/classroom-resource-qr-code-generator/",
+  "id": "/ro/classroom-resource-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

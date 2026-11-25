@@ -2,7 +2,7 @@
   "name": "Loona EAN-8 Barkod Oluşturucu",
   "short_name": "EAN-8 Barkod Oluşturucu",
   "description": "Ücretsiz EAN-8 barkod oluşturucu. Standartta olduğu yerde doğru kontrol basamakları, PNG ve SVG indirme, kayıt yok, filigran yok.",
-  "id": "/loona-qr-codes/tr/ean-8-barcode-generator/",
+  "id": "/tr/ean-8-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

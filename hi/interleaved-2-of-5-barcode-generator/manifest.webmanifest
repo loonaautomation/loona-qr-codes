@@ -2,7 +2,7 @@
   "name": "Loona Interleaved 2 of 5 बारकोड जनरेटर",
   "short_name": "Interleaved 2 of 5 बारकोड",
   "description": "मुफ़्त Interleaved 2 of 5 बारकोड जनरेटर। जहाँ मानक में जाँच अंक होते हैं वहाँ सही जाँच अंक, PNG और SVG डाउनलोड, कोई साइन-अप नहीं, कोई वॉटरमार्क नहीं।",
-  "id": "/loona-qr-codes/hi/interleaved-2-of-5-barcode-generator/",
+  "id": "/hi/interleaved-2-of-5-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Generator kodów QR gotowych do druku Loona",
   "short_name": "Generator kodów QR gotowych do druku",
   "description": "Utwórz darmowy kod QR gotowy do druku błyskawicznie z Loona. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa. Kolory niestandardowe, pobieranie PNG w wysokiej rozdzielczości.",
-  "id": "/loona-qr-codes/pl/qr-code-for-print-generator/",
+  "id": "/pl/qr-code-for-print-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

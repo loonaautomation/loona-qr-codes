@@ -2,7 +2,7 @@
   "name": "คิวอาร์โค้ดคู่มือและคำแนะนำผลิตภัณฑ์ของ Loona",
   "short_name": "คู่มือและคำแนะนำผลิตภัณฑ์",
   "description": "สร้างคิวอาร์โค้ดคู่มือและคำแนะนำผลิตภัณฑ์ฟรีได้ทันทีด้วย Loona ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ สีที่กำหนดเอง ดาวน์โหลด PNG ความละเอียดสูง",
-  "id": "/loona-qr-codes/th/product-manual-qr-code-generator/",
+  "id": "/th/product-manual-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

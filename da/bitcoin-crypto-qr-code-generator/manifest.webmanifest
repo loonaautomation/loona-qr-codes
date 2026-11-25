@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til Bitcoin / krypto",
   "short_name": "Bitcoin-/krypto-QR-kode",
   "description": "Opret en gratis Bitcoin / Crypto-QR-kode øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Del en Bitcoin-walletadresse som en QR. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/bitcoin-crypto-qr-code-generator/",
+  "id": "/da/bitcoin-crypto-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

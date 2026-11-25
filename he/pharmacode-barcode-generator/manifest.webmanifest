@@ -2,7 +2,7 @@
   "name": "מחולל ברקוד Pharmacode של Loona",
   "short_name": "מחולל ברקוד Pharmacode",
   "description": "מחולל ברקוד Pharmacode חינמי. ספרות ביקורת נכונות היכן שהתקן כולל אותן, הורדת PNG ו-SVG, ללא הרשמה, ללא סימן מים.",
-  "id": "/loona-qr-codes/he/pharmacode-barcode-generator/",
+  "id": "/he/pharmacode-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

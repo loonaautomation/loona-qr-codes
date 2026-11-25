@@ -2,7 +2,7 @@
   "name": "Loona Cod QR pentru comenzi la masă în restaurant",
   "short_name": "Cod QR pentru comenzi la masă în restaurant",
   "description": "Creează gratuit un cod QR pentru comenzi la masă în restaurant instantaneu cu Loona. Fără înregistrare, fără filigran, nu expiră niciodată. Culori personalizate, descărcare PNG la rezoluție înaltă.",
-  "id": "/loona-qr-codes/ro/restaurant-table-ordering-qr-code-generator/",
+  "id": "/ro/restaurant-table-ordering-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

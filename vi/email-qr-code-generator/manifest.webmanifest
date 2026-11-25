@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Email Loona",
   "short_name": "Trình tạo mã QR Email",
   "description": "Tạo mã QR Email miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Quét để mở một email đã điền sẵn địa chỉ, sẵn sàng gửi. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/email-qr-code-generator/",
+  "id": "/vi/email-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

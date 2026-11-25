@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR PayPal",
   "short_name": "Γεννήτρια Κωδικού QR PayPal",
   "description": "Δημιουργήστε έναν δωρεάν Κωδικό QR PayPal αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Πληρωθείτε: σαρώστε για να ανοίξετε τη σελίδα PayPal.me σας. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/paypal-qr-code-generator/",
+  "id": "/el/paypal-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

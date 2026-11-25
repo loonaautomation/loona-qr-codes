@@ -2,7 +2,7 @@
   "name": "Loona Code 39 Barkod Oluşturucu",
   "short_name": "Code 39 Barkod Oluşturucu",
   "description": "Ücretsiz Code 39 barkod oluşturucu. Standartta olduğu yerde doğru kontrol basamakları, PNG ve SVG indirme, kayıt yok, filigran yok.",
-  "id": "/loona-qr-codes/tr/code-39-barcode-generator/",
+  "id": "/tr/code-39-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

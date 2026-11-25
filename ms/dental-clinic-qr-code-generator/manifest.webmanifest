@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Pergigian & Klinik Loona",
   "short_name": "Kod QR Pergigian & Klinik",
   "description": "Cipta kod Pergigian & Klinik percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/dental-clinic-qr-code-generator/",
+  "id": "/ms/dental-clinic-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

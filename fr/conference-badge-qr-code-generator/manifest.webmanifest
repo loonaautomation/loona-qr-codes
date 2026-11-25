@@ -2,7 +2,7 @@
   "name": "Loona Générateur de code QR Badge de conférence",
   "short_name": "Code QR Badge de conférence",
   "description": "Créez un code QR Badge de conférence gratuit instantanément avec Loona. Aucune inscription, aucun filigrane, n’expire jamais. Couleurs personnalisées, téléchargement PNG haute résolution.",
-  "id": "/loona-qr-codes/fr/conference-badge-qr-code-generator/",
+  "id": "/fr/conference-badge-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

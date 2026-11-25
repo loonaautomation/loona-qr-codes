@@ -2,7 +2,7 @@
   "name": "Mã QR Xác thực Hai yếu tố (TOTP) Loona",
   "short_name": "Xác thực Hai yếu tố",
   "description": "Tạo mã QR Xác thực Hai yếu tố (TOTP) miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/two-factor-authentication-qr-code-generator/",
+  "id": "/vi/two-factor-authentication-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

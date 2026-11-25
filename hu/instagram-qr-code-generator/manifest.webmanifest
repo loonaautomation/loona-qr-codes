@@ -2,7 +2,7 @@
   "name": "Loona Instagram QR-kód generátor",
   "short_name": "Instagram QR-kód generátor",
   "description": "Hozzon létre ingyenes Instagram QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Növessze követőit beolvasással követhető Instagram QR-kóddal. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/instagram-qr-code-generator/",
+  "id": "/hu/instagram-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

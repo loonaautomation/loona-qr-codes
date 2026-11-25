@@ -2,7 +2,7 @@
   "name": "Loona Venmo QR Kod Oluşturucu",
   "short_name": "Venmo QR Kod Oluşturucu",
   "description": "Loona ile anında ücretsiz bir Venmo QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/venmo-qr-code-generator/",
+  "id": "/tr/venmo-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

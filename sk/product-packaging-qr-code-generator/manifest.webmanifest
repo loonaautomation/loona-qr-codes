@@ -2,7 +2,7 @@
   "name": "Loona Generátor QR kódov pre obal produktu",
   "short_name": "QR kód pre obal produktu",
   "description": "Vytvorte si zadarmo QR kód pre obal produktu okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
-  "id": "/loona-qr-codes/sk/product-packaging-qr-code-generator/",
+  "id": "/sk/product-packaging-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona XRP-maksu-QR-koodigeneraattori",
   "short_name": "XRP-maksu-QR-koodigeneraattori",
   "description": "Luo ilmainen XRP-maksu-QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/xrp-payment-qr-code-generator/",
+  "id": "/fi/xrp-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

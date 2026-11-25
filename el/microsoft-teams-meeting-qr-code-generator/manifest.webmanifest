@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Συνάντησης Microsoft Teams",
   "short_name": "QR Συνάντησης Microsoft Teams",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Συνάντησης Microsoft Teams αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/microsoft-teams-meeting-qr-code-generator/",
+  "id": "/el/microsoft-teams-meeting-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

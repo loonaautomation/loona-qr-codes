@@ -2,7 +2,7 @@
   "name": "Loona Edzőterem és Fitness QR-kód generátor",
   "short_name": "Edzőterem és fitnesz QR-kód",
   "description": "Hozzon létre ingyenes edzőterem és fitnesz QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/gym-fitness-qr-code-generator/",
+  "id": "/hu/gym-fitness-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

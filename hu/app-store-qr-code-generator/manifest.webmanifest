@@ -2,7 +2,7 @@
   "name": "Loona App Store / Google Play QR-kód generátor",
   "short_name": "App Store / Google Play QR",
   "description": "Hozzon létre ingyenes App Store / Google Play QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Olvassa be az alkalmazása telepítéséhez. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/app-store-qr-code-generator/",
+  "id": "/hu/app-store-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

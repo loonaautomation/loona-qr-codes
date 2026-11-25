@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Phòng Gym & Thể hình Loona",
   "short_name": "Mã QR Phòng Gym & Thể hình",
   "description": "Tạo mã QR Phòng Gym & Thể hình miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/gym-fitness-qr-code-generator/",
+  "id": "/vi/gym-fitness-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

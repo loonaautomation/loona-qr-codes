@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona למכון יופי",
   "short_name": "מחולל קוד QR של סלון יופי",
   "description": "צרו קוד QR חינמי של סלון יופי מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/beauty-salon-qr-code-generator/",
+  "id": "/he/beauty-salon-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

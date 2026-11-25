@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za sastanak Microsoft Teamsa",
   "short_name": "QR za sastanak Microsoft Teamsa",
   "description": "Stvorite besplatni QR kod za sastanak Microsoft Teams trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/microsoft-teams-meeting-qr-code-generator/",
+  "id": "/hr/microsoft-teams-meeting-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Generator Kode QR Pembayaran Ethereum Loona",
   "short_name": "Kode QR Pembayaran Ethereum",
   "description": "Buat kode QR Pembayaran Ethereum gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/ethereum-payment-qr-code-generator/",
+  "id": "/id/ethereum-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

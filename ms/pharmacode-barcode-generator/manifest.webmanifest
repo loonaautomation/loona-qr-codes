@@ -2,7 +2,7 @@
   "name": "Penjana Kod Bar Pharmacode Loona",
   "short_name": "Penjana Kod Bar Pharmacode",
   "description": "Penjana kod bar Pharmacode percuma. Digit semak betul di mana standard mempunyainya, muat turun PNG dan SVG, tiada pendaftaran, tiada tera air.",
-  "id": "/loona-qr-codes/ms/pharmacode-barcode-generator/",
+  "id": "/ms/pharmacode-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

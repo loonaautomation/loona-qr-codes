@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Zelle",
   "short_name": "Γεννήτρια Κωδικού QR Zelle",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Zelle αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/zelle-qr-code-generator/",
+  "id": "/el/zelle-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

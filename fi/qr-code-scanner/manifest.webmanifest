@@ -2,7 +2,7 @@
   "name": "Loona QR-koodi- ja viivakoodiskanneri",
   "short_name": "QR-koodi- ja viivakoodiskanneri",
   "description": "Skannaa QR-koodeja ja viivakoodeja ilmaiseksi verkossa Loonalla: käytä kameraasi tai lataa valokuva tai kuvakaappaus. Dekoodaa URL:t, WiFin, vCard-yhteystiedot, EAN-13:n, UPC-A:n, Code 128:n ja Code 39:n. 100% yksityinen — kaikki dekoodataan laitteellasi, mitään ei ladata.",
-  "id": "/loona-qr-codes/fi/qr-code-scanner/",
+  "id": "/fi/qr-code-scanner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

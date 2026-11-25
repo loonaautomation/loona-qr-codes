@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Zoom / Mesyuarat Loona",
   "short_name": "Kod QR Zoom / Mesyuarat",
   "description": "Cipta kod QR Zoom / Mesyuarat percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Imbas untuk menyertai mesyuarat atau kelas. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/zoom-meeting-qr-code-generator/",
+  "id": "/ms/zoom-meeting-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

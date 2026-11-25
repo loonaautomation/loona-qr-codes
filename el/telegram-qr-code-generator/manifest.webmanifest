@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Telegram",
   "short_name": "Γεννήτρια Κωδικού QR Telegram",
   "description": "Δημιουργήστε έναν δωρεάν Κωδικό QR Telegram αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Σαρώστε για να μπείτε στο προφίλ, ομάδα ή κανάλι σας στο Telegram. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/telegram-qr-code-generator/",
+  "id": "/el/telegram-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Generator Kode Batang Loona",
   "short_name": "Generator Kode Batang",
   "description": "Buat kode batang online gratis dengan Loona: Code 128, Code 39, EAN-13, UPC-A, dan ITF-14. Digit pemeriksa ditambahkan secara otomatis, pratinjau langsung, unduh sebagai PNG atau SVG. Tanpa pendaftaran, tanpa watermark, 100% privat di browser Anda.",
-  "id": "/loona-qr-codes/id/barcode-generator/",
+  "id": "/id/barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

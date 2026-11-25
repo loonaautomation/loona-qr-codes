@@ -2,7 +2,7 @@
   "name": "Loona Skype-puhelu-QR-koodigeneraattori",
   "short_name": "Skype-puhelu-QR-koodigeneraattori",
   "description": "Luo ilmainen Skype-puhelun QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/skype-qr-code-generator/",
+  "id": "/fi/skype-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

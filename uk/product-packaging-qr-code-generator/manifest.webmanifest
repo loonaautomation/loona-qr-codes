@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодів пакування товарів",
   "short_name": "QR-код пакування товарів",
   "description": "Створіть безкоштовний QR-код пакування товару миттєво з Loona. Без реєстрації, без водяного знака, строк дії ніколи не закінчується. Користувацькі кольори, завантаження PNG у високій роздільній здатності.",
-  "id": "/loona-qr-codes/uk/product-packaging-qr-code-generator/",
+  "id": "/uk/product-packaging-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

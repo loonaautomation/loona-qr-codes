@@ -2,7 +2,7 @@
   "name": "Loona URL- / verkkosivusto-QR-koodigeneraattori",
   "short_name": "URL- / verkkosivusto-QR-koodi",
   "description": "Luo ilmainen URL- / verkkosivusto-QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Muuta mikä tahansa verkkosivustolinkki QR-koodiksi. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/url-qr-code-generator/",
+  "id": "/fi/url-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

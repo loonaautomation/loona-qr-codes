@@ -2,7 +2,7 @@
   "name": "Loona Zelle QR Kod Oluşturucu",
   "short_name": "Zelle QR Kod Oluşturucu",
   "description": "Loona ile anında ücretsiz bir Zelle QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/zelle-qr-code-generator/",
+  "id": "/tr/zelle-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

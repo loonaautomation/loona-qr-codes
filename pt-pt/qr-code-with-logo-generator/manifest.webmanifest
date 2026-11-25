@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Códigos QR com Logótipo",
   "short_name": "Gerador de Códigos QR com Logótipo",
   "description": "Gerador de códigos QR com logótipo gratuito: adicione o seu logótipo ao centro de um código QR no nível de correção de erros H, cores personalizadas, transferência PNG de 1024px, sem marca de água.",
-  "id": "/loona-qr-codes/pt-pt/qr-code-with-logo-generator/",
+  "id": "/pt-pt/qr-code-with-logo-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

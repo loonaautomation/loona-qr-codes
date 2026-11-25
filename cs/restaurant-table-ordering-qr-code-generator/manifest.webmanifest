@@ -2,7 +2,7 @@
   "name": "QR kód pro objednávání od stolu v restauraci Loona",
   "short_name": "QR kód pro objednávání od stolu v restauraci",
   "description": "Vytvořte si zdarma QR kód pro objednávání od stolu v restauraci okamžitě s Loonou. Bez registrace, bez vodoznaku, nikdy nevyprší. Vlastní barvy, stažení PNG ve vysokém rozlišení.",
-  "id": "/loona-qr-codes/cs/restaurant-table-ordering-qr-code-generator/",
+  "id": "/cs/restaurant-table-ordering-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

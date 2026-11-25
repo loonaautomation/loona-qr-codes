@@ -2,7 +2,7 @@
   "name": "Loona YouTube QR Code Generator",
   "short_name": "YouTube QR Code Generator",
   "description": "Loona کے ساتھ مفت YouTube QR Code فوراً بنائیں۔ کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، کبھی ختم نہیں ہوتا۔ ویڈیو یا چینل فوراً کھولنے کے لیے اسکین کریں۔ حسبِ پسند رنگ، ہائی ریزولوشن PNG ڈاؤن لوڈ۔",
-  "id": "/loona-qr-codes/ur/youtube-qr-code-generator/",
+  "id": "/ur/youtube-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

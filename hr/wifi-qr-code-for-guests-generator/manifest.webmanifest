@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za WiFi za goste (dom i kafić)",
   "short_name": "QR za WiFi za goste (dom i kafić)",
   "description": "Stvorite besplatni QR kod za WiFi za goste (dom i kafić) trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/wifi-qr-code-for-guests-generator/",
+  "id": "/hr/wifi-qr-code-for-guests-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

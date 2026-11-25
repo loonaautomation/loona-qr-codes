@@ -2,7 +2,7 @@
   "name": "Loona QR-Code-mit-Logo-Generator",
   "short_name": "QR-Code-mit-Logo-Generator",
   "description": "Kostenloser QR-Code-mit-Logo-Generator: Fügen Sie Ihr Logo in die Mitte eines QR-Codes auf Fehlerkorrekturstufe H ein, benutzerdefinierte Farben, 1024px PNG-Download, kein Wasserzeichen.",
-  "id": "/loona-qr-codes/de/qr-code-with-logo-generator/",
+  "id": "/de/qr-code-with-logo-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

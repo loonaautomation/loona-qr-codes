@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til restaurantmenu",
   "short_name": "QR-kode til restaurantmenu",
   "description": "Opret en gratis QR-kode til restaurantmenu øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Berøringsfri menu på hvert bord. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/restaurant-menu-qr-code-generator/",
+  "id": "/da/restaurant-menu-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

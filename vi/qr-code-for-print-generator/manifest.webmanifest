@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Sẵn sàng In Loona",
   "short_name": "Trình tạo mã QR Sẵn sàng In",
   "description": "Tạo mã QR Sẵn sàng In miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/qr-code-for-print-generator/",
+  "id": "/vi/qr-code-for-print-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

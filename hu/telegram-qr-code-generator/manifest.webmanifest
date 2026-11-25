@@ -2,7 +2,7 @@
   "name": "Loona Telegram QR-kód generátor",
   "short_name": "Telegram QR-kód generátor",
   "description": "Hozzon létre ingyenes Telegram QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Olvassa be Telegram-profiljához, -csoportjához vagy -csatornájához csatlakozáshoz. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/telegram-qr-code-generator/",
+  "id": "/hu/telegram-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

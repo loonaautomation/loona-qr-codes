@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Fomu ya Google cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wa Fomu ya Google",
   "description": "Tengeneza Msimbo wa QR wa Fomu ya Google wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Changanua ili kufungua na kujaza Fomu ya Google. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/google-form-qr-code-generator/",
+  "id": "/sw/google-form-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

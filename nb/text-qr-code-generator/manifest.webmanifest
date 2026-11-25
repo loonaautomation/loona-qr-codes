@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator for ren tekst",
   "short_name": "QR-kodegenerator for ren tekst",
   "description": "Lag en gratis QR-kode med ren tekst med en gang med Loona. Ingen registrering, ingen vannmerke, utløper aldri. Legg enhver tekst, kode eller melding inne i en QR-kode. Tilpassede farger, nedlasting av PNG i høy oppløsning.",
-  "id": "/loona-qr-codes/nb/text-qr-code-generator/",
+  "id": "/nb/text-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PDF QR Code Generator",
   "short_name": "PDF QR Code Generator",
   "description": "Loona کے ساتھ مفت PDF QR Code فوراً بنائیں۔ کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، کبھی ختم نہیں ہوتا۔ PDF فائل کھولنے یا ڈاؤن لوڈ کرنے کے لیے اسکین کریں۔ حسبِ پسند رنگ، ہائی ریزولوشن PNG ڈاؤن لوڈ۔",
-  "id": "/loona-qr-codes/ur/pdf-qr-code-generator/",
+  "id": "/ur/pdf-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Mã QR Hướng dẫn Sử dụng Sản phẩm & Hướng dẫn Loona",
   "short_name": "Hướng dẫn Sử dụng Sản phẩm & Hướng dẫn",
   "description": "Tạo mã QR Hướng dẫn Sử dụng Sản phẩm & Hướng dẫn miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/product-manual-qr-code-generator/",
+  "id": "/vi/product-manual-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

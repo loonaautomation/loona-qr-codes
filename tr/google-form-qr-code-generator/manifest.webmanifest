@@ -2,7 +2,7 @@
   "name": "Loona Google Form QR Kod Oluşturucu",
   "short_name": "Google Form QR Kod Oluşturucu",
   "description": "Loona ile anında ücretsiz bir Google Form QR Kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Bir Google Formu açıp doldurmak için tarayın. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/google-form-qr-code-generator/",
+  "id": "/tr/google-form-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

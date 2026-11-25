@@ -2,7 +2,7 @@
   "name": "Loona QR Codes kaikille Loona-työkaluille",
   "short_name": "QR-koodit kaikille Loona-työkaluille",
   "description": "Hae ilmainen valmis QR-koodi mille tahansa Loona-työkalulle — 872 laskuria, PDF-työkalut, kuvatyökalut, opiskelutyökalut ja sovellukset. Valitse työkalu, lataa sen QR-koodi korkearesoluutioisena PNG:nä ja tulosta se. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan.",
-  "id": "/loona-qr-codes/fi/tool-qr-codes/",
+  "id": "/fi/tool-qr-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

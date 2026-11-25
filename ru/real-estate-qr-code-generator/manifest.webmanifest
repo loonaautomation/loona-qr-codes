@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодов для недвижимости",
   "short_name": "Генератор QR-кодов для недвижимости",
   "description": "Создайте бесплатный QR-код недвижимости мгновенно с Loona. Без регистрации, без водяного знака, никогда не истекает. Настраиваемые цвета, скачивание PNG в высоком разрешении.",
-  "id": "/loona-qr-codes/ru/real-estate-qr-code-generator/",
+  "id": "/ru/real-estate-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

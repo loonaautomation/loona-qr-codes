@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til Skype-opkald",
   "short_name": "QR-kodegenerator til Skype-opkald",
   "description": "Opret en gratis Skype-opkalds-QR-kode øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/skype-qr-code-generator/",
+  "id": "/da/skype-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

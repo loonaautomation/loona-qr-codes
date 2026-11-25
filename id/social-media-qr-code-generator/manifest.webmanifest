@@ -2,7 +2,7 @@
   "name": "Generator Kode QR Media Sosial Loona",
   "short_name": "Generator Kode QR Media Sosial",
   "description": "Buat Kode QR Media Sosial gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Pilih platform, tambahkan nama pengguna Anda, dan satu pemindaian membuka profil Anda. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/social-media-qr-code-generator/",
+  "id": "/id/social-media-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

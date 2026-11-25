@@ -2,7 +2,7 @@
   "name": "Loona Генератор штрих-кодів Data Matrix",
   "short_name": "Генератор штрих-кодів Data Matrix",
   "description": "Безкоштовний генератор штрих-кодів Data Matrix. Правильні контрольні цифри там, де їх має стандарт, завантаження PNG і SVG, без реєстрації, без водяного знака.",
-  "id": "/loona-qr-codes/uk/data-matrix-code-generator/",
+  "id": "/uk/data-matrix-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

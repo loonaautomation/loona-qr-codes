@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Υπογραφής Email",
   "short_name": "Κωδικός QR Υπογραφής Email",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Υπογραφής Email αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/email-signature-qr-code-generator/",
+  "id": "/el/email-signature-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

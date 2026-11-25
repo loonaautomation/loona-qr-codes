@@ -2,7 +2,7 @@
   "name": "Loona MSI Plessey-stregkodegenerator",
   "short_name": "MSI Plessey-stregkodegenerator",
   "description": "Gratis MSI Plessey-stregkodegenerator. Korrekte kontrolcifre, hvor standarden har dem, download af PNG og SVG, ingen tilmelding, intet vandmærke.",
-  "id": "/loona-qr-codes/da/msi-barcode-generator/",
+  "id": "/da/msi-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

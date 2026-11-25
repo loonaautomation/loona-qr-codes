@@ -2,7 +2,7 @@
   "name": "Loona vCard 連絡先 QRコード生成ツール",
   "short_name": "vCard 連絡先 QRコード",
   "description": "Loona で無料の vCard 連絡先 QRコードを即座に作成。登録不要、透かしなし、無期限。スキャンして完全な連絡先カードをスマートフォンに保存。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/vcard-qr-code-generator/",
+  "id": "/ja/vcard-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

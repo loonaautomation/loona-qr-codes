@@ -2,7 +2,7 @@
   "name": "Loona Google Térkép Hely QR-kód generátor",
   "short_name": "Google Térkép hely QR-kód",
   "description": "Hozzon létre ingyenes Google Térkép hely QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Olvassa be az Ön helyéhez vezető útvonaltervért. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/google-maps-location-qr-code-generator/",
+  "id": "/hu/google-maps-location-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

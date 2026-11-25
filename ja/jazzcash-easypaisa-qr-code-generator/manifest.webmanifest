@@ -2,7 +2,7 @@
   "name": "Loona JazzCash / EasyPaisa QRコード（パキスタン）",
   "short_name": "JazzCash / EasyPaisa QRコード",
   "description": "パキスタン向けの無料の JazzCash または EasyPaisa QRコードを作成 — 登録不要、透かしなし、無期限。カスタムカラーと高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/jazzcash-easypaisa-qr-code-generator/",
+  "id": "/ja/jazzcash-easypaisa-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

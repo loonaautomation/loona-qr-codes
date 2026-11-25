@@ -2,7 +2,7 @@
   "name": "Loona WhatsApp-QR-koodigeneraattori",
   "short_name": "WhatsApp-QR-koodigeneraattori",
   "description": "Luo ilmainen WhatsApp-QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Aloita WhatsApp-keskustelu yhdellä skannauksella, ilman numeron tallentamista. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/whatsapp-qr-code-generator/",
+  "id": "/fi/whatsapp-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

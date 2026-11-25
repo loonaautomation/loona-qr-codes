@@ -2,7 +2,7 @@
   "name": "Loona Aztec-kode strekkodegenerator",
   "short_name": "Aztec-kode strekkodegenerator",
   "description": "Gratis Aztec-kode strekkodegenerator. Korrekte kontrollsifre der standarden har dem, nedlasting av PNG og SVG, ingen registrering, ingen vannmerke.",
-  "id": "/loona-qr-codes/nb/aztec-code-generator/",
+  "id": "/nb/aztec-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

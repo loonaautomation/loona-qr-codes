@@ -2,7 +2,7 @@
   "name": "Loona Discord QR-kód generátor",
   "short_name": "Discord QR-kód generátor",
   "description": "Hozzon létre ingyenes Discord QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Olvassa be Discord-szerverhez csatlakozáshoz meghívólinkkel. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/discord-qr-code-generator/",
+  "id": "/hu/discord-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

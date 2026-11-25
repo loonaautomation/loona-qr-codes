@@ -2,7 +2,7 @@
   "name": "מחולל ברקוד Code 128 של Loona",
   "short_name": "מחולל ברקוד Code 128",
   "description": "מחולל ברקוד Code 128 חינמי. ספרות ביקורת נכונות היכן שהתקן כולל אותן, הורדת PNG ו-SVG, ללא הרשמה, ללא סימן מים.",
-  "id": "/loona-qr-codes/he/code-128-barcode-generator/",
+  "id": "/he/code-128-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

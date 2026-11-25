@@ -2,7 +2,7 @@
   "name": "Loona PayPal QRコード生成ツール",
   "short_name": "PayPal QRコード生成ツール",
   "description": "Loona で無料の PayPal QRコードを即座に作成。登録不要、透かしなし、無期限。支払いを受け取ります：スキャンして PayPal.me ページを開きます。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/paypal-qr-code-generator/",
+  "id": "/ja/paypal-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

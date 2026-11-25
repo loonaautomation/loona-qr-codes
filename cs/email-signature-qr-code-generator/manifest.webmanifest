@@ -2,7 +2,7 @@
   "name": "Generátor QR kódů pro e-mailový podpis Loona",
   "short_name": "QR kód pro e-mailový podpis",
   "description": "Vytvořte si zdarma QR kód pro e-mailový podpis okamžitě s Loonou. Bez registrace, bez vodoznaku, nikdy nevyprší. Vlastní barvy, stažení PNG ve vysokém rozlišení.",
-  "id": "/loona-qr-codes/cs/email-signature-qr-code-generator/",
+  "id": "/cs/email-signature-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

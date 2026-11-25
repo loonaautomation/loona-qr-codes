@@ -2,7 +2,7 @@
   "name": "Loona Egyszerű szöveg QR-kód generátor",
   "short_name": "Egyszerű szöveg QR-kód generátor",
   "description": "Hozzon létre ingyenes egyszerű szöveges QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Tegyen bármilyen szöveget, kódot vagy üzenetet QR-kódba. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/text-qr-code-generator/",
+  "id": "/hu/text-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

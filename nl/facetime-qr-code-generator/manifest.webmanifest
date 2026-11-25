@@ -2,7 +2,7 @@
   "name": "Loona FaceTime-QR-codegenerator",
   "short_name": "FaceTime-QR-codegenerator",
   "description": "Maak direct een gratis FaceTime-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/facetime-qr-code-generator/",
+  "id": "/nl/facetime-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

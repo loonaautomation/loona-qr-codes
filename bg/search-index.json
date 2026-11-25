@@ -1,7 +1,7 @@
 [
  {
   "n": "Генератор на QR кодове за URL / уебсайт",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/url-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/url-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Превърнете всяка връзка към уебсайт в QR код.",
   "k": "url website qr code generator url qr code generator qr",
@@ -10,7 +10,7 @@
  },
  {
   "n": "Генератор на QR кодове с обикновен текст",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/text-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/text-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Поставете всеки текст, код или съобщение в QR код.",
   "k": "plain text qr code generator text qr code generator qr",
@@ -19,7 +19,7 @@
  },
  {
   "n": "Генератор на QR кодове за WiFi",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/wifi-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/wifi-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Гостите се свързват с WiFi с едно сканиране, без въвеждане на парола.",
   "k": "wifi qr code generator wifi qr code generator wifi",
@@ -28,7 +28,7 @@
  },
  {
   "n": "Генератор на QR кодове за WhatsApp",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/whatsapp-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/whatsapp-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Започнете чат в WhatsApp с едно сканиране, без запазване на номер.",
   "k": "whatsapp qr code generator whatsapp qr code generator whatsapp",
@@ -37,7 +37,7 @@
  },
  {
   "n": "Генератор на QR кодове за контакт vCard",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/vcard-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/vcard-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Сканирайте, за да запазите пълната си визитка за контакт в телефон.",
   "k": "vcard contact qr code generator vcard qr code generator",
@@ -46,7 +46,7 @@
  },
  {
   "n": "Генератор на имейл QR кодове",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/email-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/email-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Сканирайте, за да отворите предварително адресиран имейл, готов за изпращане.",
   "k": "email qr code generator email qr code generator",
@@ -55,7 +55,7 @@
  },
  {
   "n": "Генератор на SMS QR кодове",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/sms-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/sms-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Сканирайте, за да отворите предварително написано текстово съобщение.",
   "k": "sms qr code generator sms qr code generator",
@@ -64,7 +64,7 @@
  },
  {
   "n": "Генератор на QR кодове за телефонни обаждания",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/phone-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/phone-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Сканирайте, за да наберете номера си мигновено.",
   "k": "phone call qr code generator phone qr code generator",
@@ -73,7 +73,7 @@
  },
  {
   "n": "Генератор на Instagram QR кодове",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/instagram-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/instagram-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Увеличете последователите с Instagram QR код за сканиране и последване.",
   "k": "instagram qr code generator instagram qr code generator instagram qr",
@@ -82,7 +82,7 @@
  },
  {
   "n": "Генератор на QR кодове за Facebook",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/facebook-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/facebook-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Изпратете хората направо на страницата си във Facebook.",
   "k": "facebook qr code generator facebook qr code generator facebook",
@@ -91,7 +91,7 @@
  },
  {
   "n": "Генератор на QR кодове за YouTube",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/youtube-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/youtube-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Сканирайте, за да отворите видеоклип или канал мигновено.",
   "k": "youtube qr code generator youtube qr code generator",
@@ -100,7 +100,7 @@
  },
  {
   "n": "Генератор на QR кодове за TikTok",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/tiktok-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/tiktok-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Сканирайте, за да отворите профила си в TikTok.",
   "k": "tiktok qr code generator tiktok qr code generator tiktok",
@@ -109,7 +109,7 @@
  },
  {
   "n": "Генератор на QR кодове за X (Twitter)",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/x-twitter-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/x-twitter-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Сканирайте, за да отворите профила си в X.",
   "k": "x twitter qr code generator x twitter qr code generator x",
@@ -118,7 +118,7 @@
  },
  {
   "n": "Генератор на QR кодове за LinkedIn",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/linkedin-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/linkedin-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Свържете се професионално с едно сканиране.",
   "k": "linkedin qr code generator linkedin qr code generator",
@@ -127,7 +127,7 @@
  },
  {
   "n": "Генератор на QR кодове за Telegram",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/telegram-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/telegram-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Сканирайте, за да се присъедините към профила, групата или канала си в Telegram.",
   "k": "telegram qr code generator telegram qr code generator telegram",
@@ -136,7 +136,7 @@
  },
  {
   "n": "Генератор на QR кодове за Snapchat",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/snapchat-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/snapchat-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Сканирайте, за да ви добавят в Snapchat.",
   "k": "snapchat qr code generator snapchat qr code generator snapchat",
@@ -145,7 +145,7 @@
  },
  {
   "n": "Генератор на QR кодове за местоположение в Google Карти",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/google-maps-location-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/google-maps-location-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Сканирайте, за да получите упътване до мястото си.",
   "k": "google maps location qr code generator google maps location qr code generator",
@@ -154,7 +154,7 @@
  },
  {
   "n": "Генератор на QR кодове за отзиви в Google",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/google-review-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/google-review-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Доволните клиенти оставят отзив в Google за секунди.",
   "k": "google review qr code generator google review qr code generator google",
@@ -163,7 +163,7 @@
  },
  {
   "n": "Генератор на QR кодове за менюта на ресторанти",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/restaurant-menu-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/restaurant-menu-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Безконтактно меню на всяка маса.",
   "k": "restaurant menu qr code generator restaurant menu qr code generator",
@@ -172,7 +172,7 @@
  },
  {
   "n": "Генератор на PDF QR кодове",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/pdf-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/pdf-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Сканирайте, за да отворите или изтеглите PDF файл.",
   "k": "pdf qr code generator pdf qr code generator pdf",
@@ -181,7 +181,7 @@
  },
  {
   "n": "Генератор на QR кодове за App Store / Google Play",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/app-store-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/app-store-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Сканирайте, за да инсталирате приложението си.",
   "k": "app store google play qr code generator app store qr code generator",
@@ -190,7 +190,7 @@
  },
  {
   "n": "Генератор на QR кодове за Google Form",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/google-form-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/google-form-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Сканирайте, за да отворите и попълните Google Form.",
   "k": "google form qr code generator google form qr code generator google form",
@@ -199,7 +199,7 @@
  },
  {
   "n": "Генератор на QR кодове за Zoom / среща",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/zoom-meeting-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/zoom-meeting-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Сканирайте, за да се присъедините към среща или клас.",
   "k": "zoom meeting qr code generator zoom meeting qr code generator",
@@ -208,7 +208,7 @@
  },
  {
   "n": "Генератор на QR кодове за събитие / календар",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/event-calendar-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/event-calendar-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Сканирайте, за да запазите събитие в календара.",
   "k": "event calendar qr code generator event calendar qr code generator",
@@ -217,7 +217,7 @@
  },
  {
   "n": "Генератор на QR кодове за PayPal",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/paypal-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/paypal-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Получете плащане: сканирайте, за да отворите страницата си PayPal.me.",
   "k": "paypal qr code generator paypal qr code generator paypal me",
@@ -226,7 +226,7 @@
  },
  {
   "n": "Генератор на QR кодове за плащане UPI",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/upi-payment-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/upi-payment-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "UPI QR за плащане за магазини в Индия и регионите с UPI.",
   "k": "upi payment qr code generator upi payment qr code generator upi qr upi",
@@ -235,7 +235,7 @@
  },
  {
   "n": "Генератор на QR кодове за JazzCash / EasyPaisa (Пакистан)",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/jazzcash-easypaisa-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/jazzcash-easypaisa-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Споделете данните на акаунта си в JazzCash или EasyPaisa като QR код.",
   "k": "jazzcash easypaisa qr code pakistan generator jazzcash easypaisa qr code generator jazzcash easypaisa qr",
@@ -244,7 +244,7 @@
  },
  {
   "n": "Генератор на QR кодове за Bitcoin / крипто",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/bitcoin-crypto-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/bitcoin-crypto-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Споделете адрес на портфейл за Bitcoin като QR код.",
   "k": "bitcoin crypto qr code generator bitcoin crypto qr code generator bitcoin qr",
@@ -253,7 +253,7 @@
  },
  {
   "n": "Генератор на QR кодове за Spotify / музика",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/spotify-music-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/spotify-music-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Сканирайте, за да възпроизведете песен, плейлист или подкаст.",
   "k": "spotify music qr code generator spotify music qr code generator",
@@ -262,7 +262,7 @@
  },
  {
   "n": "Генератор на QR кодове за автобиографии / портфолиа",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/resume-portfolio-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/resume-portfolio-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Поставете автобиографията или портфолиото си на едно сканиране разстояние.",
   "k": "resume portfolio qr code generator resume portfolio qr code generator",
@@ -271,7 +271,7 @@
  },
  {
   "n": "Генератор на QR кодове за изображения",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/image-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/image-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Сканирайте, за да отворите или споделите снимка или връзка към изображение.",
   "k": "image qr code generator image qr code generator",
@@ -280,7 +280,7 @@
  },
  {
   "n": "Генератор на QR кодове за аудио",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/audio-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/audio-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Сканирайте, за да възпроизведете песен, гласова бележка или аудио файл.",
   "k": "audio qr code generator audio qr code generator",
@@ -289,7 +289,7 @@
  },
  {
   "n": "Генератор на QR кодове за социални медии",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/social-media-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/social-media-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Един QR код за връзките към профилите ви в социалните медии.",
   "k": "social media qr code generator social media qr code generator qr",
@@ -298,7 +298,7 @@
  },
  {
   "n": "Генератор на QR кодове за Pinterest",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/pinterest-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/pinterest-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Сканирайте, за да отворите профила или дъската си в Pinterest.",
   "k": "pinterest qr code generator pinterest qr code generator pinterest",
@@ -307,7 +307,7 @@
  },
  {
   "n": "Генератор на QR кодове за Discord",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/discord-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/discord-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Сканирайте, за да се присъедините към Discord сървъра или профила си.",
   "k": "discord qr code generator discord qr code generator discord",
@@ -316,7 +316,7 @@
  },
  {
   "n": "Генератор на QR кодове за GitHub",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/github-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/github-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Сканирайте, за да отворите профила или хранилището си в GitHub.",
   "k": "github qr code generator github qr code generator github",
@@ -325,7 +325,7 @@
  },
  {
   "n": "Скенер за QR кодове и баркодове",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/qr-code-scanner/",
+  "u": "https://qr.loonaautomation.com/bg/qr-code-scanner/",
   "s": "Loona QR Codes",
   "d": "Сканирайте кодове с камерата си, или декодирайте QR кодове и баркодове от снимка или екранна снимка.",
   "k": "qr code barcode scanner qr code scanner qr",
@@ -334,7 +334,7 @@
  },
  {
   "n": "Групов генератор на QR кодове",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/bulk-qr-code-generator/",
+  "u": "https://qr.loonaautomation.com/bg/bulk-qr-code-generator/",
   "s": "Loona QR Codes",
   "d": "Създайте до 100 етикетирани QR кода наведнъж в лист за печат.",
   "k": "bulk qr code generator bulk qr code generator 100 qr",
@@ -343,7 +343,7 @@
  },
  {
   "n": "Генератор на баркодове",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/barcode-generator/",
+  "u": "https://qr.loonaautomation.com/bg/barcode-generator/",
   "s": "Loona QR Codes",
   "d": "Създайте продуктови баркодове — Code 128, EAN-13, UPC и още.",
   "k": "barcode generator barcode generator създаите продуктови баркодове code 128 ean 13 upc и още",
@@ -352,7 +352,7 @@
  },
  {
   "n": "Всички инструменти на Loona — QR кодове",
-  "u": "https://loonaautomation.github.io/loona-qr-codes/bg/tool-qr-codes/",
+  "u": "https://qr.loonaautomation.com/bg/tool-qr-codes/",
   "s": "Loona QR Codes",
   "d": "Вземете готов QR код за всеки инструмент на Loona — калкулатори, PDF инструменти, инструменти за изображения и още. Търсете във всички 872 инструмента и приложения на Loona, изтеглете QR кода и го отпечатайте.",
   "k": "qr codes for all loona tools tool qr codes вземете готов qr код за всеки инструмент на loona калкулатори pdf инструменти инструменти за изображения и още търсете във всички 872 инструмента и приложения на loona изтеглете qr кода и го отпечатаите",

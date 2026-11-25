@@ -2,7 +2,7 @@
   "name": "Loona Google Forms -QR-koodigeneraattori",
   "short_name": "Google Forms -QR-koodigeneraattori",
   "description": "Luo ilmainen Google Forms -QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Skannaa avataksesi ja täyttääksesi Google Forms -lomakkeen. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/google-form-qr-code-generator/",
+  "id": "/fi/google-form-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR LinkedIn",
   "short_name": "Γεννήτρια Κωδικού QR LinkedIn",
   "description": "Δημιουργήστε έναν δωρεάν Κωδικό QR LinkedIn αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Συνδεθείτε επαγγελματικά με μία σάρωση. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/linkedin-qr-code-generator/",
+  "id": "/el/linkedin-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

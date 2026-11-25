@@ -2,7 +2,7 @@
   "name": "Loona Generador de códigos de barras Data Matrix",
   "short_name": "Generador de códigos de barras Data Matrix",
   "description": "Generador de códigos de barras Data Matrix gratuito. Dígitos de control correctos donde el estándar los tiene, descarga en PNG y SVG, sin registro, sin marca de agua.",
-  "id": "/loona-qr-codes/es/data-matrix-code-generator/",
+  "id": "/es/data-matrix-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

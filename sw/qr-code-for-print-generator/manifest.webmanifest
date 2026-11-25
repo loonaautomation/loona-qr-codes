@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Tayari Kuchapishwa cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wa Tayari Kuchapishwa",
   "description": "Tengeneza msimbo wa QR wa Tayari Kuchapishwa wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/qr-code-for-print-generator/",
+  "id": "/sw/qr-code-for-print-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

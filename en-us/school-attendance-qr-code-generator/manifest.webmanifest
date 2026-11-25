@@ -2,7 +2,7 @@
   "name": "Loona Free School Attendance & Forms QR Code Generator",
   "short_name": "Free School Attendance & Forms QR Code Generator",
   "description": "Create a free School Attendance & Forms QR code instantly with Loona. No signup, no watermark, never expires. Custom colors, high-resolution PNG download.",
-  "id": "/loona-qr-codes/en-us/school-attendance-qr-code-generator/",
+  "id": "/en-us/school-attendance-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

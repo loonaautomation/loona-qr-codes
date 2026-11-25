@@ -2,7 +2,7 @@
   "name": "Loona ソーシャルメディア QRコード生成ツール",
   "short_name": "ソーシャルメディア QRコード生成ツール",
   "description": "Loona で無料のソーシャルメディア QRコードを即座に作成。登録不要、透かしなし、無期限。プラットフォームを選び、ユーザー名を追加すれば、一度のスキャンでプロフィールが開きます。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/social-media-qr-code-generator/",
+  "id": "/ja/social-media-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

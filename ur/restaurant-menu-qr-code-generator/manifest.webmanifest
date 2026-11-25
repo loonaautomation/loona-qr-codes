@@ -2,7 +2,7 @@
   "name": "Loona Restaurant Menu QR Code Generator",
   "short_name": "Restaurant Menu QR Code",
   "description": "Loona کے ساتھ مفت Restaurant Menu QR Code فوراً بنائیں۔ کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، کبھی ختم نہیں ہوتا۔ ہر میز پر بغیر رابطے مینو۔ حسبِ پسند رنگ، ہائی ریزولوشن PNG ڈاؤن لوڈ۔",
-  "id": "/loona-qr-codes/ur/restaurant-menu-qr-code-generator/",
+  "id": "/ur/restaurant-menu-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

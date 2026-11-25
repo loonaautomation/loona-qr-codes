@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR YouTube",
   "short_name": "Γεννήτρια Κωδικού QR YouTube",
   "description": "Δημιουργήστε έναν δωρεάν Κωδικό QR YouTube αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Σαρώστε για να ανοίξετε ένα βίντεο ή κανάλι αμέσως. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/youtube-qr-code-generator/",
+  "id": "/el/youtube-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

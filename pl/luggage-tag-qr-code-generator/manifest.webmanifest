@@ -2,7 +2,7 @@
   "name": "Generator kodów QR przywieszek bagażowych Loona",
   "short_name": "Generator kodów QR przywieszek bagażowych",
   "description": "Utwórz darmowy kod QR przywieszki bagażowej błyskawicznie z Loona. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa. Kolory niestandardowe, pobieranie PNG w wysokiej rozdzielczości.",
-  "id": "/loona-qr-codes/pl/luggage-tag-qr-code-generator/",
+  "id": "/pl/luggage-tag-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "เครื่องสร้างบาร์โค้ด EAN-13 ของ Loona",
   "short_name": "เครื่องสร้างบาร์โค้ด EAN-13",
   "description": "เครื่องสร้างบาร์โค้ด EAN-13 ฟรี เลขตรวจสอบที่ถูกต้องในที่ที่มาตรฐานมีให้ ดาวน์โหลด PNG และ SVG ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ",
-  "id": "/loona-qr-codes/th/ean-13-barcode-generator/",
+  "id": "/th/ean-13-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

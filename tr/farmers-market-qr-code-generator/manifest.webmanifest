@@ -2,7 +2,7 @@
   "name": "Loona Çiftçi Pazarı Tezgahı QR Kod Oluşturucu",
   "short_name": "Çiftçi Pazarı Tezgahı QR Kodu",
   "description": "Loona ile anında ücretsiz bir Çiftçi Pazarı Tezgahı QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/farmers-market-qr-code-generator/",
+  "id": "/tr/farmers-market-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

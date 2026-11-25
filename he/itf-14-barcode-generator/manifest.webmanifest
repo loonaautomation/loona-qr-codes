@@ -2,7 +2,7 @@
   "name": "מחולל ברקוד ITF-14 של Loona",
   "short_name": "מחולל ברקוד ITF-14",
   "description": "מחולל ברקוד ITF-14 חינמי. ספרות ביקורת נכונות היכן שהתקן כולל אותן, הורדת PNG ו-SVG, ללא הרשמה, ללא סימן מים.",
-  "id": "/loona-qr-codes/he/itf-14-barcode-generator/",
+  "id": "/he/itf-14-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

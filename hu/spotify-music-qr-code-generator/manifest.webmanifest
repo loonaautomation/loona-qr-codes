@@ -2,7 +2,7 @@
   "name": "Loona Spotify / Zene QR-kód generátor",
   "short_name": "Spotify / Zene QR-kód",
   "description": "Hozzon létre ingyenes Spotify / zene QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Olvassa be dal, lejátszási lista vagy podcast lejátszásához. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/spotify-music-qr-code-generator/",
+  "id": "/hu/spotify-music-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

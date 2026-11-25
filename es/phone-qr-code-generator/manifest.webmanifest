@@ -2,7 +2,7 @@
   "name": "Loona Generador de códigos QR de llamada telefónica",
   "short_name": "Generador de códigos QR de llamada telefónica",
   "description": "Crea un código QR de llamada telefónica gratuito al instante con Loona. Sin registro, sin marca de agua, nunca caduca. Escanea para marcar tu número al instante. Colores personalizados, descarga de PNG en alta resolución.",
-  "id": "/loona-qr-codes/es/phone-qr-code-generator/",
+  "id": "/es/phone-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

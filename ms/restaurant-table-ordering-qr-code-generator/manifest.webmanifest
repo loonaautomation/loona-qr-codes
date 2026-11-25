@@ -2,7 +2,7 @@
   "name": "Kod QR Pesanan Meja Restoran Loona",
   "short_name": "QR Pesanan Meja Restoran",
   "description": "Cipta kod Pesanan Meja Restoran percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/restaurant-table-ordering-qr-code-generator/",
+  "id": "/ms/restaurant-table-ordering-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

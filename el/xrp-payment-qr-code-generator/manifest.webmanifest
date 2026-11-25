@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Πληρωμής XRP",
   "short_name": "Γεννήτρια Κωδικού QR Πληρωμής XRP",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Πληρωμής XRP αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/xrp-payment-qr-code-generator/",
+  "id": "/el/xrp-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

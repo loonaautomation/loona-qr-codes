@@ -2,7 +2,7 @@
   "name": "Loona Interleaved 2 of 5-barcodegenerator",
   "short_name": "Interleaved 2 of 5-barcode",
   "description": "Gratis Interleaved 2 of 5-barcodegenerator. Juiste controlecijfers waar de standaard ze heeft, PNG- en SVG-download, geen registratie, geen watermerk.",
-  "id": "/loona-qr-codes/nl/interleaved-2-of-5-barcode-generator/",
+  "id": "/nl/interleaved-2-of-5-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

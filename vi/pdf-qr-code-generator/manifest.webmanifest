@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR PDF Loona",
   "short_name": "Trình tạo mã QR PDF",
   "description": "Tạo mã QR PDF miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Quét để mở hoặc tải xuống tệp PDF. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/pdf-qr-code-generator/",
+  "id": "/vi/pdf-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

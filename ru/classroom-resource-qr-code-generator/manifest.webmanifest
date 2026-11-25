@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодов ресурсов для класса",
   "short_name": "QR-код ресурса для класса",
   "description": "Создайте бесплатный QR-код ресурса для класса мгновенно с Loona. Без регистрации, без водяного знака, никогда не истекает. Настраиваемые цвета, скачивание PNG в высоком разрешении.",
-  "id": "/loona-qr-codes/ru/classroom-resource-qr-code-generator/",
+  "id": "/ru/classroom-resource-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

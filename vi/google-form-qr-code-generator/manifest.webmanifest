@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Google Form Loona",
   "short_name": "Trình tạo mã QR Google Form",
   "description": "Tạo mã QR Google Form miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Quét để mở và điền một Google Form. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/google-form-qr-code-generator/",
+  "id": "/vi/google-form-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

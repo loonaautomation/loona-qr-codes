@@ -2,7 +2,7 @@
   "name": "Loona Tömeges QR-kód generátor",
   "short_name": "Tömeges QR-kód generátor",
   "description": "Hozzon létre legfeljebb 100 QR-kódot egyszerre, ingyen: illesszen be listát vagy töltsön fel linkek és szövegek CSV-jét, és kapjon címkézett, nyomtatható QR-kód-lapot. Nincs regisztráció, nincs vízjel, soha nem jár le, 100%-ban privát a böngészőjében.",
-  "id": "/loona-qr-codes/hu/bulk-qr-code-generator/",
+  "id": "/hu/bulk-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

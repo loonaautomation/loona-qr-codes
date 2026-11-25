@@ -2,7 +2,7 @@
   "name": "Loona Generador de códigos QR de contacto MeCard",
   "short_name": "Código QR de contacto MeCard",
   "description": "Crea un código QR de contacto MeCard gratuito al instante con Loona. Sin registro, sin marca de agua, nunca caduca. Colores personalizados, descarga de PNG en alta resolución.",
-  "id": "/loona-qr-codes/es/mecard-qr-code-generator/",
+  "id": "/es/mecard-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Penjana Kod Bar Codabar Loona",
   "short_name": "Penjana Kod Bar Codabar",
   "description": "Penjana kod bar Codabar percuma. Digit semak betul di mana standard mempunyainya, muat turun PNG dan SVG, tiada pendaftaran, tiada tera air.",
-  "id": "/loona-qr-codes/ms/codabar-barcode-generator/",
+  "id": "/ms/codabar-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

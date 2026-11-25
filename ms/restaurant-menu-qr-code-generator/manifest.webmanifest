@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Menu Restoran Loona",
   "short_name": "Kod QR Menu Restoran",
   "description": "Cipta kod QR Menu Restoran percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Menu tanpa sentuh pada setiap meja. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/restaurant-menu-qr-code-generator/",
+  "id": "/ms/restaurant-menu-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

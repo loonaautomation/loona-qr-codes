@@ -2,7 +2,7 @@
   "name": "Generátor QR kódů připravených k tisku Loona",
   "short_name": "Generátor QR kódů připravených k tisku",
   "description": "Vytvořte si zdarma QR kód připravený k tisku okamžitě s Loonou. Bez registrace, bez vodoznaku, nikdy nevyprší. Vlastní barvy, stažení PNG ve vysokém rozlišení.",
-  "id": "/loona-qr-codes/cs/qr-code-for-print-generator/",
+  "id": "/cs/qr-code-for-print-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

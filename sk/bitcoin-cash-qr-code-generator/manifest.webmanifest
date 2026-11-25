@@ -2,7 +2,7 @@
   "name": "Generátor platobných QR kódov Bitcoin Cash Loona",
   "short_name": "Platobný QR kód Bitcoin Cash",
   "description": "Vytvorte si zadarmo platobný QR kód Bitcoin Cash okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
-  "id": "/loona-qr-codes/sk/bitcoin-cash-qr-code-generator/",
+  "id": "/sk/bitcoin-cash-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Esemény / Naptár QR-kód generátor",
   "short_name": "Esemény / naptár QR-kód",
   "description": "Hozzon létre ingyenes esemény / naptár QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Olvassa be esemény naptárba mentéséhez. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/event-calendar-qr-code-generator/",
+  "id": "/hu/event-calendar-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator for Pinterest",
   "short_name": "QR-kodegenerator for Pinterest",
   "description": "Lag en gratis Pinterest-QR-kode med en gang med Loona. Ingen registrering, ingen vannmerke, utløper aldri. Skann for å åpne en Pinterest-profil eller -tavle. Tilpassede farger, nedlasting av PNG i høy oppløsning.",
-  "id": "/loona-qr-codes/nb/pinterest-qr-code-generator/",
+  "id": "/nb/pinterest-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

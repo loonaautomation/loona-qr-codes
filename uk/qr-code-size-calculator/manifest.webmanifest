@@ -2,7 +2,7 @@
   "name": "Loona Калькулятор розміру QR-коду",
   "short_name": "Калькулятор розміру QR-коду",
   "description": "Безкоштовний калькулятор розміру QR-коду: введіть відстань сканування й тип вмісту, щоб отримати мінімальний розмір друку в cm, рекомендовану роздільну здатність PNG і ширину тихої зони.",
-  "id": "/loona-qr-codes/uk/qr-code-size-calculator/",
+  "id": "/uk/qr-code-size-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

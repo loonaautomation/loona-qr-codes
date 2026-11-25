@@ -2,7 +2,7 @@
   "name": "Loona TikTok 二維碼生成器",
   "short_name": "TikTok 二維碼生成器",
   "description": "用 Loona 立即建立一個免費的 TikTok 二維碼。無需註冊，無水印，永不過期。掃碼開啟您的 TikTok 個人資料。自定義顏色，高解析度 PNG 下載。",
-  "id": "/loona-qr-codes/zh-hant/tiktok-qr-code-generator/",
+  "id": "/zh-hant/tiktok-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

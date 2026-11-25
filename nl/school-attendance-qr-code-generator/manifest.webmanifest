@@ -2,7 +2,7 @@
   "name": "Loona schoolaanwezigheid- en formulieren-QR-code",
   "short_name": "Schoolaanwezigheid- en formulieren-QR",
   "description": "Maak direct een gratis schoolaanwezigheid- en formulieren-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/school-attendance-qr-code-generator/",
+  "id": "/nl/school-attendance-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Generator de coduri QR Facebook",
   "short_name": "Generator de coduri QR Facebook",
   "description": "Creează gratuit un cod QR Facebook instantaneu cu Loona. Fără înregistrare, fără filigran, nu expiră niciodată. Trimite oamenii direct la pagina ta de Facebook. Culori personalizate, descărcare PNG la rezoluție înaltă.",
-  "id": "/loona-qr-codes/ro/facebook-qr-code-generator/",
+  "id": "/ro/facebook-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

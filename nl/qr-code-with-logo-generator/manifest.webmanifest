@@ -2,7 +2,7 @@
   "name": "Loona QR-code-met-logo-generator",
   "short_name": "QR-code-met-logo-generator",
   "description": "Gratis QR-code-met-logo-generator: voeg je logo toe aan het midden van een QR-code op foutcorrectieniveau H, aangepaste kleuren, 1024px PNG-download, geen watermerk.",
-  "id": "/loona-qr-codes/nl/qr-code-with-logo-generator/",
+  "id": "/nl/qr-code-with-logo-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

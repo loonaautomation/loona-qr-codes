@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Instagram Loona",
   "short_name": "Trình tạo mã QR Instagram",
   "description": "Tạo mã QR Instagram miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Tăng người theo dõi bằng mã QR Instagram quét để theo dõi. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/instagram-qr-code-generator/",
+  "id": "/vi/instagram-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

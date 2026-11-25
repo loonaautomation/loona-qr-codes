@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona לביקורת Google",
   "short_name": "קוד QR לביקורת Google",
   "description": "צרו קוד QR חינמי של ביקורת Google מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. לקוחות מרוצים משאירים ביקורת Google בתוך שניות. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/google-review-qr-code-generator/",
+  "id": "/he/google-review-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

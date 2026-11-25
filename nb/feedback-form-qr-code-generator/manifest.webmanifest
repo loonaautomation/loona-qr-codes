@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator for tilbakemeldingsskjema",
   "short_name": "QR-kode for tilbakemeldingsskjema",
   "description": "Lag en gratis QR-kode for tilbakemeldingsskjema med en gang med Loona. Ingen registrering, ingen vannmerke, utløper aldri. Tilpassede farger, nedlasting av PNG i høy oppløsning.",
-  "id": "/loona-qr-codes/nb/feedback-form-qr-code-generator/",
+  "id": "/nb/feedback-form-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

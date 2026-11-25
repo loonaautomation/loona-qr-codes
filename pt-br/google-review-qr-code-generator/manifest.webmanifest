@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Códigos QR de Avaliação Google",
   "short_name": "Código QR de Avaliação Google",
   "description": "Crie um Código QR de Avaliação Google grátis instantaneamente com a Loona. Sem registro, sem marca de água, nunca expira. Os clientes satisfeitos deixam uma avaliação no Google em segundos. Cores personalizadas, transferência PNG em alta resolução.",
-  "id": "/loona-qr-codes/pt-br/google-review-qr-code-generator/",
+  "id": "/pt-br/google-review-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

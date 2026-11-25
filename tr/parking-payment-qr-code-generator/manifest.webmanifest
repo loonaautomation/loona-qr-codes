@@ -2,7 +2,7 @@
   "name": "Loona Park Ödeme QR Kod Oluşturucu",
   "short_name": "Park Ödeme QR Kodu",
   "description": "Loona ile anında ücretsiz bir Park Ödeme QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/parking-payment-qr-code-generator/",
+  "id": "/tr/parking-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Generator kodów QR WiFi Loona",
   "short_name": "Generator kodów QR WiFi",
   "description": "Utwórz darmowy kod QR WiFi błyskawicznie z Loona. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa. Goście łączą się z WiFi jednym skanowaniem, bez wpisywania hasła. Kolory niestandardowe, pobieranie PNG w wysokiej rozdzielczości.",
-  "id": "/loona-qr-codes/pl/wifi-qr-code-generator/",
+  "id": "/pl/wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

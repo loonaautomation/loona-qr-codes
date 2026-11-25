@@ -2,7 +2,7 @@
   "name": "Loona WiFi-QR-kodgenerator",
   "short_name": "WiFi-QR-kodgenerator",
   "description": "Skapa direkt en gratis WiFi-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Gäster ansluter till WiFi med en skanning, utan att skriva lösenord. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/wifi-qr-code-generator/",
+  "id": "/sv/wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

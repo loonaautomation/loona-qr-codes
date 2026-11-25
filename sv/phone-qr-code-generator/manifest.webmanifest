@@ -2,7 +2,7 @@
   "name": "Loona telefonsamtal-QR-kodgenerator",
   "short_name": "Telefonsamtal-QR-kodgenerator",
   "description": "Skapa direkt en gratis telefonsamtal-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Skanna för att ringa ditt nummer direkt. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/phone-qr-code-generator/",
+  "id": "/sv/phone-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

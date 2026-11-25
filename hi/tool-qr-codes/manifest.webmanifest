@@ -2,7 +2,7 @@
   "name": "सभी Loona टूलों के लिए Loona QR Codes",
   "short_name": "सभी Loona टूलों के लिए QR कोड",
   "description": "किसी भी Loona टूल के लिए एक मुफ़्त तैयार QR कोड पाएँ — 872 कैलकुलेटर, PDF टूल, छवि टूल, अध्ययन टूल और ऐप। एक टूल चुनें, उसका QR कोड उच्च-रिज़ॉल्यूशन PNG के रूप में डाउनलोड करें और प्रिंट करें। कोई साइन-अप नहीं, कोई वॉटरमार्क नहीं, कभी समाप्त नहीं होता।",
-  "id": "/loona-qr-codes/hi/tool-qr-codes/",
+  "id": "/hi/tool-qr-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

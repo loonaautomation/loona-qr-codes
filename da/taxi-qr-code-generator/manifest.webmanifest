@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til taxi og køreture",
   "short_name": "QR-kodegenerator til taxi og køreture",
   "description": "Opret en gratis taxi- og køreturs-QR-kode øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/taxi-qr-code-generator/",
+  "id": "/da/taxi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

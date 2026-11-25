@@ -2,7 +2,7 @@
   "name": "Loona producthandleiding- en instructies-QR-code",
   "short_name": "Producthandleiding en instructies",
   "description": "Maak direct een gratis producthandleiding- en instructies-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/product-manual-qr-code-generator/",
+  "id": "/nl/product-manual-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona evenemang-/kalender-QR-kodgenerator",
   "short_name": "Evenemang-/kalender-QR-kod",
   "description": "Skapa direkt en gratis evenemang-/kalender-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Skanna för att spara ett evenemang i kalendern. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/event-calendar-qr-code-generator/",
+  "id": "/sv/event-calendar-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

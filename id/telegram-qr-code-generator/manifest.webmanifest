@@ -2,7 +2,7 @@
   "name": "Generator Kode QR Telegram Loona",
   "short_name": "Generator Kode QR Telegram",
   "description": "Buat Kode QR Telegram gratis secara instan dengan Loona. Tanpa pendaftaran, tanpa watermark, tidak pernah kedaluwarsa. Pindai untuk bergabung ke profil, grup, atau kanal Telegram Anda. Warna kustom, unduhan PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/id/telegram-qr-code-generator/",
+  "id": "/id/telegram-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

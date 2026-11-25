@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator for Spotify / musikk",
   "short_name": "QR-kode for Spotify / musikk",
   "description": "Lag en gratis Spotify-/musikk-QR-kode med en gang med Loona. Ingen registrering, ingen vannmerke, utløper aldri. Skann for å spille av en sang, spilleliste eller podkast. Tilpassede farger, nedlasting av PNG i høy oppløsning.",
-  "id": "/loona-qr-codes/nb/spotify-music-qr-code-generator/",
+  "id": "/nb/spotify-music-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

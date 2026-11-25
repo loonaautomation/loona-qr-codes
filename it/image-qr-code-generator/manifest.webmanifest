@@ -2,7 +2,7 @@
   "name": "Loona — Generatore di codici QR per immagini",
   "short_name": "Generatore di codici QR per immagini",
   "description": "Crea all’istante un codice QR per immagini gratuito con Loona. Nessuna registrazione, nessuna filigrana, non scade mai. Scansiona per aprire una foto, un poster, un’immagine di menu o un’immagine di prodotto. Colori personalizzati, download PNG ad alta risoluzione.",
-  "id": "/loona-qr-codes/it/image-qr-code-generator/",
+  "id": "/it/image-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

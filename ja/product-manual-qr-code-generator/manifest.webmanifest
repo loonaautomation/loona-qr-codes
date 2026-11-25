@@ -2,7 +2,7 @@
   "name": "Loona 製品マニュアル＆説明書 QRコード",
   "short_name": "製品マニュアル＆説明書",
   "description": "Loona で無料の製品マニュアル＆説明書 QRコードを即座に作成。登録不要、透かしなし、無期限。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/product-manual-qr-code-generator/",
+  "id": "/ja/product-manual-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

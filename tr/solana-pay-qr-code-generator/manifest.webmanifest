@@ -2,7 +2,7 @@
   "name": "Loona Solana Pay QR Kod Oluşturucu",
   "short_name": "Solana Pay QR Kod Oluşturucu",
   "description": "Loona ile anında ücretsiz bir Solana Pay QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/solana-pay-qr-code-generator/",
+  "id": "/tr/solana-pay-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

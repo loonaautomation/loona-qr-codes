@@ -2,7 +2,7 @@
   "name": "Generátor QR kódů pro menu restaurace Loona",
   "short_name": "QR kód pro menu restaurace",
   "description": "Vytvořte si zdarma QR kód pro menu restaurace okamžitě s Loonou. Bez registrace, bez vodoznaku, nikdy nevyprší. Bezkontaktní menu na každém stole. Vlastní barvy, stažení PNG ve vysokém rozlišení.",
-  "id": "/loona-qr-codes/cs/restaurant-menu-qr-code-generator/",
+  "id": "/cs/restaurant-menu-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Muzium & Panduan Pelancongan Loona",
   "short_name": "Kod QR Muzium & Panduan Pelancongan",
   "description": "Cipta kod Muzium & Panduan Pelancongan percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/museum-tour-qr-code-generator/",
+  "id": "/ms/museum-tour-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

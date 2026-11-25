@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодів бирок для багажу",
   "short_name": "Генератор QR-кодів бирок для багажу",
   "description": "Створіть безкоштовний QR-код бирки для багажу миттєво з Loona. Без реєстрації, без водяного знака, строк дії ніколи не закінчується. Користувацькі кольори, завантаження PNG у високій роздільній здатності.",
-  "id": "/loona-qr-codes/uk/luggage-tag-qr-code-generator/",
+  "id": "/uk/luggage-tag-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

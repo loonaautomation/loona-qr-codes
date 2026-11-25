@@ -2,7 +2,7 @@
   "name": "Kod QR WiFi Hotel & Tetamu Hotel & Tetamu Loona",
   "short_name": "Hotel & Tetamu Hotel & Tetamu",
   "description": "Cipta kod WiFi Hotel & Tetamu percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/hotel-wifi-qr-code-generator/",
+  "id": "/ms/hotel-wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

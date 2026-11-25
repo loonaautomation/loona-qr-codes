@@ -2,7 +2,7 @@
   "name": "Loona tvåfaktorsautentisering (TOTP)-QR-kod",
   "short_name": "Tvåfaktorsautentisering",
   "description": "Skapa direkt en gratis tvåfaktorsautentisering (TOTP)-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/two-factor-authentication-qr-code-generator/",
+  "id": "/sv/two-factor-authentication-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

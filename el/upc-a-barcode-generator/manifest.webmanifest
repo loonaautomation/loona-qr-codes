@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Barcode UPC-A",
   "short_name": "Γεννήτρια Barcode UPC-A",
   "description": "Δωρεάν γεννήτρια γραμμωτού κωδικού UPC-A. Σωστά ψηφία ελέγχου όπου το πρότυπο τα έχει, λήψη PNG και SVG, χωρίς εγγραφή, χωρίς υδατογράφημα.",
-  "id": "/loona-qr-codes/el/upc-a-barcode-generator/",
+  "id": "/el/upc-a-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

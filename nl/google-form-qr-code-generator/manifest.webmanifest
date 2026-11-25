@@ -2,7 +2,7 @@
   "name": "Loona Google Formulier-QR-codegenerator",
   "short_name": "Google Formulier-QR-codegenerator",
   "description": "Maak direct een gratis Google Formulier-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Scan om een Google-formulier te openen en in te vullen. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/google-form-qr-code-generator/",
+  "id": "/nl/google-form-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

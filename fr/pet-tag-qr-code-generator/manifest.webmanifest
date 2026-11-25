@@ -2,7 +2,7 @@
   "name": "Loona Générateur de code QR Étiquette d’identification d’animal",
   "short_name": "Générateur de code QR Étiquette d’identification d’animal",
   "description": "Créez un code QR Étiquette d’identification d’animal gratuit instantanément avec Loona. Aucune inscription, aucun filigrane, n’expire jamais. Couleurs personnalisées, téléchargement PNG haute résolution.",
-  "id": "/loona-qr-codes/fr/pet-tag-qr-code-generator/",
+  "id": "/fr/pet-tag-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

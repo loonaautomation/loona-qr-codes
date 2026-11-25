@@ -2,7 +2,7 @@
   "name": "Генератор на QR кодове за визитки на Loona",
   "short_name": "QR код за визитка",
   "description": "Създайте безплатен QR код за визитка мигновено с Loona. Без регистрация, без воден знак, никога не изтича. Персонализирани цветове, изтегляне на PNG с висока разделителна способност.",
-  "id": "/loona-qr-codes/bg/business-card-qr-code-generator/",
+  "id": "/bg/business-card-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

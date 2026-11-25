@@ -2,7 +2,7 @@
   "name": "Loona Zoom / ミーティング QRコード生成ツール",
   "short_name": "Zoom / ミーティング QRコード",
   "description": "Loona で無料の Zoom / ミーティング QRコードを即座に作成。登録不要、透かしなし、無期限。スキャンして会議やクラスに参加。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/zoom-meeting-qr-code-generator/",
+  "id": "/ja/zoom-meeting-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Generator de coduri QR pentru plăți Ethereum",
   "short_name": "Cod QR pentru plăți Ethereum",
   "description": "Creează gratuit un cod QR pentru plăți Ethereum instantaneu cu Loona. Fără înregistrare, fără filigran, nu expiră niciodată. Culori personalizate, descărcare PNG la rezoluție înaltă.",
-  "id": "/loona-qr-codes/ro/ethereum-payment-qr-code-generator/",
+  "id": "/ro/ethereum-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

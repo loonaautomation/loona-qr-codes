@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za kod spreman za ispis",
   "short_name": "Generator QR kodova spremnih za ispis",
   "description": "Stvorite besplatni QR kod spreman za ispis trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/qr-code-for-print-generator/",
+  "id": "/hr/qr-code-for-print-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

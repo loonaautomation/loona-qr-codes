@@ -2,7 +2,7 @@
   "name": "Loona Générateur de code QR Taxi et Trajet",
   "short_name": "Générateur de code QR Taxi et Trajet",
   "description": "Créez un code QR Taxi et Trajet gratuit instantanément avec Loona. Aucune inscription, aucun filigrane, n’expire jamais. Couleurs personnalisées, téléchargement PNG haute résolution.",
-  "id": "/loona-qr-codes/fr/taxi-qr-code-generator/",
+  "id": "/fr/taxi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

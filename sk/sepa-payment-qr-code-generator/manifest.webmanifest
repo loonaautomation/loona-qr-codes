@@ -2,7 +2,7 @@
   "name": "Loona Generátor QR kódov pre platbu SEPA (EPC)",
   "short_name": "QR kód pre platbu SEPA (EPC)",
   "description": "Vytvorte si zadarmo platobný QR kód SEPA (EPC) okamžite s Loonou. Bez registrácie, bez vodoznaku, nikdy neexspiruje. Vlastné farby, stiahnutie PNG vo vysokom rozlíšení.",
-  "id": "/loona-qr-codes/sk/sepa-payment-qr-code-generator/",
+  "id": "/sk/sepa-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

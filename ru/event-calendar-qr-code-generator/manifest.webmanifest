@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодов событий / календаря",
   "short_name": "QR-код события / календаря",
   "description": "Создайте бесплатный QR-код Event / Calendar мгновенно с Loona. Без регистрации, без водяного знака, никогда не истекает. Сканируйте, чтобы сохранить событие в календарь. Настраиваемые цвета, скачивание PNG в высоком разрешении.",
-  "id": "/loona-qr-codes/ru/event-calendar-qr-code-generator/",
+  "id": "/ru/event-calendar-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

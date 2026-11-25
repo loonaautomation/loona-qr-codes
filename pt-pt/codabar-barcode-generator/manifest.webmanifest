@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Códigos de Barras Codabar",
   "short_name": "Gerador de Códigos de Barras Codabar",
   "description": "Gerador de códigos de barras Codabar gratuito. Dígitos de controlo corretos onde a norma os tem, transferência PNG e SVG, sem registo, sem marca de água.",
-  "id": "/loona-qr-codes/pt-pt/codabar-barcode-generator/",
+  "id": "/pt-pt/codabar-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

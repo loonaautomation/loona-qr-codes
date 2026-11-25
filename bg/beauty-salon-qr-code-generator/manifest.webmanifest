@@ -2,7 +2,7 @@
   "name": "Генератор на QR кодове за салон за красота на Loona",
   "short_name": "Генератор на QR кодове за салон за красота",
   "description": "Създайте безплатен QR код за салон за красота мигновено с Loona. Без регистрация, без воден знак, никога не изтича. Персонализирани цветове, изтегляне на PNG с висока разделителна способност.",
-  "id": "/loona-qr-codes/bg/beauty-salon-qr-code-generator/",
+  "id": "/bg/beauty-salon-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

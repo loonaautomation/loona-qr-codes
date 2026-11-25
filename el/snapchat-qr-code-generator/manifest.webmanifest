@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Snapchat",
   "short_name": "Γεννήτρια Κωδικού QR Snapchat",
   "description": "Δημιουργήστε έναν δωρεάν Κωδικό QR Snapchat αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Σαρώστε για να σας προσθέσουν στο Snapchat. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/snapchat-qr-code-generator/",
+  "id": "/el/snapchat-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

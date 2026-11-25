@@ -2,7 +2,7 @@
   "name": "Loona 学校の出席＆フォーム QRコード",
   "short_name": "学校の出席＆フォーム QR",
   "description": "Loona で無料の学校の出席＆フォーム QRコードを即座に作成。登録不要、透かしなし、無期限。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/school-attendance-qr-code-generator/",
+  "id": "/ja/school-attendance-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona afbeeldings-QR-codegenerator",
   "short_name": "Afbeeldings-QR-codegenerator",
   "description": "Maak direct een gratis afbeeldings-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Scan om een foto, poster, menuafbeelding of productfoto te openen. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/image-qr-code-generator/",
+  "id": "/nl/image-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

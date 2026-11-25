@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Kibanda cha Soko la Wakulima cha Loona",
   "short_name": "Msimbo wa QR wa Kibanda cha Soko la Wakulima",
   "description": "Tengeneza msimbo wa QR wa Kibanda cha Soko la Wakulima wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/farmers-market-qr-code-generator/",
+  "id": "/sw/farmers-market-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

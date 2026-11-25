@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Discord cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wa Discord",
   "description": "Tengeneza Msimbo wa QR wa Discord wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Changanua ili kujiunga na seva ya Discord kwa kiungo cha mwaliko. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/discord-qr-code-generator/",
+  "id": "/sw/discord-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

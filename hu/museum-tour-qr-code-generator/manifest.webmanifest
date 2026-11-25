@@ -2,7 +2,7 @@
   "name": "Loona Múzeum és Idegenvezető QR-kód generátor",
   "short_name": "Múzeum és Idegenvezető QR-kód",
   "description": "Hozzon létre ingyenes múzeum és idegenvezető QR-kódot azonnal a Loonával. Nincs regisztráció, nincs vízjel, soha nem jár le. Egyéni színek, nagy felbontású PNG-letöltés.",
-  "id": "/loona-qr-codes/hu/museum-tour-qr-code-generator/",
+  "id": "/hu/museum-tour-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

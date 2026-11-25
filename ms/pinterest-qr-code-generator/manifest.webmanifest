@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Pinterest Loona",
   "short_name": "Penjana Kod QR Pinterest",
   "description": "Cipta kod QR Pinterest percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Imbas untuk membuka profil atau papan Pinterest. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/pinterest-qr-code-generator/",
+  "id": "/ms/pinterest-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

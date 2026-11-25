@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Barcode Code 39",
   "short_name": "Γεννήτρια Γραμμωτού Κωδικού Code 39",
   "description": "Δωρεάν γεννήτρια γραμμωτού κωδικού Code 39. Σωστά ψηφία ελέγχου όπου το πρότυπο τα έχει, λήψη PNG και SVG, χωρίς εγγραφή, χωρίς υδατογράφημα.",
-  "id": "/loona-qr-codes/el/code-39-barcode-generator/",
+  "id": "/el/code-39-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

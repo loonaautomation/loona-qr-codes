@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wenye Nembo cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wenye Nembo",
   "description": "Kizalishaji cha bure cha msimbo wa QR wenye nembo: ongeza nembo yako katikati ya msimbo wa QR katika kiwango cha kurekebisha makosa H, rangi maalum, upakuaji wa PNG wa 1024px, hakuna alama ya maji.",
-  "id": "/loona-qr-codes/sw/qr-code-with-logo-generator/",
+  "id": "/sw/qr-code-with-logo-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

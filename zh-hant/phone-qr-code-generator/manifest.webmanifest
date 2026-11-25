@@ -2,7 +2,7 @@
   "name": "Loona 電話二維碼生成器",
   "short_name": "電話二維碼生成器",
   "description": "用 Loona 立即建立一個免費的電話二維碼。無需註冊，無水印，永不過期。掃碼立即撥打您的號碼。自定義顏色，高解析度 PNG 下載。",
-  "id": "/loona-qr-codes/zh-hant/phone-qr-code-generator/",
+  "id": "/zh-hant/phone-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

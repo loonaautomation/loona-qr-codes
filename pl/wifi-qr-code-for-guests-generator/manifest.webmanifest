@@ -2,7 +2,7 @@
   "name": "Generator kodów QR WiFi dla gości (dom i kawiarnia) Loona",
   "short_name": "WiFi dla gości (dom i kawiarnia) QR",
   "description": "Utwórz darmowy kod QR WiFi dla gości (dom i kawiarnia) błyskawicznie z Loona. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa. Kolory niestandardowe, pobieranie PNG w wysokiej rozdzielczości.",
-  "id": "/loona-qr-codes/pl/wifi-qr-code-for-guests-generator/",
+  "id": "/pl/wifi-qr-code-for-guests-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

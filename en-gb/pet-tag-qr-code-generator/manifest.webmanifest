@@ -2,7 +2,7 @@
   "name": "Loona Pet ID Tag QR Code Generator",
   "short_name": "Pet ID Tag QR Code Generator",
   "description": "Create a free Pet ID Tag QR code instantly with Loona. No signup, no watermark, never expires. Custom colours, high-resolution PNG download.",
-  "id": "/loona-qr-codes/en-gb/pet-tag-qr-code-generator/",
+  "id": "/en-gb/pet-tag-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

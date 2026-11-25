@@ -2,7 +2,7 @@
   "name": "Loona Restaurant Table Ordering QR Code",
   "short_name": "Restaurant Table Ordering QR",
   "description": "Create a free Restaurant Table Ordering QR code instantly with Loona. No signup, no watermark, never expires. Custom colours, high-resolution PNG download.",
-  "id": "/loona-qr-codes/restaurant-table-ordering-qr-code-generator/",
+  "id": "/restaurant-table-ordering-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

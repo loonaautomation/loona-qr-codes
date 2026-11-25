@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til MeCard-kontakt",
   "short_name": "QR-kode til MeCard-kontakt",
   "description": "Opret en gratis MeCard-kontakt-QR-kode øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/mecard-qr-code-generator/",
+  "id": "/da/mecard-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

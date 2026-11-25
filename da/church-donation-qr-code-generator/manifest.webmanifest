@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator til kirke- og velgørenhedsdonationer",
   "short_name": "Kirke- og velgørenheds-QR",
   "description": "Opret en gratis QR-kode til kirke- og velgørenhedsgivning øjeblikkeligt med Loona. Ingen tilmelding, intet vandmærke, udløber aldrig. Brugertilpassede farver, download af PNG i høj opløsning.",
-  "id": "/loona-qr-codes/da/church-donation-qr-code-generator/",
+  "id": "/da/church-donation-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

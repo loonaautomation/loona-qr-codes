@@ -2,7 +2,7 @@
   "name": "Loona Bitcoin / Kripto QR Kod Oluşturucu",
   "short_name": "Bitcoin / Kripto QR Kodu",
   "description": "Loona ile anında ücretsiz bir Bitcoin / Kripto QR Kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Bir Bitcoin cüzdan adresini QR olarak paylaşın. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/bitcoin-crypto-qr-code-generator/",
+  "id": "/tr/bitcoin-crypto-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

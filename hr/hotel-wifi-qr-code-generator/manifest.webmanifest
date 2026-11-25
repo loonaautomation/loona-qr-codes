@@ -2,7 +2,7 @@
   "name": "Loona QR kod za WiFi za hotele i goste Hotel i goste",
   "short_name": "Hotel i gosti Hotel i gosti",
   "description": "Stvorite besplatni QR kod za WiFi za hotele i goste trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/hotel-wifi-qr-code-generator/",
+  "id": "/hr/hotel-wifi-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Генератор QR-кодов для салонов красоты",
   "short_name": "Генератор QR-кодов для салонов красоты",
   "description": "Создайте бесплатный QR-код салона красоты мгновенно с Loona. Без регистрации, без водяного знака, никогда не истекает. Настраиваемые цвета, скачивание PNG в высоком разрешении.",
-  "id": "/loona-qr-codes/ru/beauty-salon-qr-code-generator/",
+  "id": "/ru/beauty-salon-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

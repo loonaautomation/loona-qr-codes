@@ -2,7 +2,7 @@
   "name": "Loona Spor Salonu ve Fitness QR Kod Oluşturucu",
   "short_name": "Spor Salonu ve Fitness QR Kodu",
   "description": "Loona ile anında ücretsiz bir Spor Salonu ve Fitness QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/gym-fitness-qr-code-generator/",
+  "id": "/tr/gym-fitness-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

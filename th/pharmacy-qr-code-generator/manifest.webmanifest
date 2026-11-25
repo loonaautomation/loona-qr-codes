@@ -2,7 +2,7 @@
   "name": "เครื่องสร้างคิวอาร์โค้ดร้านขายยาของ Loona",
   "short_name": "เครื่องสร้างคิวอาร์โค้ดร้านขายยา",
   "description": "สร้างคิวอาร์โค้ดร้านขายยาฟรีได้ทันทีด้วย Loona ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ ไม่มีวันหมดอายุ สีที่กำหนดเอง ดาวน์โหลด PNG ความละเอียดสูง",
-  "id": "/loona-qr-codes/th/pharmacy-qr-code-generator/",
+  "id": "/th/pharmacy-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

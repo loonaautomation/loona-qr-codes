@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Zelle cha Loona",
   "short_name": "Kizalishaji cha Msimbo wa QR wa Zelle",
   "description": "Tengeneza msimbo wa QR wa Zelle wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/zelle-qr-code-generator/",
+  "id": "/sw/zelle-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

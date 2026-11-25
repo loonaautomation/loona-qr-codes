@@ -2,7 +2,7 @@
   "name": "Loona Ravintolan pöytätilaus-QR-koodi",
   "short_name": "Ravintolan pöytätilaus-QR",
   "description": "Luo ilmainen ravintolan pöytätilauksen QR-koodi heti Loonalla. Ei rekisteröitymistä, ei vesileimaa, ei vanhene koskaan. Mukautetut värit, korkearesoluutioinen PNG-lataus.",
-  "id": "/loona-qr-codes/fi/restaurant-table-ordering-qr-code-generator/",
+  "id": "/fi/restaurant-table-ordering-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

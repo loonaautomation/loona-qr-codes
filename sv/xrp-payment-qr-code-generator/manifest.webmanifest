@@ -2,7 +2,7 @@
   "name": "Loona XRP-betalning-QR-kodgenerator",
   "short_name": "XRP-betalnings-QR-kodgenerator",
   "description": "Skapa direkt en gratis XRP-betalning-QR-kod med Loona. Ingen registrering, ingen vattenstämpel, löper aldrig ut. Anpassade färger, högupplöst PNG-nedladdning.",
-  "id": "/loona-qr-codes/sv/xrp-payment-qr-code-generator/",
+  "id": "/sv/xrp-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

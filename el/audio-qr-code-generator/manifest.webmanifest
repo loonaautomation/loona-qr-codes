@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Ήχου",
   "short_name": "Γεννήτρια Κωδικού QR Ήχου",
   "description": "Δημιουργήστε έναν δωρεάν Κωδικό QR Ήχου αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Σαρώστε για να παίξετε μια φωνητική σημείωση, τραγούδι, podcast ή ηχητικό οδηγό. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/audio-qr-code-generator/",
+  "id": "/el/audio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

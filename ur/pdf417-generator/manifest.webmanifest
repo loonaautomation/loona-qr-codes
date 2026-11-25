@@ -2,7 +2,7 @@
   "name": "Loona PDF417 Barcode Generator",
   "short_name": "PDF417 Barcode Generator",
   "description": "مفت PDF417 بارکوڈ جنریٹر۔ جہاں معیار میں ہوں وہاں درست چیک ہندسے، PNG اور SVG ڈاؤن لوڈ، کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں۔",
-  "id": "/loona-qr-codes/ur/pdf417-generator/",
+  "id": "/ur/pdf417-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

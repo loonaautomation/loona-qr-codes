@@ -2,7 +2,7 @@
   "name": "Loona WhatsApp QR Kod Oluşturucu",
   "short_name": "WhatsApp QR Kod Oluşturucu",
   "description": "Loona ile anında ücretsiz bir WhatsApp QR Kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Numara kaydetmeden, tek taramayla bir WhatsApp sohbeti başlatın. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/whatsapp-qr-code-generator/",
+  "id": "/tr/whatsapp-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

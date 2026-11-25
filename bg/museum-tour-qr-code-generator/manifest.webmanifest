@@ -2,7 +2,7 @@
   "name": "Генератор на QR кодове за музеи и екскурзоводи на Loona",
   "short_name": "QR код за музей и екскурзовод",
   "description": "Създайте безплатен QR код за музей и екскурзовод мигновено с Loona. Без регистрация, без воден знак, никога не изтича. Персонализирани цветове, изтегляне на PNG с висока разделителна способност.",
-  "id": "/loona-qr-codes/bg/museum-tour-qr-code-generator/",
+  "id": "/bg/museum-tour-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

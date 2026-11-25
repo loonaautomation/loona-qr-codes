@@ -2,7 +2,7 @@
   "name": "Loona Codabar-Barcode-Generator",
   "short_name": "Codabar-Barcode-Generator",
   "description": "Kostenloser Codabar-Barcode-Generator. Korrekte Prüfziffern, wo der Standard sie hat, PNG- und SVG-Download, keine Anmeldung, kein Wasserzeichen.",
-  "id": "/loona-qr-codes/de/codabar-barcode-generator/",
+  "id": "/de/codabar-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

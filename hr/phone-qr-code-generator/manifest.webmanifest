@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za telefonski poziv",
   "short_name": "Generator QR kodova za telefonski poziv",
   "description": "Stvorite besplatni QR kod za telefonske pozive trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Skenirajte za trenutačno biranje svog broja. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/phone-qr-code-generator/",
+  "id": "/hr/phone-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

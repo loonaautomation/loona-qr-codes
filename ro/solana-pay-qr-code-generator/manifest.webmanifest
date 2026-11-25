@@ -2,7 +2,7 @@
   "name": "Loona Generator de coduri QR Solana Pay",
   "short_name": "Generator de coduri QR Solana Pay",
   "description": "Creează gratuit un cod QR Solana Pay instantaneu cu Loona. Fără înregistrare, fără filigran, nu expiră niciodată. Culori personalizate, descărcare PNG la rezoluție înaltă.",
-  "id": "/loona-qr-codes/ro/solana-pay-qr-code-generator/",
+  "id": "/ro/solana-pay-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

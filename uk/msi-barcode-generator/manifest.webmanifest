@@ -2,7 +2,7 @@
   "name": "Loona Генератор штрих-кодів MSI Plessey",
   "short_name": "Генератор штрих-кодів MSI Plessey",
   "description": "Безкоштовний генератор штрих-кодів MSI Plessey. Правильні контрольні цифри там, де їх має стандарт, завантаження PNG і SVG, без реєстрації, без водяного знака.",
-  "id": "/loona-qr-codes/uk/msi-barcode-generator/",
+  "id": "/uk/msi-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

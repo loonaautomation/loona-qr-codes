@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona ל-WhatsApp",
   "short_name": "מחולל קוד QR של WhatsApp",
   "description": "צרו קוד QR חינמי של WhatsApp מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. התחילו צ'אט WhatsApp בסריקה אחת, בלי שמירת מספר. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/whatsapp-qr-code-generator/",
+  "id": "/he/whatsapp-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

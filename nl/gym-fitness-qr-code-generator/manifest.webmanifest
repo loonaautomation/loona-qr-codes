@@ -2,7 +2,7 @@
   "name": "Loona sportschool- en fitness-QR-codegenerator",
   "short_name": "Sportschool- en fitness-QR-code",
   "description": "Maak direct een gratis sportschool- en fitness-QR-code aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/gym-fitness-qr-code-generator/",
+  "id": "/nl/gym-fitness-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

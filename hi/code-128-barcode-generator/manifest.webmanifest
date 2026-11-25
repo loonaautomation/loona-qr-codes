@@ -2,7 +2,7 @@
   "name": "Loona Code 128 बारकोड जनरेटर",
   "short_name": "Code 128 बारकोड जनरेटर",
   "description": "मुफ़्त Code 128 बारकोड जनरेटर। जहाँ मानक में जाँच अंक होते हैं वहाँ सही जाँच अंक, PNG और SVG डाउनलोड, कोई साइन-अप नहीं, कोई वॉटरमार्क नहीं।",
-  "id": "/loona-qr-codes/hi/code-128-barcode-generator/",
+  "id": "/hi/code-128-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

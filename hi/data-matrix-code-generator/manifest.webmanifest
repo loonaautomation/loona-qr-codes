@@ -2,7 +2,7 @@
   "name": "Loona Data Matrix बारकोड जनरेटर",
   "short_name": "Data Matrix बारकोड जनरेटर",
   "description": "मुफ़्त Data Matrix बारकोड जनरेटर। जहाँ मानक में जाँच अंक होते हैं वहाँ सही जाँच अंक, PNG और SVG डाउनलोड, कोई साइन-अप नहीं, कोई वॉटरमार्क नहीं।",
-  "id": "/loona-qr-codes/hi/data-matrix-code-generator/",
+  "id": "/hi/data-matrix-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

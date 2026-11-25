@@ -2,7 +2,7 @@
   "name": "Loona Generador de códigos QR para farmacias",
   "short_name": "Generador de códigos QR para farmacias",
   "description": "Crea un código QR para farmacias gratuito al instante con Loona. Sin registro, sin marca de agua, nunca caduca. Colores personalizados, descarga de PNG en alta resolución.",
-  "id": "/loona-qr-codes/es/pharmacy-qr-code-generator/",
+  "id": "/es/pharmacy-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Logolla varustettu QR-koodi -generaattori",
   "short_name": "Logolla varustettu QR-koodi -generaattori",
   "description": "Ilmainen logollinen QR-koodigeneraattori: lisää logosi QR-koodin keskelle virheenkorjaustasolla H, mukautetut värit, 1024px PNG-lataus, ei vesileimaa.",
-  "id": "/loona-qr-codes/fi/qr-code-with-logo-generator/",
+  "id": "/fi/qr-code-with-logo-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

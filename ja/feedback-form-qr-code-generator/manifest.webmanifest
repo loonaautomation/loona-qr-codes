@@ -2,7 +2,7 @@
   "name": "Loona フィードバックフォーム QRコード生成ツール",
   "short_name": "フィードバックフォーム QRコード",
   "description": "Loona で無料のフィードバックフォーム QRコードを即座に作成。登録不要、透かしなし、無期限。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/feedback-form-qr-code-generator/",
+  "id": "/ja/feedback-form-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

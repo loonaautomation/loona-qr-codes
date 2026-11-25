@@ -2,7 +2,7 @@
   "name": "Loona generator QR kodova za životopis / portfelj",
   "short_name": "QR kod za životopis / portfelj",
   "description": "Stvorite besplatni QR kod za životopis / portfelj trenutačno uz Loonu. Bez registracije, bez vodenog žiga, nikada ne istječe. Stavite svoj životopis ili portfelj na jedno skeniranje udaljenosti. Prilagođene boje, preuzimanje PNG-a visoke razlučivosti.",
-  "id": "/loona-qr-codes/hr/resume-portfolio-qr-code-generator/",
+  "id": "/hr/resume-portfolio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

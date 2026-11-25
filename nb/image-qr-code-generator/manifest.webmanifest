@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator for bilde",
   "short_name": "QR-kodegenerator for bilde",
   "description": "Lag en gratis bilde-QR-kode med en gang med Loona. Ingen registrering, ingen vannmerke, utløper aldri. Skann for å åpne et foto, en plakat, et menybilde eller et produktbilde. Tilpassede farger, nedlasting av PNG i høy oppløsning.",
-  "id": "/loona-qr-codes/nb/image-qr-code-generator/",
+  "id": "/nb/image-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

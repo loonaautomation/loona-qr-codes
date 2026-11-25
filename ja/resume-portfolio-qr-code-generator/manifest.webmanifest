@@ -2,7 +2,7 @@
   "name": "Loona 履歴書 / ポートフォリオ QRコード生成ツール",
   "short_name": "履歴書 / ポートフォリオ QRコード",
   "description": "Loona で無料の履歴書 / ポートフォリオ QRコードを即座に作成。登録不要、透かしなし、無期限。履歴書やポートフォリオを一度のスキャンの距離に。カスタムカラー、高解像度 PNG ダウンロード。",
-  "id": "/loona-qr-codes/ja/resume-portfolio-qr-code-generator/",
+  "id": "/ja/resume-portfolio-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

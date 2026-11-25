@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona לכרטיס ביקור",
   "short_name": "קוד QR של כרטיס ביקור",
   "description": "צרו קוד QR חינמי של כרטיס ביקור מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/business-card-qr-code-generator/",
+  "id": "/he/business-card-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

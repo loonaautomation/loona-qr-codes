@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator for sted på Google Maps",
   "short_name": "QR-kode for sted på Google Maps",
   "description": "Lag en gratis Google Maps-steds-QR-kode med en gang med Loona. Ingen registrering, ingen vannmerke, utløper aldri. Skann for å få veibeskrivelse til stedet ditt. Tilpassede farger, nedlasting av PNG i høy oppløsning.",
-  "id": "/loona-qr-codes/nb/google-maps-location-qr-code-generator/",
+  "id": "/nb/google-maps-location-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator for telefonsamtale",
   "short_name": "QR-kodegenerator for telefonsamtale",
   "description": "Lag en gratis QR-kode for telefonsamtale med en gang med Loona. Ingen registrering, ingen vannmerke, utløper aldri. Skann for å ringe nummeret ditt med en gang. Tilpassede farger, nedlasting av PNG i høy oppløsning.",
-  "id": "/loona-qr-codes/nb/phone-qr-code-generator/",
+  "id": "/nb/phone-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

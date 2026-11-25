@@ -2,7 +2,7 @@
   "name": "Loona Baskıya Hazır QR Kod Oluşturucu",
   "short_name": "Baskıya Hazır QR Kod Oluşturucu",
   "description": "Loona ile anında ücretsiz bir Baskıya Hazır QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/qr-code-for-print-generator/",
+  "id": "/tr/qr-code-for-print-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

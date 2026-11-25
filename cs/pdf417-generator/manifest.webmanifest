@@ -2,7 +2,7 @@
   "name": "Generátor čárových kódů PDF417 Loona",
   "short_name": "Generátor čárových kódů PDF417",
   "description": "Bezplatný generátor čárových kódů PDF417. Správné kontrolní číslice tam, kde je standard má, stažení PNG a SVG, bez registrace, bez vodoznaku.",
-  "id": "/loona-qr-codes/cs/pdf417-generator/",
+  "id": "/cs/pdf417-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

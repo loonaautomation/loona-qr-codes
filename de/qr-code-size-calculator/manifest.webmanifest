@@ -2,7 +2,7 @@
   "name": "Loona QR-Code-Größenrechner",
   "short_name": "QR-Code-Größenrechner",
   "description": "Kostenloser QR-Code-Größenrechner: Geben Sie die Scanentfernung und den Inhaltstyp ein, um die Mindestdruckgröße in cm, die empfohlene PNG-Auflösung und die Breite der Ruhezone zu erhalten.",
-  "id": "/loona-qr-codes/de/qr-code-size-calculator/",
+  "id": "/de/qr-code-size-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

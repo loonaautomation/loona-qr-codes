@@ -2,7 +2,7 @@
   "name": "Generator kodów kreskowych Data Matrix Loona",
   "short_name": "Generator kodów kreskowych Data Matrix",
   "description": "Darmowy generator kodów kreskowych Data Matrix. Poprawne cyfry kontrolne tam, gdzie standard je ma, pobieranie PNG i SVG, bez rejestracji, bez znaku wodnego.",
-  "id": "/loona-qr-codes/pl/data-matrix-code-generator/",
+  "id": "/pl/data-matrix-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

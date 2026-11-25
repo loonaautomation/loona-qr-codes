@@ -2,7 +2,7 @@
   "name": "מחולל ברקוד Codabar של Loona",
   "short_name": "מחולל ברקוד Codabar",
   "description": "מחולל ברקוד Codabar חינמי. ספרות ביקורת נכונות היכן שהתקן כולל אותן, הורדת PNG ו-SVG, ללא הרשמה, ללא סימן מים.",
-  "id": "/loona-qr-codes/he/codabar-barcode-generator/",
+  "id": "/he/codabar-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

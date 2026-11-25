@@ -2,7 +2,7 @@
   "name": "Loona gast-WiFi-QR-codegenerator (thuis en café)",
   "short_name": "Gast-WiFi-QR (thuis en café)",
   "description": "Maak direct een gratis gast-WiFi-QR-code (thuis en café) aan met Loona. Geen registratie, geen watermerk, verloopt nooit. Aangepaste kleuren, PNG-download in hoge resolutie.",
-  "id": "/loona-qr-codes/nl/wifi-qr-code-for-guests-generator/",
+  "id": "/nl/wifi-qr-code-for-guests-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

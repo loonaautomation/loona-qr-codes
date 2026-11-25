@@ -2,7 +2,7 @@
   "name": "Loona Generador de códigos QR de pago con Ethereum",
   "short_name": "Código QR de pago con Ethereum",
   "description": "Crea un código QR de pago con Ethereum gratuito al instante con Loona. Sin registro, sin marca de agua, nunca caduca. Colores personalizados, descarga de PNG en alta resolución.",
-  "id": "/loona-qr-codes/es/ethereum-payment-qr-code-generator/",
+  "id": "/es/ethereum-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

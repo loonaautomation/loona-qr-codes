@@ -2,7 +2,7 @@
   "name": "Loona Kartvizit QR Kod Oluşturucu",
   "short_name": "Kartvizit QR Kodu",
   "description": "Loona ile anında ücretsiz bir Kartvizit QR kodu oluşturun. Kayıt yok, filigran yok, asla süresi dolmaz. Özel renkler, yüksek çözünürlüklü PNG indirme.",
-  "id": "/loona-qr-codes/tr/business-card-qr-code-generator/",
+  "id": "/tr/business-card-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

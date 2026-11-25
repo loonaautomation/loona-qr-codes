@@ -2,7 +2,7 @@
   "name": "Loona Large Print QR Code Generator",
   "short_name": "Large Print QR Code Generator",
   "description": "Loona کے ساتھ مفت Large Print QR code فوراً بنائیں۔ کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، کبھی ختم نہیں ہوتا۔ حسبِ پسند رنگ، ہائی ریزولوشن PNG ڈاؤن لوڈ۔",
-  "id": "/loona-qr-codes/ur/large-print-qr-code-generator/",
+  "id": "/ur/large-print-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

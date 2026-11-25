@@ -2,7 +2,7 @@
   "name": "Generator kodów QR biletów na wydarzenia Loona",
   "short_name": "Generator kodów QR biletów na wydarzenia",
   "description": "Utwórz darmowy kod QR biletu na wydarzenie błyskawicznie z Loona. Bez rejestracji, bez znaku wodnego, nigdy nie wygasa. Kolory niestandardowe, pobieranie PNG w wysokiej rozdzielczości.",
-  "id": "/loona-qr-codes/pl/event-ticket-qr-code-generator/",
+  "id": "/pl/event-ticket-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

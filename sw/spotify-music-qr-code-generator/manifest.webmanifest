@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa Spotify / Muziki cha Loona",
   "short_name": "Msimbo wa QR wa Spotify / Muziki",
   "description": "Tengeneza Msimbo wa QR wa Spotify / Muziki wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Changanua ili kucheza wimbo, orodha ya nyimbo au podikasti. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/spotify-music-qr-code-generator/",
+  "id": "/sw/spotify-music-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

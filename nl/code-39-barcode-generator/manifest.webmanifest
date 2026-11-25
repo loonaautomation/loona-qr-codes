@@ -2,7 +2,7 @@
   "name": "Loona Code 39-barcodegenerator",
   "short_name": "Code 39-barcodegenerator",
   "description": "Gratis Code 39-barcodegenerator. Juiste controlecijfers waar de standaard ze heeft, PNG- en SVG-download, geen registratie, geen watermerk.",
-  "id": "/loona-qr-codes/nl/code-39-barcode-generator/",
+  "id": "/nl/code-39-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

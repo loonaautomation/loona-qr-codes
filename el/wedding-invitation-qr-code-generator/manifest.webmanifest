@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Προσκλητηρίου Γάμου",
   "short_name": "Κωδικός QR Προσκλητηρίου Γάμου",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Πρόσκλησης Γάμου αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/wedding-invitation-qr-code-generator/",
+  "id": "/el/wedding-invitation-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

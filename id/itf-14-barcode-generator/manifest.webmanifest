@@ -2,7 +2,7 @@
   "name": "Generator Kode Batang ITF-14 Loona",
   "short_name": "Generator Kode Batang ITF-14",
   "description": "Generator kode batang ITF-14 gratis. Digit pemeriksa yang benar di tempat standar memilikinya, unduhan PNG dan SVG, tanpa pendaftaran, tanpa watermark.",
-  "id": "/loona-qr-codes/id/itf-14-barcode-generator/",
+  "id": "/id/itf-14-barcode-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

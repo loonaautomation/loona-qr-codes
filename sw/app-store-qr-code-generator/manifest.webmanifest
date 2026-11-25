@@ -2,7 +2,7 @@
   "name": "Kizalishaji cha Msimbo wa QR wa App Store / Google Play cha Loona",
   "short_name": "QR ya App Store / Google Play",
   "description": "Tengeneza Msimbo wa QR wa App Store / Google Play wa bure papo hapo kwa Loona. Hakuna kujisajili, hakuna alama ya maji, hauishi muda kamwe. Changanua ili kusakinisha programu yako. Rangi maalum, upakuaji wa PNG wa ubora wa juu.",
-  "id": "/loona-qr-codes/sw/app-store-qr-code-generator/",
+  "id": "/sw/app-store-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

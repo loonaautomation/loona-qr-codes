@@ -2,7 +2,7 @@
   "name": "Kalkulator rozmiaru kodu QR Loona",
   "short_name": "Kalkulator rozmiaru kodu QR",
   "description": "Darmowy kalkulator rozmiaru kodu QR: wpisz odległość skanowania i typ zawartości, aby otrzymać minimalny rozmiar druku w cm, zalecaną rozdzielczość PNG i szerokość strefy ciszy.",
-  "id": "/loona-qr-codes/pl/qr-code-size-calculator/",
+  "id": "/pl/qr-code-size-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

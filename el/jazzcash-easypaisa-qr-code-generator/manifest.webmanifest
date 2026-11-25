@@ -2,7 +2,7 @@
   "name": "Loona — Κωδικός QR JazzCash / EasyPaisa (Πακιστάν)",
   "short_name": "Κωδικός QR JazzCash / EasyPaisa",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR JazzCash ή EasyPaisa για το Πακιστάν — χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα και λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/jazzcash-easypaisa-qr-code-generator/",
+  "id": "/el/jazzcash-easypaisa-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

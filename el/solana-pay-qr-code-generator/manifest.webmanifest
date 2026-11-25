@@ -2,7 +2,7 @@
   "name": "Loona — Γεννήτρια Κωδικού QR Solana Pay",
   "short_name": "Γεννήτρια Κωδικού QR Solana Pay",
   "description": "Δημιουργήστε έναν δωρεάν κωδικό QR Solana Pay αμέσως με τη Loona. Χωρίς εγγραφή, χωρίς υδατογράφημα, δεν λήγει ποτέ. Προσαρμοσμένα χρώματα, λήψη PNG υψηλής ανάλυσης.",
-  "id": "/loona-qr-codes/el/solana-pay-qr-code-generator/",
+  "id": "/el/solana-pay-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

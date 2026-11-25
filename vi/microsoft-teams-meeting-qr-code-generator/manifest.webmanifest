@@ -2,7 +2,7 @@
   "name": "Trình tạo mã QR Cuộc họp Microsoft Teams Loona",
   "short_name": "Mã QR Cuộc họp Microsoft Teams",
   "description": "Tạo mã QR Cuộc họp Microsoft Teams miễn phí ngay lập tức với Loona. Không đăng ký, không hình mờ, không bao giờ hết hạn. Màu tùy chỉnh, tải xuống PNG độ phân giải cao.",
-  "id": "/loona-qr-codes/vi/microsoft-teams-meeting-qr-code-generator/",
+  "id": "/vi/microsoft-teams-meeting-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

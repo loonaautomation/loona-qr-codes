@@ -2,7 +2,7 @@
   "name": "מחולל קוד QR של Loona ל-Cash App",
   "short_name": "מחולל קוד QR של Cash App",
   "description": "צרו קוד QR חינמי של Cash App מיד עם Loona. ללא הרשמה, ללא סימן מים, לעולם אינו פג. צבעים מותאמים אישית, הורדת PNG ברזולוציה גבוהה.",
-  "id": "/loona-qr-codes/he/cash-app-qr-code-generator/",
+  "id": "/he/cash-app-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

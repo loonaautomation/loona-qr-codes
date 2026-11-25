@@ -2,7 +2,7 @@
   "name": "Loona QR-kodegenerator for museum og turguide",
   "short_name": "QR-kode for museum og turguide",
   "description": "Lag en gratis QR-kode for museum og turguide med en gang med Loona. Ingen registrering, ingen vannmerke, utløper aldri. Tilpassede farger, nedlasting av PNG i høy oppløsning.",
-  "id": "/loona-qr-codes/nb/museum-tour-qr-code-generator/",
+  "id": "/nb/museum-tour-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

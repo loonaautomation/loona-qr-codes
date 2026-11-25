@@ -2,7 +2,7 @@
   "name": "Penjana Kod QR Bayaran Tempat Letak Kereta Loona",
   "short_name": "Kod QR Bayaran Tempat Letak Kereta",
   "description": "Cipta kod Bayaran Tempat Letak Kereta percuma serta-merta dengan Loona. Tiada pendaftaran, tiada tera air, tidak pernah luput. Warna tersuai, muat turun PNG resolusi tinggi.",
-  "id": "/loona-qr-codes/ms/parking-payment-qr-code-generator/",
+  "id": "/ms/parking-payment-qr-code-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
