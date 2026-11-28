@@ -52,6 +52,7 @@
 <p>Put the code exactly where the decision is made — on the table, the counter, the packaging, the invitation or the screen — and give people one short line of instruction such as “Scan to open” or “Scan to pay”. Print codes at least 2 cm wide with a quiet white border and strong contrast so older phone cameras read them quickly; for posters scanned from a distance, use the 1024 px size and print bigger — a good guide is roughly one tenth of the scanning distance.</p>
 <h2>How it works</h2>
 <p>The payload is ethereum:ADDRESS?value=WEI — your ETH amount is converted to wei exactly (string arithmetic, no floating-point rounding), which is the unit EIP-681 wallets expect.</p>
+<p>Receiving Bitcoin instead? Use the <a href="../bitcoin-crypto-qr-code-generator/">Bitcoin / Crypto QR Code Generator</a> — it builds the matching bitcoin: (BIP21) payment code for BTC wallet addresses, with an optional amount and label.</p>
 <h3>Worked example</h3>
 <p>A designer invoices 0.05 ETH. The code encodes ethereum:0x…?value=50000000000000000; the client’s wallet opens with the amount pre-filled and pays in two taps.</p>
 <h2>Frequently Asked Questions</h2>
